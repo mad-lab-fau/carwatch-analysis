@@ -1,0 +1,955 @@
+condition,subject,chronotype,night,within_ideal_bed_time,wakeup_source,date,weekend,wakeup_hour,biomarker,cortisol
+Known Alarm,AB19E,Intermediate,1,False,Alarm,2019-11-19,Weekday,8,cortisol_auc_g,1136.85
+Known Alarm,AB19E,Intermediate,1,False,Alarm,2019-11-19,Weekday,8,cortisol_auc_i,880.6499999999999
+Known Alarm,AB19E,Intermediate,1,False,Alarm,2019-11-19,Weekday,8,cortisol_max_inc,21.7
+Known Alarm,AB19E,Intermediate,1,False,Alarm,2019-11-19,Weekday,8,cortisol_slope03,0.44422222222222224
+Known Alarm,AB19E,Intermediate,1,False,Alarm,2019-11-19,Weekday,8,cortisol_slope04,0.21433333333333332
+Known Alarm,AB19E,Intermediate,1,False,Alarm,2019-11-19,Weekday,8,cortisol_cini,4.27
+Known Alarm,AB31R,Intermediate,1,False,Alarm,2020-01-09,Weekday,5,cortisol_auc_g,1427.28
+Known Alarm,AB31R,Intermediate,1,False,Alarm,2020-01-09,Weekday,5,cortisol_auc_i,415.8299999999999
+Known Alarm,AB31R,Intermediate,1,False,Alarm,2020-01-09,Weekday,5,cortisol_max_inc,10.370000000000001
+Known Alarm,AB31R,Intermediate,1,False,Alarm,2020-01-09,Weekday,5,cortisol_slope03,0.25925000000000004
+Known Alarm,AB31R,Intermediate,1,False,Alarm,2020-01-09,Weekday,5,cortisol_slope04,0.07363636363636365
+Known Alarm,AB31R,Intermediate,1,False,Alarm,2020-01-09,Weekday,5,cortisol_cini,18.39
+Known Alarm,AC12E,Intermediate,0,False,Alarm,2019-11-18,Weekday,7,cortisol_auc_g,751.9499999999999
+Known Alarm,AC12E,Intermediate,0,False,Alarm,2019-11-18,Weekday,7,cortisol_auc_i,402.25
+Known Alarm,AC12E,Intermediate,0,False,Alarm,2019-11-18,Weekday,7,cortisol_max_inc,9.05
+Known Alarm,AC12E,Intermediate,0,False,Alarm,2019-11-18,Weekday,7,cortisol_slope03,0.18866666666666662
+Known Alarm,AC12E,Intermediate,0,False,Alarm,2019-11-18,Weekday,7,cortisol_slope04,0.10446153846153847
+Known Alarm,AC12E,Intermediate,0,False,Alarm,2019-11-18,Weekday,7,cortisol_cini,5.38
+Known Alarm,AC12E,Intermediate,1,True,Alarm,2019-11-19,Weekday,7,cortisol_auc_g,940.895
+Known Alarm,AC12E,Intermediate,1,True,Alarm,2019-11-19,Weekday,7,cortisol_auc_i,443.74499999999995
+Known Alarm,AC12E,Intermediate,1,True,Alarm,2019-11-19,Weekday,7,cortisol_max_inc,11.67
+Known Alarm,AC12E,Intermediate,1,True,Alarm,2019-11-19,Weekday,7,cortisol_slope03,0.25369565217391304
+Known Alarm,AC12E,Intermediate,1,True,Alarm,2019-11-19,Weekday,7,cortisol_slope04,0.12688524590163935
+Known Alarm,AC12E,Intermediate,1,True,Alarm,2019-11-19,Weekday,7,cortisol_cini,8.15
+Known Alarm,AH10Y,Evening,0,False,Alarm,2019-11-25,Weekday,7,cortisol_auc_g,1537.315
+Known Alarm,AH10Y,Evening,0,False,Alarm,2019-11-25,Weekday,7,cortisol_auc_i,576.9350000000001
+Known Alarm,AH10Y,Evening,0,False,Alarm,2019-11-25,Weekday,7,cortisol_max_inc,16.79
+Known Alarm,AH10Y,Evening,0,False,Alarm,2019-11-25,Weekday,7,cortisol_slope03,0.10369565217391308
+Known Alarm,AH10Y,Evening,0,False,Alarm,2019-11-25,Weekday,7,cortisol_slope04,0.016774193548387113
+Known Alarm,AH10Y,Evening,0,False,Alarm,2019-11-25,Weekday,7,cortisol_cini,15.49
+Known Alarm,AH10Y,Evening,1,False,Alarm,2019-11-26,Weekday,5,cortisol_auc_g,1718.6299999999997
+Known Alarm,AH10Y,Evening,1,False,Alarm,2019-11-26,Weekday,5,cortisol_auc_i,1393.1299999999997
+Known Alarm,AH10Y,Evening,1,False,Alarm,2019-11-26,Weekday,5,cortisol_max_inc,37.37
+Known Alarm,AH10Y,Evening,1,False,Alarm,2019-11-26,Weekday,5,cortisol_slope03,0.7502173913043478
+Known Alarm,AH10Y,Evening,1,False,Alarm,2019-11-26,Weekday,5,cortisol_slope04,0.6027419354838709
+Known Alarm,AH10Y,Evening,1,False,Alarm,2019-11-26,Weekday,5,cortisol_cini,5.25
+Known Alarm,AM21H,Intermediate,1,False,Alarm,2019-11-23,Weekend,12,cortisol_auc_g,343.125
+Known Alarm,AM21H,Intermediate,1,False,Alarm,2019-11-23,Weekend,12,cortisol_auc_i,-85.27499999999998
+Known Alarm,AM21H,Intermediate,1,False,Alarm,2019-11-23,Weekend,12,cortisol_max_inc,-1.2399999999999993
+Known Alarm,AM21H,Intermediate,1,False,Alarm,2019-11-23,Weekend,12,cortisol_slope03,-0.039999999999999994
+Known Alarm,AM21H,Intermediate,1,False,Alarm,2019-11-23,Weekend,12,cortisol_slope04,-0.022166666666666668
+Known Alarm,AM21H,Intermediate,1,False,Alarm,2019-11-23,Weekend,12,cortisol_cini,7.14
+Known Alarm,BU07E,Evening,0,False,Alarm,2019-12-06,Weekday,6,cortisol_auc_g,129.025
+Known Alarm,BU07E,Evening,0,False,Alarm,2019-12-06,Weekday,6,cortisol_auc_i,-125.345
+Known Alarm,BU07E,Evening,0,False,Alarm,2019-12-06,Weekday,6,cortisol_max_inc,-1.8399999999999999
+Known Alarm,BU07E,Evening,0,False,Alarm,2019-12-06,Weekday,6,cortisol_slope03,-0.05255319148936169
+Known Alarm,BU07E,Evening,0,False,Alarm,2019-12-06,Weekday,6,cortisol_slope04,-0.04377049180327868
+Known Alarm,BU07E,Evening,0,False,Alarm,2019-12-06,Weekday,6,cortisol_cini,4.17
+Known Alarm,CE10B,Evening,0,False,Alarm,2019-11-12,Weekday,4,cortisol_auc_g,756.370575
+Known Alarm,CE10B,Evening,0,False,Alarm,2019-11-12,Weekday,4,cortisol_auc_i,278.5272749999999
+Known Alarm,CE10B,Evening,0,False,Alarm,2019-11-12,Weekday,4,cortisol_max_inc,7.819849999999999
+Known Alarm,CE10B,Evening,0,False,Alarm,2019-11-12,Weekday,4,cortisol_slope03,0.036756521739130424
+Known Alarm,CE10B,Evening,0,False,Alarm,2019-11-12,Weekday,4,cortisol_slope04,0.049287903225806444
+Known Alarm,CE10B,Evening,0,False,Alarm,2019-11-12,Weekday,4,cortisol_cini,7.70715
+Known Alarm,CT29K,Intermediate,0,False,Alarm,2019-11-14,Weekday,9,cortisol_auc_g,701.7200000000001
+Known Alarm,CT29K,Intermediate,0,False,Alarm,2019-11-14,Weekday,9,cortisol_auc_i,-280.43
+Known Alarm,CT29K,Intermediate,0,False,Alarm,2019-11-14,Weekday,9,cortisol_max_inc,-1.6899999999999995
+Known Alarm,CT29K,Intermediate,0,False,Alarm,2019-11-14,Weekday,9,cortisol_slope03,-0.17
+Known Alarm,CT29K,Intermediate,0,False,Alarm,2019-11-14,Weekday,9,cortisol_slope04,-0.12553846153846154
+Known Alarm,CT29K,Intermediate,0,False,Alarm,2019-11-14,Weekday,9,cortisol_cini,15.11
+Known Alarm,CT29K,Intermediate,1,False,Alarm,2019-11-15,Weekday,8,cortisol_auc_g,1117.1949999999997
+Known Alarm,CT29K,Intermediate,1,False,Alarm,2019-11-15,Weekday,8,cortisol_auc_i,725.995
+Known Alarm,CT29K,Intermediate,1,False,Alarm,2019-11-15,Weekday,8,cortisol_max_inc,14.79
+Known Alarm,CT29K,Intermediate,1,False,Alarm,2019-11-15,Weekday,8,cortisol_slope03,0.32066666666666666
+Known Alarm,CT29K,Intermediate,1,False,Alarm,2019-11-15,Weekday,8,cortisol_slope04,0.15916666666666668
+Known Alarm,CT29K,Intermediate,1,False,Alarm,2019-11-15,Weekday,8,cortisol_cini,6.52
+Known Alarm,CU27R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_g,642.75
+Known Alarm,CU27R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_i,256.95000000000005
+Known Alarm,CU27R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_max_inc,7.41
+Known Alarm,CU27R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope03,0.16466666666666668
+Known Alarm,CU27R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope04,0.08433333333333334
+Known Alarm,CU27R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_cini,6.43
+Known Alarm,DK11R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_auc_g,751.6500000000001
+Known Alarm,DK11R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_auc_i,552.45
+Known Alarm,DK11R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_max_inc,16.16
+Known Alarm,DK11R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_slope03,0.2793333333333333
+Known Alarm,DK11R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_slope04,0.2693333333333333
+Known Alarm,DK11R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_cini,3.32
+Known Alarm,EG25R,Evening,0,False,Alarm,2019-12-13,Weekday,5,cortisol_auc_g,929.86
+Known Alarm,EG25R,Evening,0,False,Alarm,2019-12-13,Weekday,5,cortisol_auc_i,287.86
+Known Alarm,EG25R,Evening,0,False,Alarm,2019-12-13,Weekday,5,cortisol_max_inc,8.11
+Known Alarm,EG25R,Evening,0,False,Alarm,2019-12-13,Weekday,5,cortisol_slope03,0.17630434782608692
+Known Alarm,EG25R,Evening,0,False,Alarm,2019-12-13,Weekday,5,cortisol_slope04,0.10149999999999998
+Known Alarm,EG25R,Evening,0,False,Alarm,2019-12-13,Weekday,5,cortisol_cini,10.7
+Known Alarm,FA12L,Intermediate,1,False,Alarm,2020-01-07,Weekday,6,cortisol_auc_g,510.9
+Known Alarm,FA12L,Intermediate,1,False,Alarm,2020-01-07,Weekday,6,cortisol_auc_i,252.9
+Known Alarm,FA12L,Intermediate,1,False,Alarm,2020-01-07,Weekday,6,cortisol_max_inc,11.059999999999999
+Known Alarm,FA12L,Intermediate,1,False,Alarm,2020-01-07,Weekday,6,cortisol_slope03,0.11977777777777777
+Known Alarm,FA12L,Intermediate,1,False,Alarm,2020-01-07,Weekday,6,cortisol_slope04,0.18433333333333332
+Known Alarm,FA12L,Intermediate,1,False,Alarm,2020-01-07,Weekday,6,cortisol_cini,4.3
+Known Alarm,FK22R,Intermediate,0,False,Alarm,2019-11-26,Weekday,7,cortisol_auc_g,903.71
+Known Alarm,FK22R,Intermediate,0,False,Alarm,2019-11-26,Weekday,7,cortisol_auc_i,270.68999999999994
+Known Alarm,FK22R,Intermediate,0,False,Alarm,2019-11-26,Weekday,7,cortisol_max_inc,6.629999999999999
+Known Alarm,FK22R,Intermediate,0,False,Alarm,2019-11-26,Weekday,7,cortisol_slope03,0.1410869565217391
+Known Alarm,FK22R,Intermediate,0,False,Alarm,2019-11-26,Weekday,7,cortisol_slope04,0.10693548387096773
+Known Alarm,FK22R,Intermediate,0,False,Alarm,2019-11-26,Weekday,7,cortisol_cini,10.21
+Known Alarm,II08L,Intermediate,0,False,Alarm,2019-12-03,Weekday,5,cortisol_auc_g,502.62999999999994
+Known Alarm,II08L,Intermediate,0,False,Alarm,2019-12-03,Weekday,5,cortisol_auc_i,333.04999999999995
+Known Alarm,II08L,Intermediate,0,False,Alarm,2019-12-03,Weekday,5,cortisol_max_inc,9.91
+Known Alarm,II08L,Intermediate,0,False,Alarm,2019-12-03,Weekday,5,cortisol_slope03,0.21543478260869567
+Known Alarm,II08L,Intermediate,0,False,Alarm,2019-12-03,Weekday,5,cortisol_slope04,0.1380327868852459
+Known Alarm,II08L,Intermediate,0,False,Alarm,2019-12-03,Weekday,5,cortisol_cini,2.78
+Known Alarm,II08L,Intermediate,1,False,Alarm,2019-12-04,Weekday,5,cortisol_auc_g,635.3249999999999
+Known Alarm,II08L,Intermediate,1,False,Alarm,2019-12-04,Weekday,5,cortisol_auc_i,571.125
+Known Alarm,II08L,Intermediate,1,False,Alarm,2019-12-04,Weekday,5,cortisol_max_inc,15.25
+Known Alarm,II08L,Intermediate,1,False,Alarm,2019-12-04,Weekday,5,cortisol_slope03,0.3388888888888889
+Known Alarm,II08L,Intermediate,1,False,Alarm,2019-12-04,Weekday,5,cortisol_slope04,0.23883333333333334
+Known Alarm,II08L,Intermediate,1,False,Alarm,2019-12-04,Weekday,5,cortisol_cini,1.07
+Known Alarm,JC05N,Evening,1,False,Alarm,2019-12-17,Weekday,6,cortisol_auc_g,774.72
+Known Alarm,JC05N,Evening,1,False,Alarm,2019-12-17,Weekday,6,cortisol_auc_i,291.59999999999997
+Known Alarm,JC05N,Evening,1,False,Alarm,2019-12-17,Weekday,6,cortisol_max_inc,8.12
+Known Alarm,JC05N,Evening,1,False,Alarm,2019-12-17,Weekday,6,cortisol_slope03,0.125
+Known Alarm,JC05N,Evening,1,False,Alarm,2019-12-17,Weekday,6,cortisol_slope04,0.03524590163934427
+Known Alarm,JC05N,Evening,1,False,Alarm,2019-12-17,Weekday,6,cortisol_cini,7.92
+Known Alarm,JE03S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_auc_g,715.31
+Known Alarm,JE03S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_auc_i,94.89
+Known Alarm,JE03S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_max_inc,2.960000000000001
+Known Alarm,JE03S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_slope03,0.04359999999999999
+Known Alarm,JE03S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_slope04,-0.005373134328358201
+Known Alarm,JE03S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_cini,9.26
+Known Alarm,JE03S,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_g,641.4850000000001
+Known Alarm,JE03S,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_i,362.09500000000014
+Known Alarm,JE03S,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_max_inc,9.25
+Known Alarm,JE03S,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope03,0.17083333333333328
+Known Alarm,JE03S,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope04,0.1380597014925373
+Known Alarm,JE03S,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_cini,4.17
+Known Alarm,JK12R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_auc_g,290.325
+Known Alarm,JK12R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_auc_i,166.125
+Known Alarm,JK12R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_max_inc,7.59
+Known Alarm,JK12R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_slope03,0.11200000000000002
+Known Alarm,JK12R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_slope04,0.1265
+Known Alarm,JK12R,Intermediate,1,False,Alarm,2019-12-18,Weekday,6,cortisol_cini,2.07
+Known Alarm,JU01F,Evening,0,False,Alarm,2019-12-13,Weekday,7,cortisol_auc_g,865.7600000000002
+Known Alarm,JU01F,Evening,0,False,Alarm,2019-12-13,Weekday,7,cortisol_auc_i,337.1200000000001
+Known Alarm,JU01F,Evening,0,False,Alarm,2019-12-13,Weekday,7,cortisol_max_inc,7.540000000000001
+Known Alarm,JU01F,Evening,0,False,Alarm,2019-12-13,Weekday,7,cortisol_slope03,0.1570833333333333
+Known Alarm,JU01F,Evening,0,False,Alarm,2019-12-13,Weekday,7,cortisol_slope04,0.10437499999999997
+Known Alarm,JU01F,Evening,0,False,Alarm,2019-12-13,Weekday,7,cortisol_cini,8.26
+Known Alarm,KB16K,Evening,0,False,Alarm,2020-01-06,Weekday,8,cortisol_auc_g,450.75
+Known Alarm,KB16K,Evening,0,False,Alarm,2020-01-06,Weekday,8,cortisol_auc_i,-344.84999999999997
+Known Alarm,KB16K,Evening,0,False,Alarm,2020-01-06,Weekday,8,cortisol_max_inc,-3.039999999999999
+Known Alarm,KB16K,Evening,0,False,Alarm,2020-01-06,Weekday,8,cortisol_slope03,-0.1948888888888889
+Known Alarm,KB16K,Evening,0,False,Alarm,2020-01-06,Weekday,8,cortisol_slope04,-0.145
+Known Alarm,KB16K,Evening,0,False,Alarm,2020-01-06,Weekday,8,cortisol_cini,13.26
+Known Alarm,KD16N,Evening,0,False,Alarm,2019-12-05,Weekday,8,cortisol_auc_g,529.3
+Known Alarm,KD16N,Evening,0,False,Alarm,2019-12-05,Weekday,8,cortisol_auc_i,-94.12000000000002
+Known Alarm,KD16N,Evening,0,False,Alarm,2019-12-05,Weekday,8,cortisol_max_inc,-0.2900000000000009
+Known Alarm,KD16N,Evening,0,False,Alarm,2019-12-05,Weekday,8,cortisol_slope03,-0.0691304347826087
+Known Alarm,KD16N,Evening,0,False,Alarm,2019-12-05,Weekday,8,cortisol_slope04,-0.061803278688524595
+Known Alarm,KD16N,Evening,0,False,Alarm,2019-12-05,Weekday,8,cortisol_cini,10.22
+Known Alarm,KE17E,Evening,0,False,Alarm,2019-11-22,Weekday,8,cortisol_auc_g,524.85
+Known Alarm,KE17E,Evening,0,False,Alarm,2019-11-22,Weekday,8,cortisol_auc_i,34.65
+Known Alarm,KE17E,Evening,0,False,Alarm,2019-11-22,Weekday,8,cortisol_max_inc,2.1099999999999994
+Known Alarm,KE17E,Evening,0,False,Alarm,2019-11-22,Weekday,8,cortisol_slope03,0.0002222222222222175
+Known Alarm,KE17E,Evening,0,False,Alarm,2019-11-22,Weekday,8,cortisol_slope04,-0.023333333333333338
+Known Alarm,KE17E,Evening,0,False,Alarm,2019-11-22,Weekday,8,cortisol_cini,8.17
+Known Alarm,KU08D,Intermediate,0,False,Alarm,2020-01-08,Weekday,7,cortisol_auc_g,350.175
+Known Alarm,KU08D,Intermediate,0,False,Alarm,2020-01-08,Weekday,7,cortisol_auc_i,124.57500000000002
+Known Alarm,KU08D,Intermediate,0,False,Alarm,2020-01-08,Weekday,7,cortisol_max_inc,3.42
+Known Alarm,KU08D,Intermediate,0,False,Alarm,2020-01-08,Weekday,7,cortisol_slope03,0.076
+Known Alarm,KU08D,Intermediate,0,False,Alarm,2020-01-08,Weekday,7,cortisol_slope04,0.05383333333333334
+Known Alarm,KU08D,Intermediate,0,False,Alarm,2020-01-08,Weekday,7,cortisol_cini,3.76
+Known Alarm,LA23T,Intermediate,0,False,Alarm,2019-12-06,Weekday,7,cortisol_auc_g,593.5750000000002
+Known Alarm,LA23T,Intermediate,0,False,Alarm,2019-12-06,Weekday,7,cortisol_auc_i,213.05500000000006
+Known Alarm,LA23T,Intermediate,0,False,Alarm,2019-12-06,Weekday,7,cortisol_max_inc,5.56
+Known Alarm,LA23T,Intermediate,0,False,Alarm,2019-12-06,Weekday,7,cortisol_slope03,0.055208333333333304
+Known Alarm,LA23T,Intermediate,0,False,Alarm,2019-12-06,Weekday,7,cortisol_slope04,0.0006349206349206354
+Known Alarm,LA23T,Intermediate,0,False,Alarm,2019-12-06,Weekday,7,cortisol_cini,6.04
+Known Alarm,LB21E,Intermediate,0,False,Alarm,2019-11-12,Weekday,9,cortisol_auc_g,865.90845
+Known Alarm,LB21E,Intermediate,0,False,Alarm,2019-11-12,Weekday,9,cortisol_auc_i,423.1024500000001
+Known Alarm,LB21E,Intermediate,0,False,Alarm,2019-11-12,Weekday,9,cortisol_max_inc,10.8354
+Known Alarm,LB21E,Intermediate,0,False,Alarm,2019-11-12,Weekday,9,cortisol_slope03,0.11830888888888891
+Known Alarm,LB21E,Intermediate,0,False,Alarm,2019-11-12,Weekday,9,cortisol_slope04,0.18011500000000005
+Known Alarm,LB21E,Intermediate,0,False,Alarm,2019-11-12,Weekday,9,cortisol_cini,7.3801
+Known Alarm,LP25R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_auc_g,1027.2200000000003
+Known Alarm,LP25R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_auc_i,92.66000000000003
+Known Alarm,LP25R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_max_inc,5.739999999999998
+Known Alarm,LP25R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_slope03,-0.01612244897959185
+Known Alarm,LP25R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_slope04,-0.08636363636363634
+Known Alarm,LP25R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_cini,14.16
+Known Alarm,LS13L,Intermediate,1,False,Alarm,2019-11-29,Weekday,10,cortisol_auc_g,521.475
+Known Alarm,LS13L,Intermediate,1,False,Alarm,2019-11-29,Weekday,10,cortisol_auc_i,102.07500000000002
+Known Alarm,LS13L,Intermediate,1,False,Alarm,2019-11-29,Weekday,10,cortisol_max_inc,2.5600000000000005
+Known Alarm,LS13L,Intermediate,1,False,Alarm,2019-11-29,Weekday,10,cortisol_slope03,0.0568888888888889
+Known Alarm,LS13L,Intermediate,1,False,Alarm,2019-11-29,Weekday,10,cortisol_slope04,0.0031666666666666583
+Known Alarm,LS13L,Intermediate,1,False,Alarm,2019-11-29,Weekday,10,cortisol_cini,6.99
+Known Alarm,ME06K,Intermediate,1,False,Alarm,2019-11-30,Weekend,9,cortisol_auc_g,735.1500000000001
+Known Alarm,ME06K,Intermediate,1,False,Alarm,2019-11-30,Weekend,9,cortisol_auc_i,354.25
+Known Alarm,ME06K,Intermediate,1,False,Alarm,2019-11-30,Weekend,9,cortisol_max_inc,7.749999999999999
+Known Alarm,ME06K,Intermediate,1,False,Alarm,2019-11-30,Weekend,9,cortisol_slope03,0.16489361702127656
+Known Alarm,ME06K,Intermediate,1,False,Alarm,2019-11-30,Weekend,9,cortisol_slope04,0.032615384615384616
+Known Alarm,ME06K,Intermediate,1,False,Alarm,2019-11-30,Weekend,9,cortisol_cini,5.86
+Known Alarm,MG08K,Morning,0,True,Alarm,2019-11-14,Weekday,8,cortisol_auc_g,334.23000000000013
+Known Alarm,MG08K,Morning,0,True,Alarm,2019-11-14,Weekday,8,cortisol_auc_i,-97.13000000000004
+Known Alarm,MG08K,Morning,0,True,Alarm,2019-11-14,Weekday,8,cortisol_max_inc,-0.9400000000000004
+Known Alarm,MG08K,Morning,0,True,Alarm,2019-11-14,Weekday,8,cortisol_slope03,-0.048297872340425534
+Known Alarm,MG08K,Morning,0,True,Alarm,2019-11-14,Weekday,8,cortisol_slope04,-0.043593749999999994
+Known Alarm,MG08K,Morning,0,True,Alarm,2019-11-14,Weekday,8,cortisol_cini,6.74
+Known Alarm,MG08K,Morning,1,True,Alarm,2019-11-15,Weekday,8,cortisol_auc_g,454.905
+Known Alarm,MG08K,Morning,1,True,Alarm,2019-11-15,Weekday,8,cortisol_auc_i,93.94500000000002
+Known Alarm,MG08K,Morning,1,True,Alarm,2019-11-15,Weekday,8,cortisol_max_inc,2.9400000000000004
+Known Alarm,MG08K,Morning,1,True,Alarm,2019-11-15,Weekday,8,cortisol_slope03,0.026250000000000013
+Known Alarm,MG08K,Morning,1,True,Alarm,2019-11-15,Weekday,8,cortisol_slope04,0.005156250000000001
+Known Alarm,MG08K,Morning,1,True,Alarm,2019-11-15,Weekday,8,cortisol_cini,5.64
+Known Alarm,NM11M,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,9,cortisol_auc_g,706.035
+Known Alarm,NM11M,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,9,cortisol_auc_i,116.43499999999996
+Known Alarm,NM11M,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,9,cortisol_max_inc,6.969999999999999
+Known Alarm,NM11M,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,9,cortisol_slope03,-0.018039215686274524
+Known Alarm,NM11M,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,9,cortisol_slope04,-0.02014925373134329
+Known Alarm,NM11M,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,9,cortisol_cini,8.8
+Known Alarm,NM11M,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_g,272.31500000000005
+Known Alarm,NM11M,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_i,163.76500000000001
+Known Alarm,NM11M,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_max_inc,6.17
+Known Alarm,NM11M,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope03,0.07244897959183672
+Known Alarm,NM11M,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope04,0.0949230769230769
+Known Alarm,NM11M,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_cini,1.67
+Known Alarm,OB20R,Intermediate,1,False,Alarm,2019-11-27,Weekday,6,cortisol_auc_g,928.5
+Known Alarm,OB20R,Intermediate,1,False,Alarm,2019-11-27,Weekday,6,cortisol_auc_i,435.29999999999995
+Known Alarm,OB20R,Intermediate,1,False,Alarm,2019-11-27,Weekday,6,cortisol_max_inc,11.56
+Known Alarm,OB20R,Intermediate,1,False,Alarm,2019-11-27,Weekday,6,cortisol_slope03,0.2568888888888889
+Known Alarm,OB20R,Intermediate,1,False,Alarm,2019-11-27,Weekday,6,cortisol_slope04,0.08499999999999999
+Known Alarm,OB20R,Intermediate,1,False,Alarm,2019-11-27,Weekday,6,cortisol_cini,8.22
+Known Alarm,PA13R,Intermediate,0,False,Alarm,2019-11-12,Weekday,7,cortisol_auc_g,824.5500000000001
+Known Alarm,PA13R,Intermediate,0,False,Alarm,2019-11-12,Weekday,7,cortisol_auc_i,304.35
+Known Alarm,PA13R,Intermediate,0,False,Alarm,2019-11-12,Weekday,7,cortisol_max_inc,9.459999999999999
+Known Alarm,PA13R,Intermediate,0,False,Alarm,2019-11-12,Weekday,7,cortisol_slope03,0.2102222222222222
+Known Alarm,PA13R,Intermediate,0,False,Alarm,2019-11-12,Weekday,7,cortisol_slope04,0.07200000000000001
+Known Alarm,PA13R,Intermediate,0,False,Alarm,2019-11-12,Weekday,7,cortisol_cini,8.67
+Known Alarm,SS11H,Intermediate,0,False,Alarm,2020-01-07,Weekday,8,cortisol_auc_g,387.9
+Known Alarm,SS11H,Intermediate,0,False,Alarm,2020-01-07,Weekday,8,cortisol_auc_i,154.5
+Known Alarm,SS11H,Intermediate,0,False,Alarm,2020-01-07,Weekday,8,cortisol_max_inc,3.2899999999999996
+Known Alarm,SS11H,Intermediate,0,False,Alarm,2020-01-07,Weekday,8,cortisol_slope03,0.06888888888888889
+Known Alarm,SS11H,Intermediate,0,False,Alarm,2020-01-07,Weekday,8,cortisol_slope04,0.030000000000000006
+Known Alarm,SS11H,Intermediate,0,False,Alarm,2020-01-07,Weekday,8,cortisol_cini,3.89
+Known Alarm,SS11H,Intermediate,1,False,Alarm,2020-01-08,Weekday,5,cortisol_auc_g,256.8
+Known Alarm,SS11H,Intermediate,1,False,Alarm,2020-01-08,Weekday,5,cortisol_auc_i,-16.799999999999983
+Known Alarm,SS11H,Intermediate,1,False,Alarm,2020-01-08,Weekday,5,cortisol_max_inc,2.2200000000000006
+Known Alarm,SS11H,Intermediate,1,False,Alarm,2020-01-08,Weekday,5,cortisol_slope03,-0.016666666666666656
+Known Alarm,SS11H,Intermediate,1,False,Alarm,2020-01-08,Weekday,5,cortisol_slope04,0.03700000000000001
+Known Alarm,SS11H,Intermediate,1,False,Alarm,2020-01-08,Weekday,5,cortisol_cini,4.56
+Known Alarm,UH09L,Evening,0,False,Spontaneous,2019-11-29,Weekday,6,cortisol_auc_g,687.2
+Known Alarm,UH09L,Evening,0,False,Spontaneous,2019-11-29,Weekday,6,cortisol_auc_i,-189.99999999999994
+Known Alarm,UH09L,Evening,0,False,Spontaneous,2019-11-29,Weekday,6,cortisol_max_inc,-2.879999999999999
+Known Alarm,UH09L,Evening,0,False,Spontaneous,2019-11-29,Weekday,6,cortisol_slope03,-0.08644444444444442
+Known Alarm,UH09L,Evening,0,False,Spontaneous,2019-11-29,Weekday,6,cortisol_slope04,-0.10016666666666667
+Known Alarm,UH09L,Evening,0,False,Spontaneous,2019-11-29,Weekday,6,cortisol_cini,14.62
+Known Alarm,UH09L,Evening,1,False,Spontaneous,2019-11-30,Weekend,9,cortisol_auc_g,285.70000000000005
+Known Alarm,UH09L,Evening,1,False,Spontaneous,2019-11-30,Weekend,9,cortisol_auc_i,40.48000000000003
+Known Alarm,UH09L,Evening,1,False,Spontaneous,2019-11-30,Weekend,9,cortisol_max_inc,1.7200000000000006
+Known Alarm,UH09L,Evening,1,False,Spontaneous,2019-11-30,Weekend,9,cortisol_slope03,0.012708333333333339
+Known Alarm,UH09L,Evening,1,False,Spontaneous,2019-11-30,Weekend,9,cortisol_slope04,-0.005245901639344252
+Known Alarm,UH09L,Evening,1,False,Spontaneous,2019-11-30,Weekend,9,cortisol_cini,4.02
+Spontaneous,AB31R,Intermediate,0,False,Spontaneous,2020-01-08,Weekday,5,cortisol_auc_g,656.325
+Spontaneous,AB31R,Intermediate,0,False,Spontaneous,2020-01-08,Weekday,5,cortisol_auc_i,18.96500000000004
+Spontaneous,AB31R,Intermediate,0,False,Spontaneous,2020-01-08,Weekday,5,cortisol_max_inc,2.09
+Spontaneous,AB31R,Intermediate,0,False,Spontaneous,2020-01-08,Weekday,5,cortisol_slope03,-0.001276595744680824
+Spontaneous,AB31R,Intermediate,0,False,Spontaneous,2020-01-08,Weekday,5,cortisol_slope04,-0.03338709677419353
+Spontaneous,AB31R,Intermediate,0,False,Spontaneous,2020-01-08,Weekday,5,cortisol_cini,10.28
+Spontaneous,AK12I,Intermediate,0,False,Spontaneous,2019-11-30,Weekend,9,cortisol_auc_g,872.025
+Spontaneous,AK12I,Intermediate,0,False,Spontaneous,2019-11-30,Weekend,9,cortisol_auc_i,410.02500000000003
+Spontaneous,AK12I,Intermediate,0,False,Spontaneous,2019-11-30,Weekend,9,cortisol_max_inc,9.39
+Spontaneous,AK12I,Intermediate,0,False,Spontaneous,2019-11-30,Weekend,9,cortisol_slope03,0.20866666666666667
+Spontaneous,AK12I,Intermediate,0,False,Spontaneous,2019-11-30,Weekend,9,cortisol_slope04,0.1485
+Spontaneous,AK12I,Intermediate,0,False,Spontaneous,2019-11-30,Weekend,9,cortisol_cini,7.7
+Spontaneous,AK12I,Intermediate,1,False,Spontaneous,2019-12-01,Weekend,8,cortisol_auc_g,827.7
+Spontaneous,AK12I,Intermediate,1,False,Spontaneous,2019-12-01,Weekend,8,cortisol_auc_i,222.29999999999998
+Spontaneous,AK12I,Intermediate,1,False,Spontaneous,2019-12-01,Weekend,8,cortisol_max_inc,6.300000000000001
+Spontaneous,AK12I,Intermediate,1,False,Spontaneous,2019-12-01,Weekend,8,cortisol_slope03,0.11244444444444446
+Spontaneous,AK12I,Intermediate,1,False,Spontaneous,2019-12-01,Weekend,8,cortisol_slope04,0.0003333333333333262
+Spontaneous,AK12I,Intermediate,1,False,Spontaneous,2019-12-01,Weekend,8,cortisol_cini,10.09
+Spontaneous,AU09R,Evening,0,False,Spontaneous,2019-12-20,Weekday,5,cortisol_auc_g,351.9
+Spontaneous,AU09R,Evening,0,False,Spontaneous,2019-12-20,Weekday,5,cortisol_auc_i,-26.699999999999974
+Spontaneous,AU09R,Evening,0,False,Spontaneous,2019-12-20,Weekday,5,cortisol_max_inc,0.5100000000000007
+Spontaneous,AU09R,Evening,0,False,Spontaneous,2019-12-20,Weekday,5,cortisol_slope03,-0.006666666666666663
+Spontaneous,AU09R,Evening,0,False,Spontaneous,2019-12-20,Weekday,5,cortisol_slope04,-0.02833333333333332
+Spontaneous,AU09R,Evening,0,False,Spontaneous,2019-12-20,Weekday,5,cortisol_cini,6.31
+Spontaneous,AU09R,Evening,1,False,Spontaneous,2019-12-21,Weekend,6,cortisol_auc_g,1062.0
+Spontaneous,AU09R,Evening,1,False,Spontaneous,2019-12-21,Weekend,6,cortisol_auc_i,798.0
+Spontaneous,AU09R,Evening,1,False,Spontaneous,2019-12-21,Weekend,6,cortisol_max_inc,22.479999999999997
+Spontaneous,AU09R,Evening,1,False,Spontaneous,2019-12-21,Weekend,6,cortisol_slope03,0.4166666666666667
+Spontaneous,AU09R,Evening,1,False,Spontaneous,2019-12-21,Weekend,6,cortisol_slope04,0.3746666666666666
+Spontaneous,AU09R,Evening,1,False,Spontaneous,2019-12-21,Weekend,6,cortisol_cini,4.4
+Spontaneous,BC05R,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,7,cortisol_auc_g,688.2
+Spontaneous,BC05R,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,7,cortisol_auc_i,335.4
+Spontaneous,BC05R,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,7,cortisol_max_inc,7.03
+Spontaneous,BC05R,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,7,cortisol_slope03,0.1426666666666667
+Spontaneous,BC05R,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,7,cortisol_slope04,0.07500000000000001
+Spontaneous,BC05R,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,7,cortisol_cini,5.88
+Spontaneous,BC05R,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,8,cortisol_auc_g,936.9000000000001
+Spontaneous,BC05R,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,8,cortisol_auc_i,625.4999999999999
+Spontaneous,BC05R,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,8,cortisol_max_inc,14.629999999999999
+Spontaneous,BC05R,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,8,cortisol_slope03,0.3251111111111111
+Spontaneous,BC05R,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,8,cortisol_slope04,0.15266666666666667
+Spontaneous,BC05R,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,8,cortisol_cini,5.19
+Spontaneous,BM15R,Evening,0,True,Spontaneous,2019-12-14,Weekend,6,cortisol_auc_g,1712.9250000000002
+Spontaneous,BM15R,Evening,0,True,Spontaneous,2019-12-14,Weekend,6,cortisol_auc_i,-731.075
+Spontaneous,BM15R,Evening,0,True,Spontaneous,2019-12-14,Weekend,6,cortisol_max_inc,-1.230000000000004
+Spontaneous,BM15R,Evening,0,True,Spontaneous,2019-12-14,Weekend,6,cortisol_slope03,-0.4677777777777778
+Spontaneous,BM15R,Evening,0,True,Spontaneous,2019-12-14,Weekend,6,cortisol_slope04,-0.22523076923076923
+Spontaneous,BM15R,Evening,0,True,Spontaneous,2019-12-14,Weekend,6,cortisol_cini,37.6
+Spontaneous,BR11A,Morning,0,False,Spontaneous,2019-11-28,Weekday,9,cortisol_auc_g,839.925
+Spontaneous,BR11A,Morning,0,False,Spontaneous,2019-11-28,Weekday,9,cortisol_auc_i,551.3249999999999
+Spontaneous,BR11A,Morning,0,False,Spontaneous,2019-11-28,Weekday,9,cortisol_max_inc,12.43
+Spontaneous,BR11A,Morning,0,False,Spontaneous,2019-11-28,Weekday,9,cortisol_slope03,0.2762222222222222
+Spontaneous,BR11A,Morning,0,False,Spontaneous,2019-11-28,Weekday,9,cortisol_slope04,0.19483333333333336
+Spontaneous,BR11A,Morning,0,False,Spontaneous,2019-11-28,Weekday,9,cortisol_cini,4.81
+Spontaneous,BR11A,Morning,1,False,Spontaneous,2019-11-29,Weekday,7,cortisol_auc_g,556.2
+Spontaneous,BR11A,Morning,1,False,Spontaneous,2019-11-29,Weekday,7,cortisol_auc_i,507.0
+Spontaneous,BR11A,Morning,1,False,Spontaneous,2019-11-29,Weekday,7,cortisol_max_inc,13.89
+Spontaneous,BR11A,Morning,1,False,Spontaneous,2019-11-29,Weekday,7,cortisol_slope03,0.3086666666666667
+Spontaneous,BR11A,Morning,1,False,Spontaneous,2019-11-29,Weekday,7,cortisol_slope04,0.188
+Spontaneous,BR11A,Morning,1,False,Spontaneous,2019-11-29,Weekday,7,cortisol_cini,0.82
+Spontaneous,BU07E,Evening,1,False,Spontaneous,2019-12-07,Weekend,9,cortisol_auc_g,427.72499999999997
+Spontaneous,BU07E,Evening,1,False,Spontaneous,2019-12-07,Weekend,9,cortisol_auc_i,147.52499999999998
+Spontaneous,BU07E,Evening,1,False,Spontaneous,2019-12-07,Weekend,9,cortisol_max_inc,4.369999999999999
+Spontaneous,BU07E,Evening,1,False,Spontaneous,2019-12-07,Weekend,9,cortisol_slope03,0.04555555555555555
+Spontaneous,BU07E,Evening,1,False,Spontaneous,2019-12-07,Weekend,9,cortisol_slope04,0.017499999999999998
+Spontaneous,BU07E,Evening,1,False,Spontaneous,2019-12-07,Weekend,9,cortisol_cini,4.67
+Spontaneous,CC10A,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,8,cortisol_auc_g,525.525
+Spontaneous,CC10A,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,8,cortisol_auc_i,-71.47499999999998
+Spontaneous,CC10A,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,8,cortisol_max_inc,-0.33000000000000007
+Spontaneous,CC10A,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,8,cortisol_slope03,-0.03799999999999998
+Spontaneous,CC10A,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,8,cortisol_slope04,-0.020833333333333332
+Spontaneous,CC10A,Intermediate,0,False,Spontaneous,2019-12-07,Weekend,8,cortisol_cini,9.95
+Spontaneous,CC10A,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,9,cortisol_auc_g,776.0249999999999
+Spontaneous,CC10A,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,9,cortisol_auc_i,-938.775
+Spontaneous,CC10A,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,9,cortisol_max_inc,-17.14
+Spontaneous,CC10A,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,9,cortisol_slope03,-0.3808888888888889
+Spontaneous,CC10A,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,9,cortisol_slope04,-0.2965
+Spontaneous,CC10A,Intermediate,1,False,Spontaneous,2019-12-08,Weekend,9,cortisol_cini,28.58
+Spontaneous,CC21W,Intermediate,0,False,Not Specified,2019-11-26,Weekday,6,cortisol_auc_g,1047.65
+Spontaneous,CC21W,Intermediate,0,False,Not Specified,2019-11-26,Weekday,6,cortisol_auc_i,463.97
+Spontaneous,CC21W,Intermediate,0,False,Not Specified,2019-11-26,Weekday,6,cortisol_max_inc,10.94
+Spontaneous,CC21W,Intermediate,0,False,Not Specified,2019-11-26,Weekday,6,cortisol_slope03,0.1822916666666667
+Spontaneous,CC21W,Intermediate,0,False,Not Specified,2019-11-26,Weekday,6,cortisol_slope04,0.03468750000000001
+Spontaneous,CC21W,Intermediate,0,False,Not Specified,2019-11-26,Weekday,6,cortisol_cini,9.12
+Spontaneous,CE10B,Evening,1,False,Spontaneous,2019-11-13,Weekday,5,cortisol_auc_g,540.8193
+Spontaneous,CE10B,Evening,1,False,Spontaneous,2019-11-13,Weekday,5,cortisol_auc_i,318.36145
+Spontaneous,CE10B,Evening,1,False,Spontaneous,2019-11-13,Weekday,5,cortisol_max_inc,8.78215
+Spontaneous,CE10B,Evening,1,False,Spontaneous,2019-11-13,Weekday,5,cortisol_slope03,0.08686739130434783
+Spontaneous,CE10B,Evening,1,False,Spontaneous,2019-11-13,Weekday,5,cortisol_slope04,0.03270901639344262
+Spontaneous,CE10B,Evening,1,False,Spontaneous,2019-11-13,Weekday,5,cortisol_cini,3.64685
+Spontaneous,CU27R,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,8,cortisol_auc_g,586.2
+Spontaneous,CU27R,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,8,cortisol_auc_i,-43.64999999999997
+Spontaneous,CU27R,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,8,cortisol_max_inc,1.2300000000000004
+Spontaneous,CU27R,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,8,cortisol_slope03,-0.01379999999999999
+Spontaneous,CU27R,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,8,cortisol_slope04,-0.05215384615384615
+Spontaneous,CU27R,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,8,cortisol_cini,9.69
+Spontaneous,DK11R,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,9,cortisol_auc_g,1319.7
+Spontaneous,DK11R,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,9,cortisol_auc_i,929.0999999999999
+Spontaneous,DK11R,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,9,cortisol_max_inc,23.83
+Spontaneous,DK11R,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,9,cortisol_slope03,0.3611111111111111
+Spontaneous,DK11R,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,9,cortisol_slope04,0.14866666666666667
+Spontaneous,DK11R,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,9,cortisol_cini,6.51
+Spontaneous,DL16R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_auc_g,634.125
+Spontaneous,DL16R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_auc_i,340.12499999999994
+Spontaneous,DL16R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_max_inc,7.119999999999999
+Spontaneous,DL16R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_slope03,0.13466666666666668
+Spontaneous,DL16R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_slope04,0.10349999999999998
+Spontaneous,DL16R,Intermediate,1,False,Alarm,2019-12-11,Weekday,7,cortisol_cini,4.9
+Spontaneous,EA09H,Intermediate,0,False,Spontaneous,2019-11-12,Weekday,9,cortisol_auc_g,396.09592499999997
+Spontaneous,EA09H,Intermediate,0,False,Spontaneous,2019-11-12,Weekday,9,cortisol_auc_i,-2.399774999999975
+Spontaneous,EA09H,Intermediate,0,False,Spontaneous,2019-11-12,Weekday,9,cortisol_max_inc,0.5201500000000001
+Spontaneous,EA09H,Intermediate,0,False,Spontaneous,2019-11-12,Weekday,9,cortisol_slope03,0.004384782608695666
+Spontaneous,EA09H,Intermediate,0,False,Spontaneous,2019-11-12,Weekday,9,cortisol_slope04,-0.02013951612903225
+Spontaneous,EA09H,Intermediate,0,False,Spontaneous,2019-11-12,Weekday,9,cortisol_cini,6.42735
+Spontaneous,EE08O,Morning,0,False,Spontaneous,2019-12-13,Weekday,7,cortisol_auc_g,1038.0950000000003
+Spontaneous,EE08O,Morning,0,False,Spontaneous,2019-12-13,Weekday,7,cortisol_auc_i,328.80500000000006
+Spontaneous,EE08O,Morning,0,False,Spontaneous,2019-12-13,Weekday,7,cortisol_max_inc,8.72
+Spontaneous,EE08O,Morning,0,False,Spontaneous,2019-12-13,Weekday,7,cortisol_slope03,0.05814814814814815
+Spontaneous,EE08O,Morning,0,False,Spontaneous,2019-12-13,Weekday,7,cortisol_slope04,-0.0060563380281690084
+Spontaneous,EE08O,Morning,0,False,Spontaneous,2019-12-13,Weekday,7,cortisol_cini,9.99
+Spontaneous,EE08O,Morning,1,True,Spontaneous,2019-12-14,Weekend,10,cortisol_auc_g,562.27
+Spontaneous,EE08O,Morning,1,True,Spontaneous,2019-12-14,Weekend,10,cortisol_auc_i,197.57
+Spontaneous,EE08O,Morning,1,True,Spontaneous,2019-12-14,Weekend,10,cortisol_max_inc,5.920000000000001
+Spontaneous,EE08O,Morning,1,True,Spontaneous,2019-12-14,Weekend,10,cortisol_slope03,0.052307692307692305
+Spontaneous,EE08O,Morning,1,True,Spontaneous,2019-12-14,Weekend,10,cortisol_slope04,-0.00271428571428572
+Spontaneous,EE08O,Morning,1,True,Spontaneous,2019-12-14,Weekend,10,cortisol_cini,5.21
+Spontaneous,EG25R,Evening,1,False,Spontaneous,2019-12-14,Weekend,7,cortisol_auc_g,844.5250000000001
+Spontaneous,EG25R,Evening,1,False,Spontaneous,2019-12-14,Weekend,7,cortisol_auc_i,518.765
+Spontaneous,EG25R,Evening,1,False,Spontaneous,2019-12-14,Weekend,7,cortisol_max_inc,12.09
+Spontaneous,EG25R,Evening,1,False,Spontaneous,2019-12-14,Weekend,7,cortisol_slope03,0.1835416666666667
+Spontaneous,EG25R,Evening,1,False,Spontaneous,2019-12-14,Weekend,7,cortisol_slope04,0.11234374999999999
+Spontaneous,EG25R,Evening,1,False,Spontaneous,2019-12-14,Weekend,7,cortisol_cini,5.09
+Spontaneous,EM07N,Intermediate,0,False,Spontaneous,2019-12-11,Weekday,8,cortisol_auc_g,866.52
+Spontaneous,EM07N,Intermediate,0,False,Spontaneous,2019-12-11,Weekday,8,cortisol_auc_i,207.10999999999999
+Spontaneous,EM07N,Intermediate,0,False,Spontaneous,2019-12-11,Weekday,8,cortisol_max_inc,6.290000000000001
+Spontaneous,EM07N,Intermediate,0,False,Spontaneous,2019-12-11,Weekday,8,cortisol_slope03,0.08326086956521739
+Spontaneous,EM07N,Intermediate,0,False,Spontaneous,2019-12-11,Weekday,8,cortisol_slope04,0.021967213114754094
+Spontaneous,EM07N,Intermediate,0,False,Spontaneous,2019-12-11,Weekday,8,cortisol_cini,10.81
+Spontaneous,EM16N,Intermediate,0,False,Spontaneous,2019-11-11,Weekday,8,cortisol_auc_g,1509.05845
+Spontaneous,EM16N,Intermediate,0,False,Spontaneous,2019-11-11,Weekday,8,cortisol_auc_i,1194.62325
+Spontaneous,EM16N,Intermediate,0,False,Spontaneous,2019-11-11,Weekday,8,cortisol_max_inc,37.18595
+Spontaneous,EM16N,Intermediate,0,False,Spontaneous,2019-11-11,Weekday,8,cortisol_slope03,0.4031447916666666
+Spontaneous,EM16N,Intermediate,0,False,Spontaneous,2019-11-11,Weekday,8,cortisol_slope04,0.18932734375000002
+Spontaneous,EM16N,Intermediate,0,False,Spontaneous,2019-11-11,Weekday,8,cortisol_cini,4.91305
+Spontaneous,EM16N,Intermediate,1,False,Spontaneous,2019-11-12,Weekday,10,cortisol_auc_g,837.2891
+Spontaneous,EM16N,Intermediate,1,False,Spontaneous,2019-11-12,Weekday,10,cortisol_auc_i,462.59209999999996
+Spontaneous,EM16N,Intermediate,1,False,Spontaneous,2019-11-12,Weekday,10,cortisol_max_inc,10.2155
+Spontaneous,EM16N,Intermediate,1,False,Spontaneous,2019-11-12,Weekday,10,cortisol_slope03,0.17891304347826087
+Spontaneous,EM16N,Intermediate,1,False,Spontaneous,2019-11-12,Weekday,10,cortisol_slope04,0.08233387096774193
+Spontaneous,EM16N,Intermediate,1,False,Spontaneous,2019-11-12,Weekday,10,cortisol_cini,6.0435
+Spontaneous,FA23L,Intermediate,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_auc_g,469.2
+Spontaneous,FA23L,Intermediate,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_auc_i,37.199999999999996
+Spontaneous,FA23L,Intermediate,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_max_inc,3.55
+Spontaneous,FA23L,Intermediate,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_slope03,-0.019111111111111117
+Spontaneous,FA23L,Intermediate,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_slope04,-0.038000000000000006
+Spontaneous,FA23L,Intermediate,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_cini,7.2
+Spontaneous,FA23L,Intermediate,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_auc_g,403.95000000000005
+Spontaneous,FA23L,Intermediate,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_auc_i,175.95
+Spontaneous,FA23L,Intermediate,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_max_inc,5.89
+Spontaneous,FA23L,Intermediate,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_slope03,0.0568888888888889
+Spontaneous,FA23L,Intermediate,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_slope04,0.0056666666666666645
+Spontaneous,FA23L,Intermediate,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_cini,3.8
+Spontaneous,FB04R,Intermediate,0,False,Spontaneous,2019-12-02,Weekday,8,cortisol_auc_g,893.4900000000001
+Spontaneous,FB04R,Intermediate,0,False,Spontaneous,2019-12-02,Weekday,8,cortisol_auc_i,-327.90999999999997
+Spontaneous,FB04R,Intermediate,0,False,Spontaneous,2019-12-02,Weekday,8,cortisol_max_inc,-3.8999999999999986
+Spontaneous,FB04R,Intermediate,0,False,Spontaneous,2019-12-02,Weekday,8,cortisol_slope03,-0.14361702127659573
+Spontaneous,FB04R,Intermediate,0,False,Spontaneous,2019-12-02,Weekday,8,cortisol_slope04,-0.15451612903225806
+Spontaneous,FB04R,Intermediate,0,False,Spontaneous,2019-12-02,Weekday,8,cortisol_cini,19.7
+Spontaneous,FK22R,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,8,cortisol_auc_g,797.25
+Spontaneous,FK22R,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,8,cortisol_auc_i,93.89
+Spontaneous,FK22R,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,8,cortisol_max_inc,3.92
+Spontaneous,FK22R,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,8,cortisol_slope03,-0.00021276595744680398
+Spontaneous,FK22R,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,8,cortisol_slope04,-0.030937500000000007
+Spontaneous,FK22R,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,8,cortisol_cini,10.99
+Spontaneous,HT08S,Intermediate,0,False,Spontaneous,2020-01-06,Weekday,8,cortisol_auc_g,221.45500000000004
+Spontaneous,HT08S,Intermediate,0,False,Spontaneous,2020-01-06,Weekday,8,cortisol_auc_i,-383.69500000000005
+Spontaneous,HT08S,Intermediate,0,False,Spontaneous,2020-01-06,Weekday,8,cortisol_max_inc,-6.08
+Spontaneous,HT08S,Intermediate,0,False,Spontaneous,2020-01-06,Weekday,8,cortisol_slope03,-0.14541666666666667
+Spontaneous,HT08S,Intermediate,0,False,Spontaneous,2020-01-06,Weekday,8,cortisol_slope04,-0.09353846153846154
+Spontaneous,HT08S,Intermediate,0,False,Spontaneous,2020-01-06,Weekday,8,cortisol_cini,9.31
+Spontaneous,IM09E,Evening,0,False,Spontaneous,2019-11-21,Weekday,5,cortisol_auc_g,718.65
+Spontaneous,IM09E,Evening,0,False,Spontaneous,2019-11-21,Weekday,5,cortisol_auc_i,105.44999999999996
+Spontaneous,IM09E,Evening,0,False,Spontaneous,2019-11-21,Weekday,5,cortisol_max_inc,9.409999999999998
+Spontaneous,IM09E,Evening,0,False,Spontaneous,2019-11-21,Weekday,5,cortisol_slope03,-0.036000000000000025
+Spontaneous,IM09E,Evening,0,False,Spontaneous,2019-11-21,Weekday,5,cortisol_slope04,-0.07000000000000002
+Spontaneous,IM09E,Evening,0,False,Spontaneous,2019-11-21,Weekday,5,cortisol_cini,10.22
+Spontaneous,IM09E,Evening,1,True,Spontaneous,2019-11-22,Weekday,6,cortisol_auc_g,387.825
+Spontaneous,IM09E,Evening,1,True,Spontaneous,2019-11-22,Weekday,6,cortisol_auc_i,-45.37499999999997
+Spontaneous,IM09E,Evening,1,True,Spontaneous,2019-11-22,Weekday,6,cortisol_max_inc,1.0100000000000007
+Spontaneous,IM09E,Evening,1,True,Spontaneous,2019-11-22,Weekday,6,cortisol_slope03,-0.04399999999999999
+Spontaneous,IM09E,Evening,1,True,Spontaneous,2019-11-22,Weekday,6,cortisol_slope04,-0.059166666666666666
+Spontaneous,IM09E,Evening,1,True,Spontaneous,2019-11-22,Weekday,6,cortisol_cini,7.22
+Spontaneous,JA24N,Intermediate,0,False,Spontaneous,2019-12-05,Weekday,8,cortisol_auc_g,919.575
+Spontaneous,JA24N,Intermediate,0,False,Spontaneous,2019-12-05,Weekday,8,cortisol_auc_i,501.375
+Spontaneous,JA24N,Intermediate,0,False,Spontaneous,2019-12-05,Weekday,8,cortisol_max_inc,12.25
+Spontaneous,JA24N,Intermediate,0,False,Spontaneous,2019-12-05,Weekday,8,cortisol_slope03,0.19177777777777777
+Spontaneous,JA24N,Intermediate,0,False,Spontaneous,2019-12-05,Weekday,8,cortisol_slope04,0.07816666666666668
+Spontaneous,JA24N,Intermediate,0,False,Spontaneous,2019-12-05,Weekday,8,cortisol_cini,6.97
+Spontaneous,JA24N,Intermediate,1,False,Spontaneous,2019-12-06,Weekday,8,cortisol_auc_g,794.1400000000001
+Spontaneous,JA24N,Intermediate,1,False,Spontaneous,2019-12-06,Weekday,8,cortisol_auc_i,373.23999999999995
+Spontaneous,JA24N,Intermediate,1,False,Spontaneous,2019-12-06,Weekday,8,cortisol_max_inc,10.339999999999998
+Spontaneous,JA24N,Intermediate,1,False,Spontaneous,2019-12-06,Weekday,8,cortisol_slope03,0.14543478260869563
+Spontaneous,JA24N,Intermediate,1,False,Spontaneous,2019-12-06,Weekday,8,cortisol_slope04,0.05852459016393443
+Spontaneous,JA24N,Intermediate,1,False,Spontaneous,2019-12-06,Weekday,8,cortisol_cini,6.9
+Spontaneous,JA26L,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,7,cortisol_auc_g,787.3600000000002
+Spontaneous,JA26L,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,7,cortisol_auc_i,292.00000000000006
+Spontaneous,JA26L,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,7,cortisol_max_inc,6.4399999999999995
+Spontaneous,JA26L,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,7,cortisol_slope03,0.0733333333333333
+Spontaneous,JA26L,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,7,cortisol_slope04,0.09499999999999997
+Spontaneous,JA26L,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,7,cortisol_cini,7.74
+Spontaneous,JA26L,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_auc_g,642.8800000000001
+Spontaneous,JA26L,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_auc_i,36.16000000000001
+Spontaneous,JA26L,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_max_inc,4.43
+Spontaneous,JA26L,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_slope03,-0.021249999999999984
+Spontaneous,JA26L,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_slope04,-0.020625
+Spontaneous,JA26L,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_cini,9.48
+Spontaneous,JM07ß,Intermediate,0,True,Spontaneous,2019-12-13,Weekday,8,cortisol_auc_g,968.925
+Spontaneous,JM07ß,Intermediate,0,True,Spontaneous,2019-12-13,Weekday,8,cortisol_auc_i,681.525
+Spontaneous,JM07ß,Intermediate,0,True,Spontaneous,2019-12-13,Weekday,8,cortisol_max_inc,17.990000000000002
+Spontaneous,JM07ß,Intermediate,0,True,Spontaneous,2019-12-13,Weekday,8,cortisol_slope03,0.36666666666666664
+Spontaneous,JM07ß,Intermediate,0,True,Spontaneous,2019-12-13,Weekday,8,cortisol_slope04,0.29983333333333334
+Spontaneous,JM07ß,Intermediate,0,True,Spontaneous,2019-12-13,Weekday,8,cortisol_cini,4.79
+Spontaneous,JS26S,Intermediate,0,False,Spontaneous,2019-12-13,Weekday,6,cortisol_auc_g,1197.9
+Spontaneous,JS26S,Intermediate,0,False,Spontaneous,2019-12-13,Weekday,6,cortisol_auc_i,463.5
+Spontaneous,JS26S,Intermediate,0,False,Spontaneous,2019-12-13,Weekday,6,cortisol_max_inc,12.97
+Spontaneous,JS26S,Intermediate,0,False,Spontaneous,2019-12-13,Weekday,6,cortisol_slope03,0.22022222222222218
+Spontaneous,JS26S,Intermediate,0,False,Spontaneous,2019-12-13,Weekday,6,cortisol_slope04,0.08033333333333331
+Spontaneous,JS26S,Intermediate,0,False,Spontaneous,2019-12-13,Weekday,6,cortisol_cini,12.24
+Spontaneous,JS26S,Intermediate,1,False,Not Specified,2019-12-14,Weekend,7,cortisol_auc_g,942.225
+Spontaneous,JS26S,Intermediate,1,False,Not Specified,2019-12-14,Weekend,7,cortisol_auc_i,161.025
+Spontaneous,JS26S,Intermediate,1,False,Not Specified,2019-12-14,Weekend,7,cortisol_max_inc,7.879999999999999
+Spontaneous,JS26S,Intermediate,1,False,Not Specified,2019-12-14,Weekend,7,cortisol_slope03,0.05399999999999999
+Spontaneous,JS26S,Intermediate,1,False,Not Specified,2019-12-14,Weekend,7,cortisol_slope04,0.026833333333333355
+Spontaneous,JS26S,Intermediate,1,False,Not Specified,2019-12-14,Weekend,7,cortisol_cini,13.02
+Spontaneous,JU01F,Evening,1,False,Spontaneous,2019-12-14,Weekend,8,cortisol_auc_g,893.98
+Spontaneous,JU01F,Evening,1,False,Spontaneous,2019-12-14,Weekend,8,cortisol_auc_i,-59.210000000000036
+Spontaneous,JU01F,Evening,1,False,Spontaneous,2019-12-14,Weekend,8,cortisol_max_inc,3.119999999999999
+Spontaneous,JU01F,Evening,1,False,Spontaneous,2019-12-14,Weekend,8,cortisol_slope03,-0.027083333333333345
+Spontaneous,JU01F,Evening,1,False,Spontaneous,2019-12-14,Weekend,8,cortisol_slope04,-0.10190476190476189
+Spontaneous,JU01F,Evening,1,False,Spontaneous,2019-12-14,Weekend,8,cortisol_cini,15.13
+Spontaneous,KB16K,Evening,1,False,Spontaneous,2020-01-07,Weekday,7,cortisol_auc_g,296.7
+Spontaneous,KB16K,Evening,1,False,Spontaneous,2020-01-07,Weekday,7,cortisol_auc_i,53.100000000000016
+Spontaneous,KB16K,Evening,1,False,Spontaneous,2020-01-07,Weekday,7,cortisol_max_inc,1.83
+Spontaneous,KB16K,Evening,1,False,Spontaneous,2020-01-07,Weekday,7,cortisol_slope03,0.011777777777777783
+Spontaneous,KB16K,Evening,1,False,Spontaneous,2020-01-07,Weekday,7,cortisol_slope04,-0.007333333333333325
+Spontaneous,KB16K,Evening,1,False,Spontaneous,2020-01-07,Weekday,7,cortisol_cini,4.06
+Spontaneous,KE17E,Evening,1,False,Spontaneous,2019-11-23,Weekend,9,cortisol_auc_g,592.875
+Spontaneous,KE17E,Evening,1,False,Spontaneous,2019-11-23,Weekend,9,cortisol_auc_i,66.07500000000002
+Spontaneous,KE17E,Evening,1,False,Spontaneous,2019-11-23,Weekend,9,cortisol_max_inc,2.4000000000000004
+Spontaneous,KE17E,Evening,1,False,Spontaneous,2019-11-23,Weekend,9,cortisol_slope03,0.01977777777777779
+Spontaneous,KE17E,Evening,1,False,Spontaneous,2019-11-23,Weekend,9,cortisol_slope04,-0.03149999999999999
+Spontaneous,KE17E,Evening,1,False,Spontaneous,2019-11-23,Weekend,9,cortisol_cini,8.78
+Spontaneous,KU08D,Intermediate,1,False,Spontaneous,2020-01-09,Weekday,8,cortisol_auc_g,250.315
+Spontaneous,KU08D,Intermediate,1,False,Spontaneous,2020-01-09,Weekday,8,cortisol_auc_i,-3.884999999999989
+Spontaneous,KU08D,Intermediate,1,False,Spontaneous,2020-01-09,Weekday,8,cortisol_max_inc,0.45999999999999996
+Spontaneous,KU08D,Intermediate,1,False,Spontaneous,2020-01-09,Weekday,8,cortisol_slope03,-0.012826086956521736
+Spontaneous,KU08D,Intermediate,1,False,Spontaneous,2020-01-09,Weekday,8,cortisol_slope04,-0.004677419354838703
+Spontaneous,KU08D,Intermediate,1,False,Spontaneous,2020-01-09,Weekday,8,cortisol_cini,4.1
+Spontaneous,LE04A,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_auc_g,875.25
+Spontaneous,LE04A,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_auc_i,-150.75000000000009
+Spontaneous,LE04A,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_max_inc,3.389999999999997
+Spontaneous,LE04A,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_slope03,-0.13000000000000003
+Spontaneous,LE04A,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_slope04,-0.16000000000000003
+Spontaneous,LE04A,Intermediate,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_cini,17.1
+Spontaneous,LE04A,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,5,cortisol_auc_g,279.3
+Spontaneous,LE04A,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,5,cortisol_auc_i,180.90000000000003
+Spontaneous,LE04A,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,5,cortisol_max_inc,4.33
+Spontaneous,LE04A,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,5,cortisol_slope03,0.0797777777777778
+Spontaneous,LE04A,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,5,cortisol_slope04,0.04600000000000001
+Spontaneous,LE04A,Intermediate,1,False,Spontaneous,2019-12-11,Weekday,5,cortisol_cini,1.64
+Spontaneous,LG27Z,Evening,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_auc_g,743.0250000000001
+Spontaneous,LG27Z,Evening,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_auc_i,149.02499999999998
+Spontaneous,LG27Z,Evening,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_max_inc,4.41
+Spontaneous,LG27Z,Evening,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_slope03,0.06577777777777775
+Spontaneous,LG27Z,Evening,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_slope04,0.00216666666666665
+Spontaneous,LG27Z,Evening,0,False,Spontaneous,2019-12-10,Weekday,8,cortisol_cini,9.9
+Spontaneous,LG27Z,Evening,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_auc_g,538.5
+Spontaneous,LG27Z,Evening,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_auc_i,-146.7
+Spontaneous,LG27Z,Evening,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_max_inc,-1.5999999999999996
+Spontaneous,LG27Z,Evening,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_slope03,-0.05977777777777777
+Spontaneous,LG27Z,Evening,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_slope04,-0.09566666666666666
+Spontaneous,LG27Z,Evening,1,False,Spontaneous,2019-12-11,Weekday,8,cortisol_cini,11.42
+Spontaneous,LK24L,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,6,cortisol_auc_g,856.4100000000001
+Spontaneous,LK24L,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,6,cortisol_auc_i,418.40999999999997
+Spontaneous,LK24L,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,6,cortisol_max_inc,11.73
+Spontaneous,LK24L,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,6,cortisol_slope03,0.23777777777777775
+Spontaneous,LK24L,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,6,cortisol_slope04,0.1955
+Spontaneous,LK24L,Intermediate,0,False,Spontaneous,2019-12-17,Weekday,6,cortisol_cini,7.3
+Spontaneous,LL31H,Evening,0,True,Alarm,2019-12-18,Weekday,4,cortisol_auc_g,153.14000000000001
+Spontaneous,LL31H,Evening,0,True,Alarm,2019-12-18,Weekday,4,cortisol_auc_i,-14.000000000000007
+Spontaneous,LL31H,Evening,0,True,Alarm,2019-12-18,Weekday,4,cortisol_max_inc,-0.040000000000000036
+Spontaneous,LL31H,Evening,0,True,Alarm,2019-12-18,Weekday,4,cortisol_slope03,-0.003111111111111114
+Spontaneous,LL31H,Evening,0,True,Alarm,2019-12-18,Weekday,4,cortisol_slope04,-0.006721311475409838
+Spontaneous,LL31H,Evening,0,True,Alarm,2019-12-18,Weekday,4,cortisol_cini,2.74
+Spontaneous,MD26R,Morning,1,False,Alarm,2019-12-03,Weekday,6,cortisol_auc_g,794.1850000000001
+Spontaneous,MD26R,Morning,1,False,Alarm,2019-12-03,Weekday,6,cortisol_auc_i,575.1850000000001
+Spontaneous,MD26R,Morning,1,False,Alarm,2019-12-03,Weekday,6,cortisol_max_inc,21.470000000000002
+Spontaneous,MD26R,Morning,1,False,Alarm,2019-12-03,Weekday,6,cortisol_slope03,0.40723404255319146
+Spontaneous,MD26R,Morning,1,False,Alarm,2019-12-03,Weekday,6,cortisol_slope04,0.35783333333333334
+Spontaneous,MD26R,Morning,1,False,Alarm,2019-12-03,Weekday,6,cortisol_cini,3.65
+Spontaneous,ME18L,Intermediate,1,False,Spontaneous,2019-12-04,Weekday,6,cortisol_auc_g,376.565
+Spontaneous,ME18L,Intermediate,1,False,Spontaneous,2019-12-04,Weekday,6,cortisol_auc_i,8.734999999999971
+Spontaneous,ME18L,Intermediate,1,False,Spontaneous,2019-12-04,Weekday,6,cortisol_max_inc,3.6900000000000004
+Spontaneous,ME18L,Intermediate,1,False,Spontaneous,2019-12-04,Weekday,6,cortisol_slope03,0.02326086956521738
+Spontaneous,ME18L,Intermediate,1,False,Spontaneous,2019-12-04,Weekday,6,cortisol_slope04,0.060491803278688534
+Spontaneous,ME18L,Intermediate,1,False,Spontaneous,2019-12-04,Weekday,6,cortisol_cini,6.03
+Spontaneous,MI15D,Intermediate,0,False,Spontaneous,2019-11-15,Weekday,9,cortisol_auc_g,632.415
+Spontaneous,MI15D,Intermediate,0,False,Spontaneous,2019-11-15,Weekday,9,cortisol_auc_i,148.195
+Spontaneous,MI15D,Intermediate,0,False,Spontaneous,2019-11-15,Weekday,9,cortisol_max_inc,4.72
+Spontaneous,MI15D,Intermediate,0,False,Spontaneous,2019-11-15,Weekday,9,cortisol_slope03,0.025531914893617023
+Spontaneous,MI15D,Intermediate,0,False,Spontaneous,2019-11-15,Weekday,9,cortisol_slope04,-0.014999999999999996
+Spontaneous,MI15D,Intermediate,0,False,Spontaneous,2019-11-15,Weekday,9,cortisol_cini,7.81
+Spontaneous,MI15D,Intermediate,1,False,Spontaneous,2019-11-16,Weekend,9,cortisol_auc_g,776.04
+Spontaneous,MI15D,Intermediate,1,False,Spontaneous,2019-11-16,Weekend,9,cortisol_auc_i,395.40000000000003
+Spontaneous,MI15D,Intermediate,1,False,Spontaneous,2019-11-16,Weekend,9,cortisol_max_inc,10.200000000000001
+Spontaneous,MI15D,Intermediate,1,False,Spontaneous,2019-11-16,Weekend,9,cortisol_slope03,0.1915217391304348
+Spontaneous,MI15D,Intermediate,1,False,Spontaneous,2019-11-16,Weekend,9,cortisol_slope04,0.08245901639344261
+Spontaneous,MI15D,Intermediate,1,False,Spontaneous,2019-11-16,Weekend,9,cortisol_cini,6.24
+Spontaneous,MS09E,Intermediate,0,False,Spontaneous,2019-11-29,Weekday,8,cortisol_auc_g,858.6499999999999
+Spontaneous,MS09E,Intermediate,0,False,Spontaneous,2019-11-29,Weekday,8,cortisol_auc_i,396.87999999999994
+Spontaneous,MS09E,Intermediate,0,False,Spontaneous,2019-11-29,Weekday,8,cortisol_max_inc,9.989999999999998
+Spontaneous,MS09E,Intermediate,0,False,Spontaneous,2019-11-29,Weekday,8,cortisol_slope03,0.21717391304347822
+Spontaneous,MS09E,Intermediate,0,False,Spontaneous,2019-11-29,Weekday,8,cortisol_slope04,0.13475409836065572
+Spontaneous,MS09E,Intermediate,0,False,Spontaneous,2019-11-29,Weekday,8,cortisol_cini,7.57
+Spontaneous,MS23B,Intermediate,0,False,Spontaneous,2020-01-09,Weekday,7,cortisol_auc_g,636.1229999999999
+Spontaneous,MS23B,Intermediate,0,False,Spontaneous,2020-01-09,Weekday,7,cortisol_auc_i,400.81500000000005
+Spontaneous,MS23B,Intermediate,0,False,Spontaneous,2020-01-09,Weekday,7,cortisol_max_inc,21.8322
+Spontaneous,MS23B,Intermediate,0,False,Spontaneous,2020-01-09,Weekday,7,cortisol_slope03,0.48516
+Spontaneous,MS23B,Intermediate,0,False,Spontaneous,2020-01-09,Weekday,7,cortisol_slope04,0.25937
+Spontaneous,MS23B,Intermediate,0,False,Spontaneous,2020-01-09,Weekday,7,cortisol_cini,3.9218
+Spontaneous,MS23B,Intermediate,1,False,Spontaneous,2020-01-10,Weekday,9,cortisol_auc_g,584.2575
+Spontaneous,MS23B,Intermediate,1,False,Spontaneous,2020-01-10,Weekday,9,cortisol_auc_i,227.2935
+Spontaneous,MS23B,Intermediate,1,False,Spontaneous,2020-01-10,Weekday,9,cortisol_max_inc,7.5276000000000005
+Spontaneous,MS23B,Intermediate,1,False,Spontaneous,2020-01-10,Weekday,9,cortisol_slope03,0.020486666666666667
+Spontaneous,MS23B,Intermediate,1,False,Spontaneous,2020-01-10,Weekday,9,cortisol_slope04,0.06972666666666666
+Spontaneous,MS23B,Intermediate,1,False,Spontaneous,2020-01-10,Weekday,9,cortisol_cini,5.9494
+Spontaneous,PG11T,Evening,0,False,Spontaneous,2019-11-26,Weekday,4,cortisol_auc_g,700.1100000000001
+Spontaneous,PG11T,Evening,0,False,Spontaneous,2019-11-26,Weekday,4,cortisol_auc_i,506.1900000000002
+Spontaneous,PG11T,Evening,0,False,Spontaneous,2019-11-26,Weekday,4,cortisol_max_inc,11.4
+Spontaneous,PG11T,Evening,0,False,Spontaneous,2019-11-26,Weekday,4,cortisol_slope03,0.23749999999999996
+Spontaneous,PG11T,Evening,0,False,Spontaneous,2019-11-26,Weekday,4,cortisol_slope04,0.11312499999999998
+Spontaneous,PG11T,Evening,0,False,Spontaneous,2019-11-26,Weekday,4,cortisol_cini,3.03
+Spontaneous,PG11T,Evening,1,False,Spontaneous,2019-11-27,Weekday,4,cortisol_auc_g,503.96999999999997
+Spontaneous,PG11T,Evening,1,False,Spontaneous,2019-11-27,Weekday,4,cortisol_auc_i,132.69
+Spontaneous,PG11T,Evening,1,False,Spontaneous,2019-11-27,Weekday,4,cortisol_max_inc,4.819999999999999
+Spontaneous,PG11T,Evening,1,False,Spontaneous,2019-11-27,Weekday,4,cortisol_slope03,0.0558
+Spontaneous,PG11T,Evening,1,False,Spontaneous,2019-11-27,Weekday,4,cortisol_slope04,0.0019117647058823513
+Spontaneous,PG11T,Evening,1,False,Spontaneous,2019-11-27,Weekday,4,cortisol_cini,5.46
+Spontaneous,RA03A,Intermediate,0,False,Alarm,2019-12-29,Weekend,7,cortisol_auc_g,544.8
+Spontaneous,RA03A,Intermediate,0,False,Alarm,2019-12-29,Weekend,7,cortisol_auc_i,322.79999999999995
+Spontaneous,RA03A,Intermediate,0,False,Alarm,2019-12-29,Weekend,7,cortisol_max_inc,9.68
+Spontaneous,RA03A,Intermediate,0,False,Alarm,2019-12-29,Weekend,7,cortisol_slope03,0.14444444444444443
+Spontaneous,RA03A,Intermediate,0,False,Alarm,2019-12-29,Weekend,7,cortisol_slope04,0.06433333333333333
+Spontaneous,RA03A,Intermediate,0,False,Alarm,2019-12-29,Weekend,7,cortisol_cini,3.7
+Spontaneous,RF17R,Intermediate,0,False,Not Specified,2019-11-12,Weekday,8,cortisol_auc_g,901.0500000000001
+Spontaneous,RF17R,Intermediate,0,False,Not Specified,2019-11-12,Weekday,8,cortisol_auc_i,586.0500000000001
+Spontaneous,RF17R,Intermediate,0,False,Not Specified,2019-11-12,Weekday,8,cortisol_max_inc,13.260000000000002
+Spontaneous,RF17R,Intermediate,0,False,Not Specified,2019-11-12,Weekday,8,cortisol_slope03,0.2757777777777778
+Spontaneous,RF17R,Intermediate,0,False,Not Specified,2019-11-12,Weekday,8,cortisol_slope04,0.11200000000000002
+Spontaneous,RF17R,Intermediate,0,False,Not Specified,2019-11-12,Weekday,8,cortisol_cini,5.25
+Spontaneous,RM13N,Evening,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_auc_g,683.97
+Spontaneous,RM13N,Evening,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_auc_i,392.13
+Spontaneous,RM13N,Evening,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_max_inc,10.7
+Spontaneous,RM13N,Evening,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_slope03,0.1869047619047619
+Spontaneous,RM13N,Evening,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_slope04,0.0980701754385965
+Spontaneous,RM13N,Evening,0,False,Spontaneous,2019-11-22,Weekday,8,cortisol_cini,5.12
+Spontaneous,RM13N,Evening,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_auc_g,889.35
+Spontaneous,RM13N,Evening,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_auc_i,426.15000000000003
+Spontaneous,RM13N,Evening,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_max_inc,11.59
+Spontaneous,RM13N,Evening,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_slope03,0.14844444444444446
+Spontaneous,RM13N,Evening,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_slope04,0.05633333333333333
+Spontaneous,RM13N,Evening,1,False,Spontaneous,2019-11-23,Weekend,7,cortisol_cini,7.72
+Spontaneous,SC10R,Evening,0,False,Spontaneous,2019-12-02,Weekday,5,cortisol_auc_g,156.87500000000003
+Spontaneous,SC10R,Evening,0,False,Spontaneous,2019-12-02,Weekday,5,cortisol_auc_i,38.07499999999999
+Spontaneous,SC10R,Evening,0,False,Spontaneous,2019-12-02,Weekday,5,cortisol_max_inc,0.9499999999999997
+Spontaneous,SC10R,Evening,0,False,Spontaneous,2019-12-02,Weekday,5,cortisol_slope03,0.016666666666666666
+Spontaneous,SC10R,Evening,0,False,Spontaneous,2019-12-02,Weekday,5,cortisol_slope04,0.008909090909090905
+Spontaneous,SC10R,Evening,0,False,Spontaneous,2019-12-02,Weekday,5,cortisol_cini,2.16
+Spontaneous,SD30K,Evening,0,False,Spontaneous,2019-11-18,Weekday,7,cortisol_auc_g,461.2099999999999
+Spontaneous,SD30K,Evening,0,False,Spontaneous,2019-11-18,Weekday,7,cortisol_auc_i,162.30999999999997
+Spontaneous,SD30K,Evening,0,False,Spontaneous,2019-11-18,Weekday,7,cortisol_max_inc,4.6899999999999995
+Spontaneous,SD30K,Evening,0,False,Spontaneous,2019-11-18,Weekday,7,cortisol_slope03,0.049130434782608694
+Spontaneous,SD30K,Evening,0,False,Spontaneous,2019-11-18,Weekday,7,cortisol_slope04,-0.006229508196721324
+Spontaneous,SD30K,Evening,0,False,Spontaneous,2019-11-18,Weekday,7,cortisol_cini,4.9
+Spontaneous,SD30K,Evening,1,False,Spontaneous,2019-11-19,Weekday,7,cortisol_auc_g,379.79
+Spontaneous,SD30K,Evening,1,False,Spontaneous,2019-11-19,Weekday,7,cortisol_auc_i,54.65999999999998
+Spontaneous,SD30K,Evening,1,False,Spontaneous,2019-11-19,Weekday,7,cortisol_max_inc,1.9399999999999995
+Spontaneous,SD30K,Evening,1,False,Spontaneous,2019-11-19,Weekday,7,cortisol_slope03,0.0028260869565217366
+Spontaneous,SD30K,Evening,1,False,Spontaneous,2019-11-19,Weekday,7,cortisol_slope04,-0.008360655737704914
+Spontaneous,SD30K,Evening,1,False,Spontaneous,2019-11-19,Weekday,7,cortisol_cini,5.33
+Spontaneous,SR08R,Intermediate,0,False,Spontaneous,2019-11-25,Weekday,7,cortisol_auc_g,812.4300000000001
+Spontaneous,SR08R,Intermediate,0,False,Spontaneous,2019-11-25,Weekday,7,cortisol_auc_i,163.38999999999996
+Spontaneous,SR08R,Intermediate,0,False,Spontaneous,2019-11-25,Weekday,7,cortisol_max_inc,4.33
+Spontaneous,SR08R,Intermediate,0,False,Spontaneous,2019-11-25,Weekday,7,cortisol_slope03,0.0734782608695652
+Spontaneous,SR08R,Intermediate,0,False,Spontaneous,2019-11-25,Weekday,7,cortisol_slope04,0.019344262295081963
+Spontaneous,SR08R,Intermediate,0,False,Spontaneous,2019-11-25,Weekday,7,cortisol_cini,10.64
+Spontaneous,SR08R,Intermediate,1,False,Spontaneous,2019-11-26,Weekday,7,cortisol_auc_g,954.1100000000001
+Spontaneous,SR08R,Intermediate,1,False,Spontaneous,2019-11-26,Weekday,7,cortisol_auc_i,194.33000000000004
+Spontaneous,SR08R,Intermediate,1,False,Spontaneous,2019-11-26,Weekday,7,cortisol_max_inc,10.379999999999999
+Spontaneous,SR08R,Intermediate,1,False,Spontaneous,2019-11-26,Weekday,7,cortisol_slope03,-0.02607843137254902
+Spontaneous,SR08R,Intermediate,1,False,Spontaneous,2019-11-26,Weekday,7,cortisol_slope04,-0.06417910447761192
+Spontaneous,SR08R,Intermediate,1,False,Spontaneous,2019-11-26,Weekday,7,cortisol_cini,11.34
+Spontaneous,SS22K,Intermediate,0,False,Spontaneous,2019-11-26,Weekday,10,cortisol_auc_g,876.825
+Spontaneous,SS22K,Intermediate,0,False,Spontaneous,2019-11-26,Weekday,10,cortisol_auc_i,640.4250000000001
+Spontaneous,SS22K,Intermediate,0,False,Spontaneous,2019-11-26,Weekday,10,cortisol_max_inc,16.77
+Spontaneous,SS22K,Intermediate,0,False,Spontaneous,2019-11-26,Weekday,10,cortisol_slope03,0.2528888888888889
+Spontaneous,SS22K,Intermediate,0,False,Spontaneous,2019-11-26,Weekday,10,cortisol_slope04,0.10716666666666666
+Spontaneous,SS22K,Intermediate,0,False,Spontaneous,2019-11-26,Weekday,10,cortisol_cini,3.94
+Spontaneous,SS22K,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,12,cortisol_auc_g,772.125
+Spontaneous,SS22K,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,12,cortisol_auc_i,-228.07500000000007
+Spontaneous,SS22K,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,12,cortisol_max_inc,-2.2700000000000014
+Spontaneous,SS22K,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,12,cortisol_slope03,-0.1226666666666667
+Spontaneous,SS22K,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,12,cortisol_slope04,-0.1365
+Spontaneous,SS22K,Intermediate,1,False,Spontaneous,2019-11-27,Weekday,12,cortisol_cini,16.67
+Spontaneous,SV03R,Intermediate,0,False,Spontaneous,2019-12-20,Weekday,10,cortisol_auc_g,449.16324999999995
+Spontaneous,SV03R,Intermediate,0,False,Spontaneous,2019-12-20,Weekday,10,cortisol_auc_i,106.64124999999999
+Spontaneous,SV03R,Intermediate,0,False,Spontaneous,2019-12-20,Weekday,10,cortisol_max_inc,3.2983499999999992
+Spontaneous,SV03R,Intermediate,0,False,Spontaneous,2019-12-20,Weekday,10,cortisol_slope03,0.05089772727272726
+Spontaneous,SV03R,Intermediate,0,False,Spontaneous,2019-12-20,Weekday,10,cortisol_slope04,0.03924249999999999
+Spontaneous,SV03R,Intermediate,0,False,Spontaneous,2019-12-20,Weekday,10,cortisol_cini,5.7087
+Spontaneous,SV03R,Intermediate,1,False,Spontaneous,2019-12-21,Weekend,9,cortisol_auc_g,1119.475
+Spontaneous,SV03R,Intermediate,1,False,Spontaneous,2019-12-21,Weekend,9,cortisol_auc_i,447.8040000000001
+Spontaneous,SV03R,Intermediate,1,False,Spontaneous,2019-12-21,Weekend,9,cortisol_max_inc,10.41
+Spontaneous,SV03R,Intermediate,1,False,Spontaneous,2019-12-21,Weekend,9,cortisol_slope03,0.2052666666666667
+Spontaneous,SV03R,Intermediate,1,False,Spontaneous,2019-12-21,Weekend,9,cortisol_slope04,0.1595655737704918
+Spontaneous,SV03R,Intermediate,1,False,Spontaneous,2019-12-21,Weekend,9,cortisol_cini,11.011
+Spontaneous,Sk12k,Intermediate,0,False,Alarm,2019-11-18,Weekday,10,cortisol_auc_g,376.4300000000001
+Spontaneous,Sk12k,Intermediate,0,False,Alarm,2019-11-18,Weekday,10,cortisol_auc_i,27.630000000000013
+Spontaneous,Sk12k,Intermediate,0,False,Alarm,2019-11-18,Weekday,10,cortisol_max_inc,2.6100000000000003
+Spontaneous,Sk12k,Intermediate,0,False,Alarm,2019-11-18,Weekday,10,cortisol_slope03,-0.022040816326530606
+Spontaneous,Sk12k,Intermediate,0,False,Alarm,2019-11-18,Weekday,10,cortisol_slope04,-0.02203125
+Spontaneous,Sk12k,Intermediate,0,False,Alarm,2019-11-18,Weekday,10,cortisol_cini,5.45
+Spontaneous,TB29R,Evening,1,False,Spontaneous,2019-12-06,Weekday,5,cortisol_auc_g,925.5
+Spontaneous,TB29R,Evening,1,False,Spontaneous,2019-12-06,Weekday,5,cortisol_auc_i,337.5
+Spontaneous,TB29R,Evening,1,False,Spontaneous,2019-12-06,Weekday,5,cortisol_max_inc,7.859999999999999
+Spontaneous,TB29R,Evening,1,False,Spontaneous,2019-12-06,Weekday,5,cortisol_slope03,0.14844444444444443
+Spontaneous,TB29R,Evening,1,False,Spontaneous,2019-12-06,Weekday,5,cortisol_slope04,0.07199999999999998
+Spontaneous,TB29R,Evening,1,False,Spontaneous,2019-12-06,Weekday,5,cortisol_cini,9.8
+Spontaneous,VA30T,Intermediate,1,False,Spontaneous,2019-11-30,Weekend,8,cortisol_auc_g,931.8750000000001
+Spontaneous,VA30T,Intermediate,1,False,Spontaneous,2019-11-30,Weekend,8,cortisol_auc_i,472.2749999999999
+Spontaneous,VA30T,Intermediate,1,False,Spontaneous,2019-11-30,Weekend,8,cortisol_max_inc,10.68
+Spontaneous,VA30T,Intermediate,1,False,Spontaneous,2019-11-30,Weekend,8,cortisol_slope03,0.19177777777777777
+Spontaneous,VA30T,Intermediate,1,False,Spontaneous,2019-11-30,Weekend,8,cortisol_slope04,0.062166666666666676
+Spontaneous,VA30T,Intermediate,1,False,Spontaneous,2019-11-30,Weekend,8,cortisol_cini,7.66
+Spontaneous,VE19A,Evening,0,True,Spontaneous,2019-11-25,Weekday,7,cortisol_auc_g,727.045
+Spontaneous,VE19A,Evening,0,True,Spontaneous,2019-11-25,Weekday,7,cortisol_auc_i,494.02500000000003
+Spontaneous,VE19A,Evening,0,True,Spontaneous,2019-11-25,Weekday,7,cortisol_max_inc,10.9
+Spontaneous,VE19A,Evening,0,True,Spontaneous,2019-11-25,Weekday,7,cortisol_slope03,0.23695652173913045
+Spontaneous,VE19A,Evening,0,True,Spontaneous,2019-11-25,Weekday,7,cortisol_slope04,0.1080327868852459
+Spontaneous,VE19A,Evening,0,True,Spontaneous,2019-11-25,Weekday,7,cortisol_cini,3.82
+Spontaneous,VE19A,Evening,1,True,Spontaneous,2019-11-26,Weekday,6,cortisol_auc_g,508.83500000000004
+Spontaneous,VE19A,Evening,1,True,Spontaneous,2019-11-26,Weekday,6,cortisol_auc_i,-24.364999999999977
+Spontaneous,VE19A,Evening,1,True,Spontaneous,2019-11-26,Weekday,6,cortisol_max_inc,0.8600000000000012
+Spontaneous,VE19A,Evening,1,True,Spontaneous,2019-11-26,Weekday,6,cortisol_slope03,-0.029999999999999978
+Spontaneous,VE19A,Evening,1,True,Spontaneous,2019-11-26,Weekday,6,cortisol_slope04,-0.043064516129032254
+Spontaneous,VE19A,Evening,1,True,Spontaneous,2019-11-26,Weekday,6,cortisol_cini,8.6
+Unknown Alarm,CC09K,Intermediate,0,False,Alarm,2019-12-02,Weekday,6,cortisol_auc_g,1044.075
+Unknown Alarm,CC09K,Intermediate,0,False,Alarm,2019-12-02,Weekday,6,cortisol_auc_i,804.075
+Unknown Alarm,CC09K,Intermediate,0,False,Alarm,2019-12-02,Weekday,6,cortisol_max_inc,24.74
+Unknown Alarm,CC09K,Intermediate,0,False,Alarm,2019-12-02,Weekday,6,cortisol_slope03,0.5497777777777777
+Unknown Alarm,CC09K,Intermediate,0,False,Alarm,2019-12-02,Weekday,6,cortisol_slope04,0.2678333333333333
+Unknown Alarm,CC09K,Intermediate,0,False,Alarm,2019-12-02,Weekday,6,cortisol_cini,4.0
+Unknown Alarm,CJ10Z,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_auc_g,1341.7549999999999
+Unknown Alarm,CJ10Z,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_auc_i,1050.035
+Unknown Alarm,CJ10Z,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_max_inc,24.11
+Unknown Alarm,CJ10Z,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_slope03,0.4532075471698114
+Unknown Alarm,CJ10Z,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_slope04,0.21212121212121215
+Unknown Alarm,CJ10Z,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_cini,4.42
+Unknown Alarm,CK11R,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_auc_g,658.605
+Unknown Alarm,CK11R,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_auc_i,442.66499999999996
+Unknown Alarm,CK11R,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_max_inc,11.39
+Unknown Alarm,CK11R,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_slope03,0.2531111111111111
+Unknown Alarm,CK11R,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_slope04,0.1801639344262295
+Unknown Alarm,CK11R,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_cini,3.54
+Unknown Alarm,DC28D,Intermediate,1,False,Alarm,2019-12-21,Weekend,6,cortisol_auc_g,520.7050000000002
+Unknown Alarm,DC28D,Intermediate,1,False,Alarm,2019-12-21,Weekend,6,cortisol_auc_i,204.50500000000005
+Unknown Alarm,DC28D,Intermediate,1,False,Alarm,2019-12-21,Weekend,6,cortisol_max_inc,6.390000000000001
+Unknown Alarm,DC28D,Intermediate,1,False,Alarm,2019-12-21,Weekend,6,cortisol_slope03,0.046595744680851064
+Unknown Alarm,DC28D,Intermediate,1,False,Alarm,2019-12-21,Weekend,6,cortisol_slope04,0.07661290322580644
+Unknown Alarm,DC28D,Intermediate,1,False,Alarm,2019-12-21,Weekend,6,cortisol_cini,5.1
+Unknown Alarm,DL16R,Intermediate,0,False,Alarm,2019-12-10,Weekday,6,cortisol_auc_g,531.5999999999999
+Unknown Alarm,DL16R,Intermediate,0,False,Alarm,2019-12-10,Weekday,6,cortisol_auc_i,315.6
+Unknown Alarm,DL16R,Intermediate,0,False,Alarm,2019-12-10,Weekday,6,cortisol_max_inc,6.99
+Unknown Alarm,DL16R,Intermediate,0,False,Alarm,2019-12-10,Weekday,6,cortisol_slope03,0.1388888888888889
+Unknown Alarm,DL16R,Intermediate,0,False,Alarm,2019-12-10,Weekday,6,cortisol_slope04,0.09833333333333334
+Unknown Alarm,DL16R,Intermediate,0,False,Alarm,2019-12-10,Weekday,6,cortisol_cini,3.6
+Unknown Alarm,DN28H,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,4,cortisol_auc_g,664.2
+Unknown Alarm,DN28H,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,4,cortisol_auc_i,514.2
+Unknown Alarm,DN28H,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,4,cortisol_max_inc,13.52
+Unknown Alarm,DN28H,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,4,cortisol_slope03,0.3002222222222223
+Unknown Alarm,DN28H,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,4,cortisol_slope04,0.22533333333333333
+Unknown Alarm,DN28H,Intermediate,0,False,Spontaneous,2019-11-18,Weekday,4,cortisol_cini,2.5
+Unknown Alarm,DN28H,Intermediate,1,False,Alarm,2019-11-19,Weekday,5,cortisol_auc_g,733.875
+Unknown Alarm,DN28H,Intermediate,1,False,Alarm,2019-11-19,Weekday,5,cortisol_auc_i,520.875
+Unknown Alarm,DN28H,Intermediate,1,False,Alarm,2019-11-19,Weekday,5,cortisol_max_inc,15.61
+Unknown Alarm,DN28H,Intermediate,1,False,Alarm,2019-11-19,Weekday,5,cortisol_slope03,0.3313333333333333
+Unknown Alarm,DN28H,Intermediate,1,False,Alarm,2019-11-19,Weekday,5,cortisol_slope04,0.26016666666666666
+Unknown Alarm,DN28H,Intermediate,1,False,Alarm,2019-11-19,Weekday,5,cortisol_cini,3.55
+Unknown Alarm,FB04R,Intermediate,1,False,Alarm,2019-12-03,Weekday,5,cortisol_auc_g,441.94
+Unknown Alarm,FB04R,Intermediate,1,False,Alarm,2019-12-03,Weekday,5,cortisol_auc_i,-3.9699999999999775
+Unknown Alarm,FB04R,Intermediate,1,False,Alarm,2019-12-03,Weekday,5,cortisol_max_inc,1.0200000000000005
+Unknown Alarm,FB04R,Intermediate,1,False,Alarm,2019-12-03,Weekday,5,cortisol_slope03,0.02065217391304348
+Unknown Alarm,FB04R,Intermediate,1,False,Alarm,2019-12-03,Weekday,5,cortisol_slope04,0.016721311475409843
+Unknown Alarm,FB04R,Intermediate,1,False,Alarm,2019-12-03,Weekday,5,cortisol_cini,7.31
+Unknown Alarm,JG04G,Morning,0,False,Alarm,2019-11-28,Weekday,8,cortisol_auc_g,746.1249999999999
+Unknown Alarm,JG04G,Morning,0,False,Alarm,2019-11-28,Weekday,8,cortisol_auc_i,365.72499999999997
+Unknown Alarm,JG04G,Morning,0,False,Alarm,2019-11-28,Weekday,8,cortisol_max_inc,8.9
+Unknown Alarm,JG04G,Morning,0,False,Alarm,2019-11-28,Weekday,8,cortisol_slope03,0.12844444444444442
+Unknown Alarm,JG04G,Morning,0,False,Alarm,2019-11-28,Weekday,8,cortisol_slope04,0.04349999999999999
+Unknown Alarm,JG04G,Morning,0,False,Alarm,2019-11-28,Weekday,8,cortisol_cini,6.34
+Unknown Alarm,JG04G,Morning,1,False,Alarm,2019-11-29,Weekday,8,cortisol_auc_g,723.3449999999999
+Unknown Alarm,JG04G,Morning,1,False,Alarm,2019-11-29,Weekday,8,cortisol_auc_i,241.315
+Unknown Alarm,JG04G,Morning,1,False,Alarm,2019-11-29,Weekday,8,cortisol_max_inc,5.290000000000001
+Unknown Alarm,JG04G,Morning,1,False,Alarm,2019-11-29,Weekday,8,cortisol_slope03,0.12022727272727275
+Unknown Alarm,JG04G,Morning,1,False,Alarm,2019-11-29,Weekday,8,cortisol_slope04,0.05491525423728814
+Unknown Alarm,JG04G,Morning,1,False,Alarm,2019-11-29,Weekday,8,cortisol_cini,8.17
+Unknown Alarm,JM07ß,Intermediate,1,True,Spontaneous,2019-12-14,Weekend,9,cortisol_auc_g,759.9749999999999
+Unknown Alarm,JM07ß,Intermediate,1,True,Spontaneous,2019-12-14,Weekend,9,cortisol_auc_i,428.77500000000003
+Unknown Alarm,JM07ß,Intermediate,1,True,Spontaneous,2019-12-14,Weekend,9,cortisol_max_inc,10.79
+Unknown Alarm,JM07ß,Intermediate,1,True,Spontaneous,2019-12-14,Weekend,9,cortisol_slope03,0.23977777777777776
+Unknown Alarm,JM07ß,Intermediate,1,True,Spontaneous,2019-12-14,Weekend,9,cortisol_slope04,0.16516666666666666
+Unknown Alarm,JM07ß,Intermediate,1,True,Spontaneous,2019-12-14,Weekend,9,cortisol_cini,5.52
+Unknown Alarm,JM22C,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_auc_g,918.9000000000001
+Unknown Alarm,JM22C,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_auc_i,749.1
+Unknown Alarm,JM22C,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_max_inc,25.46
+Unknown Alarm,JM22C,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_slope03,0.46422222222222226
+Unknown Alarm,JM22C,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_slope04,0.42433333333333334
+Unknown Alarm,JM22C,Intermediate,0,False,Alarm,2019-12-17,Weekday,8,cortisol_cini,2.83
+Unknown Alarm,JM22C,Intermediate,1,False,Alarm,2019-12-18,Weekday,9,cortisol_auc_g,675.3
+Unknown Alarm,JM22C,Intermediate,1,False,Alarm,2019-12-18,Weekday,9,cortisol_auc_i,575.1
+Unknown Alarm,JM22C,Intermediate,1,False,Alarm,2019-12-18,Weekday,9,cortisol_max_inc,20.810000000000002
+Unknown Alarm,JM22C,Intermediate,1,False,Alarm,2019-12-18,Weekday,9,cortisol_slope03,0.4624444444444445
+Unknown Alarm,JM22C,Intermediate,1,False,Alarm,2019-12-18,Weekday,9,cortisol_slope04,0.30700000000000005
+Unknown Alarm,JM22C,Intermediate,1,False,Alarm,2019-12-18,Weekday,9,cortisol_cini,1.67
+Unknown Alarm,KA17A,Evening,0,True,Alarm,2019-11-12,Weekday,6,cortisol_auc_g,1361.4770999999998
+Unknown Alarm,KA17A,Evening,0,True,Alarm,2019-11-12,Weekday,6,cortisol_auc_i,841.3302000000001
+Unknown Alarm,KA17A,Evening,0,True,Alarm,2019-11-12,Weekday,6,cortisol_max_inc,18.572450000000003
+Unknown Alarm,KA17A,Evening,0,True,Alarm,2019-11-12,Weekday,6,cortisol_slope03,0.4254755813953489
+Unknown Alarm,KA17A,Evening,0,True,Alarm,2019-11-12,Weekday,6,cortisol_slope04,0.30320603448275857
+Unknown Alarm,KA17A,Evening,0,True,Alarm,2019-11-12,Weekday,6,cortisol_cini,8.96805
+Unknown Alarm,KA17A,Evening,1,False,Alarm,2019-11-13,Weekday,5,cortisol_auc_g,1304.1975000000002
+Unknown Alarm,KA17A,Evening,1,False,Alarm,2019-11-13,Weekday,5,cortisol_auc_i,925.9274999999999
+Unknown Alarm,KA17A,Evening,1,False,Alarm,2019-11-13,Weekday,5,cortisol_max_inc,26.479499999999998
+Unknown Alarm,KA17A,Evening,1,False,Alarm,2019-11-13,Weekday,5,cortisol_slope03,0.5884333333333333
+Unknown Alarm,KA17A,Evening,1,False,Alarm,2019-11-13,Weekday,5,cortisol_slope04,0.3747166666666667
+Unknown Alarm,KA17A,Evening,1,False,Alarm,2019-11-13,Weekday,5,cortisol_cini,6.3045
+Unknown Alarm,KA19E,Intermediate,0,False,Alarm,2019-11-11,Weekday,8,cortisol_auc_g,960.0442499999999
+Unknown Alarm,KA19E,Intermediate,0,False,Alarm,2019-11-11,Weekday,8,cortisol_auc_i,394.88025000000005
+Unknown Alarm,KA19E,Intermediate,0,False,Alarm,2019-11-11,Weekday,8,cortisol_max_inc,9.741600000000002
+Unknown Alarm,KA19E,Intermediate,0,False,Alarm,2019-11-11,Weekday,8,cortisol_slope03,0.21648000000000003
+Unknown Alarm,KA19E,Intermediate,0,False,Alarm,2019-11-11,Weekday,8,cortisol_slope04,0.028868333333333347
+Unknown Alarm,KA19E,Intermediate,0,False,Alarm,2019-11-11,Weekday,8,cortisol_cini,9.4194
+Unknown Alarm,KA19E,Intermediate,1,False,Not Specified,2019-11-12,Weekday,8,cortisol_auc_g,1031.30175
+Unknown Alarm,KA19E,Intermediate,1,False,Not Specified,2019-11-12,Weekday,8,cortisol_auc_i,420.02774999999997
+Unknown Alarm,KA19E,Intermediate,1,False,Not Specified,2019-11-12,Weekday,8,cortisol_max_inc,12.3421
+Unknown Alarm,KA19E,Intermediate,1,False,Not Specified,2019-11-12,Weekday,8,cortisol_slope03,0.2742688888888889
+Unknown Alarm,KA19E,Intermediate,1,False,Not Specified,2019-11-12,Weekday,8,cortisol_slope04,0.08681833333333332
+Unknown Alarm,KA19E,Intermediate,1,False,Not Specified,2019-11-12,Weekday,8,cortisol_cini,10.1879
+Unknown Alarm,KS11H,Intermediate,0,False,Alarm,2019-12-09,Weekday,6,cortisol_auc_g,694.225
+Unknown Alarm,KS11H,Intermediate,0,False,Alarm,2019-12-09,Weekday,6,cortisol_auc_i,282.845
+Unknown Alarm,KS11H,Intermediate,0,False,Alarm,2019-12-09,Weekday,6,cortisol_max_inc,5.500000000000001
+Unknown Alarm,KS11H,Intermediate,0,False,Alarm,2019-12-09,Weekday,6,cortisol_slope03,0.1
+Unknown Alarm,KS11H,Intermediate,0,False,Alarm,2019-12-09,Weekday,6,cortisol_slope04,0.05358208955223882
+Unknown Alarm,KS11H,Intermediate,0,False,Alarm,2019-12-09,Weekday,6,cortisol_cini,6.14
+Unknown Alarm,KS11H,Intermediate,1,False,Alarm,2019-12-10,Weekday,6,cortisol_auc_g,676.2049999999999
+Unknown Alarm,KS11H,Intermediate,1,False,Alarm,2019-12-10,Weekday,6,cortisol_auc_i,321.18499999999995
+Unknown Alarm,KS11H,Intermediate,1,False,Alarm,2019-12-10,Weekday,6,cortisol_max_inc,7.6899999999999995
+Unknown Alarm,KS11H,Intermediate,1,False,Alarm,2019-12-10,Weekday,6,cortisol_slope03,0.15130434782608693
+Unknown Alarm,KS11H,Intermediate,1,False,Alarm,2019-12-10,Weekday,6,cortisol_slope04,0.08016393442622952
+Unknown Alarm,KS11H,Intermediate,1,False,Alarm,2019-12-10,Weekday,6,cortisol_cini,5.82
+Unknown Alarm,KS28N,Intermediate,0,False,Alarm,2019-12-03,Weekday,8,cortisol_auc_g,1058.25
+Unknown Alarm,KS28N,Intermediate,0,False,Alarm,2019-12-03,Weekday,8,cortisol_auc_i,623.25
+Unknown Alarm,KS28N,Intermediate,0,False,Alarm,2019-12-03,Weekday,8,cortisol_max_inc,15.149999999999999
+Unknown Alarm,KS28N,Intermediate,0,False,Alarm,2019-12-03,Weekday,8,cortisol_slope03,0.29155555555555557
+Unknown Alarm,KS28N,Intermediate,0,False,Alarm,2019-12-03,Weekday,8,cortisol_slope04,0.13166666666666668
+Unknown Alarm,KS28N,Intermediate,0,False,Alarm,2019-12-03,Weekday,8,cortisol_cini,7.25
+Unknown Alarm,KS28N,Intermediate,1,False,Alarm,2019-12-04,Weekday,6,cortisol_auc_g,1287.0
+Unknown Alarm,KS28N,Intermediate,1,False,Alarm,2019-12-04,Weekday,6,cortisol_auc_i,1149.6000000000001
+Unknown Alarm,KS28N,Intermediate,1,False,Alarm,2019-12-04,Weekday,6,cortisol_max_inc,30.480000000000004
+Unknown Alarm,KS28N,Intermediate,1,False,Alarm,2019-12-04,Weekday,6,cortisol_slope03,0.6584444444444445
+Unknown Alarm,KS28N,Intermediate,1,False,Alarm,2019-12-04,Weekday,6,cortisol_slope04,0.5080000000000001
+Unknown Alarm,KS28N,Intermediate,1,False,Alarm,2019-12-04,Weekday,6,cortisol_cini,2.29
+Unknown Alarm,LA26R,Intermediate,0,False,Alarm,2019-11-18,Weekday,9,cortisol_auc_g,875.64
+Unknown Alarm,LA26R,Intermediate,0,False,Alarm,2019-11-18,Weekday,9,cortisol_auc_i,323.13
+Unknown Alarm,LA26R,Intermediate,0,False,Alarm,2019-11-18,Weekday,9,cortisol_max_inc,8.350000000000001
+Unknown Alarm,LA26R,Intermediate,0,False,Alarm,2019-11-18,Weekday,9,cortisol_slope03,0.17395833333333335
+Unknown Alarm,LA26R,Intermediate,0,False,Alarm,2019-11-18,Weekday,9,cortisol_slope04,0.09857142857142859
+Unknown Alarm,LA26R,Intermediate,0,False,Alarm,2019-11-18,Weekday,9,cortisol_cini,8.77
+Unknown Alarm,LA26R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_g,502.65
+Unknown Alarm,LA26R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_auc_i,321.45000000000005
+Unknown Alarm,LA26R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_max_inc,11.05
+Unknown Alarm,LA26R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope03,0.1486666666666667
+Unknown Alarm,LA26R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_slope04,0.11233333333333334
+Unknown Alarm,LA26R,Intermediate,1,False,Alarm,2019-11-19,Weekday,6,cortisol_cini,3.02
+Unknown Alarm,LL31H,Evening,1,True,Alarm,2019-12-19,Weekday,3,cortisol_auc_g,156.13500000000002
+Unknown Alarm,LL31H,Evening,1,True,Alarm,2019-12-19,Weekday,3,cortisol_auc_i,-38.42500000000001
+Unknown Alarm,LL31H,Evening,1,True,Alarm,2019-12-19,Weekday,3,cortisol_max_inc,0.5
+Unknown Alarm,LL31H,Evening,1,True,Alarm,2019-12-19,Weekday,3,cortisol_slope03,-0.034042553191489355
+Unknown Alarm,LL31H,Evening,1,True,Alarm,2019-12-19,Weekday,3,cortisol_slope04,0.007812499999999998
+Unknown Alarm,LL31H,Evening,1,True,Alarm,2019-12-19,Weekday,3,cortisol_cini,3.04
+Unknown Alarm,LP06T,Intermediate,0,True,Alarm,2019-12-17,Weekday,7,cortisol_auc_g,1037.76
+Unknown Alarm,LP06T,Intermediate,0,True,Alarm,2019-12-17,Weekday,7,cortisol_auc_i,242.5600000000001
+Unknown Alarm,LP06T,Intermediate,0,True,Alarm,2019-12-17,Weekday,7,cortisol_max_inc,7.300000000000001
+Unknown Alarm,LP06T,Intermediate,0,True,Alarm,2019-12-17,Weekday,7,cortisol_slope03,0.026346153846153866
+Unknown Alarm,LP06T,Intermediate,0,True,Alarm,2019-12-17,Weekday,7,cortisol_slope04,-0.0016901408450704116
+Unknown Alarm,LP06T,Intermediate,0,True,Alarm,2019-12-17,Weekday,7,cortisol_cini,11.2
+Unknown Alarm,LW28E,Intermediate,0,False,Alarm,2019-11-21,Weekday,7,cortisol_auc_g,444.065
+Unknown Alarm,LW28E,Intermediate,0,False,Alarm,2019-11-21,Weekday,7,cortisol_auc_i,26.28499999999999
+Unknown Alarm,LW28E,Intermediate,0,False,Alarm,2019-11-21,Weekday,7,cortisol_max_inc,1.8499999999999996
+Unknown Alarm,LW28E,Intermediate,0,False,Alarm,2019-11-21,Weekday,7,cortisol_slope03,-0.017346938775510197
+Unknown Alarm,LW28E,Intermediate,0,False,Alarm,2019-11-21,Weekday,7,cortisol_slope04,-0.026212121212121218
+Unknown Alarm,LW28E,Intermediate,0,False,Alarm,2019-11-21,Weekday,7,cortisol_cini,6.33
+Unknown Alarm,LW28E,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_auc_g,638.475
+Unknown Alarm,LW28E,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_auc_i,138.075
+Unknown Alarm,LW28E,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_max_inc,4.529999999999999
+Unknown Alarm,LW28E,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_slope03,0.04555555555555557
+Unknown Alarm,LW28E,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_slope04,-0.024499999999999997
+Unknown Alarm,LW28E,Intermediate,1,False,Alarm,2019-11-22,Weekday,7,cortisol_cini,8.34
+Unknown Alarm,LW28R,Intermediate,0,True,Spontaneous,2019-12-03,Weekday,7,cortisol_auc_g,582.675
+Unknown Alarm,LW28R,Intermediate,0,True,Spontaneous,2019-12-03,Weekday,7,cortisol_auc_i,326.475
+Unknown Alarm,LW28R,Intermediate,0,True,Spontaneous,2019-12-03,Weekday,7,cortisol_max_inc,9.81
+Unknown Alarm,LW28R,Intermediate,0,True,Spontaneous,2019-12-03,Weekday,7,cortisol_slope03,0.09777777777777778
+Unknown Alarm,LW28R,Intermediate,0,True,Spontaneous,2019-12-03,Weekday,7,cortisol_slope04,0.03416666666666668
+Unknown Alarm,LW28R,Intermediate,0,True,Spontaneous,2019-12-03,Weekday,7,cortisol_cini,4.27
+Unknown Alarm,MC04A,Morning,0,False,Alarm,2019-12-03,Weekday,7,cortisol_auc_g,289.815
+Unknown Alarm,MC04A,Morning,0,False,Alarm,2019-12-03,Weekday,7,cortisol_auc_i,-32.875
+Unknown Alarm,MC04A,Morning,0,False,Alarm,2019-12-03,Weekday,7,cortisol_max_inc,0.20000000000000018
+Unknown Alarm,MC04A,Morning,0,False,Alarm,2019-12-03,Weekday,7,cortisol_slope03,-0.025555555555555564
+Unknown Alarm,MC04A,Morning,0,False,Alarm,2019-12-03,Weekday,7,cortisol_slope04,-0.02377049180327869
+Unknown Alarm,MC04A,Morning,0,False,Alarm,2019-12-03,Weekday,7,cortisol_cini,5.29
+Unknown Alarm,MD26R,Morning,0,True,Alarm,2019-12-02,Weekday,8,cortisol_auc_g,1125.975
+Unknown Alarm,MD26R,Morning,0,True,Alarm,2019-12-02,Weekday,8,cortisol_auc_i,546.475
+Unknown Alarm,MD26R,Morning,0,True,Alarm,2019-12-02,Weekday,8,cortisol_max_inc,15.870000000000001
+Unknown Alarm,MD26R,Morning,0,True,Alarm,2019-12-02,Weekday,8,cortisol_slope03,0.25177777777777777
+Unknown Alarm,MD26R,Morning,0,True,Alarm,2019-12-02,Weekday,8,cortisol_slope04,0.26016393442622954
+Unknown Alarm,MD26R,Morning,0,True,Alarm,2019-12-02,Weekday,8,cortisol_cini,9.5
+Unknown Alarm,ME18L,Intermediate,0,False,Alarm,2019-12-03,Weekday,6,cortisol_auc_g,437.47
+Unknown Alarm,ME18L,Intermediate,0,False,Alarm,2019-12-03,Weekday,6,cortisol_auc_i,-405.55
+Unknown Alarm,ME18L,Intermediate,0,False,Alarm,2019-12-03,Weekday,6,cortisol_max_inc,-6.65
+Unknown Alarm,ME18L,Intermediate,0,False,Alarm,2019-12-03,Weekday,6,cortisol_slope03,-0.14456521739130435
+Unknown Alarm,ME18L,Intermediate,0,False,Alarm,2019-12-03,Weekday,6,cortisol_slope04,-0.12688524590163935
+Unknown Alarm,ME18L,Intermediate,0,False,Alarm,2019-12-03,Weekday,6,cortisol_cini,13.82
+Unknown Alarm,OB20R,Intermediate,0,False,Alarm,2019-11-26,Weekday,5,cortisol_auc_g,708.565
+Unknown Alarm,OB20R,Intermediate,0,False,Alarm,2019-11-26,Weekday,5,cortisol_auc_i,87.32500000000002
+Unknown Alarm,OB20R,Intermediate,0,False,Alarm,2019-11-26,Weekday,5,cortisol_max_inc,2.9700000000000006
+Unknown Alarm,OB20R,Intermediate,0,False,Alarm,2019-11-26,Weekday,5,cortisol_slope03,0.023913043478260863
+Unknown Alarm,OB20R,Intermediate,0,False,Alarm,2019-11-26,Weekday,5,cortisol_slope04,-0.02580645161290322
+Unknown Alarm,OB20R,Intermediate,0,False,Alarm,2019-11-26,Weekday,5,cortisol_cini,10.02
+Unknown Alarm,RA03A,Intermediate,1,False,Alarm,2019-12-30,Weekday,7,cortisol_auc_g,665.115
+Unknown Alarm,RA03A,Intermediate,1,False,Alarm,2019-12-30,Weekday,7,cortisol_auc_i,485.935
+Unknown Alarm,RA03A,Intermediate,1,False,Alarm,2019-12-30,Weekday,7,cortisol_max_inc,14.48
+Unknown Alarm,RA03A,Intermediate,1,False,Alarm,2019-12-30,Weekday,7,cortisol_slope03,0.19021739130434784
+Unknown Alarm,RA03A,Intermediate,1,False,Alarm,2019-12-30,Weekday,7,cortisol_slope04,0.09564516129032258
+Unknown Alarm,RA03A,Intermediate,1,False,Alarm,2019-12-30,Weekday,7,cortisol_cini,2.89
+Unknown Alarm,RF17R,Intermediate,1,False,Not Specified,2019-11-13,Weekday,5,cortisol_auc_g,905.7
+Unknown Alarm,RF17R,Intermediate,1,False,Not Specified,2019-11-13,Weekday,5,cortisol_auc_i,792.9000000000001
+Unknown Alarm,RF17R,Intermediate,1,False,Not Specified,2019-11-13,Weekday,5,cortisol_max_inc,22.82
+Unknown Alarm,RF17R,Intermediate,1,False,Not Specified,2019-11-13,Weekday,5,cortisol_slope03,0.4695555555555556
+Unknown Alarm,RF17R,Intermediate,1,False,Not Specified,2019-11-13,Weekday,5,cortisol_slope04,0.38033333333333336
+Unknown Alarm,RF17R,Intermediate,1,False,Not Specified,2019-11-13,Weekday,5,cortisol_cini,1.88
+Unknown Alarm,SC10R,Evening,1,True,Alarm,2019-12-03,Weekday,4,cortisol_auc_g,232.35
+Unknown Alarm,SC10R,Evening,1,True,Alarm,2019-12-03,Weekday,4,cortisol_auc_i,82.94999999999999
+Unknown Alarm,SC10R,Evening,1,True,Alarm,2019-12-03,Weekday,4,cortisol_max_inc,2.0699999999999994
+Unknown Alarm,SC10R,Evening,1,True,Alarm,2019-12-03,Weekday,4,cortisol_slope03,0.045999999999999985
+Unknown Alarm,SC10R,Evening,1,True,Alarm,2019-12-03,Weekday,4,cortisol_slope04,0.01633333333333333
+Unknown Alarm,SC10R,Evening,1,True,Alarm,2019-12-03,Weekday,4,cortisol_cini,2.49
+Unknown Alarm,SE06H,Intermediate,0,False,Alarm,2019-12-16,Weekday,7,cortisol_auc_g,1401.15
+Unknown Alarm,SE06H,Intermediate,0,False,Alarm,2019-12-16,Weekday,7,cortisol_auc_i,822.75
+Unknown Alarm,SE06H,Intermediate,0,False,Alarm,2019-12-16,Weekday,7,cortisol_max_inc,22.25
+Unknown Alarm,SE06H,Intermediate,0,False,Alarm,2019-12-16,Weekday,7,cortisol_slope03,0.49444444444444446
+Unknown Alarm,SE06H,Intermediate,0,False,Alarm,2019-12-16,Weekday,7,cortisol_slope04,0.2
+Unknown Alarm,SE06H,Intermediate,0,False,Alarm,2019-12-16,Weekday,7,cortisol_cini,9.64
+Unknown Alarm,SE06H,Intermediate,1,False,Alarm,2019-12-17,Weekday,5,cortisol_auc_g,560.6250000000001
+Unknown Alarm,SE06H,Intermediate,1,False,Alarm,2019-12-17,Weekday,5,cortisol_auc_i,550.5450000000001
+Unknown Alarm,SE06H,Intermediate,1,False,Alarm,2019-12-17,Weekday,5,cortisol_max_inc,18.63
+Unknown Alarm,SE06H,Intermediate,1,False,Alarm,2019-12-17,Weekday,5,cortisol_slope03,0.3091666666666666
+Unknown Alarm,SE06H,Intermediate,1,False,Alarm,2019-12-17,Weekday,5,cortisol_slope04,0.29571428571428565
+Unknown Alarm,SE06H,Intermediate,1,False,Alarm,2019-12-17,Weekday,5,cortisol_cini,0.16
+Unknown Alarm,TM30L,Intermediate,0,False,Alarm,2019-12-20,Weekday,6,cortisol_auc_g,1162.26
+Unknown Alarm,TM30L,Intermediate,0,False,Alarm,2019-12-20,Weekday,6,cortisol_auc_i,285.08000000000004
+Unknown Alarm,TM30L,Intermediate,0,False,Alarm,2019-12-20,Weekday,6,cortisol_max_inc,10.06
+Unknown Alarm,TM30L,Intermediate,0,False,Alarm,2019-12-20,Weekday,6,cortisol_slope03,0.10608695652173915
+Unknown Alarm,TM30L,Intermediate,0,False,Alarm,2019-12-20,Weekday,6,cortisol_slope04,-0.03524590163934427
+Unknown Alarm,TM30L,Intermediate,0,False,Alarm,2019-12-20,Weekday,6,cortisol_cini,14.38
+Unknown Alarm,TM30L,Intermediate,1,False,Alarm,2019-12-21,Weekend,7,cortisol_auc_g,862.03
+Unknown Alarm,TM30L,Intermediate,1,False,Alarm,2019-12-21,Weekend,7,cortisol_auc_i,234.59000000000003
+Unknown Alarm,TM30L,Intermediate,1,False,Alarm,2019-12-21,Weekend,7,cortisol_max_inc,11.020000000000001
+Unknown Alarm,TM30L,Intermediate,1,False,Alarm,2019-12-21,Weekend,7,cortisol_slope03,0.19130434782608702
+Unknown Alarm,TM30L,Intermediate,1,False,Alarm,2019-12-21,Weekend,7,cortisol_slope04,0.177741935483871
+Unknown Alarm,TM30L,Intermediate,1,False,Alarm,2019-12-21,Weekend,7,cortisol_cini,10.12
+Unknown Alarm,VS09S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_auc_g,718.8
+Unknown Alarm,VS09S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_auc_i,235.2
+Unknown Alarm,VS09S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_max_inc,5.08
+Unknown Alarm,VS09S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_slope03,0.10977777777777777
+Unknown Alarm,VS09S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_slope04,0.049666666666666644
+Unknown Alarm,VS09S,Intermediate,0,False,Alarm,2019-11-18,Weekday,8,cortisol_cini,8.06
+Unknown Alarm,WM13K,Intermediate,0,False,Not Specified,2019-12-03,Weekday,6,cortisol_auc_g,957.355
+Unknown Alarm,WM13K,Intermediate,0,False,Not Specified,2019-12-03,Weekday,6,cortisol_auc_i,530.7950000000001
+Unknown Alarm,WM13K,Intermediate,0,False,Not Specified,2019-12-03,Weekday,6,cortisol_max_inc,18.51
+Unknown Alarm,WM13K,Intermediate,0,False,Not Specified,2019-12-03,Weekday,6,cortisol_slope03,0.28361702127659577
+Unknown Alarm,WM13K,Intermediate,0,False,Not Specified,2019-12-03,Weekday,6,cortisol_slope04,0.2985483870967742
+Unknown Alarm,WM13K,Intermediate,0,False,Not Specified,2019-12-03,Weekday,6,cortisol_cini,6.88

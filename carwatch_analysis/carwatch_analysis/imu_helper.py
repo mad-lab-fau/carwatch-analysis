@@ -1,16 +1,11 @@
-from pathlib import Path
-from typing import Sequence, Tuple, Union, Any
+from typing import Union, Tuple, Any
 
 import pandas as pd
-
-import biopsykit as bp
-from biopsykit.utils import path_t
-
 import matplotlib.pyplot as plt
 
-
-def subject_id_from_path(path: path_t) -> str:
-    return str(path.name).split("_")[0]
+import biopsykit as bp
+from biopsykit.utils import path_t, Path
+from carwatch_analysis.general_helper import subject_id_from_path, concat_nights
 
 
 def process_dataset(data: pd.DataFrame, fs: int, subject_id: str, night_id: int, export_figures: bool,
@@ -117,9 +112,3 @@ def process_subject(subject_dir: path_t, load_raw: bool, export_figures: bool, f
         df_endpoints_subject = pd.read_csv(endpoint_files[0], index_col=['night'])
 
     return df_endpoints_subject, df_features_subject
-
-
-def concat_nights(list_df: Sequence[pd.DataFrame]) -> pd.DataFrame:
-    df = pd.concat(list_df, ignore_index=True)
-    df.index.name = "night"
-    return df

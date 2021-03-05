@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 from pkg_resources import DistributionNotFound, get_distribution
 
-import carwatch_analysis.helper_functions
-
+from carwatch_analysis import general_helper, imu_helper, saliva_helper
 
 try:
     # Change here if project is renamed and does not equal the package name

@@ -28,20 +28,30 @@ def analysis_saliva_raw(data: pd.DataFrame, variable: str) -> StatsPipeline:
     return pipeline
 
 
-def analysis_saliva_features(data: pd.DataFrame, variable: str, test_type: Optional[str]='welch_anova') -> StatsPipeline:
+def analysis_saliva_features(data: pd.DataFrame, variable: str,
+                             test_type: Optional[str] = 'welch_anova') -> StatsPipeline:
+    params = {
+        'groupby': 'biomarker',
+        'group': variable,
+        'dv': 'cortisol',
+        'between': variable,
+    }
+
+    if test_type == 'welch_anova':
+        posthoc = 'pairwise_tukey'
+    else:
+        posthoc = 'pairwise_ttests'
+        params['padjust'] = 'fdr_bh'
+
+    steps = [
+        ('prep', 'normality'),
+        ('prep', 'equal_var'),
+        ('test', test_type),
+        ('posthoc', posthoc)
+    ]
     pipeline = StatsPipeline(
-        steps=[
-            ('prep', 'normality'),
-            ('prep', 'equal_var'),
-            ('test', test_type),
-            ('posthoc', 'pairwise_tukey')
-        ],
-        params={
-            'groupby': 'biomarker',
-            'group': variable,
-            'dv': 'cortisol',
-            'between': variable,
-        }
+        steps=steps,
+        params=params
     )
 
     pipeline.apply(data)

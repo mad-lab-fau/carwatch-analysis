@@ -1,15 +1,16 @@
 from typing import Sequence, Optional
 
 import pandas as pd
-
-from biopsykit.utils import path_t
+from carwatch_analysis._types import path_t
 
 
 def subject_id_from_path(path: path_t) -> str:
     return str(path.name).split("_")[0]
 
 
-def concat_nights(list_df: Sequence[pd.DataFrame]) -> pd.DataFrame:
+def concat_nights(list_df: Sequence[pd.DataFrame]) -> Optional[pd.DataFrame]:
+    if len(list_df) == 0:
+        return None
     df = pd.concat(list_df, ignore_index=True)
     df.index.name = "night"
     return df

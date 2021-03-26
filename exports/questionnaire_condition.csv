@@ -1,0 +1,235 @@
+subject,night,condition
+AB19E,0,Known Alarm
+AB19E,1,Known Alarm
+AB31R,0,Spontaneous
+AB31R,1,Known Alarm
+AC12E,0,Known Alarm
+AC12E,1,Known Alarm
+AH10Y,0,Known Alarm
+AH10Y,1,Known Alarm
+AK12I,0,Spontaneous
+AK12I,1,Spontaneous
+AM21H,0,Spontaneous
+AM21H,1,Known Alarm
+AU09R,0,Spontaneous
+AU09R,1,Spontaneous
+BC05R,0,Spontaneous
+BC05R,1,Spontaneous
+BM15R,0,Spontaneous
+BM15R,1,Spontaneous
+BR11A,0,Spontaneous
+BR11A,1,Spontaneous
+BU07E,0,Known Alarm
+BU07E,1,Spontaneous
+CC09K,0,Unknown Alarm
+CC09K,1,Unknown Alarm
+CC10A,0,Spontaneous
+CC10A,1,Spontaneous
+CC21W,0,Spontaneous
+CC21W,1,Spontaneous
+CE10B,0,Known Alarm
+CE10B,1,Spontaneous
+CJ10Z,0,Unknown Alarm
+CJ10Z,1,Unknown Alarm
+CK11R,0,Spontaneous
+CK11R,1,Unknown Alarm
+CT29K,0,Known Alarm
+CT29K,1,Known Alarm
+CU27R,0,Spontaneous
+CU27R,1,Known Alarm
+DC28D,0,Spontaneous
+DC28D,1,Unknown Alarm
+DI21I,0,Unknown Alarm
+DI21I,1,Unknown Alarm
+DK11R,0,Spontaneous
+DK11R,1,Known Alarm
+DL16R,0,Unknown Alarm
+DL16R,1,Spontaneous
+DN28H,0,Unknown Alarm
+DN28H,1,Unknown Alarm
+EA09H,0,Spontaneous
+EA09H,1,Spontaneous
+EE08O,0,Spontaneous
+EE08O,1,Spontaneous
+EG25R,0,Known Alarm
+EG25R,1,Spontaneous
+EM07N,0,Spontaneous
+EM07N,1,Spontaneous
+EM16N,0,Spontaneous
+EM16N,1,Spontaneous
+FA12L,0,Spontaneous
+FA12L,1,Known Alarm
+FA23L,0,Spontaneous
+FA23L,1,Spontaneous
+FB04R,0,Spontaneous
+FB04R,1,Unknown Alarm
+FK22R,0,Known Alarm
+FK22R,1,Spontaneous
+HE12B,0,Known Alarm
+HE12B,1,Spontaneous
+HT08S,0,Spontaneous
+HT08S,1,Spontaneous
+II08L,0,Known Alarm
+II08L,1,Known Alarm
+IM09E,0,Spontaneous
+IM09E,1,Spontaneous
+JA24N,0,Spontaneous
+JA24N,1,Spontaneous
+JA26L,0,Spontaneous
+JA26L,1,Spontaneous
+JC05N,0,Spontaneous
+JC05N,1,Known Alarm
+JE03S,0,Known Alarm
+JE03S,1,Known Alarm
+JE15A,0,Spontaneous
+JE15A,1,Spontaneous
+JG04G,0,Unknown Alarm
+JG04G,1,Unknown Alarm
+JK12R,0,Known Alarm
+JK12R,1,Known Alarm
+JK20G,0,Unknown Alarm
+JK20G,1,Unknown Alarm
+JK25L,0,Known Alarm
+JK25L,1,Known Alarm
+JM07ß,0,Spontaneous
+JM07ß,1,Unknown Alarm
+JM22C,0,Unknown Alarm
+JM22C,1,Unknown Alarm
+JS26S,0,Spontaneous
+JS26S,1,Spontaneous
+JU01F,0,Known Alarm
+JU01F,1,Spontaneous
+KA17A,0,Unknown Alarm
+KA17A,1,Unknown Alarm
+KA19E,0,Unknown Alarm
+KA19E,1,Unknown Alarm
+KB16K,0,Known Alarm
+KB16K,1,Spontaneous
+KD16N,0,Known Alarm
+KD16N,1,Known Alarm
+KE17E,0,Known Alarm
+KE17E,1,Spontaneous
+KL24U,0,Known Alarm
+KL24U,1,Known Alarm
+KS11H,0,Unknown Alarm
+KS11H,1,Unknown Alarm
+KS28N,0,Unknown Alarm
+KS28N,1,Unknown Alarm
+KU08D,0,Known Alarm
+KU08D,1,Spontaneous
+LA09L,0,Known Alarm
+LA09L,1,Known Alarm
+LA23T,0,Known Alarm
+LA23T,1,Spontaneous
+LA26R,0,Unknown Alarm
+LA26R,1,Unknown Alarm
+LB21E,0,Known Alarm
+LB21E,1,Known Alarm
+LC05H,0,Known Alarm
+LC05H,1,Spontaneous
+LE04A,0,Spontaneous
+LE04A,1,Spontaneous
+LG27Z,0,Spontaneous
+LG27Z,1,Spontaneous
+LI20Z,0,Known Alarm
+LI20Z,1,Spontaneous
+LK24L,0,Spontaneous
+LK24L,1,Known Alarm
+LL31H,0,Spontaneous
+LL31H,1,Unknown Alarm
+LM18T,0,Spontaneous
+LM18T,1,Spontaneous
+LP06T,0,Unknown Alarm
+LP06T,1,Unknown Alarm
+LP25R,0,Spontaneous
+LP25R,1,Known Alarm
+LS13L,0,Spontaneous
+LS13L,1,Known Alarm
+LW28E,0,Unknown Alarm
+LW28E,1,Unknown Alarm
+LW28R,0,Unknown Alarm
+LW28R,1,Spontaneous
+MC04A,0,Unknown Alarm
+MC04A,1,Spontaneous
+MD22R,0,Known Alarm
+MD22R,1,Known Alarm
+MD26R,0,Unknown Alarm
+MD26R,1,Spontaneous
+ME06K,0,Known Alarm
+ME06K,1,Known Alarm
+ME18L,0,Unknown Alarm
+ME18L,1,Spontaneous
+MG08K,0,Known Alarm
+MG08K,1,Known Alarm
+MH14A,0,Spontaneous
+MH14A,1,Known Alarm
+MH25K,0,Spontaneous
+MH25K,1,Spontaneous
+MI15D,0,Spontaneous
+MI15D,1,Spontaneous
+MS09E,0,Spontaneous
+MS09E,1,Spontaneous
+MS23B,0,Spontaneous
+MS23B,1,Spontaneous
+MS28B,0,Spontaneous
+MS28B,1,Unknown Alarm
+NM11M,0,Known Alarm
+NM11M,1,Known Alarm
+OB20R,0,Unknown Alarm
+OB20R,1,Known Alarm
+PA13R,0,Known Alarm
+PA13R,1,Known Alarm
+PG11T,0,Spontaneous
+PG11T,1,Spontaneous
+PS06G,0,Spontaneous
+PS06G,1,Spontaneous
+RA03A,0,Spontaneous
+RA03A,1,Unknown Alarm
+RF17R,0,Spontaneous
+RF17R,1,Unknown Alarm
+RM13N,0,Spontaneous
+RM13N,1,Spontaneous
+SB11Z,0,Known Alarm
+SB11Z,1,Known Alarm
+SC10R,0,Spontaneous
+SC10R,1,Unknown Alarm
+SD30K,0,Spontaneous
+SD30K,1,Spontaneous
+SE06H,0,Unknown Alarm
+SE06H,1,Unknown Alarm
+SG29P,0,Spontaneous
+SG29P,1,Spontaneous
+SL10R,0,Known Alarm
+SL10R,1,Known Alarm
+SR08R,0,Spontaneous
+SR08R,1,Spontaneous
+SR19R,0,Unknown Alarm
+SR19R,1,Unknown Alarm
+SS11H,0,Known Alarm
+SS11H,1,Known Alarm
+SS21A,0,Known Alarm
+SS21A,1,Known Alarm
+SS22K,0,Spontaneous
+SS22K,1,Spontaneous
+SU29n,0,Known Alarm
+SU29n,1,Known Alarm
+SV03R,0,Spontaneous
+SV03R,1,Spontaneous
+Sk12k,0,Spontaneous
+Sk12k,1,Spontaneous
+TB29R,0,Known Alarm
+TB29R,1,Spontaneous
+TM01F,0,Spontaneous
+TM01F,1,Spontaneous
+TM30L,0,Unknown Alarm
+TM30L,1,Unknown Alarm
+UH09L,0,Known Alarm
+UH09L,1,Known Alarm
+VA30T,0,Known Alarm
+VA30T,1,Spontaneous
+VE19A,0,Spontaneous
+VE19A,1,Spontaneous
+VS09S,0,Unknown Alarm
+VS09S,1,Unknown Alarm
+WM13K,0,Unknown Alarm
+WM13K,1,Unknown Alarm

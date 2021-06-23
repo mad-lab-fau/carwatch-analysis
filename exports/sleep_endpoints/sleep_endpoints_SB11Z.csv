@@ -1,0 +1,2 @@
+night,sleep_onset,wake_onset,total_sleep_time,major_rest_period_start,major_rest_period_end,sleep_efficiency,sleep_onset_latency,getup_latency,wake_after_sleep_onset,number_wake_bouts,sleep_bouts,wake_bouts
+0,2019-11-22 04:38:02+01:00,2019-11-22 07:41:02+01:00,184,2019-11-22 04:32:12.001953024+01:00,2019-11-22 07:42:27.001953024+01:00,96.84210526315788,6,2,0,0,"[(Timestamp('2019-11-22 04:38:02+0100', tz='Europe/Berlin'), Timestamp('2019-11-22 07:42:02+0100', tz='Europe/Berlin'))]",[]

@@ -1,0 +1,3 @@
+night,sleep_onset,wake_onset,total_sleep_time,major_rest_period_start,major_rest_period_end,sleep_efficiency,sleep_onset_latency,getup_latency,wake_after_sleep_onset,number_wake_bouts,sleep_bouts,wake_bouts
+0,2019-12-20 00:46:37+01:00,2019-12-20 05:42:37+01:00,297,2019-12-20 00:45:47.812499968+01:00,2019-12-20 05:43:02.871092992+01:00,100.0,1,1,0,0,"[(Timestamp('2019-12-20 00:46:37+0100', tz='Europe/Berlin'), Timestamp('2019-12-20 05:43:37+0100', tz='Europe/Berlin'))]",[]
+1,2019-12-20 23:03:20+01:00,2019-12-21 06:18:20+01:00,436,2019-12-20 23:02:29.970703104+01:00,2019-12-21 06:19:07.236327936+01:00,100.0,1,1,0,0,"[(Timestamp('2019-12-20 23:03:20+0100', tz='Europe/Berlin'), Timestamp('2019-12-21 06:19:20+0100', tz='Europe/Berlin'))]",[]

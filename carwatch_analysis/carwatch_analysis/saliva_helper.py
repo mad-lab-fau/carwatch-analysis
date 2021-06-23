@@ -17,7 +17,6 @@ def import_cortisol_raw(path: path_t) -> pd.DataFrame:
 
 def import_cortisol_features(path: path_t) -> pd.DataFrame:
     cort_features = pd.read_csv(path)
-    cort_features['biomarker'] = cort_features['biomarker'].str.replace("cortisol_", "")
     cort_features = cort_features.set_index(list(cort_features.columns[:-1]))
     return cort_features
 
@@ -59,8 +58,7 @@ def analysis_saliva_features(data: pd.DataFrame, variable: str,
         ('posthoc', posthoc)
     ]
     params = {
-        'groupby': 'biomarker',
-        'group': variable,
+        'groupby': 'saliva_feature',
         'dv': 'cortisol',
         'between': variable,
         'padjust': 'bonf'

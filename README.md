@@ -14,7 +14,7 @@ The repository is structured as follows:
     * `data_processing`: Notebooks to clean, process and extract relevant data:
         * `IMU_Feature_Extraction_Pipeline.ipynb`: Notebook for IMU feature extraction and sleep endpoint computation. Results are exported as per-subject files in the folders `../exports/features` and `../exports/sleep_endpoints`. Concatenated results are exported to the following files:  
         **Outputs**:
-            * `../exports/imu_features_complete.csv`: IMU features characterizing pre-awakening movement. All features listed here are computed for two different ways of assessing wakeup time: `imu` and `selfreport` as well as for two different time intervals: the last hour before awakening and the last 30min before awakening.
+            * `../exports/imu_features_complete.csv`: IMU features characterizing pre-awakening movement. All features listed here are computed for two different ways of assessing wakeup time: `imu` and `selfreport` as well as for two different time intervals: for the whole night (`total`), the last hour before awakening (`last_hour`), and the last 30min before awakening (`last_30min`).
                 * Number of static moments (larger than 60s) (`ss_max`, `ss_max_60`)
                 * Position of the largest static moment relative to night (`ss_max_position`)
                 * Mean duration of static moments (larger than 60s) (`ss_mean`, `ss_mean_60`)

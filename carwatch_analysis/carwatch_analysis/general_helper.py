@@ -21,3 +21,12 @@ def describe_groups_df(data: pd.DataFrame, variable: str, order: Optional[Sequen
     if order:
         data = data.reindex(order)
     return data
+
+
+def subject_count_per_group(data: pd.DataFrame, variable: str, order: Optional[Sequence[str]] = None):
+    subject_count = (
+        data.unstack().groupby(variable).apply(lambda df: len(df.index.get_level_values("subject").unique()))
+    )
+    if order:
+        subject_count = pd.DataFrame(subject_count, columns=["subject_count"]).reindex(order)
+    return subject_count

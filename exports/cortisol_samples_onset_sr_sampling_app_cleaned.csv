@@ -1,0 +1,1461 @@
+subject,condition,chronotype,MEQ,night,wakeup_source,weekend,date,wakeup_hour,sample,cortisol,log_mode,time
+AB31R,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2020-01-08,5,S0,10.28,self_report,0.0
+AB31R,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2020-01-08,5,S1,12.37,self_report,17.000000000000004
+AB31R,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2020-01-08,5,S2,10.41,self_report,32.0
+AB31R,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2020-01-08,5,S3,10.22,self_report,47.0
+AB31R,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2020-01-08,5,S4,8.21,self_report,62.0
+AC12E,Known Alarm,Intermediate,46.0,0,Alarm,Weekday,2019-11-18,7,S0,5.38,self_report,0.0
+AC12E,Known Alarm,Intermediate,46.0,0,Alarm,Weekday,2019-11-18,7,S1,9.62,self_report,18.0
+AC12E,Known Alarm,Intermediate,46.0,0,Alarm,Weekday,2019-11-18,7,S2,14.43,self_report,30.0
+AC12E,Known Alarm,Intermediate,46.0,0,Alarm,Weekday,2019-11-18,7,S3,13.87,self_report,45.0
+AC12E,Known Alarm,Intermediate,46.0,0,Alarm,Weekday,2019-11-18,7,S4,12.17,self_report,65.0
+AC12E,Known Alarm,Intermediate,46.0,1,Alarm,Weekday,2019-11-19,7,S0,8.15,self_report,0.0
+AC12E,Known Alarm,Intermediate,46.0,1,Alarm,Weekday,2019-11-19,7,S1,11.24,self_report,15.0
+AC12E,Known Alarm,Intermediate,46.0,1,Alarm,Weekday,2019-11-19,7,S2,18.65,self_report,31.000000000000004
+AC12E,Known Alarm,Intermediate,46.0,1,Alarm,Weekday,2019-11-19,7,S3,19.82,self_report,46.0
+AC12E,Known Alarm,Intermediate,46.0,1,Alarm,Weekday,2019-11-19,7,S4,15.89,self_report,61.0
+AH10Y,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-11-25,7,S0,15.49,self_report,0.0
+AH10Y,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-11-25,7,S1,30.96,self_report,15.0
+AH10Y,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-11-25,7,S2,32.28,self_report,30.0
+AH10Y,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-11-25,7,S3,20.26,self_report,46.0
+AH10Y,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-11-25,7,S4,16.53,self_report,62.0
+AK12I,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-11-30,9,S0,7.7,self_report,0.0
+AK12I,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-11-30,9,S1,14.0,self_report,15.0
+AK12I,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-11-30,9,S2,14.89,self_report,30.0
+AK12I,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-11-30,9,S3,17.09,self_report,45.0
+AK12I,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-11-30,9,S4,16.61,self_report,60.0
+AK12I,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekend,2019-12-01,8,S0,10.09,self_report,0.0
+AK12I,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekend,2019-12-01,8,S1,13.54,self_report,15.0
+AK12I,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekend,2019-12-01,8,S2,16.39,self_report,30.0
+AK12I,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekend,2019-12-01,8,S3,15.15,self_report,45.0
+AK12I,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekend,2019-12-01,8,S4,10.11,self_report,60.0
+AU09R,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-20,5,S0,6.31,self_report,0.0
+AU09R,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-20,5,S1,5.17,self_report,15.0
+AU09R,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-20,5,S2,6.82,self_report,30.0
+AU09R,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-20,5,S3,6.01,self_report,45.0
+AU09R,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-20,5,S4,4.61,self_report,60.0
+AU09R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-21,6,S0,4.4,self_report,0.0
+AU09R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-21,6,S1,11.94,self_report,15.0
+AU09R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-21,6,S2,20.07,self_report,30.0
+AU09R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-21,6,S3,23.15,self_report,45.0
+AU09R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-21,6,S4,26.88,self_report,60.0
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S0,5.88,self_report,0.0
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S1,12.54,self_report,15.0
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S2,12.91,self_report,30.0
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S3,12.3,self_report,45.0
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S4,10.38,self_report,60.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S0,5.19,self_report,0.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S1,13.67,self_report,15.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S2,19.2,self_report,30.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S3,19.82,self_report,45.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S4,14.35,self_report,60.0
+BR11A,Spontaneous,Morning,40.0,0,Spontaneous,Weekday,2019-11-28,9,S0,4.81,self_report,0.0
+BR11A,Spontaneous,Morning,40.0,0,Spontaneous,Weekday,2019-11-28,9,S1,15.25,self_report,15.0
+BR11A,Spontaneous,Morning,40.0,0,Spontaneous,Weekday,2019-11-28,9,S2,12.85,self_report,30.0
+BR11A,Spontaneous,Morning,40.0,0,Spontaneous,Weekday,2019-11-28,9,S3,17.24,self_report,45.0
+BR11A,Spontaneous,Morning,40.0,0,Spontaneous,Weekday,2019-11-28,9,S4,16.5,self_report,60.0
+BR11A,Spontaneous,Morning,40.0,1,Spontaneous,Weekday,2019-11-29,7,S0,0.82,self_report,0.0
+BR11A,Spontaneous,Morning,40.0,1,Spontaneous,Weekday,2019-11-29,7,S1,4.06,self_report,15.0
+BR11A,Spontaneous,Morning,40.0,1,Spontaneous,Weekday,2019-11-29,7,S2,11.85,self_report,30.0
+BR11A,Spontaneous,Morning,40.0,1,Spontaneous,Weekday,2019-11-29,7,S3,14.71,self_report,45.0
+BR11A,Spontaneous,Morning,40.0,1,Spontaneous,Weekday,2019-11-29,7,S4,12.1,self_report,60.0
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S0,4.17,self_report,0.0
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S1,2.33,self_report,14.0
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S2,1.68,self_report,31.000000000000004
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S3,1.7,self_report,47.00000000000001
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S4,1.5,self_report,61.00000000000001
+BU07E,Spontaneous,Evening,61.0,1,Spontaneous,Weekend,2019-12-07,9,S0,4.67,self_report,0.0
+BU07E,Spontaneous,Evening,61.0,1,Spontaneous,Weekend,2019-12-07,9,S1,7.56,self_report,15.0
+BU07E,Spontaneous,Evening,61.0,1,Spontaneous,Weekend,2019-12-07,9,S2,9.04,self_report,30.0
+BU07E,Spontaneous,Evening,61.0,1,Spontaneous,Weekend,2019-12-07,9,S3,6.72,self_report,45.0
+BU07E,Spontaneous,Evening,61.0,1,Spontaneous,Weekend,2019-12-07,9,S4,5.72,self_report,60.0
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S0,4.0,self_report,0.0
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S1,10.42,self_report,15.0
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S2,18.41,self_report,30.0
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S3,28.74,self_report,45.0
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S4,20.07,self_report,60.0
+CC10A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-12-07,8,S0,9.95,self_report,0.0
+CC10A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-12-07,8,S1,7.85,self_report,15.0
+CC10A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-12-07,8,S2,9.62,self_report,30.0
+CC10A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-12-07,8,S3,8.24,self_report,45.0
+CC10A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekend,2019-12-07,8,S4,8.7,self_report,60.0
+CC21W,Spontaneous,Intermediate,58.0,0,Not Specified,Weekday,2019-11-26,6,S0,9.12,self_report,0.0
+CC21W,Spontaneous,Intermediate,58.0,0,Not Specified,Weekday,2019-11-26,6,S1,17.66,self_report,17.000000000000004
+CC21W,Spontaneous,Intermediate,58.0,0,Not Specified,Weekday,2019-11-26,6,S2,20.06,self_report,32.0
+CC21W,Spontaneous,Intermediate,58.0,0,Not Specified,Weekday,2019-11-26,6,S3,17.87,self_report,48.0
+CC21W,Spontaneous,Intermediate,58.0,0,Not Specified,Weekday,2019-11-26,6,S4,11.34,self_report,64.0
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S0,7.70715,self_report,0.0
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S1,15.527,self_report,15.0
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S2,14.7865,self_report,30.0
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S3,9.39795,self_report,46.0
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S4,10.763,self_report,62.0
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S0,3.64685,self_report,0.0
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S1,10.855,self_report,16.000000000000004
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S2,12.429,self_report,31.000000000000004
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S3,7.64275,self_report,46.0
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S4,5.6421,self_report,61.0
+CK11R,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S0,3.54,self_report,0.0
+CK11R,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S1,7.36,self_report,15.0
+CK11R,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S2,11.6,self_report,30.0
+CK11R,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S3,14.93,self_report,45.0
+CK11R,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S4,14.53,self_report,61.0
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S0,15.11,self_report,0.0
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S1,13.42,self_report,19.0
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S2,11.1,self_report,35.0
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S3,6.61,self_report,50.0
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S4,6.95,self_report,65.0
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S0,6.52,self_report,0.0
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S1,21.31,self_report,14.0
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S2,20.46,self_report,30.000000000000004
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S3,20.95,self_report,45.0
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S4,16.07,self_report,60.0
+CU27R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-11-19,6,S0,6.43,self_report,0.0
+CU27R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-11-19,6,S1,9.46,self_report,15.0
+CU27R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-11-19,6,S2,10.59,self_report,30.0
+CU27R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-11-19,6,S3,13.84,self_report,45.0
+CU27R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-11-19,6,S4,11.49,self_report,60.0
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S0,5.1,self_report,0.0
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S1,11.49,self_report,16.000000000000004
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S2,7.28,self_report,32.00000000000001
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S3,7.29,self_report,47.00000000000001
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S4,9.85,self_report,62.00000000000001
+DK11R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-17,9,S0,6.51,self_report,0.0
+DK11R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-17,9,S1,23.91,self_report,15.0
+DK11R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-17,9,S2,30.34,self_report,30.0
+DK11R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-17,9,S3,22.76,self_report,45.0
+DK11R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-17,9,S4,15.43,self_report,60.0
+DK11R,Known Alarm,Intermediate,42.0,1,Alarm,Weekday,2019-12-18,6,S0,3.32,self_report,0.0
+DK11R,Known Alarm,Intermediate,42.0,1,Alarm,Weekday,2019-12-18,6,S1,9.12,self_report,15.0
+DK11R,Known Alarm,Intermediate,42.0,1,Alarm,Weekday,2019-12-18,6,S2,13.7,self_report,30.0
+DK11R,Known Alarm,Intermediate,42.0,1,Alarm,Weekday,2019-12-18,6,S3,15.89,self_report,45.0
+DK11R,Known Alarm,Intermediate,42.0,1,Alarm,Weekday,2019-12-18,6,S4,19.48,self_report,60.0
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S0,3.6,self_report,0.0
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S1,8.45,self_report,15.0
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S2,10.59,self_report,30.0
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S3,9.85,self_report,45.0
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S4,9.5,self_report,60.0
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S0,4.9,self_report,0.0
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S1,12.02,self_report,15.0
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S2,11.29,self_report,30.0
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S3,10.96,self_report,45.0
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S4,11.11,self_report,60.0
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S0,2.5,self_report,0.0
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S1,6.46,self_report,15.0
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S2,12.55,self_report,30.0
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S3,16.01,self_report,45.0
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S4,16.02,self_report,60.0
+DN28H,Unknown Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-11-19,5,S0,3.55,self_report,0.0
+DN28H,Unknown Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-11-19,5,S1,6.89,self_report,15.0
+DN28H,Unknown Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-11-19,5,S2,12.22,self_report,30.0
+DN28H,Unknown Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-11-19,5,S3,18.46,self_report,45.0
+DN28H,Unknown Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-11-19,5,S4,19.16,self_report,60.0
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S0,6.42735,self_report,0.0
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S1,6.9475,self_report,16.000000000000004
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S2,6.1874,self_report,31.000000000000004
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S3,6.62905,self_report,46.0
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S4,5.1787,self_report,62.0
+EG25R,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,5,S0,10.7,self_report,0.0
+EG25R,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,5,S1,11.89,self_report,16.000000000000004
+EG25R,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,5,S2,18.21,self_report,32.00000000000001
+EG25R,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,5,S3,18.81,self_report,46.00000000000001
+EG25R,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,5,S4,16.79,self_report,60.00000000000001
+EG25R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,7,S0,5.09,self_report,0.0
+EG25R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,7,S1,12.64,self_report,15.0
+EG25R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,7,S2,17.18,self_report,32.0
+EG25R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,7,S3,13.9,self_report,48.0
+EG25R,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,7,S4,12.28,self_report,64.0
+EM07N,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-11,8,S0,10.81,self_report,0.0
+EM07N,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-11,8,S1,13.73,self_report,16.000000000000004
+EM07N,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-11,8,S2,17.1,self_report,31.000000000000004
+EM07N,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-11,8,S3,14.64,self_report,46.0
+EM07N,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-11,8,S4,12.15,self_report,61.0
+EM16N,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2019-11-12,10,S0,6.0435,self_report,0.0
+EM16N,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2019-11-12,10,S1,15.1375,self_report,16.000000000000004
+EM16N,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2019-11-12,10,S2,16.259,self_report,31.000000000000004
+EM16N,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2019-11-12,10,S3,14.2735,self_report,46.0
+EM16N,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2019-11-12,10,S4,11.1482,self_report,62.0
+FA12L,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-07,6,S0,4.3,self_report,0.0
+FA12L,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-07,6,S1,4.03,self_report,15.0
+FA12L,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-07,6,S2,10.51,self_report,30.0
+FA12L,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-07,6,S3,9.69,self_report,45.0
+FA12L,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-07,6,S4,15.36,self_report,60.0
+FA23L,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-22,8,S0,7.2,self_report,0.0
+FA23L,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-22,8,S1,10.75,self_report,15.0
+FA23L,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-22,8,S2,8.13,self_report,30.0
+FA23L,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-22,8,S3,6.34,self_report,45.0
+FA23L,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-22,8,S4,4.92,self_report,60.0
+FA23L,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-23,7,S0,3.8,self_report,0.0
+FA23L,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-23,7,S1,6.91,self_report,15.0
+FA23L,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-23,7,S2,9.69,self_report,30.0
+FA23L,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-23,7,S3,6.36,self_report,45.0
+FA23L,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-23,7,S4,4.14,self_report,60.0
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S0,19.7,self_report,0.0
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S1,15.8,self_report,16.000000000000004
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S2,13.83,self_report,31.000000000000004
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S3,12.95,self_report,47.00000000000001
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S4,10.12,self_report,62.00000000000001
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S0,7.31,self_report,0.0
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S1,5.44,self_report,15.0
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S2,7.42,self_report,30.0
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S3,8.26,self_report,46.0
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S4,8.33,self_report,61.0
+FK22R,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-26,7,S0,10.21,self_report,0.0
+FK22R,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-26,7,S1,13.32,self_report,16.000000000000004
+FK22R,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-26,7,S2,14.8,self_report,31.000000000000004
+FK22R,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-26,7,S3,16.7,self_report,46.0
+FK22R,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-26,7,S4,16.84,self_report,62.0
+FK22R,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-11-27,8,S0,10.99,self_report,0.0
+FK22R,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-11-27,8,S1,14.91,self_report,15.0
+FK22R,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-11-27,8,S2,14.0,self_report,32.0
+FK22R,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-11-27,8,S3,10.98,self_report,47.0
+FK22R,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-11-27,8,S4,9.01,self_report,64.0
+HT08S,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2020-01-06,8,S0,9.31,self_report,0.0
+HT08S,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2020-01-06,8,S1,2.7,self_report,15.0
+HT08S,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2020-01-06,8,S2,2.6,self_report,30.0
+HT08S,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2020-01-06,8,S3,2.33,self_report,48.0
+HT08S,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2020-01-06,8,S4,3.23,self_report,65.0
+II08L,Known Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-03,5,S0,2.78,self_report,0.0
+II08L,Known Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-03,5,S1,3.18,self_report,16.000000000000004
+II08L,Known Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-03,5,S2,10.45,self_report,31.000000000000004
+II08L,Known Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-03,5,S3,12.69,self_report,46.0
+II08L,Known Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-03,5,S4,11.2,self_report,61.0
+II08L,Known Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-12-04,5,S0,1.07,self_report,0.0
+II08L,Known Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-12-04,5,S1,5.35,self_report,15.0
+II08L,Known Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-12-04,5,S2,12.45,self_report,30.0
+II08L,Known Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-12-04,5,S3,16.32,self_report,45.0
+II08L,Known Alarm,Intermediate,56.0,1,Alarm,Weekday,2019-12-04,5,S4,15.4,self_report,60.0
+IM09E,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-21,5,S0,10.22,self_report,0.0
+IM09E,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-21,5,S1,19.63,self_report,15.0
+IM09E,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-21,5,S2,11.56,self_report,30.0
+IM09E,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-21,5,S3,8.6,self_report,45.0
+IM09E,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-21,5,S4,6.02,self_report,60.0
+IM09E,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-22,6,S0,7.22,self_report,0.0
+IM09E,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-22,6,S1,8.23,self_report,15.0
+IM09E,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-22,6,S2,6.94,self_report,30.0
+IM09E,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-22,6,S3,5.24,self_report,45.0
+IM09E,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-22,6,S4,3.67,self_report,60.0
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S0,6.97,self_report,0.0
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S1,17.17,self_report,15.0
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S2,19.22,self_report,30.0
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S3,15.6,self_report,45.0
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S4,11.66,self_report,60.0
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S0,6.9,self_report,0.0
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S1,12.4,self_report,15.0
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S2,17.24,self_report,30.0
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S3,13.59,self_report,46.0
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S4,10.47,self_report,61.0
+JA26L,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-10,7,S0,7.74,self_report,0.0
+JA26L,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-10,7,S1,14.18,self_report,16.000000000000004
+JA26L,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-10,7,S2,12.99,self_report,32.00000000000001
+JA26L,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-10,7,S3,11.26,self_report,48.000000000000014
+JA26L,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-12-10,7,S4,13.82,self_report,64.00000000000001
+JA26L,Spontaneous,Intermediate,51.0,1,Spontaneous,Weekday,2019-12-11,8,S0,9.48,self_report,0.0
+JA26L,Spontaneous,Intermediate,51.0,1,Spontaneous,Weekday,2019-12-11,8,S1,8.99,self_report,16.000000000000004
+JA26L,Spontaneous,Intermediate,51.0,1,Spontaneous,Weekday,2019-12-11,8,S2,13.91,self_report,32.00000000000001
+JA26L,Spontaneous,Intermediate,51.0,1,Spontaneous,Weekday,2019-12-11,8,S3,8.46,self_report,48.000000000000014
+JA26L,Spontaneous,Intermediate,51.0,1,Spontaneous,Weekday,2019-12-11,8,S4,8.16,self_report,64.00000000000001
+JC05N,Known Alarm,Evening,59.0,1,Alarm,Weekday,2019-12-17,6,S0,7.92,self_report,0.0
+JC05N,Known Alarm,Evening,59.0,1,Alarm,Weekday,2019-12-17,6,S1,12.27,self_report,16.000000000000004
+JC05N,Known Alarm,Evening,59.0,1,Alarm,Weekday,2019-12-17,6,S2,16.04,self_report,31.000000000000004
+JC05N,Known Alarm,Evening,59.0,1,Alarm,Weekday,2019-12-17,6,S3,13.67,self_report,46.0
+JC05N,Known Alarm,Evening,59.0,1,Alarm,Weekday,2019-12-17,6,S4,10.07,self_report,61.0
+JE03S,Known Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-11-18,8,S0,9.26,self_report,0.0
+JE03S,Known Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-11-18,8,S1,10.12,self_report,18.0
+JE03S,Known Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-11-18,8,S2,12.22,self_report,34.0
+JE03S,Known Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-11-18,8,S3,11.44,self_report,50.0
+JE03S,Known Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-11-18,8,S4,8.9,self_report,67.0
+JE03S,Known Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-11-19,6,S0,4.17,self_report,0.0
+JE03S,Known Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-11-19,6,S1,5.46,self_report,16.000000000000004
+JE03S,Known Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-11-19,6,S2,11.05,self_report,32.00000000000001
+JE03S,Known Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-11-19,6,S3,12.37,self_report,48.000000000000014
+JE03S,Known Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-11-19,6,S4,13.42,self_report,67.00000000000001
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S0,6.34,self_report,0.0
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S1,14.52,self_report,14.0
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S2,15.24,self_report,29.0
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S3,12.12,self_report,45.0
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S4,8.95,self_report,60.0
+JG04G,Unknown Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-29,8,S0,8.17,self_report,0.0
+JG04G,Unknown Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-29,8,S1,12.74,self_report,14.0
+JG04G,Unknown Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-29,8,S2,12.93,self_report,29.0
+JG04G,Unknown Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-29,8,S3,13.46,self_report,44.0
+JG04G,Unknown Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-29,8,S4,11.41,self_report,59.0
+JK12R,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-12-18,6,S0,2.07,self_report,0.0
+JK12R,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-12-18,6,S1,2.2,self_report,15.0
+JK12R,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-12-18,6,S2,4.18,self_report,30.0
+JK12R,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-12-18,6,S3,7.11,self_report,45.0
+JK12R,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-12-18,6,S4,9.66,self_report,60.0
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S0,4.79,self_report,0.0
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S1,11.94,self_report,15.0
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S2,17.58,self_report,30.0
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S3,21.29,self_report,45.0
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S4,22.78,self_report,60.0
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S0,5.52,self_report,0.0
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S1,9.63,self_report,15.0
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S2,14.25,self_report,30.0
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S3,16.31,self_report,45.0
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S4,15.43,self_report,60.0
+JM22C,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-17,8,S0,2.83,self_report,0.0
+JM22C,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-17,8,S1,6.13,self_report,15.0
+JM22C,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-17,8,S2,15.85,self_report,30.0
+JM22C,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-17,8,S3,23.72,self_report,45.0
+JM22C,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-17,8,S4,28.29,self_report,60.0
+JM22C,Unknown Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-18,9,S0,1.67,self_report,0.0
+JM22C,Unknown Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-18,9,S1,2.76,self_report,15.0
+JM22C,Unknown Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-18,9,S2,8.9,self_report,30.0
+JM22C,Unknown Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-18,9,S3,22.48,self_report,45.0
+JM22C,Unknown Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-18,9,S4,20.09,self_report,60.0
+JS26S,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-13,6,S0,12.24,self_report,0.0
+JS26S,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-13,6,S1,17.85,self_report,15.0
+JS26S,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-13,6,S2,25.21,self_report,30.0
+JS26S,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-13,6,S3,22.15,self_report,45.0
+JS26S,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-13,6,S4,17.06,self_report,60.0
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S0,8.26,self_report,0.0
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S1,11.82,self_report,16.000000000000004
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S2,14.89,self_report,32.00000000000001
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S3,15.8,self_report,48.000000000000014
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S4,14.94,self_report,64.00000000000001
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S0,15.13,self_report,0.0
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S1,18.25,self_report,16.000000000000004
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S2,12.44,self_report,33.00000000000001
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S3,13.83,self_report,48.00000000000001
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S4,8.71,self_report,63.00000000000001
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S0,8.96805,self_report,0.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S1,20.804,self_report,14.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S2,27.5405,self_report,28.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S3,27.2635,self_report,43.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S4,26.554,self_report,58.0
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S0,6.3045,self_report,0.0
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S1,13.4805,self_report,15.0
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S2,23.136,self_report,30.0
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S3,32.784,self_report,45.0
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S4,28.7875,self_report,60.0
+KA19E,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-11,8,S0,9.4194,self_report,0.0
+KA19E,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-11,8,S1,15.4545,self_report,15.0
+KA19E,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-11,8,S2,19.102,self_report,30.0
+KA19E,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-11,8,S3,19.161,self_report,45.0
+KA19E,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-11,8,S4,11.1515,self_report,60.0
+KB16K,Known Alarm,Evening,62.0,0,Alarm,Weekday,2020-01-06,8,S0,13.26,self_report,0.0
+KB16K,Known Alarm,Evening,62.0,0,Alarm,Weekday,2020-01-06,8,S1,10.22,self_report,15.0
+KB16K,Known Alarm,Evening,62.0,0,Alarm,Weekday,2020-01-06,8,S2,6.43,self_report,30.0
+KB16K,Known Alarm,Evening,62.0,0,Alarm,Weekday,2020-01-06,8,S3,4.49,self_report,45.0
+KB16K,Known Alarm,Evening,62.0,0,Alarm,Weekday,2020-01-06,8,S4,4.56,self_report,60.0
+KB16K,Spontaneous,Evening,62.0,1,Spontaneous,Weekday,2020-01-07,7,S0,4.06,self_report,0.0
+KB16K,Spontaneous,Evening,62.0,1,Spontaneous,Weekday,2020-01-07,7,S1,5.89,self_report,15.0
+KB16K,Spontaneous,Evening,62.0,1,Spontaneous,Weekday,2020-01-07,7,S2,5.46,self_report,30.0
+KB16K,Spontaneous,Evening,62.0,1,Spontaneous,Weekday,2020-01-07,7,S3,4.59,self_report,45.0
+KB16K,Spontaneous,Evening,62.0,1,Spontaneous,Weekday,2020-01-07,7,S4,3.62,self_report,60.0
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S0,10.22,self_report,0.0
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S1,9.93,self_report,16.000000000000004
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S2,9.31,self_report,31.000000000000004
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S3,7.04,self_report,46.0
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S4,6.45,self_report,61.0
+KE17E,Known Alarm,Evening,62.0,0,Alarm,Weekday,2019-11-22,8,S0,8.17,self_report,0.0
+KE17E,Known Alarm,Evening,62.0,0,Alarm,Weekday,2019-11-22,8,S1,9.06,self_report,15.0
+KE17E,Known Alarm,Evening,62.0,0,Alarm,Weekday,2019-11-22,8,S2,10.28,self_report,30.0
+KE17E,Known Alarm,Evening,62.0,0,Alarm,Weekday,2019-11-22,8,S3,8.18,self_report,45.0
+KE17E,Known Alarm,Evening,62.0,0,Alarm,Weekday,2019-11-22,8,S4,6.77,self_report,60.0
+KE17E,Spontaneous,Evening,62.0,1,Spontaneous,Weekend,2019-11-23,9,S0,8.78,self_report,0.0
+KE17E,Spontaneous,Evening,62.0,1,Spontaneous,Weekend,2019-11-23,9,S1,10.84,self_report,15.0
+KE17E,Spontaneous,Evening,62.0,1,Spontaneous,Weekend,2019-11-23,9,S2,11.18,self_report,30.0
+KE17E,Spontaneous,Evening,62.0,1,Spontaneous,Weekend,2019-11-23,9,S3,9.67,self_report,45.0
+KE17E,Spontaneous,Evening,62.0,1,Spontaneous,Weekend,2019-11-23,9,S4,6.89,self_report,60.0
+KS11H,Unknown Alarm,Intermediate,57.0,1,Alarm,Weekday,2019-12-10,6,S0,5.82,self_report,0.0
+KS11H,Unknown Alarm,Intermediate,57.0,1,Alarm,Weekday,2019-12-10,6,S1,9.75,self_report,15.0
+KS11H,Unknown Alarm,Intermediate,57.0,1,Alarm,Weekday,2019-12-10,6,S2,13.51,self_report,31.000000000000004
+KS11H,Unknown Alarm,Intermediate,57.0,1,Alarm,Weekday,2019-12-10,6,S3,12.78,self_report,46.0
+KS11H,Unknown Alarm,Intermediate,57.0,1,Alarm,Weekday,2019-12-10,6,S4,10.71,self_report,61.0
+KS28N,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-12-03,8,S0,7.25,self_report,0.0
+KS28N,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-12-03,8,S1,16.58,self_report,15.0
+KS28N,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-12-03,8,S2,22.4,self_report,30.0
+KS28N,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-12-03,8,S3,20.37,self_report,45.0
+KS28N,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-12-03,8,S4,15.15,self_report,60.0
+KU08D,Known Alarm,Intermediate,54.0,0,Alarm,Weekday,2020-01-08,7,S0,3.76,self_report,0.0
+KU08D,Known Alarm,Intermediate,54.0,0,Alarm,Weekday,2020-01-08,7,S1,3.89,self_report,15.0
+KU08D,Known Alarm,Intermediate,54.0,0,Alarm,Weekday,2020-01-08,7,S2,6.9,self_report,30.0
+KU08D,Known Alarm,Intermediate,54.0,0,Alarm,Weekday,2020-01-08,7,S3,7.18,self_report,45.0
+KU08D,Known Alarm,Intermediate,54.0,0,Alarm,Weekday,2020-01-08,7,S4,6.99,self_report,60.0
+KU08D,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2020-01-09,8,S0,4.1,self_report,0.0
+KU08D,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2020-01-09,8,S1,4.56,self_report,16.000000000000004
+KU08D,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2020-01-09,8,S2,4.13,self_report,31.000000000000004
+KU08D,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2020-01-09,8,S3,3.51,self_report,46.0
+KU08D,Spontaneous,Intermediate,54.0,1,Spontaneous,Weekday,2020-01-09,8,S4,3.81,self_report,62.0
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S0,6.04,self_report,0.0
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S1,11.6,self_report,16.000000000000004
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S2,11.21,self_report,32.00000000000001
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S3,8.69,self_report,48.000000000000014
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S4,6.08,self_report,63.000000000000014
+LA26R,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-11-18,9,S0,8.77,self_report,0.0
+LA26R,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-11-18,9,S1,11.02,self_report,15.0
+LA26R,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-11-18,9,S2,15.69,self_report,33.0
+LA26R,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-11-18,9,S3,17.12,self_report,48.0
+LA26R,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-11-18,9,S4,14.98,self_report,63.0
+LA26R,Unknown Alarm,Intermediate,53.0,1,Alarm,Weekday,2019-11-19,6,S0,3.02,self_report,0.0
+LA26R,Unknown Alarm,Intermediate,53.0,1,Alarm,Weekday,2019-11-19,6,S1,3.34,self_report,15.0
+LA26R,Unknown Alarm,Intermediate,53.0,1,Alarm,Weekday,2019-11-19,6,S2,14.07,self_report,30.0
+LA26R,Unknown Alarm,Intermediate,53.0,1,Alarm,Weekday,2019-11-19,6,S3,9.71,self_report,45.0
+LA26R,Unknown Alarm,Intermediate,53.0,1,Alarm,Weekday,2019-11-19,6,S4,9.76,self_report,60.0
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S0,7.3801,self_report,0.0
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S1,13.663,self_report,14.0
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S2,18.2155,self_report,30.000000000000004
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S3,12.704,self_report,45.0
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S4,18.187,self_report,60.0
+LE04A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-10,8,S0,17.1,self_report,0.0
+LE04A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-10,8,S1,20.49,self_report,15.0
+LE04A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-10,8,S2,14.31,self_report,30.0
+LE04A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-10,8,S3,11.25,self_report,45.0
+LE04A,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2019-12-10,8,S4,7.5,self_report,60.0
+LE04A,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-12-11,5,S0,1.64,self_report,0.0
+LE04A,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-12-11,5,S1,4.4,self_report,15.0
+LE04A,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-12-11,5,S2,5.97,self_report,30.0
+LE04A,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-12-11,5,S3,5.23,self_report,45.0
+LE04A,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2019-12-11,5,S4,4.4,self_report,60.0
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S0,9.9,self_report,0.0
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S1,12.4,self_report,15.0
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S2,14.31,self_report,30.0
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S3,12.86,self_report,45.0
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S4,10.03,self_report,60.0
+LG27Z,Spontaneous,Evening,60.0,1,Spontaneous,Weekday,2019-12-11,8,S0,11.42,self_report,0.0
+LG27Z,Spontaneous,Evening,60.0,1,Spontaneous,Weekday,2019-12-11,8,S1,8.8,self_report,15.0
+LG27Z,Spontaneous,Evening,60.0,1,Spontaneous,Weekday,2019-12-11,8,S2,9.82,self_report,30.0
+LG27Z,Spontaneous,Evening,60.0,1,Spontaneous,Weekday,2019-12-11,8,S3,8.73,self_report,45.0
+LG27Z,Spontaneous,Evening,60.0,1,Spontaneous,Weekday,2019-12-11,8,S4,5.68,self_report,60.0
+LK24L,Spontaneous,Intermediate,53.0,0,Spontaneous,Weekday,2019-12-17,6,S0,7.3,self_report,0.0
+LK24L,Spontaneous,Intermediate,53.0,0,Spontaneous,Weekday,2019-12-17,6,S1,9.93,self_report,15.0
+LK24L,Spontaneous,Intermediate,53.0,0,Spontaneous,Weekday,2019-12-17,6,S2,15.73,self_report,29.0
+LK24L,Spontaneous,Intermediate,53.0,0,Spontaneous,Weekday,2019-12-17,6,S3,18.0,self_report,45.0
+LK24L,Spontaneous,Intermediate,53.0,0,Spontaneous,Weekday,2019-12-17,6,S4,19.03,self_report,60.0
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S0,2.74,self_report,0.0
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S1,2.21,self_report,15.0
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S2,2.7,self_report,30.0
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S3,2.6,self_report,45.0
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S4,2.33,self_report,61.0
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S0,3.04,self_report,0.0
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S1,2.89,self_report,17.000000000000004
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S2,2.11,self_report,31.000000000000004
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S3,1.44,self_report,47.00000000000001
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S4,3.54,self_report,64.00000000000001
+LP25R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-11,7,S0,14.16,self_report,0.0
+LP25R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-11,7,S1,19.9,self_report,16.000000000000004
+LP25R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-11,7,S2,17.96,self_report,32.00000000000001
+LP25R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-11,7,S3,13.37,self_report,49.000000000000014
+LP25R,Known Alarm,Intermediate,58.0,1,Alarm,Weekday,2019-12-11,7,S4,8.46,self_report,66.00000000000001
+LS13L,Known Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-11-29,10,S0,6.99,self_report,0.0
+LS13L,Known Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-11-29,10,S1,8.83,self_report,15.0
+LS13L,Known Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-11-29,10,S2,9.3,self_report,30.0
+LS13L,Known Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-11-29,10,S3,9.55,self_report,45.0
+LS13L,Known Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-11-29,10,S4,7.18,self_report,60.0
+LW28E,Unknown Alarm,Intermediate,51.0,0,Alarm,Weekday,2019-11-21,7,S0,6.33,self_report,0.0
+LW28E,Unknown Alarm,Intermediate,51.0,0,Alarm,Weekday,2019-11-21,7,S1,8.18,self_report,15.0
+LW28E,Unknown Alarm,Intermediate,51.0,0,Alarm,Weekday,2019-11-21,7,S2,7.85,self_report,32.0
+LW28E,Unknown Alarm,Intermediate,51.0,0,Alarm,Weekday,2019-11-21,7,S3,5.48,self_report,49.0
+LW28E,Unknown Alarm,Intermediate,51.0,0,Alarm,Weekday,2019-11-21,7,S4,4.6,self_report,66.0
+LW28E,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S0,8.34,self_report,0.0
+LW28E,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S1,11.7,self_report,15.0
+LW28E,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S2,12.87,self_report,30.0
+LW28E,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S3,10.39,self_report,45.0
+LW28E,Unknown Alarm,Intermediate,51.0,1,Alarm,Weekday,2019-11-22,7,S4,6.87,self_report,60.0
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S0,4.27,self_report,0.0
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S1,10.8,self_report,15.0
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S2,14.08,self_report,30.0
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S3,8.67,self_report,45.0
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S4,6.32,self_report,60.0
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S0,5.29,self_report,0.0
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S1,5.49,self_report,15.0
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S2,4.86,self_report,30.0
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S3,4.14,self_report,45.0
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S4,3.84,self_report,61.0
+MD26R,Unknown Alarm,Morning,39.0,0,Alarm,Weekday,2019-12-02,8,S0,9.5,self_report,0.0
+MD26R,Unknown Alarm,Morning,39.0,0,Alarm,Weekday,2019-12-02,8,S1,12.55,self_report,15.0
+MD26R,Unknown Alarm,Morning,39.0,0,Alarm,Weekday,2019-12-02,8,S2,22.71,self_report,30.0
+MD26R,Unknown Alarm,Morning,39.0,0,Alarm,Weekday,2019-12-02,8,S3,20.83,self_report,45.0
+MD26R,Unknown Alarm,Morning,39.0,0,Alarm,Weekday,2019-12-02,8,S4,25.37,self_report,61.0
+MD26R,Spontaneous,Morning,39.0,1,Alarm,Weekday,2019-12-03,6,S0,3.65,self_report,0.0
+MD26R,Spontaneous,Morning,39.0,1,Alarm,Weekday,2019-12-03,6,S1,7.36,self_report,16.000000000000004
+MD26R,Spontaneous,Morning,39.0,1,Alarm,Weekday,2019-12-03,6,S2,10.14,self_report,31.000000000000004
+MD26R,Spontaneous,Morning,39.0,1,Alarm,Weekday,2019-12-03,6,S3,22.79,self_report,47.00000000000001
+MD26R,Spontaneous,Morning,39.0,1,Alarm,Weekday,2019-12-03,6,S4,25.12,self_report,60.00000000000001
+ME06K,Known Alarm,Intermediate,51.0,1,Alarm,Weekend,2019-11-30,9,S0,5.86,self_report,0.0
+ME06K,Known Alarm,Intermediate,51.0,1,Alarm,Weekend,2019-11-30,9,S1,11.64,self_report,17.000000000000004
+ME06K,Known Alarm,Intermediate,51.0,1,Alarm,Weekend,2019-11-30,9,S2,13.58,self_report,33.00000000000001
+ME06K,Known Alarm,Intermediate,51.0,1,Alarm,Weekend,2019-11-30,9,S3,13.61,self_report,47.00000000000001
+ME06K,Known Alarm,Intermediate,51.0,1,Alarm,Weekend,2019-11-30,9,S4,7.98,self_report,65.0
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S0,13.82,self_report,0.0
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S1,5.12,self_report,15.0
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S2,6.47,self_report,30.0
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S3,7.17,self_report,46.0
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S4,6.08,self_report,61.0
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S0,6.03,self_report,0.0
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S1,4.75,self_report,16.000000000000004
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S2,5.02,self_report,31.000000000000004
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S3,7.1,self_report,46.0
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S4,9.72,self_report,61.0
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S0,6.74,self_report,0.0
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S1,5.8,self_report,16.000000000000004
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S2,5.36,self_report,31.000000000000004
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S3,4.47,self_report,47.00000000000001
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S4,3.95,self_report,64.00000000000001
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S0,5.64,self_report,0.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S1,7.05,self_report,15.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S2,8.58,self_report,33.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S3,6.9,self_report,48.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S4,5.97,self_report,64.0
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S0,7.81,self_report,0.0
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S1,11.84,self_report,15.0
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S2,12.53,self_report,30.0
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S3,9.01,self_report,47.0
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S4,6.88,self_report,62.0
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S0,6.24,self_report,0.0
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S1,10.59,self_report,15.0
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S2,16.44,self_report,31.000000000000004
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S3,15.05,self_report,46.0
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S4,11.27,self_report,61.0
+MS09E,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-11-29,8,S0,7.57,self_report,0.0
+MS09E,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-11-29,8,S1,11.12,self_report,17.000000000000004
+MS09E,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-11-29,8,S2,16.56,self_report,31.000000000000004
+MS09E,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-11-29,8,S3,17.56,self_report,46.0
+MS09E,Spontaneous,Intermediate,51.0,0,Spontaneous,Weekday,2019-11-29,8,S4,15.79,self_report,61.0
+MS23B,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2020-01-09,7,S0,3.9218,self_report,0.0
+MS23B,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2020-01-09,7,S1,2.73815,self_report,15.0
+MS23B,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2020-01-09,7,S2,2.21315,self_report,30.0
+MS23B,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2020-01-09,7,S3,25.754,self_report,45.0
+MS23B,Spontaneous,Intermediate,52.0,0,Spontaneous,Weekday,2020-01-09,7,S4,19.484,self_report,60.0
+MS23B,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2020-01-10,9,S0,5.9494,self_report,0.0
+MS23B,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2020-01-10,9,S1,10.561,self_report,15.0
+MS23B,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2020-01-10,9,S2,13.477,self_report,30.0
+MS23B,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2020-01-10,9,S3,6.8713,self_report,45.0
+MS23B,Spontaneous,Intermediate,52.0,1,Spontaneous,Weekday,2020-01-10,9,S4,10.133,self_report,60.0
+NM11M,Known Alarm,Intermediate,52.0,0,Spontaneous,Weekday,2019-11-18,9,S0,8.8,self_report,0.0
+NM11M,Known Alarm,Intermediate,52.0,0,Spontaneous,Weekday,2019-11-18,9,S1,15.77,self_report,18.0
+NM11M,Known Alarm,Intermediate,52.0,0,Spontaneous,Weekday,2019-11-18,9,S2,10.25,self_report,34.0
+NM11M,Known Alarm,Intermediate,52.0,0,Spontaneous,Weekday,2019-11-18,9,S3,7.88,self_report,51.0
+NM11M,Known Alarm,Intermediate,52.0,0,Spontaneous,Weekday,2019-11-18,9,S4,7.45,self_report,67.0
+NM11M,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-19,6,S0,1.67,self_report,0.0
+NM11M,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-19,6,S1,2.21,self_report,16.000000000000004
+NM11M,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-19,6,S2,4.53,self_report,32.00000000000001
+NM11M,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-19,6,S3,5.22,self_report,49.000000000000014
+NM11M,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-19,6,S4,7.84,self_report,65.00000000000001
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S0,10.02,self_report,0.0
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S1,12.99,self_report,15.0
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S2,12.47,self_report,30.0
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S3,11.12,self_report,46.0
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S4,8.42,self_report,62.0
+OB20R,Known Alarm,Intermediate,55.0,1,Alarm,Weekday,2019-11-27,6,S0,8.22,self_report,0.0
+OB20R,Known Alarm,Intermediate,55.0,1,Alarm,Weekday,2019-11-27,6,S1,12.58,self_report,15.0
+OB20R,Known Alarm,Intermediate,55.0,1,Alarm,Weekday,2019-11-27,6,S2,18.77,self_report,30.0
+OB20R,Known Alarm,Intermediate,55.0,1,Alarm,Weekday,2019-11-27,6,S3,19.78,self_report,45.0
+OB20R,Known Alarm,Intermediate,55.0,1,Alarm,Weekday,2019-11-27,6,S4,13.32,self_report,60.0
+PA13R,Known Alarm,Intermediate,47.0,0,Alarm,Weekday,2019-11-12,7,S0,8.67,self_report,0.0
+PA13R,Known Alarm,Intermediate,47.0,0,Alarm,Weekday,2019-11-12,7,S1,16.3,self_report,15.0
+PA13R,Known Alarm,Intermediate,47.0,0,Alarm,Weekday,2019-11-12,7,S2,9.71,self_report,30.0
+PA13R,Known Alarm,Intermediate,47.0,0,Alarm,Weekday,2019-11-12,7,S3,18.13,self_report,45.0
+PA13R,Known Alarm,Intermediate,47.0,0,Alarm,Weekday,2019-11-12,7,S4,12.99,self_report,60.0
+PG11T,Spontaneous,Evening,61.0,0,Spontaneous,Weekday,2019-11-26,4,S0,3.03,self_report,0.0
+PG11T,Spontaneous,Evening,61.0,0,Spontaneous,Weekday,2019-11-26,4,S1,9.5,self_report,15.0
+PG11T,Spontaneous,Evening,61.0,0,Spontaneous,Weekday,2019-11-26,4,S2,12.72,self_report,31.000000000000004
+PG11T,Spontaneous,Evening,61.0,0,Spontaneous,Weekday,2019-11-26,4,S3,14.43,self_report,48.00000000000001
+PG11T,Spontaneous,Evening,61.0,0,Spontaneous,Weekday,2019-11-26,4,S4,10.27,self_report,64.00000000000001
+PG11T,Spontaneous,Evening,61.0,1,Spontaneous,Weekday,2019-11-27,4,S0,5.46,self_report,0.0
+PG11T,Spontaneous,Evening,61.0,1,Spontaneous,Weekday,2019-11-27,4,S1,4.91,self_report,14.0
+PG11T,Spontaneous,Evening,61.0,1,Spontaneous,Weekday,2019-11-27,4,S2,10.28,self_report,30.000000000000004
+PG11T,Spontaneous,Evening,61.0,1,Spontaneous,Weekday,2019-11-27,4,S3,8.25,self_report,50.0
+PG11T,Spontaneous,Evening,61.0,1,Spontaneous,Weekday,2019-11-27,4,S4,5.59,self_report,68.0
+RA03A,Spontaneous,Intermediate,47.0,0,Alarm,Weekend,2019-12-29,7,S0,3.7,self_report,0.0
+RA03A,Spontaneous,Intermediate,47.0,0,Alarm,Weekend,2019-12-29,7,S1,7.11,self_report,15.0
+RA03A,Spontaneous,Intermediate,47.0,0,Alarm,Weekend,2019-12-29,7,S2,13.38,self_report,30.0
+RA03A,Spontaneous,Intermediate,47.0,0,Alarm,Weekend,2019-12-29,7,S3,10.2,self_report,45.0
+RA03A,Spontaneous,Intermediate,47.0,0,Alarm,Weekend,2019-12-29,7,S4,7.56,self_report,60.0
+RA03A,Unknown Alarm,Intermediate,47.0,1,Alarm,Weekday,2019-12-30,7,S0,2.89,self_report,0.0
+RA03A,Unknown Alarm,Intermediate,47.0,1,Alarm,Weekday,2019-12-30,7,S1,7.95,self_report,15.0
+RA03A,Unknown Alarm,Intermediate,47.0,1,Alarm,Weekday,2019-12-30,7,S2,17.37,self_report,31.000000000000004
+RA03A,Unknown Alarm,Intermediate,47.0,1,Alarm,Weekday,2019-12-30,7,S3,11.64,self_report,46.0
+RA03A,Unknown Alarm,Intermediate,47.0,1,Alarm,Weekday,2019-12-30,7,S4,8.82,self_report,62.0
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S0,5.25,self_report,0.0
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S1,15.29,self_report,15.0
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S2,18.51,self_report,30.0
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S3,17.66,self_report,45.0
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S4,11.97,self_report,60.0
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S0,1.88,self_report,0.0
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S1,8.51,self_report,15.0
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S2,15.57,self_report,30.0
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S3,23.01,self_report,45.0
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S4,24.7,self_report,60.0
+RM13N,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-22,8,S0,5.12,self_report,0.0
+RM13N,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-22,8,S1,10.45,self_report,12.0
+RM13N,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-22,8,S2,15.82,self_report,27.0
+RM13N,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-22,8,S3,12.97,self_report,42.0
+RM13N,Spontaneous,Evening,64.0,0,Spontaneous,Weekday,2019-11-22,8,S4,10.71,self_report,57.0
+RM13N,Spontaneous,Evening,64.0,1,Spontaneous,Weekend,2019-11-23,7,S0,7.72,self_report,0.0
+RM13N,Spontaneous,Evening,64.0,1,Spontaneous,Weekend,2019-11-23,7,S1,16.17,self_report,15.0
+RM13N,Spontaneous,Evening,64.0,1,Spontaneous,Weekend,2019-11-23,7,S2,19.31,self_report,30.0
+RM13N,Spontaneous,Evening,64.0,1,Spontaneous,Weekend,2019-11-23,7,S3,14.4,self_report,45.0
+RM13N,Spontaneous,Evening,64.0,1,Spontaneous,Weekend,2019-11-23,7,S4,11.1,self_report,60.0
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S0,2.16,self_report,0.0
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S1,3.11,self_report,15.0
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S2,2.96,self_report,30.0
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S3,2.91,self_report,45.0
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S4,2.65,self_report,55.0
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S0,2.49,self_report,0.0
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S1,3.8,self_report,15.0
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S2,4.15,self_report,30.0
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S3,4.56,self_report,45.0
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S4,3.47,self_report,60.0
+SD30K,Spontaneous,Evening,59.0,0,Spontaneous,Weekday,2019-11-18,7,S0,4.9,self_report,0.0
+SD30K,Spontaneous,Evening,59.0,0,Spontaneous,Weekday,2019-11-18,7,S1,9.59,self_report,15.0
+SD30K,Spontaneous,Evening,59.0,0,Spontaneous,Weekday,2019-11-18,7,S2,8.6,self_report,32.0
+SD30K,Spontaneous,Evening,59.0,0,Spontaneous,Weekday,2019-11-18,7,S3,7.16,self_report,46.0
+SD30K,Spontaneous,Evening,59.0,0,Spontaneous,Weekday,2019-11-18,7,S4,4.52,self_report,61.0
+SD30K,Spontaneous,Evening,59.0,1,Spontaneous,Weekday,2019-11-19,7,S0,5.33,self_report,0.0
+SD30K,Spontaneous,Evening,59.0,1,Spontaneous,Weekday,2019-11-19,7,S1,7.09,self_report,15.0
+SD30K,Spontaneous,Evening,59.0,1,Spontaneous,Weekday,2019-11-19,7,S2,7.27,self_report,30.0
+SD30K,Spontaneous,Evening,59.0,1,Spontaneous,Weekday,2019-11-19,7,S3,5.46,self_report,46.0
+SD30K,Spontaneous,Evening,59.0,1,Spontaneous,Weekday,2019-11-19,7,S4,4.82,self_report,61.0
+SE06H,Unknown Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-12-16,7,S0,9.64,self_report,0.0
+SE06H,Unknown Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-12-16,7,S1,20.91,self_report,15.0
+SE06H,Unknown Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-12-16,7,S2,24.97,self_report,30.0
+SE06H,Unknown Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-12-16,7,S3,31.89,self_report,45.0
+SE06H,Unknown Alarm,Intermediate,50.0,0,Alarm,Weekday,2019-12-16,7,S4,21.64,self_report,60.0
+SE06H,Unknown Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-12-17,5,S0,0.16,self_report,0.0
+SE06H,Unknown Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-12-17,5,S1,2.94,self_report,16.000000000000004
+SE06H,Unknown Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-12-17,5,S2,8.68,self_report,32.00000000000001
+SE06H,Unknown Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-12-17,5,S3,15.0,self_report,48.000000000000014
+SE06H,Unknown Alarm,Intermediate,50.0,1,Alarm,Weekday,2019-12-17,5,S4,18.79,self_report,63.000000000000014
+SR08R,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-25,7,S0,10.64,self_report,0.0
+SR08R,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-25,7,S1,14.97,self_report,15.0
+SR08R,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-25,7,S2,13.04,self_report,30.0
+SR08R,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-25,7,S3,14.02,self_report,46.0
+SR08R,Spontaneous,Intermediate,48.0,0,Spontaneous,Weekday,2019-11-25,7,S4,11.82,self_report,61.0
+SR08R,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekday,2019-11-26,7,S0,11.34,self_report,0.0
+SR08R,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekday,2019-11-26,7,S1,21.72,self_report,17.000000000000004
+SR08R,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekday,2019-11-26,7,S2,16.05,self_report,33.00000000000001
+SR08R,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekday,2019-11-26,7,S3,10.01,self_report,51.00000000000001
+SR08R,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekday,2019-11-26,7,S4,7.04,self_report,67.00000000000001
+SS11H,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2020-01-07,8,S0,3.89,self_report,0.0
+SS11H,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2020-01-07,8,S1,6.9,self_report,15.0
+SS11H,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2020-01-07,8,S2,7.18,self_report,30.0
+SS11H,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2020-01-07,8,S3,6.99,self_report,45.0
+SS11H,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2020-01-07,8,S4,5.69,self_report,60.0
+SS11H,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-08,5,S0,4.56,self_report,0.0
+SS11H,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-08,5,S1,4.13,self_report,15.0
+SS11H,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-08,5,S2,3.51,self_report,30.0
+SS11H,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-08,5,S3,3.81,self_report,45.0
+SS11H,Known Alarm,Intermediate,57.0,1,Alarm,Weekday,2020-01-08,5,S4,6.78,self_report,60.0
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S0,3.94,self_report,0.0
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S1,15.27,self_report,15.0
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S2,20.71,self_report,30.0
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S3,15.32,self_report,45.0
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S4,10.37,self_report,60.0
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S0,16.67,self_report,0.0
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S1,14.4,self_report,15.0
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S2,13.35,self_report,30.0
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S3,11.15,self_report,45.0
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S4,8.48,self_report,60.0
+SV03R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-20,10,S0,5.7087,self_report,0.0
+SV03R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-20,10,S1,5.8871,self_report,14.0
+SV03R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-20,10,S2,9.00705,self_report,28.0
+SV03R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-20,10,S3,7.9482,self_report,44.0
+SV03R,Spontaneous,Intermediate,42.0,0,Spontaneous,Weekday,2019-12-20,10,S4,8.06325,self_report,60.0
+SV03R,Spontaneous,Intermediate,42.0,1,Spontaneous,Weekend,2019-12-21,9,S0,11.011,self_report,0.0
+SV03R,Spontaneous,Intermediate,42.0,1,Spontaneous,Weekend,2019-12-21,9,S1,15.7185,self_report,15.0
+SV03R,Spontaneous,Intermediate,42.0,1,Spontaneous,Weekend,2019-12-21,9,S2,21.421,self_report,30.0
+SV03R,Spontaneous,Intermediate,42.0,1,Spontaneous,Weekend,2019-12-21,9,S3,20.248,self_report,45.0
+SV03R,Spontaneous,Intermediate,42.0,1,Spontaneous,Weekend,2019-12-21,9,S4,20.7445,self_report,61.0
+Sk12k,Spontaneous,Intermediate,47.0,0,Alarm,Weekday,2019-11-18,10,S0,5.45,self_report,0.0
+Sk12k,Spontaneous,Intermediate,47.0,0,Alarm,Weekday,2019-11-18,10,S1,8.06,self_report,16.000000000000004
+Sk12k,Spontaneous,Intermediate,47.0,0,Alarm,Weekday,2019-11-18,10,S2,6.17,self_report,33.00000000000001
+Sk12k,Spontaneous,Intermediate,47.0,0,Alarm,Weekday,2019-11-18,10,S3,4.37,self_report,49.000000000000014
+Sk12k,Spontaneous,Intermediate,47.0,0,Alarm,Weekday,2019-11-18,10,S4,4.04,self_report,64.00000000000001
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S0,9.8,self_report,0.0
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S1,15.6,self_report,15.0
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S2,17.66,self_report,30.0
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S3,16.48,self_report,45.0
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S4,14.12,self_report,60.0
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S0,14.38,self_report,0.0
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S1,19.03,self_report,15.0
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S2,24.44,self_report,31.000000000000004
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S3,19.26,self_report,46.0
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S4,12.23,self_report,61.0
+TM30L,Unknown Alarm,Intermediate,52.0,1,Alarm,Weekend,2019-12-21,7,S0,10.12,self_report,0.0
+TM30L,Unknown Alarm,Intermediate,52.0,1,Alarm,Weekend,2019-12-21,7,S1,5.28,self_report,16.000000000000004
+TM30L,Unknown Alarm,Intermediate,52.0,1,Alarm,Weekend,2019-12-21,7,S2,15.79,self_report,31.000000000000004
+TM30L,Unknown Alarm,Intermediate,52.0,1,Alarm,Weekend,2019-12-21,7,S3,18.92,self_report,46.0
+TM30L,Unknown Alarm,Intermediate,52.0,1,Alarm,Weekend,2019-12-21,7,S4,21.14,self_report,62.0
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S0,4.02,self_report,0.0
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S1,4.4,self_report,16.000000000000004
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S2,5.74,self_report,31.000000000000004
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S3,4.63,self_report,48.00000000000001
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S4,3.7,self_report,61.00000000000001
+VA30T,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-30,8,S0,7.66,self_report,0.0
+VA30T,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-30,8,S1,17.97,self_report,15.0
+VA30T,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-30,8,S2,18.34,self_report,30.0
+VA30T,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-30,8,S3,16.29,self_report,45.0
+VA30T,Spontaneous,Intermediate,48.0,1,Spontaneous,Weekend,2019-11-30,8,S4,11.39,self_report,60.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S0,3.82,self_report,0.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S1,11.14,self_report,15.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S2,14.52,self_report,30.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S3,14.72,self_report,46.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S4,10.41,self_report,61.0
+VE19A,Spontaneous,Evening,63.0,1,Spontaneous,Weekday,2019-11-26,6,S0,8.6,self_report,0.0
+VE19A,Spontaneous,Evening,63.0,1,Spontaneous,Weekday,2019-11-26,6,S1,9.46,self_report,16.000000000000004
+VE19A,Spontaneous,Evening,63.0,1,Spontaneous,Weekday,2019-11-26,6,S2,8.87,self_report,31.000000000000004
+VE19A,Spontaneous,Evening,63.0,1,Spontaneous,Weekday,2019-11-26,6,S3,7.19,self_report,47.00000000000001
+VE19A,Spontaneous,Evening,63.0,1,Spontaneous,Weekday,2019-11-26,6,S4,5.93,self_report,62.00000000000001
+VS09S,Unknown Alarm,Intermediate,54.0,0,Alarm,Weekday,2019-11-18,8,S0,8.06,self_report,0.0
+VS09S,Unknown Alarm,Intermediate,54.0,0,Alarm,Weekday,2019-11-18,8,S1,12.23,self_report,15.0
+VS09S,Unknown Alarm,Intermediate,54.0,0,Alarm,Weekday,2019-11-18,8,S2,13.14,self_report,30.0
+VS09S,Unknown Alarm,Intermediate,54.0,0,Alarm,Weekday,2019-11-18,8,S3,13.0,self_report,45.0
+VS09S,Unknown Alarm,Intermediate,54.0,0,Alarm,Weekday,2019-11-18,8,S4,11.04,self_report,60.0
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S0,6.88,self_report,0.0
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S1,8.83,self_report,15.0
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S2,16.22,self_report,30.0
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S3,20.21,self_report,47.0
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S4,25.39,self_report,62.0
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S0,5.88,app,1.2166666666666666
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S1,12.54,app,16.566666666666666
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S2,12.91,app,31.816666666666666
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S3,12.3,app,46.93333333333333
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S4,10.38,app,62.05
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S0,5.19,app,0.8
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S1,13.67,app,16.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S2,19.2,app,31.166666666666668
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S3,19.82,app,46.25
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S4,14.35,app,61.36666666666667
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S0,4.17,app,1.2666666666666666
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S1,2.33,app,16.55
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S2,1.68,app,31.85
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S3,1.7,app,47.21666666666667
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S4,1.5,app,62.416666666666664
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S0,4.0,app,0.7333333333333333
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S1,10.42,app,16.166666666666668
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S2,18.41,app,31.466666666666665
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S3,28.74,app,62.06666666666667
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S4,20.07,app,78.98333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S0,7.70715,app,1.8333333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S1,15.527,app,17.5
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S2,14.7865,app,33.3
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S3,9.39795,app,48.8
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S4,10.763,app,64.13333333333334
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S0,3.64685,app,1.35
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S1,10.855,app,16.833333333333332
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S2,12.429,app,32.11666666666667
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S3,7.64275,app,47.45
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S4,5.6421,app,62.666666666666664
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S0,15.11,app,2.816666666666667
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S1,13.42,app,18.7
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S2,11.1,app,34.9
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S3,6.61,app,50.233333333333334
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S4,6.95,app,65.38333333333334
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S0,6.52,app,1.5833333333333333
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S1,21.31,app,16.85
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S2,20.46,app,32.03333333333333
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S3,20.95,app,47.2
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S4,16.07,app,62.416666666666664
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S0,5.1,app,1.4
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S1,11.49,app,17.3
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S2,7.28,app,34.06666666666667
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S3,7.29,app,49.55
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S4,9.85,app,64.95
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S0,3.6,app,2.8833333333333333
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S1,8.45,app,18.683333333333334
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S2,10.59,app,34.083333333333336
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S3,9.85,app,49.43333333333333
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S4,9.5,app,64.73333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S0,4.9,app,0.6833333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S1,12.02,app,16.383333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S2,11.29,app,33.483333333333334
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S3,10.96,app,49.15
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S4,11.11,app,64.5
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S0,2.5,app,1.7333333333333334
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S1,6.46,app,16.933333333333334
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S2,12.55,app,32.05
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S3,16.01,app,47.15
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S4,16.02,app,62.53333333333333
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S0,6.42735,app,0.5666666666666667
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S1,6.9475,app,16.466666666666665
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S2,6.1874,app,31.9
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S3,6.62905,app,47.38333333333333
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S4,5.1787,app,62.86666666666667
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S0,19.7,app,0.9666666666666667
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S1,15.8,app,16.233333333333334
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S2,13.83,app,31.566666666666666
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S3,12.95,app,46.916666666666664
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S4,10.12,app,62.25
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S0,7.31,app,1.15
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S1,5.44,app,16.5
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S2,7.42,app,31.833333333333332
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S3,8.26,app,47.083333333333336
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S4,8.33,app,62.416666666666664
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S0,6.97,app,0.31666666666666665
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S1,17.17,app,15.633333333333333
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S2,19.22,app,30.916666666666668
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S3,15.6,app,46.21666666666667
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S4,11.66,app,61.45
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S0,6.9,app,0.16666666666666666
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S1,12.4,app,15.4
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S2,17.24,app,30.533333333333335
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S3,13.59,app,45.75
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S4,10.47,app,60.93333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S0,6.34,app,0.9333333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S1,14.52,app,16.233333333333334
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S2,15.24,app,31.666666666666668
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S3,12.12,app,47.03333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S4,8.95,app,62.31666666666667
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S0,4.79,app,0.35
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S1,11.94,app,15.85
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S2,17.58,app,31.033333333333335
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S3,21.29,app,46.333333333333336
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S4,22.78,app,61.46666666666667
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S0,5.52,app,-1.6166666666666667
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S1,9.63,app,13.783333333333333
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S2,14.25,app,29.016666666666666
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S3,16.31,app,44.25
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S4,15.43,app,59.38333333333333
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S0,8.26,app,1.8
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S1,11.82,app,17.366666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S2,14.89,app,33.03333333333333
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S3,15.8,app,48.86666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S4,14.94,app,64.41666666666667
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S0,15.13,app,0.6166666666666667
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S1,18.25,app,17.5
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S2,12.44,app,32.88333333333333
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S3,13.83,app,48.15
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S4,8.71,app,63.333333333333336
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S0,8.96805,app,1.4
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S1,20.804,app,16.616666666666667
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S2,27.5405,app,32.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S3,27.2635,app,47.233333333333334
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S4,26.554,app,62.416666666666664
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S0,6.3045,app,0.3333333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S1,13.4805,app,15.483333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S2,23.136,app,30.75
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S3,32.784,app,45.88333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S4,28.7875,app,61.083333333333336
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S0,10.22,app,2.566666666666667
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S1,9.93,app,33.583333333333336
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S2,9.31,app,49.13333333333333
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S3,7.04,app,64.36666666666666
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S4,6.45,app,81.18333333333334
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S0,6.04,app,2.6666666666666665
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S1,11.6,app,18.566666666666666
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S2,11.21,app,34.516666666666666
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S3,8.69,app,50.233333333333334
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S4,6.08,app,66.03333333333333
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S0,7.3801,app,2.2666666666666666
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S1,13.663,app,17.716666666666665
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S2,18.2155,app,32.983333333333334
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S3,12.704,app,48.2
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S4,18.187,app,63.45
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S0,9.9,app,0.15
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S1,12.4,app,15.4
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S2,14.31,app,30.566666666666666
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S3,12.86,app,45.81666666666667
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S4,10.03,app,63.1
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S0,2.74,app,0.5833333333333334
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S1,2.21,app,16.083333333333332
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S2,2.7,app,31.733333333333334
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S3,2.6,app,47.05
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S4,2.33,app,62.65
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S0,3.04,app,0.7666666666666667
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S1,2.89,app,16.216666666666665
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S2,2.11,app,31.95
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S3,1.44,app,47.96666666666667
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S4,3.54,app,63.46666666666667
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S0,4.27,app,4.633333333333334
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S1,10.8,app,21.25
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S2,14.08,app,36.9
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S3,8.67,app,52.2
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S4,6.32,app,68.35
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S0,5.29,app,0.5666666666666667
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S1,5.49,app,16.166666666666668
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S2,4.86,app,31.633333333333333
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S3,4.14,app,47.03333333333333
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S4,3.84,app,62.21666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S0,13.82,app,0.8833333333333333
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S1,5.12,app,16.4
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S2,6.47,app,31.966666666666665
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S3,7.17,app,47.46666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S4,6.08,app,62.88333333333333
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S0,6.03,app,0.5833333333333334
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S1,4.75,app,16.016666666666666
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S2,5.02,app,31.55
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S3,7.1,app,47.05
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S4,9.72,app,62.55
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S0,6.74,app,1.8833333333333333
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S1,5.8,app,17.066666666666666
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S2,5.36,app,33.3
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S3,4.47,app,49.55
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S4,3.95,app,65.78333333333333
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S0,5.64,app,1.7333333333333334
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S1,7.05,app,18.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S2,8.58,app,34.25
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S3,6.9,app,49.45
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S4,5.97,app,65.75
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S0,7.81,app,1.3166666666666667
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S1,11.84,app,17.2
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S2,12.53,app,33.96666666666667
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S3,9.01,app,49.333333333333336
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S4,6.88,app,64.55
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S0,6.24,app,0.4
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S1,10.59,app,15.716666666666667
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S2,16.44,app,30.983333333333334
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S3,15.05,app,46.416666666666664
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S4,11.27,app,61.71666666666667
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S0,10.02,app,0.55
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S1,12.99,app,16.016666666666666
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S2,12.47,app,31.666666666666668
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S3,11.12,app,47.166666666666664
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S4,8.42,app,62.5
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S0,5.25,app,2.0833333333333335
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S1,15.29,app,18.033333333333335
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S2,18.51,app,33.65
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S3,17.66,app,49.13333333333333
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S4,11.97,app,64.9
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S0,1.88,app,1.4
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S1,8.51,app,17.716666666666665
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S2,15.57,app,33.233333333333334
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S3,23.01,app,48.68333333333333
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S4,24.7,app,64.13333333333334
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S0,2.16,app,0.6166666666666667
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S1,3.11,app,15.933333333333334
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S2,2.96,app,32.016666666666666
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S3,2.91,app,47.416666666666664
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S4,2.65,app,56.61666666666667
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S0,2.49,app,1.2833333333333334
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S1,3.8,app,16.783333333333335
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S2,4.15,app,32.18333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S3,4.56,app,47.63333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S4,3.47,app,62.95
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S0,3.94,app,0.3333333333333333
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S1,15.27,app,15.616666666666667
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S2,20.71,app,31.5
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S3,15.32,app,46.71666666666667
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S4,10.37,app,61.95
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S0,16.67,app,0.2
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S1,14.4,app,15.533333333333333
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S2,13.35,app,30.683333333333334
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S3,11.15,app,45.81666666666667
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S4,8.48,app,60.983333333333334
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S0,9.8,app,0.6166666666666667
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S1,15.6,app,16.05
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S2,17.66,app,31.233333333333334
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S3,16.48,app,46.45
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S4,14.12,app,61.65
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S0,14.38,app,0.9333333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S1,19.03,app,16.583333333333332
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S2,24.44,app,32.1
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S3,19.26,app,47.43333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S4,12.23,app,62.833333333333336
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S0,4.02,app,0.5333333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S1,4.4,app,16.383333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S2,5.74,app,32.13333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S3,4.63,app,47.833333333333336
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S4,3.7,app,63.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S0,3.82,app,1.2666666666666666
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S1,11.14,app,16.683333333333334
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S2,14.52,app,32.03333333333333
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S3,14.72,app,47.333333333333336
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S4,10.41,app,62.63333333333333
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S0,6.88,app,2.6166666666666667
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S1,8.83,app,32.8
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S2,16.22,app,48.166666666666664
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S3,20.21,app,80.36666666666666
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S4,25.39,app,97.25
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S0,5.88,onset_sr_samples_app,1.4833333333333334
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S1,12.54,onset_sr_samples_app,16.833333333333332
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S2,12.91,onset_sr_samples_app,32.083333333333336
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S3,12.3,onset_sr_samples_app,47.2
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S4,10.38,onset_sr_samples_app,62.31666666666667
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S0,5.19,onset_sr_samples_app,1.5166666666666666
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S1,13.67,onset_sr_samples_app,16.716666666666665
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S2,19.2,onset_sr_samples_app,31.883333333333333
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S3,19.82,onset_sr_samples_app,46.96666666666667
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S4,14.35,onset_sr_samples_app,62.083333333333336
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S0,4.17,onset_sr_samples_app,2.6666666666666665
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S1,2.33,onset_sr_samples_app,17.95
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S2,1.68,onset_sr_samples_app,33.25
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S3,1.7,onset_sr_samples_app,48.61666666666667
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S4,1.5,onset_sr_samples_app,63.81666666666667
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S0,4.0,onset_sr_samples_app,-0.26666666666666666
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S1,10.42,onset_sr_samples_app,15.166666666666666
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S2,18.41,onset_sr_samples_app,30.466666666666665
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S3,28.74,onset_sr_samples_app,61.06666666666667
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S4,20.07,onset_sr_samples_app,77.98333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S0,7.70715,onset_sr_samples_app,0.7166666666666667
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S1,15.527,onset_sr_samples_app,16.383333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S2,14.7865,onset_sr_samples_app,32.18333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S3,9.39795,onset_sr_samples_app,47.68333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S4,10.763,onset_sr_samples_app,63.016666666666666
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S0,3.64685,onset_sr_samples_app,2.25
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S1,10.855,onset_sr_samples_app,17.733333333333334
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S2,12.429,onset_sr_samples_app,33.016666666666666
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S3,7.64275,onset_sr_samples_app,48.35
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S4,5.6421,onset_sr_samples_app,63.56666666666667
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S0,15.11,onset_sr_samples_app,2.816666666666667
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S1,13.42,onset_sr_samples_app,18.7
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S2,11.1,onset_sr_samples_app,34.9
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S3,6.61,onset_sr_samples_app,50.233333333333334
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S4,6.95,onset_sr_samples_app,65.38333333333334
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S0,6.52,onset_sr_samples_app,1.6
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S1,21.31,onset_sr_samples_app,16.866666666666667
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S2,20.46,onset_sr_samples_app,32.05
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S3,20.95,onset_sr_samples_app,47.21666666666667
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S4,16.07,onset_sr_samples_app,62.43333333333333
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S0,5.1,onset_sr_samples_app,-0.6
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S1,11.49,onset_sr_samples_app,15.3
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S2,7.28,onset_sr_samples_app,32.06666666666667
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S3,7.29,onset_sr_samples_app,47.55
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S4,9.85,onset_sr_samples_app,62.95
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S0,3.6,onset_sr_samples_app,-3.1166666666666667
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S1,8.45,onset_sr_samples_app,12.683333333333334
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S2,10.59,onset_sr_samples_app,28.083333333333332
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S3,9.85,onset_sr_samples_app,43.43333333333333
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S4,9.5,onset_sr_samples_app,58.733333333333334
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S0,4.9,onset_sr_samples_app,6.316666666666666
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S1,12.02,onset_sr_samples_app,22.016666666666666
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S2,11.29,onset_sr_samples_app,39.11666666666667
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S3,10.96,onset_sr_samples_app,54.78333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S4,11.11,onset_sr_samples_app,70.13333333333334
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S0,2.5,onset_sr_samples_app,0.7333333333333333
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S1,6.46,onset_sr_samples_app,15.933333333333334
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S2,12.55,onset_sr_samples_app,31.05
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S3,16.01,onset_sr_samples_app,46.15
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S4,16.02,onset_sr_samples_app,61.53333333333333
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S0,6.42735,onset_sr_samples_app,3.35
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S1,6.9475,onset_sr_samples_app,19.25
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S2,6.1874,onset_sr_samples_app,34.68333333333333
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S3,6.62905,onset_sr_samples_app,50.166666666666664
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S4,5.1787,onset_sr_samples_app,65.65
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S0,19.7,onset_sr_samples_app,1.6833333333333333
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S1,15.8,onset_sr_samples_app,16.95
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S2,13.83,onset_sr_samples_app,32.28333333333333
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S3,12.95,onset_sr_samples_app,47.63333333333333
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S4,10.12,onset_sr_samples_app,62.96666666666667
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S0,7.31,onset_sr_samples_app,0.15
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S1,5.44,onset_sr_samples_app,15.5
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S2,7.42,onset_sr_samples_app,30.833333333333332
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S3,8.26,onset_sr_samples_app,46.083333333333336
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S4,8.33,onset_sr_samples_app,61.416666666666664
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S0,6.97,onset_sr_samples_app,2.7
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S1,17.17,onset_sr_samples_app,18.016666666666666
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S2,19.22,onset_sr_samples_app,33.3
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S3,15.6,onset_sr_samples_app,48.6
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S4,11.66,onset_sr_samples_app,63.833333333333336
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S0,6.9,onset_sr_samples_app,1.3666666666666667
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S1,12.4,onset_sr_samples_app,16.6
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S2,17.24,onset_sr_samples_app,31.733333333333334
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S3,13.59,onset_sr_samples_app,46.95
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S4,10.47,onset_sr_samples_app,62.13333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S0,6.34,onset_sr_samples_app,-0.05
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S1,14.52,onset_sr_samples_app,15.25
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S2,15.24,onset_sr_samples_app,30.683333333333334
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S3,12.12,onset_sr_samples_app,46.05
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S4,8.95,onset_sr_samples_app,61.333333333333336
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S0,4.79,onset_sr_samples_app,2.0
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S1,11.94,onset_sr_samples_app,17.5
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S2,17.58,onset_sr_samples_app,32.68333333333333
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S3,21.29,onset_sr_samples_app,47.983333333333334
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S4,22.78,onset_sr_samples_app,63.11666666666667
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S0,5.52,onset_sr_samples_app,2.8666666666666667
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S1,9.63,onset_sr_samples_app,18.266666666666666
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S2,14.25,onset_sr_samples_app,33.5
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S3,16.31,onset_sr_samples_app,48.733333333333334
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S4,15.43,onset_sr_samples_app,63.86666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S0,8.26,onset_sr_samples_app,1.8
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S1,11.82,onset_sr_samples_app,17.366666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S2,14.89,onset_sr_samples_app,33.03333333333333
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S3,15.8,onset_sr_samples_app,48.86666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S4,14.94,onset_sr_samples_app,64.41666666666667
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S0,15.13,onset_sr_samples_app,2.15
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S1,18.25,onset_sr_samples_app,19.033333333333335
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S2,12.44,onset_sr_samples_app,34.416666666666664
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S3,13.83,onset_sr_samples_app,49.68333333333333
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S4,8.71,onset_sr_samples_app,64.86666666666666
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S0,8.96805,onset_sr_samples_app,0.4
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S1,20.804,onset_sr_samples_app,15.616666666666667
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S2,27.5405,onset_sr_samples_app,31.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S3,27.2635,onset_sr_samples_app,46.233333333333334
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S4,26.554,onset_sr_samples_app,61.416666666666664
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S0,6.3045,onset_sr_samples_app,0.3333333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S1,13.4805,onset_sr_samples_app,15.483333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S2,23.136,onset_sr_samples_app,30.75
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S3,32.784,onset_sr_samples_app,45.88333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S4,28.7875,onset_sr_samples_app,61.083333333333336
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S0,10.22,onset_sr_samples_app,2.566666666666667
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S1,9.93,onset_sr_samples_app,33.583333333333336
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S2,9.31,onset_sr_samples_app,49.13333333333333
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S3,7.04,onset_sr_samples_app,64.36666666666666
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S4,6.45,onset_sr_samples_app,81.18333333333334
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S0,6.04,onset_sr_samples_app,2.75
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S1,11.6,onset_sr_samples_app,18.65
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S2,11.21,onset_sr_samples_app,34.6
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S3,8.69,onset_sr_samples_app,50.31666666666667
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S4,6.08,onset_sr_samples_app,66.11666666666666
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S0,7.3801,onset_sr_samples_app,-0.05
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S1,13.663,onset_sr_samples_app,15.4
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S2,18.2155,onset_sr_samples_app,30.666666666666668
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S3,12.704,onset_sr_samples_app,45.88333333333333
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S4,18.187,onset_sr_samples_app,61.13333333333333
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S0,9.9,onset_sr_samples_app,1.8833333333333333
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S1,12.4,onset_sr_samples_app,17.133333333333333
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S2,14.31,onset_sr_samples_app,32.3
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S3,12.86,onset_sr_samples_app,47.55
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S4,10.03,onset_sr_samples_app,64.83333333333333
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S0,2.74,onset_sr_samples_app,-58.3
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S1,2.21,onset_sr_samples_app,-42.8
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S2,2.7,onset_sr_samples_app,-27.15
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S3,2.6,onset_sr_samples_app,-11.833333333333334
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S4,2.33,onset_sr_samples_app,3.7666666666666666
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S0,3.04,onset_sr_samples_app,-58.233333333333334
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S1,2.89,onset_sr_samples_app,-42.78333333333333
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S2,2.11,onset_sr_samples_app,-27.05
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S3,1.44,onset_sr_samples_app,-11.033333333333333
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S4,3.54,onset_sr_samples_app,4.466666666666667
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S0,4.27,onset_sr_samples_app,3.6333333333333333
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S1,10.8,onset_sr_samples_app,20.25
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S2,14.08,onset_sr_samples_app,35.9
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S3,8.67,onset_sr_samples_app,51.2
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S4,6.32,onset_sr_samples_app,67.35
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S0,5.29,onset_sr_samples_app,0.5666666666666667
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S1,5.49,onset_sr_samples_app,16.166666666666668
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S2,4.86,onset_sr_samples_app,31.633333333333333
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S3,4.14,onset_sr_samples_app,47.03333333333333
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S4,3.84,onset_sr_samples_app,62.21666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S0,13.82,onset_sr_samples_app,-0.11666666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S1,5.12,onset_sr_samples_app,15.4
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S2,6.47,onset_sr_samples_app,30.966666666666665
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S3,7.17,onset_sr_samples_app,46.46666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S4,6.08,onset_sr_samples_app,61.88333333333333
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S0,6.03,onset_sr_samples_app,0.75
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S1,4.75,onset_sr_samples_app,16.183333333333334
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S2,5.02,onset_sr_samples_app,31.716666666666665
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S3,7.1,onset_sr_samples_app,47.21666666666667
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S4,9.72,onset_sr_samples_app,62.71666666666667
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S0,6.74,onset_sr_samples_app,1.8833333333333333
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S1,5.8,onset_sr_samples_app,17.066666666666666
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S2,5.36,onset_sr_samples_app,33.3
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S3,4.47,onset_sr_samples_app,49.55
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S4,3.95,onset_sr_samples_app,65.78333333333333
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S0,5.64,onset_sr_samples_app,1.7333333333333334
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S1,7.05,onset_sr_samples_app,18.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S2,8.58,onset_sr_samples_app,34.25
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S3,6.9,onset_sr_samples_app,49.45
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S4,5.97,onset_sr_samples_app,65.75
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S0,7.81,onset_sr_samples_app,2.5833333333333335
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S1,11.84,onset_sr_samples_app,18.466666666666665
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S2,12.53,onset_sr_samples_app,35.233333333333334
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S3,9.01,onset_sr_samples_app,50.6
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S4,6.88,onset_sr_samples_app,65.81666666666666
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S0,6.24,onset_sr_samples_app,2.15
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S1,10.59,onset_sr_samples_app,17.466666666666665
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S2,16.44,onset_sr_samples_app,32.733333333333334
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S3,15.05,onset_sr_samples_app,48.166666666666664
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S4,11.27,onset_sr_samples_app,63.46666666666667
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S0,10.02,onset_sr_samples_app,0.21666666666666667
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S1,12.99,onset_sr_samples_app,15.683333333333334
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S2,12.47,onset_sr_samples_app,31.333333333333332
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S3,11.12,onset_sr_samples_app,46.833333333333336
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S4,8.42,onset_sr_samples_app,62.166666666666664
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S0,5.25,onset_sr_samples_app,-0.9
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S1,15.29,onset_sr_samples_app,15.05
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S2,18.51,onset_sr_samples_app,30.666666666666668
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S3,17.66,onset_sr_samples_app,46.15
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S4,11.97,onset_sr_samples_app,61.916666666666664
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S0,1.88,onset_sr_samples_app,-7.6
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S1,8.51,onset_sr_samples_app,8.716666666666667
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S2,15.57,onset_sr_samples_app,24.233333333333334
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S3,23.01,onset_sr_samples_app,39.68333333333333
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S4,24.7,onset_sr_samples_app,55.13333333333333
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S0,2.16,onset_sr_samples_app,4.016666666666667
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S1,3.11,onset_sr_samples_app,19.333333333333332
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S2,2.96,onset_sr_samples_app,35.416666666666664
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S3,2.91,onset_sr_samples_app,50.81666666666667
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S4,2.65,onset_sr_samples_app,60.016666666666666
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S0,2.49,onset_sr_samples_app,0.2833333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S1,3.8,onset_sr_samples_app,15.783333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S2,4.15,onset_sr_samples_app,31.183333333333334
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S3,4.56,onset_sr_samples_app,46.63333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S4,3.47,onset_sr_samples_app,61.95
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S0,3.94,onset_sr_samples_app,1.6166666666666667
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S1,15.27,onset_sr_samples_app,16.9
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S2,20.71,onset_sr_samples_app,32.78333333333333
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S3,15.32,onset_sr_samples_app,48.0
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S4,10.37,onset_sr_samples_app,63.233333333333334
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S0,16.67,onset_sr_samples_app,-1.2166666666666666
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S1,14.4,onset_sr_samples_app,14.116666666666667
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S2,13.35,onset_sr_samples_app,29.266666666666666
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S3,11.15,onset_sr_samples_app,44.4
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S4,8.48,onset_sr_samples_app,59.56666666666667
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S0,9.8,onset_sr_samples_app,4.45
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S1,15.6,onset_sr_samples_app,19.883333333333333
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S2,17.66,onset_sr_samples_app,35.06666666666667
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S3,16.48,onset_sr_samples_app,50.28333333333333
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S4,14.12,onset_sr_samples_app,65.48333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S0,14.38,onset_sr_samples_app,0.9333333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S1,19.03,onset_sr_samples_app,16.583333333333332
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S2,24.44,onset_sr_samples_app,32.1
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S3,19.26,onset_sr_samples_app,47.43333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S4,12.23,onset_sr_samples_app,62.833333333333336
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S0,4.02,onset_sr_samples_app,1.9833333333333334
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S1,4.4,onset_sr_samples_app,17.833333333333332
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S2,5.74,onset_sr_samples_app,33.583333333333336
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S3,4.63,onset_sr_samples_app,49.28333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S4,3.7,onset_sr_samples_app,64.45
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S0,3.82,onset_sr_samples_app,1.8833333333333333
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S1,11.14,onset_sr_samples_app,17.3
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S2,14.52,onset_sr_samples_app,32.65
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S3,14.72,onset_sr_samples_app,47.95
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S4,10.41,onset_sr_samples_app,63.25
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S0,6.88,onset_sr_samples_app,3.9
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S1,8.83,onset_sr_samples_app,34.083333333333336
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S2,16.22,onset_sr_samples_app,49.45
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S3,20.21,onset_sr_samples_app,81.65
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S4,25.39,onset_sr_samples_app,98.53333333333333
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S0,5.88,onset_app_samples_sr,1.2166666666666666
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S1,12.54,onset_app_samples_sr,16.566666666666666
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S2,12.91,onset_app_samples_sr,31.816666666666666
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S3,12.3,onset_app_samples_sr,46.93333333333333
+BC05R,Spontaneous,Intermediate,47.0,0,Spontaneous,Weekend,2019-12-07,7,S4,10.38,onset_app_samples_sr,62.05
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S0,5.19,onset_app_samples_sr,0.8
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S1,13.67,onset_app_samples_sr,16.0
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S2,19.2,onset_app_samples_sr,31.166666666666668
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S3,19.82,onset_app_samples_sr,46.25
+BC05R,Spontaneous,Intermediate,47.0,1,Spontaneous,Weekend,2019-12-08,8,S4,14.35,onset_app_samples_sr,61.36666666666667
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S0,4.17,onset_app_samples_sr,1.2666666666666666
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S1,2.33,onset_app_samples_sr,16.55
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S2,1.68,onset_app_samples_sr,31.85
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S3,1.7,onset_app_samples_sr,47.21666666666667
+BU07E,Known Alarm,Evening,61.0,0,Alarm,Weekday,2019-12-06,6,S4,1.5,onset_app_samples_sr,62.416666666666664
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S0,4.0,onset_app_samples_sr,0.7333333333333333
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S1,10.42,onset_app_samples_sr,16.166666666666668
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S2,18.41,onset_app_samples_sr,31.466666666666665
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S3,28.74,onset_app_samples_sr,62.06666666666667
+CC09K,Unknown Alarm,Intermediate,58.0,0,Alarm,Weekday,2019-12-02,6,S4,20.07,onset_app_samples_sr,78.98333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S0,7.70715,onset_app_samples_sr,1.8333333333333333
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S1,15.527,onset_app_samples_sr,17.5
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S2,14.7865,onset_app_samples_sr,33.3
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S3,9.39795,onset_app_samples_sr,48.8
+CE10B,Known Alarm,Evening,64.0,0,Alarm,Weekday,2019-11-12,4,S4,10.763,onset_app_samples_sr,64.13333333333334
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S0,3.64685,onset_app_samples_sr,1.35
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S1,10.855,onset_app_samples_sr,16.833333333333332
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S2,12.429,onset_app_samples_sr,32.11666666666667
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S3,7.64275,onset_app_samples_sr,47.45
+CE10B,Spontaneous,Evening,64.0,1,Spontaneous,Weekday,2019-11-13,5,S4,5.6421,onset_app_samples_sr,62.666666666666664
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S0,15.11,onset_app_samples_sr,2.816666666666667
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S1,13.42,onset_app_samples_sr,18.7
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S2,11.1,onset_app_samples_sr,34.9
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S3,6.61,onset_app_samples_sr,50.233333333333334
+CT29K,Known Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-11-14,9,S4,6.95,onset_app_samples_sr,65.38333333333334
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S0,6.52,onset_app_samples_sr,1.5833333333333333
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S1,21.31,onset_app_samples_sr,16.85
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S2,20.46,onset_app_samples_sr,32.03333333333333
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S3,20.95,onset_app_samples_sr,47.2
+CT29K,Known Alarm,Intermediate,52.0,1,Alarm,Weekday,2019-11-15,8,S4,16.07,onset_app_samples_sr,62.416666666666664
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S0,5.1,onset_app_samples_sr,1.4
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S1,11.49,onset_app_samples_sr,17.3
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S2,7.28,onset_app_samples_sr,34.06666666666667
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S3,7.29,onset_app_samples_sr,49.55
+DC28D,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekend,2019-12-21,6,S4,9.85,onset_app_samples_sr,64.95
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S0,3.6,onset_app_samples_sr,2.8833333333333333
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S1,8.45,onset_app_samples_sr,18.683333333333334
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S2,10.59,onset_app_samples_sr,34.083333333333336
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S3,9.85,onset_app_samples_sr,49.43333333333333
+DL16R,Unknown Alarm,Intermediate,56.0,0,Alarm,Weekday,2019-12-10,6,S4,9.5,onset_app_samples_sr,64.73333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S0,4.9,onset_app_samples_sr,0.6833333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S1,12.02,onset_app_samples_sr,16.383333333333333
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S2,11.29,onset_app_samples_sr,33.483333333333334
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S3,10.96,onset_app_samples_sr,49.15
+DL16R,Spontaneous,Intermediate,56.0,1,Alarm,Weekday,2019-12-11,7,S4,11.11,onset_app_samples_sr,64.5
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S0,2.5,onset_app_samples_sr,1.7333333333333334
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S1,6.46,onset_app_samples_sr,16.933333333333334
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S2,12.55,onset_app_samples_sr,32.05
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S3,16.01,onset_app_samples_sr,47.15
+DN28H,Unknown Alarm,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-18,4,S4,16.02,onset_app_samples_sr,62.53333333333333
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S0,6.42735,onset_app_samples_sr,0.5666666666666667
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S1,6.9475,onset_app_samples_sr,16.466666666666665
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S2,6.1874,onset_app_samples_sr,31.9
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S3,6.62905,onset_app_samples_sr,47.38333333333333
+EA09H,Spontaneous,Intermediate,56.0,0,Spontaneous,Weekday,2019-11-12,9,S4,5.1787,onset_app_samples_sr,62.86666666666667
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S0,19.7,onset_app_samples_sr,0.9666666666666667
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S1,15.8,onset_app_samples_sr,16.233333333333334
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S2,13.83,onset_app_samples_sr,31.566666666666666
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S3,12.95,onset_app_samples_sr,46.916666666666664
+FB04R,Spontaneous,Intermediate,49.0,0,Spontaneous,Weekday,2019-12-02,8,S4,10.12,onset_app_samples_sr,62.25
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S0,7.31,onset_app_samples_sr,1.15
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S1,5.44,onset_app_samples_sr,16.5
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S2,7.42,onset_app_samples_sr,31.833333333333332
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S3,8.26,onset_app_samples_sr,47.083333333333336
+FB04R,Unknown Alarm,Intermediate,49.0,1,Alarm,Weekday,2019-12-03,5,S4,8.33,onset_app_samples_sr,62.416666666666664
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S0,6.97,onset_app_samples_sr,0.31666666666666665
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S1,17.17,onset_app_samples_sr,15.633333333333333
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S2,19.22,onset_app_samples_sr,30.916666666666668
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S3,15.6,onset_app_samples_sr,46.21666666666667
+JA24N,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-05,8,S4,11.66,onset_app_samples_sr,61.45
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S0,6.9,onset_app_samples_sr,0.16666666666666666
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S1,12.4,onset_app_samples_sr,15.4
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S2,17.24,onset_app_samples_sr,30.533333333333335
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S3,13.59,onset_app_samples_sr,45.75
+JA24N,Spontaneous,Intermediate,43.0,1,Spontaneous,Weekday,2019-12-06,8,S4,10.47,onset_app_samples_sr,60.93333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S0,6.34,onset_app_samples_sr,0.9333333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S1,14.52,onset_app_samples_sr,16.233333333333334
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S2,15.24,onset_app_samples_sr,31.666666666666668
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S3,12.12,onset_app_samples_sr,47.03333333333333
+JG04G,Unknown Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-28,8,S4,8.95,onset_app_samples_sr,62.31666666666667
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S0,4.79,onset_app_samples_sr,0.35
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S1,11.94,onset_app_samples_sr,15.85
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S2,17.58,onset_app_samples_sr,31.033333333333335
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S3,21.29,onset_app_samples_sr,46.333333333333336
+JM07ß,Spontaneous,Intermediate,43.0,0,Spontaneous,Weekday,2019-12-13,8,S4,22.78,onset_app_samples_sr,61.46666666666667
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S0,5.52,onset_app_samples_sr,-1.6166666666666667
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S1,9.63,onset_app_samples_sr,13.783333333333333
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S2,14.25,onset_app_samples_sr,29.016666666666666
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S3,16.31,onset_app_samples_sr,44.25
+JM07ß,Unknown Alarm,Intermediate,43.0,1,Spontaneous,Weekend,2019-12-14,9,S4,15.43,onset_app_samples_sr,59.38333333333333
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S0,8.26,onset_app_samples_sr,1.8
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S1,11.82,onset_app_samples_sr,17.366666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S2,14.89,onset_app_samples_sr,33.03333333333333
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S3,15.8,onset_app_samples_sr,48.86666666666667
+JU01F,Known Alarm,Evening,60.0,0,Alarm,Weekday,2019-12-13,7,S4,14.94,onset_app_samples_sr,64.41666666666667
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S0,15.13,onset_app_samples_sr,0.6166666666666667
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S1,18.25,onset_app_samples_sr,17.5
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S2,12.44,onset_app_samples_sr,32.88333333333333
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S3,13.83,onset_app_samples_sr,48.15
+JU01F,Spontaneous,Evening,60.0,1,Spontaneous,Weekend,2019-12-14,8,S4,8.71,onset_app_samples_sr,63.333333333333336
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S0,8.96805,onset_app_samples_sr,1.4
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S1,20.804,onset_app_samples_sr,16.616666666666667
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S2,27.5405,onset_app_samples_sr,32.0
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S3,27.2635,onset_app_samples_sr,47.233333333333334
+KA17A,Unknown Alarm,Evening,61.0,0,Alarm,Weekday,2019-11-12,6,S4,26.554,onset_app_samples_sr,62.416666666666664
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S0,6.3045,onset_app_samples_sr,0.3333333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S1,13.4805,onset_app_samples_sr,15.483333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S2,23.136,onset_app_samples_sr,30.75
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S3,32.784,onset_app_samples_sr,45.88333333333333
+KA17A,Unknown Alarm,Evening,61.0,1,Alarm,Weekday,2019-11-13,5,S4,28.7875,onset_app_samples_sr,61.083333333333336
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S0,10.22,onset_app_samples_sr,2.566666666666667
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S1,9.93,onset_app_samples_sr,33.583333333333336
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S2,9.31,onset_app_samples_sr,49.13333333333333
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S3,7.04,onset_app_samples_sr,64.36666666666666
+KD16N,Known Alarm,Evening,65.0,0,Alarm,Weekday,2019-12-05,8,S4,6.45,onset_app_samples_sr,81.18333333333334
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S0,6.04,onset_app_samples_sr,2.6666666666666665
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S1,11.6,onset_app_samples_sr,18.566666666666666
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S2,11.21,onset_app_samples_sr,34.516666666666666
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S3,8.69,onset_app_samples_sr,50.233333333333334
+LA23T,Known Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-06,7,S4,6.08,onset_app_samples_sr,66.03333333333333
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S0,7.3801,onset_app_samples_sr,2.2666666666666666
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S1,13.663,onset_app_samples_sr,17.716666666666665
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S2,18.2155,onset_app_samples_sr,32.983333333333334
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S3,12.704,onset_app_samples_sr,48.2
+LB21E,Known Alarm,Intermediate,57.0,0,Alarm,Weekday,2019-11-12,9,S4,18.187,onset_app_samples_sr,63.45
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S0,9.9,onset_app_samples_sr,0.15
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S1,12.4,onset_app_samples_sr,15.4
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S2,14.31,onset_app_samples_sr,30.566666666666666
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S3,12.86,onset_app_samples_sr,45.81666666666667
+LG27Z,Spontaneous,Evening,60.0,0,Spontaneous,Weekday,2019-12-10,8,S4,10.03,onset_app_samples_sr,63.1
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S0,2.74,onset_app_samples_sr,0.5833333333333334
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S1,2.21,onset_app_samples_sr,16.083333333333332
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S2,2.7,onset_app_samples_sr,31.733333333333334
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S3,2.6,onset_app_samples_sr,47.05
+LL31H,Spontaneous,Evening,60.0,0,Alarm,Weekday,2019-12-18,4,S4,2.33,onset_app_samples_sr,62.65
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S0,3.04,onset_app_samples_sr,0.7666666666666667
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S1,2.89,onset_app_samples_sr,16.216666666666665
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S2,2.11,onset_app_samples_sr,31.95
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S3,1.44,onset_app_samples_sr,47.96666666666667
+LL31H,Unknown Alarm,Evening,60.0,1,Alarm,Weekday,2019-12-19,3,S4,3.54,onset_app_samples_sr,63.46666666666667
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S0,4.27,onset_app_samples_sr,4.633333333333334
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S1,10.8,onset_app_samples_sr,21.25
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S2,14.08,onset_app_samples_sr,36.9
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S3,8.67,onset_app_samples_sr,52.2
+LW28R,Unknown Alarm,Intermediate,54.0,0,Spontaneous,Weekday,2019-12-03,7,S4,6.32,onset_app_samples_sr,68.35
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S0,5.29,onset_app_samples_sr,0.5666666666666667
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S1,5.49,onset_app_samples_sr,16.166666666666668
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S2,4.86,onset_app_samples_sr,31.633333333333333
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S3,4.14,onset_app_samples_sr,47.03333333333333
+MC04A,Unknown Alarm,Morning,38.0,0,Alarm,Weekday,2019-12-03,7,S4,3.84,onset_app_samples_sr,62.21666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S0,13.82,onset_app_samples_sr,0.8833333333333333
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S1,5.12,onset_app_samples_sr,16.4
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S2,6.47,onset_app_samples_sr,31.966666666666665
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S3,7.17,onset_app_samples_sr,47.46666666666667
+ME18L,Unknown Alarm,Intermediate,53.0,0,Alarm,Weekday,2019-12-03,6,S4,6.08,onset_app_samples_sr,62.88333333333333
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S0,6.03,onset_app_samples_sr,0.5833333333333334
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S1,4.75,onset_app_samples_sr,16.016666666666666
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S2,5.02,onset_app_samples_sr,31.55
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S3,7.1,onset_app_samples_sr,47.05
+ME18L,Spontaneous,Intermediate,53.0,1,Spontaneous,Weekday,2019-12-04,6,S4,9.72,onset_app_samples_sr,62.55
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S0,6.74,onset_app_samples_sr,1.8833333333333333
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S1,5.8,onset_app_samples_sr,17.066666666666666
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S2,5.36,onset_app_samples_sr,33.3
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S3,4.47,onset_app_samples_sr,49.55
+MG08K,Known Alarm,Morning,41.0,0,Alarm,Weekday,2019-11-14,8,S4,3.95,onset_app_samples_sr,65.78333333333333
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S0,5.64,onset_app_samples_sr,1.7333333333333334
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S1,7.05,onset_app_samples_sr,18.0
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S2,8.58,onset_app_samples_sr,34.25
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S3,6.9,onset_app_samples_sr,49.45
+MG08K,Known Alarm,Morning,41.0,1,Alarm,Weekday,2019-11-15,8,S4,5.97,onset_app_samples_sr,65.75
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S0,7.81,onset_app_samples_sr,1.3166666666666667
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S1,11.84,onset_app_samples_sr,17.2
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S2,12.53,onset_app_samples_sr,33.96666666666667
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S3,9.01,onset_app_samples_sr,49.333333333333336
+MI15D,Spontaneous,Intermediate,44.0,0,Spontaneous,Weekday,2019-11-15,9,S4,6.88,onset_app_samples_sr,64.55
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S0,6.24,onset_app_samples_sr,0.4
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S1,10.59,onset_app_samples_sr,15.716666666666667
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S2,16.44,onset_app_samples_sr,30.983333333333334
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S3,15.05,onset_app_samples_sr,46.416666666666664
+MI15D,Spontaneous,Intermediate,44.0,1,Spontaneous,Weekend,2019-11-16,9,S4,11.27,onset_app_samples_sr,61.71666666666667
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S0,10.02,onset_app_samples_sr,0.55
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S1,12.99,onset_app_samples_sr,16.016666666666666
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S2,12.47,onset_app_samples_sr,31.666666666666668
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S3,11.12,onset_app_samples_sr,47.166666666666664
+OB20R,Unknown Alarm,Intermediate,55.0,0,Alarm,Weekday,2019-11-26,5,S4,8.42,onset_app_samples_sr,62.5
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S0,5.25,onset_app_samples_sr,2.0833333333333335
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S1,15.29,onset_app_samples_sr,18.033333333333335
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S2,18.51,onset_app_samples_sr,33.65
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S3,17.66,onset_app_samples_sr,49.13333333333333
+RF17R,Spontaneous,Intermediate,56.0,0,Not Specified,Weekday,2019-11-12,8,S4,11.97,onset_app_samples_sr,64.9
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S0,1.88,onset_app_samples_sr,1.4
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S1,8.51,onset_app_samples_sr,17.716666666666665
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S2,15.57,onset_app_samples_sr,33.233333333333334
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S3,23.01,onset_app_samples_sr,48.68333333333333
+RF17R,Unknown Alarm,Intermediate,56.0,1,Not Specified,Weekday,2019-11-13,5,S4,24.7,onset_app_samples_sr,64.13333333333334
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S0,2.16,onset_app_samples_sr,0.6166666666666667
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S1,3.11,onset_app_samples_sr,15.933333333333334
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S2,2.96,onset_app_samples_sr,32.016666666666666
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S3,2.91,onset_app_samples_sr,47.416666666666664
+SC10R,Spontaneous,Evening,65.0,0,Spontaneous,Weekday,2019-12-02,5,S4,2.65,onset_app_samples_sr,56.61666666666667
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S0,2.49,onset_app_samples_sr,1.2833333333333334
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S1,3.8,onset_app_samples_sr,16.783333333333335
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S2,4.15,onset_app_samples_sr,32.18333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S3,4.56,onset_app_samples_sr,47.63333333333333
+SC10R,Unknown Alarm,Evening,65.0,1,Alarm,Weekday,2019-12-03,4,S4,3.47,onset_app_samples_sr,62.95
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S0,3.94,onset_app_samples_sr,0.3333333333333333
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S1,15.27,onset_app_samples_sr,15.616666666666667
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S2,20.71,onset_app_samples_sr,31.5
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S3,15.32,onset_app_samples_sr,46.71666666666667
+SS22K,Spontaneous,Intermediate,46.0,0,Spontaneous,Weekday,2019-11-26,10,S4,10.37,onset_app_samples_sr,61.95
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S0,16.67,onset_app_samples_sr,0.2
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S1,14.4,onset_app_samples_sr,15.533333333333333
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S2,13.35,onset_app_samples_sr,30.683333333333334
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S3,11.15,onset_app_samples_sr,45.81666666666667
+SS22K,Spontaneous,Intermediate,46.0,1,Spontaneous,Weekday,2019-11-27,12,S4,8.48,onset_app_samples_sr,60.983333333333334
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S0,9.8,onset_app_samples_sr,0.6166666666666667
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S1,15.6,onset_app_samples_sr,16.05
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S2,17.66,onset_app_samples_sr,31.233333333333334
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S3,16.48,onset_app_samples_sr,46.45
+TB29R,Spontaneous,Evening,69.0,1,Spontaneous,Weekday,2019-12-06,5,S4,14.12,onset_app_samples_sr,61.65
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S0,14.38,onset_app_samples_sr,0.9333333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S1,19.03,onset_app_samples_sr,16.583333333333332
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S2,24.44,onset_app_samples_sr,32.1
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S3,19.26,onset_app_samples_sr,47.43333333333333
+TM30L,Unknown Alarm,Intermediate,52.0,0,Alarm,Weekday,2019-12-20,6,S4,12.23,onset_app_samples_sr,62.833333333333336
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S0,4.02,onset_app_samples_sr,0.5333333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S1,4.4,onset_app_samples_sr,16.383333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S2,5.74,onset_app_samples_sr,32.13333333333333
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S3,4.63,onset_app_samples_sr,47.833333333333336
+UH09L,Known Alarm,Evening,59.0,1,Spontaneous,Weekend,2019-11-30,9,S4,3.7,onset_app_samples_sr,63.0
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S0,3.82,onset_app_samples_sr,1.2666666666666666
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S1,11.14,onset_app_samples_sr,16.683333333333334
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S2,14.52,onset_app_samples_sr,32.03333333333333
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S3,14.72,onset_app_samples_sr,47.333333333333336
+VE19A,Spontaneous,Evening,63.0,0,Spontaneous,Weekday,2019-11-25,7,S4,10.41,onset_app_samples_sr,62.63333333333333
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S0,6.88,onset_app_samples_sr,2.6166666666666667
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S1,8.83,onset_app_samples_sr,32.8
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S2,16.22,onset_app_samples_sr,48.166666666666664
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S3,20.21,onset_app_samples_sr,80.36666666666666
+WM13K,Unknown Alarm,Intermediate,55.0,0,Not Specified,Weekday,2019-12-03,6,S4,25.39,onset_app_samples_sr,97.25

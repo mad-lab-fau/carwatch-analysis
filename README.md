@@ -1,8 +1,52 @@
-# CARWatch Analysis
+# carwatch-analysis
 
-This repository contains code for the analysis data collected in the *CARWatch* study, aimed to assess the influence of the inner clock on the Cortisol Awakening Response.
+[![PyPI](https://img.shields.io/pypi/v/carwatch-analysis)](https://pypi.org/project/carwatch-analysis/)
+![GitHub](https://img.shields.io/github/license/mad-lab-fau/carwatch-analysis)
+[![Lint](https://github.com/mad-lab-fau/carwatch-analysis/actions/workflows/lint.yml/badge.svg)](https://github.com/mad-lab-fau/carwatch-analysis/actions/workflows/lint.yml)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mad-lab-fau/carwatch-analysis)
+
+A python project for the analysis of data from the *CARWatch* study, aimed to assess the influence of the inner clock on the Cortisol Awakening Response.
+
+This package contains various helper functions to work with the dataset (including [`tpcp`](https://github.com/mad-lab-fau/tpcp) `Dataset` representations) and to process data. Additionally, it contains different analysis experiments performed with the dataset.
 
 The repository is structured as follows:
+
+
+## Repository Structure
+
+The repository is structured as follows:
+
+```bash
+├── carwatch_analysis/                                      # carwatch-analysis Python package
+└── experiments/                                            # Folder with conducted analysis experiments; each experiment has its own subfolder
+    ├── 2021_bhi/                                           # Analysis for the 2021 BHI Conference Paper (see below)
+    │   ├── data/                                           # Processed data and extracted parameters
+    │   ├── notebooks/                                      # Notebooks for data processing, analysis and plotting
+    │   │   ├── analysis/
+    │   │   │   ├── bhi_2021/
+    │   │   │   │   ├── BHI2021_IMU.ipynb
+    │   │   │   │   └── BHI2021_Saliva.ipynb
+    │   │   │   ├── madconf_2021_02/
+    │   │   │   │   └── Plots_MaD_Conf_2021_02.ipynb
+    │   │   │   ├── IMU_Analysis.ipynb
+    │   │   │   └── Saliva_Analysis.ipynb
+    │   │   ├── classification/
+    │   │   │   └── Chronotype_Classification.ipynb         # Classification experiments to classify chronotype based on movements during sleep extracted from IMU data
+    │   │   ├── data_processing/
+    │   │   │   ├── IMU_Feature_Extraction_Pipeline.ipynb
+    │   │   │   ├── Questionnaire_Processing.ipynb
+    │   │   │   ├── Saliva_Processing.ipynb
+    │   │   │   └── Sleep_IMU_Questionnaire_Merge.ipynb
+    │   │   └── pipeline_visualization/
+    │   │       └── Pipeline_Visualization.ipynb
+    │   ├── exports/                                        # Exported features, per subject, as well as merged and cleaned
+    │   │   ├── features/
+    │   │   ├── sleep_endpoints/
+    │   └── results/                                        # Notebooks for data processing, analysis and plotting
+    └── 2022_pnec/                                           # Analysis for the 2022 PNEC Paper (see below)
+
+```
 
 * `carwatch_analysis`: Subfolder containing Python library with helper functions specific for this repository
 * `notebooks`: Subfolder containing Jupyter Notebooks used for data processing, merging of data sources, statistical analysis and plot creation. The folder consists of the following subfolders:

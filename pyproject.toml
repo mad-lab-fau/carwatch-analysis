@@ -1,0 +1,73 @@
+[tool.poetry]
+name = "carwatch-analysis"
+version = "0.1.0"
+description = "A python package to analyze data from the CARWatch Project."
+authors = [
+    "Robert Richer <robert.richer@fau.de>",
+    "Arne Kuederle <arne.kuederle@fau.de>",
+    "Luca Abel <luca.abel@fau.de>",
+]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.10"
+pandas = "^1.4.2"
+numpy = "^1.22.3"
+biopsykit = {version="^0.4", extras=["jupyter"]}
+tpcp = "^0.6.0"
+
+[tool.poetry.dev-dependencies]
+black = {version="^22.3.0", extras = ["d", "jupyter"] }
+poethepoet = "^0.13.1"
+isort = "^5.10.1"
+prospector = "^1.2.0"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 120
+target-version = ['py38']
+exclude = '''
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | docs
+    | build
+    | dist
+    | \.virtual_documents
+  )/
+)
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 120
+skip_gitignore = true
+
+
+[tool.poe.tasks]
+_black = "black ."
+_black_check = "black . --check"
+_isort = "isort **/*.py"
+_isort_check = "isort **/*.py --check-only"
+
+# Reformat all files using black and sort import
+format = ["_black", "_isort"]
+format_check = ["_black_check", "_isort_check"]
+lint = "prospector"
+test = "pytest --cov=carwatch-analysis --cov-report=xml"
+docs = {"script" = "_tasks:task_docs"}
+update_version = {"script" = "_tasks:task_update_version"}
+register_ipykernel = "python -m ipykernel install --user --name carwatch-analysis --display-name carwatch-analysis"
+default = ["format", "lint", "test"]

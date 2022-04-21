@@ -1,2 +1,0 @@
-night,sleep_onset,wake_onset,total_sleep_time,major_rest_period_start,major_rest_period_end,sleep_efficiency,sleep_onset_latency,getup_latency,wake_after_sleep_onset,number_wake_bouts,sleep_bouts,wake_bouts
-0,2010-10-01 18:04:46+02:00,2010-10-01 23:55:46+02:00,352,2010-10-01 18:04:11.005859072+02:00,2010-10-01 23:56:21.005859072+02:00,100.0,1,1,0,0,"[(Timestamp('2010-10-01 18:04:46+0200', tz='Europe/Berlin'), Timestamp('2010-10-01 23:56:46+0200', tz='Europe/Berlin'))]",[]

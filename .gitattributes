@@ -1,3 +1,1 @@
-*.ipynb filter=nbstripout
-
-*.ipynb diff=ipynb
+*.csv filter=lfs diff=lfs merge=lfs -text

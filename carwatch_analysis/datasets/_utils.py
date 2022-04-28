@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-
 from biopsykit.io.nilspod import load_dataset_nilspod
 from biopsykit.utils.time import extract_time_from_filename
 

@@ -1,21 +1,21 @@
 import json
-from typing import Union, Optional, Tuple
+from typing import Optional, Tuple, Union
 
 import numpy as np
 import pandas as pd
 from biopsykit.io import load_long_format_csv
-from biopsykit.signals.imu.static_moment_detection import find_static_moments
 from biopsykit.signals.imu.feature_extraction.static_moments import compute_features
+from biopsykit.signals.imu.static_moment_detection import find_static_moments
 from biopsykit.sleep.sleep_endpoints import endpoints_as_df
 from biopsykit.sleep.sleep_processing_pipeline import predict_pipeline_acceleration
 
 from carwatch_analysis._types import path_t
 from carwatch_analysis.datasets import CarWatchDatasetRaw
 from carwatch_analysis.exceptions import (
+    DateNotAvailableException,
     ImuDataNotFoundException,
     ImuInvalidDateException,
     NoSuitableImuDataFoundException,
-    DateNotAvailableException,
 )
 
 

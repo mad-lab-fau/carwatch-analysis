@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 from biopsykit.utils.datatype_helper import SalivaRawDataFrame, is_saliva_raw_dataframe
 
-
 __all__ = ["clean_missing_values"]
 
 

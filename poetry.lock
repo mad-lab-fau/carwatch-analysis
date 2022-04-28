@@ -165,7 +165,7 @@ jupyter = ["IPython (>=7.13.0,<8.0.0)", "ipympl (>=0.8.0,<0.9.0)", "ipywidgets (
 type = "git"
 url = "https://github.com/mad-lab-fau/BioPsyKit.git"
 reference = "main"
-resolved_reference = "d1e9463008efc80bf577867cfbcb08ead3cf0031"
+resolved_reference = "545f5fba27bc80fa26cab0012fb3566a0f36ffa0"
 
 [[package]]
 name = "black"

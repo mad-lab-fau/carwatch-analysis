@@ -2,4 +2,4 @@
 
 __version__ = "0.1.0"
 
-__all__ = ["datasets", "exceptions"]
+__all__ = ["datasets", "exceptions", "plotting", "utils", "data_cleaning", "data_processing", "stats"]

@@ -1,3 +1,4 @@
+import json
 from typing import Union, Optional, Tuple
 
 import numpy as np
@@ -8,8 +9,14 @@ from biopsykit.signals.imu.feature_extraction.static_moments import compute_feat
 from biopsykit.sleep.sleep_endpoints import endpoints_as_df
 from biopsykit.sleep.sleep_processing_pipeline import predict_pipeline_acceleration
 
+from carwatch_analysis._types import path_t
 from carwatch_analysis.datasets import CarWatchDatasetRaw
-from carwatch_analysis.exceptions import ImuDataNotFoundException
+from carwatch_analysis.exceptions import (
+    ImuDataNotFoundException,
+    ImuInvalidDateException,
+    NoSuitableImuDataFoundException,
+    DateNotAvailableException,
+)
 
 
 def process_night(
@@ -26,14 +33,22 @@ def process_night(
     night_id = subset.index["night"][0]
 
     # check whether old processing results already exist
-    feature_file = export_path.joinpath(f"imu_static_moment_features_{subject_id}_{night_id}_NEW.csv")
-    endpoint_file = export_path.joinpath(f"sleep_endpoints_{subject_id}_{night_id}_NEW.csv")
+    feature_file = export_path.joinpath(f"imu_static_moment_features_{subject_id}_{night_id}.csv")
+    endpoint_file = export_path.joinpath(f"sleep_endpoints_{subject_id}_{night_id}.csv")
 
     data = None
     if any([compute_endpoints, compute_features, not feature_file.exists(), not endpoint_file.exists()]):
         try:
             data = subset.imu
-        except (ImuDataNotFoundException, ValueError):
+        except (
+            ImuDataNotFoundException,
+            ImuInvalidDateException,
+            NoSuitableImuDataFoundException,
+            DateNotAvailableException,
+            ValueError,
+        ) as e:
+            date = subset.date.loc[(subject_id, night_id), "date"]
+            _handle_processing_log(subset.subject_folder_path, subject_id, date, e)
             return None, None
 
     if compute_endpoints or not endpoint_file.exists():
@@ -153,3 +168,14 @@ def _get_endpoints(
         sleep_onset = None
         wake_onset = None
     return sleep_onset, wake_onset
+
+
+def _handle_processing_log(folder_path: path_t, subject_id: str, date: pd.Timestamp, error_type: Exception) -> None:
+    if isinstance(error_type, ImuDataNotFoundException):
+        return
+    file_path = folder_path.joinpath(f"processing_log_{subject_id}.log")
+    log_dict = {}
+    if file_path.exists():
+        log_dict = json.loads(file_path.read_text())
+    log_dict[str(date.date())] = str(error_type)
+    file_path.write_text(json.dumps(log_dict, indent=4))

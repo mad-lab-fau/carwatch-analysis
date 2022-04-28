@@ -147,7 +147,7 @@ nilspodlib = "^3.2.2"
 numpy = "^1"
 openpyxl = "^3.0.7"
 pandas = "^1"
-pingouin = "^0.5.1"
+pingouin = "^0"
 scikit-learn = "^1.0"
 scipy = "^1.7.0"
 seaborn = "^0.11.2"
@@ -165,7 +165,7 @@ jupyter = ["IPython (>=7.13.0,<8.0.0)", "ipympl (>=0.8.0,<0.9.0)", "ipywidgets (
 type = "git"
 url = "https://github.com/mad-lab-fau/BioPsyKit.git"
 reference = "main"
-resolved_reference = "545f5fba27bc80fa26cab0012fb3566a0f36ffa0"
+resolved_reference = "0f99811ea143bcf2edbfe6d9090e4ca969d75f87"
 
 [[package]]
 name = "black"

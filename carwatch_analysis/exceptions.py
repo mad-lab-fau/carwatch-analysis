@@ -20,3 +20,9 @@ class ImuInvalidDateException(Exception):
     """An error indicating that the recording date of the IMU data is invalid."""
 
     pass
+
+
+class AppLogDataNotFoundException(Exception):
+    """An error indicating that no app log data is available for the given participant."""
+
+    pass

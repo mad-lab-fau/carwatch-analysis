@@ -5,11 +5,12 @@ from typing import Optional, Sequence
 import biopsykit as bp
 import pandas as pd
 from biopsykit.io import load_long_format_csv
+from biopsykit.io.carwatch_logs import load_log_one_subject
 from tpcp import Dataset
 
 from carwatch_analysis._types import path_t
 from carwatch_analysis.datasets._utils import _load_closest_nilspod_recording_for_date
-from carwatch_analysis.exceptions import ImuDataNotFoundException
+from carwatch_analysis.exceptions import AppLogDataNotFoundException, ImuDataNotFoundException
 
 _cached_load_closest_nilspod_recording_for_date = lru_cache(maxsize=5)(_load_closest_nilspod_recording_for_date)
 
@@ -177,3 +178,17 @@ class CarWatchDatasetProcessed(Dataset):
         nights = self.index["night"].unique()
 
         return data.loc[(subject_ids, nights), :]
+
+    @property
+    def app_logs(self) -> pd.DataFrame:
+        if not self.is_single("subject"):
+            raise ValueError("App logs can only be accessed for a single participant!")
+
+        subject_id = self.index["subject"][0]
+        data_path = self.base_path.joinpath("app_logs/cleaned_manual")
+        data_path = data_path.joinpath(f"logs_{subject_id}.csv")
+        if not data_path.exists():
+            raise AppLogDataNotFoundException(f"No app logs available for participant {subject_id}!")
+
+        data = pd.read_csv(data_path, sep=";")
+        return data

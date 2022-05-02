@@ -85,20 +85,19 @@ def boxplot_saliva_features(
             features=features,
             subplots=True,
         )
-        stats_kwargs = {"box_pairs": box_pairs, "pvalues": pvalues}
+        stats_kwargs = {"box_pairs": box_pairs, "pvalues": pvalues, "verbose": False}
 
-    with contextlib.redirect_stdout(None):
-        fig, axs = saliva_multi_feature_boxplot(
-            data=data,
-            saliva_type="cortisol",
-            features=features,
-            hue=hue,
-            stats_kwargs=stats_kwargs,
-            legend_fontsize="small",
-            legend_orientation="horizontal",
-            legend_loc="upper center",
-            **kwargs,
-        )
+    fig, axs = saliva_multi_feature_boxplot(
+        data=data,
+        saliva_type="cortisol",
+        features=features,
+        hue=hue,
+        stats_kwargs=stats_kwargs,
+        legend_fontsize="small",
+        legend_orientation="horizontal",
+        legend_loc="upper center",
+        **kwargs,
+    )
 
     if export:
         fig.savefig(export_path.joinpath(f"img_boxplots_car_features_{hue}.pdf"), transparent=True)

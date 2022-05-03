@@ -1,12 +1,12 @@
 """Dataset representing raw data of the CARWatch dataset."""
 import itertools
 from functools import cached_property, lru_cache
-from typing import Optional, Sequence, Tuple
+from typing import Optional, Sequence
 
 import biopsykit as bp
 import pandas as pd
 from biopsykit.io import load_long_format_csv, load_questionnaire_data
-from biopsykit.utils.dataframe_handling import int_from_str_idx, multi_xs
+from biopsykit.utils.dataframe_handling import int_from_str_idx
 from tpcp import Dataset
 
 from carwatch_analysis._types import path_t

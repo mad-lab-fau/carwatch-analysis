@@ -1,18 +1,17 @@
 """Dataset representing raw data of the CARWatch dataset."""
 from functools import lru_cache
-from typing import Optional, Sequence
+from typing import Optional, Sequence, Union, Dict
 
 import biopsykit as bp
 import pandas as pd
-from biopsykit.io import load_long_format_csv
-from biopsykit.io.carwatch_logs import load_log_one_subject
+from biopsykit.io import load_long_format_csv, load_questionnaire_data
 from tpcp import Dataset
 
 from carwatch_analysis._types import path_t
-from carwatch_analysis.datasets._utils import _load_closest_nilspod_recording_for_date
-from carwatch_analysis.exceptions import AppLogDataNotFoundException, ImuDataNotFoundException
+from carwatch_analysis.datasets._utils import _load_app_logs
+from carwatch_analysis.exceptions import ImuDataNotFoundException, AppLogDataNotFoundException
 
-_cached_load_closest_nilspod_recording_for_date = lru_cache(maxsize=5)(_load_closest_nilspod_recording_for_date)
+_cached_load_app_logs = lru_cache(maxsize=5)(_load_app_logs)
 
 
 class CarWatchDatasetProcessed(Dataset):
@@ -97,6 +96,25 @@ class CarWatchDatasetProcessed(Dataset):
         return data.loc[subject_ids]
 
     @property
+    def chronotype_bedtime(self) -> pd.DataFrame:
+        """Load and return chronotype and bedtime information."""
+        data_path = self.base_path.joinpath("questionnaire/processed/chronotype_bedtimes.csv")
+        if not data_path.exists():
+            raise FileNotFoundError(
+                f"File {data_path.name} not found! Please run the notebook 'Questionnaire_Processing.ipynb' first!"
+            )
+        data = load_questionnaire_data(data_path, subject_col="subject", additional_index_cols=["night"])
+        subject_ids = self.index["subject"].unique()
+        nights = self.index["night"].unique()
+
+        return data.loc[(subject_ids, nights), :]
+
+    @property
+    def endpoints_selfreport(self) -> pd.DataFrame:
+        """Return the self-reported sleep endpoints."""
+        return self.chronotype_bedtime[["sleep_onset_selfreport", "bed_selfreport", "wake_onset_selfreport"]]
+
+    @property
     def sleep_information_merged(self) -> pd.DataFrame:
         """Return sleep information, merged from self-reports and IMU data."""
         data_path = self.base_path.joinpath("questionnaire/processed/sleep_information_merged.csv")
@@ -155,6 +173,30 @@ class CarWatchDatasetProcessed(Dataset):
         return load_long_format_csv(file_name)
 
     @property
+    def imu_sleep_endpoints(self) -> pd.DataFrame:
+        """Load and return sleep endpoints computed from IMU data.
+
+        Returns
+        -------
+        :class:`~pandas.DataFrame`
+            Dataframe with IMU-based sleep endpoints of one night
+
+        """
+        if not self.is_single(None):
+            raise ValueError("IMU data can only be accessed for a single participant and a single night!")
+
+        subject_id = self.index["subject"][0]
+        night = self.index["night"][0]
+        data_path = self.subject_folder_path.joinpath("processed")
+        file_name = data_path.joinpath(f"sleep_endpoints_{subject_id}_{night}.csv")
+        if not file_name.exists():
+            raise ImuDataNotFoundException(
+                f"File {file_name.name} does not exist – either IMU data is unavailable "
+                "or sleep endpoints were not computed yet!"
+            )
+        return pd.read_csv(file_name, index_col=["date"])
+
+    @property
     def cortisol_samples(self) -> pd.DataFrame:
         data_path = self.base_path.joinpath("saliva/processed")
         data = pd.read_csv(data_path.joinpath("cortisol_samples.csv"))
@@ -180,15 +222,31 @@ class CarWatchDatasetProcessed(Dataset):
         return data.loc[(subject_ids, nights), :]
 
     @property
-    def app_logs(self) -> pd.DataFrame:
-        if not self.is_single("subject"):
-            raise ValueError("App logs can only be accessed for a single participant!")
+    def app_logs(self) -> Union[Dict[str, pd.DataFrame], pd.DataFrame]:
+        """
+        Return the app logs of a participant.
 
-        subject_id = self.index["subject"][0]
-        data_path = self.base_path.joinpath("app_logs/cleaned_manual")
-        data_path = data_path.joinpath(f"logs_{subject_id}.csv")
-        if not data_path.exists():
-            raise AppLogDataNotFoundException(f"No app logs available for participant {subject_id}!")
+        Returns
+        -------
 
-        data = pd.read_csv(data_path, sep=";")
-        return data
+        """
+        if self.is_single("night"):
+            raise ValueError("App logs can not be accessed for single nights!")
+        folder_path = self.base_path.joinpath("app_logs/cleaned_manual")
+        subject_ids = self.index["subject"].unique()
+        if self.use_cache:
+            log_dict = _cached_load_app_logs(folder_path)
+        else:
+            log_dict = _load_app_logs(folder_path)
+
+        log_dict_out = {}
+        for subject_id in subject_ids:
+            if subject_id in log_dict:
+                log_dict_out[subject_id] = log_dict[subject_id]
+
+        if self.is_single("subject"):
+            subject_id = self.index["subject"][0]
+            if subject_id not in log_dict_out:
+                raise AppLogDataNotFoundException(f"No app logs found for subject {subject_id}!")
+            return log_dict_out[subject_id]
+        return log_dict_out

@@ -1,5 +1,8 @@
+from typing import Dict, Sequence
+
 import numpy as np
 import pandas as pd
+from biopsykit.io.carwatch_logs import load_logs_all_subjects
 from biopsykit.io.nilspod import load_dataset_nilspod
 from biopsykit.utils.time import extract_time_from_filename
 
@@ -27,3 +30,7 @@ def _load_closest_nilspod_recording_for_date(folder_path: path_t, date: pd.Times
 
     imu_file = imu_files[np.argmin(date_diffs)]
     return load_dataset_nilspod(imu_file)[0]
+
+
+def _load_app_logs(folder_path: path_t) -> Dict[str, pd.DataFrame]:
+    return load_logs_all_subjects(folder_path, has_subject_folders=False, return_df=False)

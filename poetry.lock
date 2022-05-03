@@ -128,7 +128,7 @@ lxml = ["lxml"]
 
 [[package]]
 name = "biopsykit"
-version = "0.5.0"
+version = "0.5.1-alpha.0"
 description = "A Python package for the analysis of biopsychological data."
 category = "main"
 optional = false
@@ -165,7 +165,7 @@ jupyter = ["IPython (>=7.13.0,<8.0.0)", "ipympl (>=0.8.0,<0.9.0)", "ipywidgets (
 type = "git"
 url = "https://github.com/mad-lab-fau/BioPsyKit.git"
 reference = "main"
-resolved_reference = "0f99811ea143bcf2edbfe6d9090e4ca969d75f87"
+resolved_reference = "e73661a244b6ad3ca5cc802ca1fddbd3107cbc1f"
 
 [[package]]
 name = "black"

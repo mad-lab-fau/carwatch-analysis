@@ -29,7 +29,6 @@ def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
 
     # ensure that all data from all samples are present
     data = data.unstack("sample").dropna().stack()
-
     # reorder index levels
     data = data.reorder_levels(["subject", "night", "condition", "log_type", "sample"]).sort_index()
     # reorder columns
@@ -39,8 +38,5 @@ def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
 
 def compute_sample_times_parameter(data: pd.DataFrame) -> pd.DataFrame:
     data = data.assign(**{"time_diff_to_wake_onset": data["sample_time"] - data["wake_onset"]})
-    data = data.assign(**{"time_rel_min": data["time_diff_to_wake_onset"].dt.total_seconds() / 60})
-    data["time_rel_min"] = (
-        data.groupby(["subject", "night", "log_type"])["time_rel_min"].diff().fillna(data["time_rel_min"])
-    )
+    data = data.assign(**{"time_diff_min": data["time_diff_to_wake_onset"].dt.total_seconds() / 60})
     return data

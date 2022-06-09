@@ -7,7 +7,7 @@ from biopsykit.utils._datatype_validation_helper import _assert_has_index_levels
 
 def create_unique_night_id(data: pd.DataFrame) -> pd.DataFrame:
     _assert_has_index_levels(data, ["subject", "night"], match_atleast=True)
-    # alternative cort_features.index.map("{0[0]}_{0[1]}".format
+    # alternative: data.index.map("{0[0]}_{0[1]}".format
     index_names = list(data.index.names)
     data = data.reset_index()
     data.insert(2, "night_id", data["subject"] + "_" + data["night"].astype(str))

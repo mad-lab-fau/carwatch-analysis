@@ -11,7 +11,7 @@ def clean_missing_values(data: SalivaRawDataFrame, print_output: Optional[bool] 
     is_saliva_raw_dataframe(data, "cortisol")
 
     missing_mask = (data["cortisol"].unstack("sample").isna()).any(axis=1)
-    missing_mask = np.logical_or((data["cortisol"].unstack("sample") < 0.1).any(axis=1), missing_mask)
+    missing_mask = np.logical_or((data["cortisol"].unstack("sample") < 0.75).any(axis=1), missing_mask)
 
     data_out = data.loc[~missing_mask, :]
     if print_output:

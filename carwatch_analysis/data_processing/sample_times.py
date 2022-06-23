@@ -61,9 +61,11 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
 
     log_type_mapping = {
         "selfreport_naive": "Naive",
-        "selfreport_app": "Mixed",
+        # "selfreport_app": "Mixed",
         "selfreport_selfreport": "Selfreport",
         "app_app": "App",
+        "imu_selfreport": "IMU",
+        "imu_app": "IMU_App",
     }
 
     data = data.rename(log_type_mapping, level="log_type")
@@ -87,14 +89,6 @@ def compute_time_diff_to_naive(data: pd.DataFrame) -> pd.DataFrame:
 def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
     wake_onset_diff = data["time_diff_to_naive_min"].xs("S0", level="sample").round(0)
 
-    # delay_groups = pd.cut(
-    #     wake_onset_diff,
-    #     bins=[wake_onset_diff.min(), 3, 6, 15, wake_onset_diff.max()],
-    #     include_lowest=True,
-    #     labels=["None", "Short", "Moderate", "High"],
-    # )
-    # delay_groups.name = "delay_group"
-
     bins = [wake_onset_diff.min(), 3, 6, 15, wake_onset_diff.max()]
     wake_onset_diff = wake_onset_diff.unstack("log_type").drop(columns="Naive")
     delay_groups = wake_onset_diff.apply(
@@ -104,7 +98,6 @@ def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
     delay_groups = delay_groups.add_prefix("delay_group_")
 
     data = data.join(delay_groups)
-    data = data.reset_index(["sample"]).set_index(
-        ["delay_group_selfreport", "delay_group_mixed", "delay_group_app", "sample"], append=True
-    )
+    delay_cols = list(data.filter(like="delay").columns)
+    data = data.reset_index(["sample"]).set_index(delay_cols + ["sample"], append=True)
     return data

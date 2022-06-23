@@ -1,8 +1,9 @@
-from typing import Optional
+from typing import Optional, Union, Sequence
 
 import pandas as pd
 from biopsykit.stats import StatsPipeline
 from biopsykit.utils._datatype_validation_helper import _assert_has_index_levels
+from scipy import stats
 
 
 def create_unique_night_id(data: pd.DataFrame) -> pd.DataFrame:
@@ -14,6 +15,13 @@ def create_unique_night_id(data: pd.DataFrame) -> pd.DataFrame:
     index_names.insert(2, "night_id")
     data = data.set_index(index_names)
     return data
+
+
+def median_iqr_saliva_samples(data: pd.DataFrame, variable: str, group_cols: Union[str, Sequence[str]]) -> pd.DataFrame:
+    data = data.groupby(group_cols)[variable].agg(["median", stats.iqr])
+    _assert_has_index_levels(data, "sample", match_atleast=True)
+    data = data.unstack().swaplevel(0, 1, axis=1).sort_index(level="sample", axis=1)
+    return data.reindex(["median", "iqr"], level=-1, axis=1)
 
 
 def stats_pipeline_saliva_samples(data: pd.DataFrame, variable: str) -> StatsPipeline:

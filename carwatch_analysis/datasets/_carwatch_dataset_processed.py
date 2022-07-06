@@ -1,4 +1,5 @@
 """Dataset representing raw data of the CARWatch dataset."""
+import re
 from functools import lru_cache
 from typing import Optional, Sequence, Union, Dict
 
@@ -220,6 +221,14 @@ class CarWatchDatasetProcessed(Dataset):
         nights = self.index["night"].unique()
 
         return data.loc[(subject_ids, nights), :]
+
+    @property
+    def subjects_with_app(self) -> pd.Index:
+        """Return a series with the subjects that have an app."""
+        folder_path = self.base_path.joinpath("app_logs/cleaned_manual")
+        subject_ids = sorted(folder_path.glob("*.csv"))
+        subject_ids = [re.findall(r"logs_(\w+).csv", path.name)[0] for path in subject_ids]
+        return pd.Index(subject_ids, name="subject")
 
     @property
     def app_logs(self) -> Union[Dict[str, pd.DataFrame], pd.DataFrame]:

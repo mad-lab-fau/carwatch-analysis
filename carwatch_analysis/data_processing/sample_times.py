@@ -64,8 +64,8 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
         # "selfreport_app": "Mixed",
         "selfreport_selfreport": "Selfreport",
         "app_app": "App",
-        "imu_selfreport": "IMU",
-        "imu_app": "IMU_App",
+        "sensor_selfreport": "Sensor_Selfreport",
+        "sensor_app": "Sensor_App",
     }
 
     data = data.rename(log_type_mapping, level="log_type")

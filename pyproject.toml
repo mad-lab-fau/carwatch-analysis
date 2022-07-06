@@ -14,9 +14,9 @@ license = "MIT"
 python = ">=3.8,<3.10"
 pandas = "^1.4.2"
 numpy = "^1.22.3"
-#biopsykit = {version="^0.4", extras=["jupyter"]}
 biopsykit = {git="https://github.com/mad-lab-fau/BioPsyKit.git", branch="main", extras=["jupyter"]}
 tpcp = "^0.6.0"
+pingouin = "^0.5"
 
 [tool.poetry.dev-dependencies]
 black = {version="^22.3.0", extras = ["d", "jupyter"] }

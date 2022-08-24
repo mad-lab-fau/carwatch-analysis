@@ -4,7 +4,15 @@ import numpy as np
 import pandas as pd
 from biopsykit.utils.datatype_helper import SalivaRawDataFrame, is_saliva_raw_dataframe
 
-__all__ = ["clean_missing_values"]
+__all__ = [
+    "clean_missing_values",
+    "clean_measurable_range",
+    "clean_missing_date_information",
+    "clean_physiological_outlier",
+    "clean_s0_after_wake_onset",
+    "clean_statistical_outlier",
+    "clean_sampling_time_difference",
+]
 
 
 def clean_missing_values(data: SalivaRawDataFrame, print_output: Optional[bool] = True) -> SalivaRawDataFrame:
@@ -19,6 +27,23 @@ def clean_missing_values(data: SalivaRawDataFrame, print_output: Optional[bool] 
             f"Missing Values\n"
             f"Before: {data.unstack('sample').shape[0]} | After: {data_out.unstack('sample').shape[0]}"
         )
+    return data_out
+
+
+def clean_measurable_range(data: SalivaRawDataFrame, print_output: Optional[bool] = True) -> SalivaRawDataFrame:
+    is_saliva_raw_dataframe(data, "cortisol")
+    mask = np.logical_or(
+        (data["cortisol"].unstack("sample") <= 0.33).any(axis=1),
+        (data["cortisol"].unstack("sample") >= 82.8).any(axis=1),
+    )
+
+    data_out = data.loc[~mask, :]
+    if print_output:
+        print(
+            f"Measurable Range\n"
+            f"Before: {data.unstack('sample').shape[0]} | After: {data_out.unstack('sample').shape[0]}"
+        )
+
     return data_out
 
 

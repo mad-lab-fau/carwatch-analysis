@@ -32,10 +32,9 @@ def clean_missing_values(data: SalivaRawDataFrame, print_output: Optional[bool] 
 
 def clean_measurable_range(data: SalivaRawDataFrame, print_output: Optional[bool] = True) -> SalivaRawDataFrame:
     is_saliva_raw_dataframe(data, "cortisol")
-    mask = np.logical_or(
-        (data["cortisol"].unstack("sample") <= 0.33).any(axis=1),
-        (data["cortisol"].unstack("sample") >= 82.8).any(axis=1),
-    )
+    mask = (data["cortisol"].unstack("sample").isna()).any(axis=1)
+    mask = np.logical_or((data["cortisol"].unstack("sample") <= 0.33).any(axis=1), mask)
+    mask = np.logical_or((data["cortisol"].unstack("sample") >= 82.8).any(axis=1), mask)
 
     data_out = data.loc[~mask, :]
     if print_output:

@@ -1,4 +1,4 @@
-from typing import Optional, Union, Sequence
+from typing import Optional, Sequence, Union
 
 import pandas as pd
 from biopsykit.stats import StatsPipeline

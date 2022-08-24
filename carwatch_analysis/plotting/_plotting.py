@@ -1,5 +1,5 @@
 import contextlib
-from typing import Optional, Sequence, Tuple
+from typing import Optional, Sequence, Tuple, Dict, Any
 
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
@@ -176,11 +176,14 @@ def multi_boxplot_sampling_delay(
     data: pd.DataFrame, order: Sequence[str], **kwargs
 ) -> Tuple[plt.Figure, Sequence[plt.Axes]]:
     fig, axs = _plot_get_fig_ax_list(order, **kwargs)
+    kwargs.pop("figsize", None)
+
     data_group = data.groupby("log_type")
     data.index = data.index.rename({"sample": "Sample"})
+
     for i, (key, ax) in enumerate(zip(order, axs)):
         df = data_group.get_group(key)
-        feature_boxplot(data=df.reset_index(), x="Sample", y="time_diff_to_naive_min", ax=ax)
+        feature_boxplot(data=df.reset_index(), x="Sample", y="time_diff_to_naive_min", ax=ax, **kwargs)
         ax.set_title(key)
 
         if i == 0:
@@ -195,13 +198,16 @@ def multi_boxplot_sampling_delay(
 def multi_paired_plot_sampling_delay(
     data: pd.DataFrame, order: Sequence[str], **kwargs
 ) -> Tuple[plt.Figure, Sequence[plt.Axes]]:
+
     fig, axs = _plot_get_fig_ax_list(order, **kwargs)
+    kwargs.pop("figsize", None)
+
     data.index = data.index.rename({"sample": "Sample"})
     data_group = data.groupby("log_type")
 
     for key, ax in zip(order, axs):
         df = data_group.get_group(key)
-        pg.plot_paired(
+        _plot_paired(
             data=df.reset_index(),
             dv="time_diff_to_naive_min",
             within="Sample",
@@ -209,7 +215,9 @@ def multi_paired_plot_sampling_delay(
             pointplot_kwargs={"alpha": 0.5},
             boxplot_in_front=True,
             ax=ax,
+            **kwargs,
         )
+        ax.yaxis.set_minor_locator(mticks.AutoMinorLocator())
         ax.set_title(key, fontsize="smaller")
 
     axs[0].set_ylabel(r"$\Delta s$ [min]")
@@ -233,7 +241,7 @@ def multi_paired_plot_auc(
 
         data_plot = data.reindex(order, level="log_type")
 
-        pg.plot_paired(
+        _plot_paired(
             data=data_plot.reset_index(),
             dv="cortisol",
             within="log_type",
@@ -243,6 +251,7 @@ def multi_paired_plot_auc(
             pointplot_kwargs={"alpha": 0.5},
             ax=ax,
         )
+        ax.yaxis.set_minor_locator(mticks.AutoMinorLocator())
         ax.set_xlabel("Log Type")
         ax.set_ylabel(r"Cortisol AUC $\left[\frac{nmol \cdot min}{l} \right]$")
 
@@ -342,6 +351,263 @@ def time_unit_digits_histogram(
         ax.set_ylim(kwargs.get("ylim"))
 
     return fig, axs
+
+
+def _plot_paired(
+    data: pd.DataFrame,
+    dv: Optional[str] = None,
+    within: Optional[str] = None,
+    subject: Optional[str] = None,
+    order: Optional[Sequence[str]] = None,
+    boxplot: Optional[bool] = True,
+    boxplot_in_front: Optional[bool] = False,
+    orient: Optional[str] = "v",
+    figsize: Optional[Tuple[int]] = (4, 4),
+    dpi: Optional[int] = 100,
+    ax: Optional[plt.Axes] = None,
+    colors: Optional[Sequence[str]] = None,
+    pointplot_kwargs: Optional[Dict[str, Any]] = None,
+    boxplot_kwargs: Optional[Dict[str, Any]] = None,
+):
+    """
+    Paired plot.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Long-format dataFrame.
+    dv : string
+        Name of column containing the dependent variable.
+    within : string
+        Name of column containing the within-subject factor.
+    subject : string
+        Name of column containing the subject identifier.
+    order : list of str
+        List of values in ``within`` that define the order of elements on the
+        x-axis of the plot. If None, uses alphabetical order.
+    boxplot : boolean
+        If True, add a boxplot to the paired lines using the
+        :func:`seaborn.boxplot` function.
+    boxplot_in_front : boolean
+        If True, the boxplot is plotted on the foreground (i.e. above the
+        individual lines) and with a slight transparency. This makes the
+        overall plot more readable when plotting a large numbers of subjects.
+    orient : string
+        Plot the boxplots vertically and the subjects on the x-axis if
+        ``orient='v'`` (default). Set to ``orient='h'`` to rotate the plot by 90 degrees.
+    figsize : tuple
+        Figsize in inches
+    dpi : int
+        Resolution of the figure in dots per inches.
+    ax : matplotlib axes
+        Axis on which to draw the plot.
+    colors : list of str
+        Line colors names. Default is green when value increases from A to B,
+        indianred when value decreases from A to B and grey when the value is
+        the same in both measurements.
+    pointplot_kwargs : dict
+        Dictionnary of optional arguments that are passed to the
+        :py:func:`seaborn.pointplot` function.
+    boxplot_kwargs : dict
+        Dictionnary of optional arguments that are passed to the
+        func:`seaborn.boxplot` function.
+
+    Returns
+    -------
+    ax : :class:`matplotlib.Axes`
+        Returns the Axes object with the plot for further tweaking.
+
+    Notes
+    -----
+    Data must be a long-format pandas DataFrame. Missing values are automatically removed using a
+    strict listwise approach (= complete-case analysis).
+
+    Examples
+    --------
+    Default paired plot:
+
+    .. plot::
+
+        >>> import pingouin as pg
+        >>> df = pg.read_dataset("mixed_anova").query("Time != 'January'")
+        >>> df = df.query("Group == 'Meditation' and Subject > 40")
+        >>> ax = pg.plot_paired(data=df, dv="Scores", within="Time",
+        ...                     subject="Subject", dpi=150)
+
+    Paired plot on an existing axis (no boxplot and uniform color):
+
+    .. plot::
+
+        >>> import pingouin as pg
+        >>> import matplotlib.pyplot as plt
+        >>> df = pg.read_dataset("mixed_anova").query("Time != 'January'")
+        >>> df = df.query("Group == 'Meditation' and Subject > 40")
+        >>> fig, ax1 = plt.subplots(1, 1, figsize=(5, 4))
+        >>> pg.plot_paired(data=df, dv="Scores", within="Time",
+        ...                subject="Subject", ax=ax1, boxplot=False,
+        ...                colors=["grey", "grey", "grey"])  # doctest: +SKIP
+
+    Horizontal paired plot with three unique within-levels:
+
+    .. plot::
+
+        >>> import pingouin as pg
+        >>> import matplotlib.pyplot as plt
+        >>> df = pg.read_dataset("mixed_anova").query("Group == 'Meditation'")
+        >>> # df = df.query("Group == 'Meditation' and Subject > 40")
+        >>> pg.plot_paired(data=df, dv="Scores", within="Time",
+        ...                subject="Subject", orient="h")  # doctest: +SKIP
+
+    With the boxplot on the foreground:
+
+    .. plot::
+
+        >>> import pingouin as pg
+        >>> df = pg.read_dataset("mixed_anova").query("Time != 'January'")
+        >>> df = df.query("Group == 'Control'")
+        >>> ax = pg.plot_paired(data=df, dv="Scores", within="Time",
+        ...                     subject="Subject", boxplot_in_front=True)
+    """
+    if boxplot_kwargs is None:
+        boxplot_kwargs = {"color": "lightslategrey", "width": 0.2}
+    if pointplot_kwargs is None:
+        pointplot_kwargs = {"scale": 0.6, "marker": "."}
+    if colors is None:
+        colors = ["green", "grey", "indianred"]
+    from pingouin.utils import _check_dataframe
+
+    # Update default kwargs with specified inputs
+    _pointplot_kwargs = {"scale": 0.6, "marker": "."}
+    _pointplot_kwargs.update(pointplot_kwargs)
+    _boxplot_kwargs = {"color": "lightslategrey", "width": 0.2}
+    _boxplot_kwargs.update(boxplot_kwargs)
+    # Extract pointplot alpha, if set
+    pp_alpha = _pointplot_kwargs.pop("alpha", 1.0)
+
+    # Calculate size of the plot elements by scale as in Seaborn pointplot
+    scale = _pointplot_kwargs.pop("scale")
+    lw = plt.rcParams["lines.linewidth"] * 1.8 * scale  # get the linewidth
+    mew = lw * 0.75  # get the markeredgewidth
+    markersize = np.pi * np.square(lw) * 2  # get the markersize
+
+    # Set boxplot in front of Line2D plot (zorder=2 for both) and add alpha
+    if boxplot_in_front:
+        _boxplot_kwargs.update(
+            {
+                "boxprops": {"zorder": 2},
+                "whiskerprops": {"zorder": 2},
+                "zorder": 2,
+            }
+        )
+
+    # Validate args
+    data = _check_dataframe(data=data, dv=dv, within=within, subject=subject, effects="within")
+
+    # Pivot and melt the table. This has several effects:
+    # 1) Force missing values to be explicit (a NaN cell is created)
+    # 2) Automatic collapsing to the mean if multiple within factors are present
+    # 3) If using dropna, remove rows with missing values (listwise deletion).
+    # The latter is the same behavior as JASP (= strict complete-case analysis).
+    data_piv = data.pivot_table(index=subject, columns=within, values=dv, observed=True)
+    data_piv = data_piv.dropna()
+    data = data_piv.melt(ignore_index=False, value_name=dv).reset_index()
+
+    # Extract within-subject level (alphabetical order)
+    x_cat = np.unique(data[within])
+
+    if order is None:
+        order = x_cat
+    else:
+        assert len(order) == len(
+            x_cat
+        ), "Order must have the same number of elements as the number of levels in `within`."
+
+    # Substitue within by integer order of the ordered columns to allow for
+    # changing the order of numeric withins.
+    data["wthn"] = data[within].replace({_ordr: i for i, _ordr in enumerate(order)})
+    order_num = range(len(order))  # Make numeric order
+
+    # Start the plot
+    if ax is None:
+        fig, ax = plt.subplots(1, 1, figsize=figsize, dpi=dpi)
+
+    # Set x and y depending on orientation using the num. replacement within
+    _x = "wthn" if orient == "v" else dv
+    _y = dv if orient == "v" else "wthn"
+
+    for cat in range(len(x_cat) - 1):
+        _order = (order_num[cat], order_num[cat + 1])
+        # Extract data of the current subject-combination
+        data_now = data.loc[data["wthn"].isin(_order), [dv, "wthn", subject]]
+        # Select colors for all lines between the current subjects
+        y1 = data_now.loc[data_now["wthn"] == _order[0], dv].to_numpy()
+        y2 = data_now.loc[data_now["wthn"] == _order[1], dv].to_numpy()
+        # Line and scatter colors depending on subject dv trend
+        _colors = np.where(y1 < y2, colors[0], np.where(y1 > y2, colors[2], colors[1]))
+        # Line and scatter colors as hue-indexed dictionary
+        _colors = {subj: clr for subj, clr in zip(data_now[subject].unique(), _colors)}
+        # Plot individual lines using Seaborn
+        sns.lineplot(
+            data=data_now,
+            x=_x,
+            y=_y,
+            hue=subject,
+            palette=_colors,
+            ls="-",
+            lw=lw,
+            legend=False,
+            ax=ax,
+        )
+        # Plot individual markers using Seaborn
+        sns.scatterplot(
+            data=data_now,
+            x=_x,
+            y=_y,
+            hue=subject,
+            palette=_colors,
+            edgecolor="face",
+            lw=mew,
+            sizes=[markersize] * data_now.shape[0],
+            legend=False,
+            ax=ax,
+            **_pointplot_kwargs,
+        )
+
+    # Set zorder and alpha of pointplot markers and lines
+    _ = plt.setp(ax.collections, alpha=pp_alpha, zorder=2)  # Set marker alpha
+    _ = plt.setp(ax.lines, alpha=pp_alpha, zorder=2)  # Set line alpha
+
+    if boxplot:
+        # Set boxplot x and y depending on orientation
+        _xbp = within if orient == "v" else dv
+        _ybp = dv if orient == "v" else within
+        sns.boxplot(data=data, x=_xbp, y=_ybp, order=order, ax=ax, orient=orient, **_boxplot_kwargs)
+
+        # Set alpha to patch of boxplot but not to whiskers
+        for patch in ax.artists:
+            r, g, b, a = patch.get_facecolor()
+            patch.set_facecolor((r, g, b, 0.75))
+    else:
+        # If no boxplot, axis needs manual styling as in Seaborn pointplot
+        if orient == "v":
+            xlabel, ylabel = within, dv
+            ax.set_xticks(np.arange(len(x_cat)))
+            ax.set_xticklabels(order)
+            ax.xaxis.grid(False)
+            ax.set_xlim(-0.5, len(x_cat) - 0.5, auto=None)
+        else:
+            xlabel, ylabel = dv, within
+            ax.set_yticks(np.arange(len(x_cat)))
+            ax.set_yticklabels(order)
+            ax.yaxis.grid(False)
+            ax.set_ylim(-0.5, len(x_cat) - 0.5, auto=None)
+            ax.invert_yaxis()
+        ax.set_xlabel(xlabel)
+        ax.set_ylabel(ylabel)
+
+    # Despine
+    sns.despine(ax=ax)
+    return ax
 
 
 def _plot_static_moments(

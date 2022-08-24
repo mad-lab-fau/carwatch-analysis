@@ -1,7 +1,7 @@
 """Dataset representing raw data of the CARWatch dataset."""
 import re
 from functools import lru_cache
-from typing import Optional, Sequence, Union, Dict
+from typing import Dict, Optional, Sequence, Union
 
 import biopsykit as bp
 import pandas as pd
@@ -10,7 +10,7 @@ from tpcp import Dataset
 
 from carwatch_analysis._types import path_t
 from carwatch_analysis.datasets._utils import _load_app_logs
-from carwatch_analysis.exceptions import ImuDataNotFoundException, AppLogDataNotFoundException
+from carwatch_analysis.exceptions import AppLogDataNotFoundException, ImuDataNotFoundException
 
 _cached_load_app_logs = lru_cache(maxsize=5)(_load_app_logs)
 
@@ -39,9 +39,9 @@ class CarWatchDatasetProcessed(Dataset):
         subset_index: Optional[Sequence[str]] = None,
         use_cache: Optional[bool] = True,
     ):
-        super().__init__(groupby_cols=groupby_cols, subset_index=subset_index)
         self.base_path = base_path
         self.use_cache = use_cache
+        super().__init__(groupby_cols=groupby_cols, subset_index=subset_index)
 
     def create_index(self) -> pd.DataFrame:
         return self._load_condition_map().reset_index()[["subject", "night"]]

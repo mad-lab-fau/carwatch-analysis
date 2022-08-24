@@ -45,9 +45,9 @@ class CarWatchDatasetRaw(Dataset):
         subset_index: Optional[Sequence[str]] = None,
         use_cache: Optional[bool] = True,
     ):
-        super().__init__(groupby_cols=groupby_cols, subset_index=subset_index)
         self.base_path = base_path
         self.use_cache = use_cache
+        super().__init__(groupby_cols=groupby_cols, subset_index=subset_index)
 
     def create_index(self) -> pd.DataFrame:
         quest_path = self.base_path.joinpath("questionnaire/raw")

@@ -12,11 +12,11 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.10"
-pandas = "^1.4.2"
-numpy = "^1.22.3"
-biopsykit = {git="https://github.com/mad-lab-fau/BioPsyKit.git", branch="main", extras=["jupyter"]}
-tpcp = "^0.6.0"
-pingouin = "^0.5"
+pandas = "^1"
+numpy = "^1"
+biopsykit = {version="0.6.1", extras=["jupyter"]}
+tpcp = "^0.9.0"
+pingouin = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
 black = {version="^22.3.0", extras = ["d", "jupyter"] }

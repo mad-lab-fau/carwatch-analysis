@@ -20,13 +20,9 @@ from carwatch_analysis.exceptions import (
 
 
 def process_night(
-    subset: CarWatchDatasetRaw, compute_endpoints: bool, compute_features: bool, **kwargs
+    subset: CarWatchDatasetRaw, compute_imu_endpoints: bool, compute_sm_features: bool, **kwargs
 ) -> Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame]]:
-    if not subset.subject_folder_path.exists():
-        return None, None
-    export_path = subset.subject_folder_path.joinpath("processed")
-    export_path.mkdir(exist_ok=True)
-
+    export_path = kwargs.get("export_path")
     endpoints_selfreport = subset.endpoints_selfreport
 
     subject_id = subset.index["subject"][0]
@@ -36,8 +32,10 @@ def process_night(
     feature_file = export_path.joinpath(f"imu_static_moment_features_{subject_id}_{night_id}.csv")
     endpoint_file = export_path.joinpath(f"sleep_endpoints_{subject_id}_{night_id}.csv")
 
+    epoch_length = kwargs.get("epoch_length", 60)
+
     data = None
-    if any([compute_endpoints, compute_features, not feature_file.exists(), not endpoint_file.exists()]):
+    if any([compute_imu_endpoints, compute_sm_features, not feature_file.exists(), not endpoint_file.exists()]):
         try:
             data = subset.imu
         except (
@@ -51,15 +49,15 @@ def process_night(
             _handle_processing_log(subset.subject_folder_path, subject_id, date, e)
             return None, None
 
-    if compute_endpoints or not endpoint_file.exists():
+    if compute_imu_endpoints or not endpoint_file.exists():
         # sleep endpoints are not available or should be overwritten
-        endpoints_imu = _compute_endpoints(data, subset.sampling_rate)
-        if endpoints_imu is not None:
-            endpoints_imu.to_csv(endpoint_file)
+        endpoints_imu = _compute_sleep_endpoints(
+            data=data, sampling_rate=subset.sampling_rate, epoch_length=epoch_length
+        )
     else:
         endpoints_imu = pd.read_csv(endpoint_file)
 
-    if compute_features or not feature_file.exists():
+    if compute_sm_features or not feature_file.exists():
         # features are not available or should be overwritten
         if kwargs.get("compare_endpoints", False):
             # compare imu-based endpoints with self-report endpoints
@@ -90,15 +88,16 @@ def process_night(
             dict_static_moments[kind] = df_features
 
         sm_features = pd.concat(dict_static_moments, names=["wakeup_type"])
-        sm_features.to_csv(feature_file)
     else:
         sm_features = load_long_format_csv(feature_file)
 
     return endpoints_imu, sm_features
 
 
-def _compute_endpoints(data: pd.DataFrame, sampling_rate: float):
-    sleep_results = predict_pipeline_acceleration(data, sampling_rate=sampling_rate, sleep_wake_scale_factor=0.1)
+def _compute_sleep_endpoints(data: pd.DataFrame, sampling_rate: float, epoch_length: int):
+    sleep_results = predict_pipeline_acceleration(
+        data, sampling_rate=sampling_rate, algorithm_type="cole_kripke", epoch_length=epoch_length
+    )
     if sleep_results is None:
         return None
     return endpoints_as_df(sleep_results["sleep_endpoints"])

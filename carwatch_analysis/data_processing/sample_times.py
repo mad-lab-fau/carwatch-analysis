@@ -2,6 +2,8 @@ import pandas as pd
 
 __all__ = ["add_naive_sample_times", "sample_times_long_format"]
 
+from scipy.stats import stats
+
 
 def add_naive_sample_times(data: pd.DataFrame) -> pd.DataFrame:
     data = data.assign(**{"wake_onset_naive": data["wake_onset_selfreport"]})
@@ -101,3 +103,21 @@ def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
     delay_cols = list(data.filter(like="delay").columns)
     data = data.reset_index(["sample"]).set_index(delay_cols + ["sample"], append=True)
     return data
+
+
+def compute_cumulative_sampling_delay(data: pd.DataFrame) -> pd.DataFrame:
+    cum_sampling_delay = data["S4"] - data["S0"]
+    cum_sampling_delay = pd.DataFrame(cum_sampling_delay, columns=["cum_sampling_delay"])
+    return cum_sampling_delay.groupby("log_type").agg(["median", stats.iqr])
+
+
+def categorize_sampling_adherence(data: pd.DataFrame) -> pd.DataFrame:
+    wo_s0_data = data.xs("S0", level="sample")["time_diff_to_naive_min"]
+    wo_s0_group = pd.cut(
+        wo_s0_data,
+        bins=[wo_s0_data.min(), 5, wo_s0_data.max()],
+        include_lowest=True,
+        labels=["Adherent", "Non-adherent"],
+    )
+    wo_s0_group.name = "delay_group"
+    return pd.DataFrame(wo_s0_data).join(wo_s0_group).set_index("delay_group", append=True)

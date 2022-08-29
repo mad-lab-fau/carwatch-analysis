@@ -23,6 +23,6 @@ class ImuInvalidDateException(Exception):
 
 
 class AppLogDataNotFoundException(Exception):
-    """An error indicating that no app log data is available for the given participant."""
+    """An error indicating that no app log data are available for the given participant."""
 
     pass

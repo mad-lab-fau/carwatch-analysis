@@ -4,8 +4,10 @@ version = "0.1.0"
 description = "A python package to analyze data from the CARWatch Project."
 authors = [
     "Robert Richer <robert.richer@fau.de>",
-    "Arne Kuederle <arne.kuederle@fau.de>",
     "Luca Abel <luca.abel@fau.de>",
+    "Arne Kuederle <arne.kuederle@fau.de>",
+    "Bjoern Eskofier <bjoern.eskofier@fau.de>",
+    "Nicolas Rohleder <nicolas.rohleder@fau.de>"
 ]
 readme = "README.md"
 license = "MIT"

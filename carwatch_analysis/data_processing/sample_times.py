@@ -24,7 +24,7 @@ def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
         data.reset_index(),
         stubnames=["sample_time"],
         i=["subject", "night", "condition", "sample"],
-        j="log_type",
+        j="reporting_type",
         sep="_",
         suffix=r"\w+",
     )
@@ -32,7 +32,7 @@ def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
     data = pd.wide_to_long(
         data.reset_index(),
         stubnames=["wake_onset"],
-        i=["subject", "night", "condition", "sample", "log_type"],
+        i=["subject", "night", "condition", "sample", "reporting_type"],
         j="wake_onset_type",
         sep="_",
         suffix=r"\w+",
@@ -41,7 +41,9 @@ def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
     # ensure that all data from all samples are present
     data = data.unstack("sample").dropna().stack()
     # reorder index levels
-    data = data.reorder_levels(["subject", "night", "condition", "wake_onset_type", "log_type", "sample"]).sort_index()
+    data = data.reorder_levels(
+        ["subject", "night", "condition", "wake_onset_type", "reporting_type", "sample"]
+    ).sort_index()
     # reorder columns
     data = data[["date", "wake_onset", "sample_time", "cortisol"]]
     return data
@@ -57,11 +59,11 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
     index_levels = list(data.index.names)
     index_levels.remove("wake_onset_type")
 
-    data = data.reset_index(["wake_onset_type", "log_type"])
-    data = data.assign(**{"log_type": data["wake_onset_type"] + "_" + data["log_type"]})
+    data = data.reset_index(["wake_onset_type", "reporting_type"])
+    data = data.assign(**{"reporting_type": data["wake_onset_type"] + "_" + data["reporting_type"]})
     data = data.drop(columns="wake_onset_type").reset_index().set_index(index_levels)
 
-    log_type_mapping = {
+    reporting_type_mapping = {
         "selfreport_naive": "Naive",
         # "selfreport_app": "Mixed",
         "selfreport_selfreport": "Selfreport",
@@ -70,17 +72,17 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
         "sensor_app": "Sensor_App",
     }
 
-    data = data.rename(log_type_mapping, level="log_type")
-    data = data.reindex(list(log_type_mapping.values()), level="log_type")
+    data = data.rename(reporting_type_mapping, level="reporting_type")
+    data = data.reindex(list(reporting_type_mapping.values()), level="reporting_type")
     return data
 
 
 def compute_time_diff_to_naive(data: pd.DataFrame) -> pd.DataFrame:
     time_diff_min = data["time_diff_min"].copy()
 
-    # unstack and compute time difference between naive and the other two log types
-    time_diff_to_naive = time_diff_min.unstack("log_type").apply(
-        lambda df: df - time_diff_min.xs("Naive", level="log_type")
+    # unstack and compute time difference between naive and the other two reporting types
+    time_diff_to_naive = time_diff_min.unstack("reporting_type").apply(
+        lambda df: df - time_diff_min.xs("Naive", level="reporting_type")
     )
 
     # stack back and convert to dataframe
@@ -92,7 +94,7 @@ def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
     wake_onset_diff = data["time_diff_to_naive_min"].xs("S0", level="sample").round(0)
 
     bins = [wake_onset_diff.min(), 3, 6, 15, wake_onset_diff.max()]
-    wake_onset_diff = wake_onset_diff.unstack("log_type").drop(columns="Naive")
+    wake_onset_diff = wake_onset_diff.unstack("reporting_type").drop(columns="Naive")
     delay_groups = wake_onset_diff.apply(
         pd.cut, bins=bins, include_lowest=True, labels=["None", "Short", "Moderate", "High"]
     )
@@ -108,7 +110,7 @@ def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
 def compute_cumulative_sampling_delay(data: pd.DataFrame) -> pd.DataFrame:
     cum_sampling_delay = data["S4"] - data["S0"]
     cum_sampling_delay = pd.DataFrame(cum_sampling_delay, columns=["cum_sampling_delay"])
-    return cum_sampling_delay.groupby("log_type").agg(["median", stats.iqr])
+    return cum_sampling_delay.groupby("reporting_type").agg(["median", stats.iqr])
 
 
 def categorize_sampling_adherence(data: pd.DataFrame) -> pd.DataFrame:

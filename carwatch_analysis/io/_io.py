@@ -4,9 +4,9 @@ from carwatch_analysis._types import path_t
 from carwatch_analysis.stats import create_unique_night_id
 
 
-def load_cortisol_samples_log_times(path: path_t) -> pd.DataFrame:
+def load_cortisol_samples_reporting_times(path: path_t) -> pd.DataFrame:
     data = pd.read_csv(path)
-    data = data.set_index(["subject", "night", "condition", "log_type", "sample"])
+    data = data.set_index(["subject", "night", "condition", "reporting_type", "sample"])
 
     td_cols = ["wake_onset", "sample_time", "time_diff_to_wake_onset"]
     date_cols = ["date"]

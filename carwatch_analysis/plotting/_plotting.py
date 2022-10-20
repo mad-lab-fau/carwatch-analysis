@@ -178,7 +178,7 @@ def multi_boxplot_sampling_delay(
     fig, axs = _plot_get_fig_ax_list(order, **kwargs)
     kwargs.pop("figsize", None)
 
-    data_group = data.groupby("log_type")
+    data_group = data.groupby("reporting_type")
     data.index = data.index.rename({"sample": "Sample"})
 
     for i, (key, ax) in enumerate(zip(order, axs)):
@@ -187,7 +187,7 @@ def multi_boxplot_sampling_delay(
         ax.set_title(key)
 
         if i == 0:
-            ax.set_ylabel(r"$\Delta s$ [min]")
+            ax.set_ylabel(r"$\Delta t$ [min]")
         else:
             ax.set_ylabel(None)
 
@@ -203,7 +203,7 @@ def multi_paired_plot_sampling_delay(
     kwargs.pop("figsize", None)
 
     data.index = data.index.rename({"sample": "Sample"})
-    data_group = data.groupby("log_type")
+    data_group = data.groupby("reporting_type")
 
     for key, ax in zip(order, axs):
         df = data_group.get_group(key)
@@ -220,31 +220,31 @@ def multi_paired_plot_sampling_delay(
         ax.yaxis.set_minor_locator(mticks.AutoMinorLocator())
         ax.set_title(key, fontsize="smaller")
 
-    axs[0].set_ylabel(r"$\Delta s$ [min]")
+    axs[0].set_ylabel(r"$\Delta t$ [min]")
 
     fig.tight_layout()
     return fig, axs
 
 
 def multi_paired_plot_auc(
-    data: pd.DataFrame, saliva_feature: str, log_types: Sequence[str], **kwargs
+    data: pd.DataFrame, saliva_feature: str, reporting_types: Sequence[str], **kwargs
 ) -> Tuple[plt.Figure, Sequence[plt.Axes]]:
-    fig, axs = _plot_get_fig_ax_list(log_types, **kwargs)
+    fig, axs = _plot_get_fig_ax_list(reporting_types, **kwargs)
 
     data = data.xs(saliva_feature, level="saliva_feature")
 
     title_dict = {"auc_g": "$AUC_G$", "auc_i": "$AUC_I$"}
 
-    for log_type, ax in zip(log_types[::-1], axs):
-        order = log_types.copy()
-        order.remove(log_type)
+    for reporting_type, ax in zip(reporting_types[::-1], axs):
+        order = reporting_types.copy()
+        order.remove(reporting_type)
 
-        data_plot = data.reindex(order, level="log_type")
+        data_plot = data.reindex(order, level="reporting_type")
 
         _plot_paired(
             data=data_plot.reset_index(),
             dv="cortisol",
-            within="log_type",
+            within="reporting_type",
             order=order,
             subject="night_id",
             boxplot_in_front=True,
@@ -252,7 +252,7 @@ def multi_paired_plot_auc(
             ax=ax,
         )
         ax.yaxis.set_minor_locator(mticks.AutoMinorLocator())
-        ax.set_xlabel("Log Type")
+        ax.set_xlabel("Reporting Type")
         ax.set_ylabel(r"Cortisol AUC $\left[\frac{nmol \cdot min}{l} \right]$")
 
     fig.suptitle(title_dict[saliva_feature])
@@ -261,26 +261,26 @@ def multi_paired_plot_auc(
 
 
 def paired_plot_auc(
-    data: pd.DataFrame, saliva_feature: str, log_types: Sequence[str], **kwargs
-) -> Tuple[plt.Figure, Sequence[plt.Axes]]:
+    data: pd.DataFrame, saliva_feature: str, reporting_types: Sequence[str], **kwargs
+) -> Tuple[plt.Figure, plt.Axes]:
     fig, ax = _plot_get_fig_ax(**kwargs)
 
     data = data.xs(saliva_feature, level="saliva_feature")
-    data = data.reindex(log_types, level="log_type")
+    data = data.reindex(reporting_types, level="reporting_type")
 
     title_dict = {"auc_g": "$AUC_G$", "auc_i": "$AUC_I$"}
 
     pg.plot_paired(
         data=data.reset_index(),
         dv="cortisol",
-        within="log_type",
-        order=log_types,
+        within="reporting_type",
+        order=reporting_types,
         subject="night_id",
         boxplot_in_front=True,
         pointplot_kwargs={"alpha": 0.5},
         ax=ax,
     )
-    ax.set_xlabel("Log Type")
+    ax.set_xlabel("Reporting Type")
     ax.set_ylabel(r"Cortisol AUC $\left[\frac{nmol \cdot min}{l} \right]$")
 
     fig.suptitle(title_dict[saliva_feature])
@@ -289,7 +289,7 @@ def paired_plot_auc(
 
 
 def time_unit_digits_histogram_grid(
-    data: pd.DataFrame, x: str, condition_order: Sequence[str], log_type_order: Sequence[str], **kwargs
+    data: pd.DataFrame, x: str, condition_order: Sequence[str], reporting_type_order: Sequence[str], **kwargs
 ) -> Tuple[plt.Figure, Sequence[plt.Axes]]:
     fig = plt.figure(figsize=kwargs.get("figsize"), constrained_layout=True)
     fig.suptitle(kwargs.get("suptitle", None))
@@ -299,12 +299,12 @@ def time_unit_digits_histogram_grid(
 
     for condition, subfig in zip(condition_order, subfigs):
         subfig.suptitle(condition, fontsize="medium")
-        grouper_log_type = grouper_condition.get_group(condition).groupby("log_type")
+        grouper_reporting_type = grouper_condition.get_group(condition).groupby("reporting_type")
 
         # create subplots per subfig
-        axs = subfig.subplots(nrows=1, ncols=len(grouper_log_type), gridspec_kw={"wspace": 0.1})
-        for log_type, ax in zip(log_type_order, axs):
-            df = grouper_log_type.get_group(log_type)
+        axs = subfig.subplots(nrows=1, ncols=len(grouper_reporting_type), gridspec_kw={"wspace": 0.1})
+        for reporting_type, ax in zip(reporting_type_order, axs):
+            df = grouper_reporting_type.get_group(reporting_type)
             sns.histplot(
                 data=df.reset_index(),
                 x=x,
@@ -317,7 +317,7 @@ def time_unit_digits_histogram_grid(
             ax.set_xticks(np.arange(0, 10))
             ax.yaxis.set_major_locator(mticks.MultipleLocator(20))
             ax.yaxis.set_minor_locator(mticks.MultipleLocator(10))
-            ax.set_title(log_type)
+            ax.set_title(reporting_type)
             ax.set_xlabel("Unit Digit [min]")
             ax.set_ylabel("Frequency [%]")
             ax.set_ylim(kwargs.get("ylim", None))
@@ -325,7 +325,7 @@ def time_unit_digits_histogram_grid(
 
 
 def time_unit_digits_histogram(
-    data: pd.DataFrame, x: str, log_type_order: Sequence[str], **kwargs
+    data: pd.DataFrame, x: str, reporting_type_order: Sequence[str], **kwargs
 ) -> Tuple[plt.Figure, plt.Axes]:
 
     fig = plt.figure(figsize=kwargs.get("figsize"), constrained_layout=True)
@@ -334,18 +334,18 @@ def time_unit_digits_histogram(
     subfig = fig.subfigures(nrows=1, ncols=1, hspace=0.05)
     subfig.suptitle("All Conditions", fontsize="medium")
 
-    grouper = data.groupby("log_type")
+    grouper = data.groupby("reporting_type")
 
     axs = subfig.subplots(nrows=1, ncols=len(grouper), gridspec_kw={"wspace": 0.1})
 
-    for log_type, ax in zip(log_type_order, axs):
-        df = grouper.get_group(log_type)
+    for reporting_type, ax in zip(reporting_type_order, axs):
+        df = grouper.get_group(reporting_type)
 
         sns.histplot(data=df.reset_index(), x=x, stat="percent", bins=10, binrange=[0, 9], discrete=True, ax=ax)
         ax.set_xticks(np.arange(0, 10))
         ax.yaxis.set_major_locator(mticks.MultipleLocator(20))
         ax.yaxis.set_minor_locator(mticks.MultipleLocator(10))
-        ax.set_title(log_type)
+        ax.set_title(reporting_type)
         ax.set_xlabel("Unit Digit [min]")
         ax.set_ylabel("Frequency [%]")
         ax.set_ylim(kwargs.get("ylim"))

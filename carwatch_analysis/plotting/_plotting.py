@@ -1,5 +1,5 @@
 import contextlib
-from typing import Optional, Sequence, Tuple, Dict, Any
+from typing import Any, Dict, Optional, Sequence, Tuple
 
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt

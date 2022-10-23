@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "carwatch-analysis"
-version = "0.1.0"
+version = "1.0.0"
 description = "A python package to analyze data from the CARWatch Project."
 authors = [
     "Robert Richer <robert.richer@fau.de>",

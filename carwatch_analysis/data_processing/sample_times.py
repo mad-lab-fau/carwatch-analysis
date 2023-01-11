@@ -65,11 +65,10 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
 
     reporting_type_mapping = {
         "selfreport_naive": "Naive",
-        # "selfreport_app": "Mixed",
-        "selfreport_selfreport": "Selfreport",
-        "app_app": "App",
-        "sensor_selfreport": "Sensor_Selfreport",
-        "sensor_app": "Sensor_App",
+        "selfreport_selfreport": "AW & ST: Selfreport",
+        "app_app": "AW & ST: App",
+        "sensor_selfreport": "AW: Sensor, ST: Selfreport",
+        "sensor_app": "AW: Sensor, ST: App",
     }
 
     data = data.rename(reporting_type_mapping, level="reporting_type")
@@ -91,7 +90,7 @@ def compute_time_diff_to_naive(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
-    wake_onset_diff = data["time_diff_to_naive_min"].xs("S0", level="sample").round(0)
+    wake_onset_diff = data["time_diff_to_naive_min"].xs("S1", level="sample").round(0)
 
     bins = [wake_onset_diff.min(), 3, 6, 15, wake_onset_diff.max()]
     wake_onset_diff = wake_onset_diff.unstack("reporting_type").drop(columns="Naive")
@@ -108,18 +107,18 @@ def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def compute_cumulative_sampling_delay(data: pd.DataFrame) -> pd.DataFrame:
-    cum_sampling_delay = data["S4"] - data["S0"]
+    cum_sampling_delay = data["S5"] - data["S1"]
     cum_sampling_delay = pd.DataFrame(cum_sampling_delay, columns=["cum_sampling_delay"])
     return cum_sampling_delay.groupby("reporting_type").agg(["median", stats.iqr])
 
 
 def categorize_sampling_adherence(data: pd.DataFrame) -> pd.DataFrame:
-    wo_s0_data = data.xs("S0", level="sample")["time_diff_to_naive_min"]
-    wo_s0_group = pd.cut(
-        wo_s0_data,
-        bins=[wo_s0_data.min(), 5, wo_s0_data.max()],
+    wo_s1_data = data.xs("S1", level="sample")["time_diff_to_naive_min"]
+    wo_s1_group = pd.cut(
+        wo_s1_data,
+        bins=[wo_s1_data.min(), 5, wo_s1_data.max()],
         include_lowest=True,
         labels=["Adherent", "Non-adherent"],
     )
-    wo_s0_group.name = "delay_group"
-    return pd.DataFrame(wo_s0_data).join(wo_s0_group).set_index("delay_group", append=True)
+    wo_s1_group.name = "delay_group"
+    return pd.DataFrame(wo_s1_data).join(wo_s1_group).set_index("delay_group", append=True)

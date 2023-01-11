@@ -1,6 +1,18 @@
+from typing import Sequence
+
 import pandas as pd
 
-__all__ = ["add_naive_sample_times", "sample_times_long_format"]
+__all__ = [
+    "add_naive_sample_times",
+    "sample_times_long_format",
+    "compute_sample_times_parameter",
+    "restructure_sample_times_dataframe",
+    "compute_cumulative_sampling_delay",
+    "compute_sample_times_parameter",
+    "categorize_sampling_adherence",
+    "compute_max_delay_selfreport",
+    "compute_time_diff_to_naive",
+]
 
 from scipy.stats import stats
 
@@ -123,6 +135,7 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
         "selfreport_naive": "Naive",
         "selfreport_selfreport": "AW & ST: Selfreport",
         "app_app": "AW & ST: App",
+        "sensor_naive": "AW: Sensor, ST: Naive",
         "sensor_selfreport": "AW: Sensor, ST: Selfreport",
         "sensor_app": "AW: Sensor, ST: App",
     }
@@ -233,3 +246,15 @@ def categorize_sampling_adherence(data: pd.DataFrame) -> pd.DataFrame:
     )
     wo_s1_group.name = "delay_group"
     return pd.DataFrame(wo_s1_data).join(wo_s1_group).set_index("delay_group", append=True)
+
+
+def compute_max_delay_selfreport(data: pd.DataFrame, ids_max_delay: Sequence[str]) -> pd.DataFrame:
+    max_delay_selfreport = data["time_diff_to_naive_min"].reindex(ids_max_delay, level="night_id")
+    max_delay_selfreport = max_delay_selfreport.reindex(
+        ["AW & ST: Selfreport", "AW & ST: App"], level="reporting_type"
+    ).unstack(["sample", "reporting_type"])
+    max_delay_selfreport = (
+        max_delay_selfreport.sort_index(axis=1).dropna().sort_values(by=("S1", "AW & ST: App"), ascending=False)
+    )
+    max_delay_selfreport = max_delay_selfreport.round(2)
+    return max_delay_selfreport

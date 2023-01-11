@@ -28,3 +28,19 @@ def load_sensor_awakening_times(path: path_t) -> pd.DataFrame:
     data = pd.to_datetime(data["wake_onset_sensor"])
     data -= data.dt.normalize()
     return pd.DataFrame(data)
+
+
+def convert_cortisol_sample_ids(data: pd.DataFrame) -> pd.DataFrame:
+    """Increase all cortisol sample IDs by one to match CAR guidelines (S1 = first sample).
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe with cortisol samples.
+
+    """
+    index_levels = list(data.index.names)
+    data = data.reset_index()
+    data["sample"] = "S" + (data["sample"].str.extract(r"S(\d)").astype(int) + 1).astype(str)
+    data = data.set_index(index_levels)
+    return data

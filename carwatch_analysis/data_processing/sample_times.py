@@ -6,6 +6,20 @@ from scipy.stats import stats
 
 
 def add_naive_sample_times(data: pd.DataFrame) -> pd.DataFrame:
+    """Add naive sampling times to the data.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing cortisol values and sampling times.
+
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing cortisol values and sampling times with naive sampling times added.
+
+    """
     data = data.assign(**{"wake_onset_naive": data["wake_onset_selfreport"]})
 
     sample_ids = data.index.get_level_values("sample").unique()
@@ -20,6 +34,20 @@ def add_naive_sample_times(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
+    """Convert dataframe with sampling times into long-format.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing sampling times in long-format.
+
+    """
     data = pd.wide_to_long(
         data.reset_index(),
         stubnames=["sample_time"],
@@ -50,12 +78,40 @@ def sample_times_long_format(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def compute_sample_times_parameter(data: pd.DataFrame) -> pd.DataFrame:
+    """Compute sample-wise difference to wake onset (in min) for each reporting strategy.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing sample-wise difference to wake onset (in min) for each reporting strategy.
+
+    """
     data = data.assign(**{"time_diff_to_wake_onset": data["sample_time"] - data["wake_onset"]})
     data = data.assign(**{"time_diff_min": data["time_diff_to_wake_onset"].dt.total_seconds() / 60})
     return data
 
 
 def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
+    """Restructure dataframe containing sampling times.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Restructured dataframe containing sampling times.
+
+    """
     index_levels = list(data.index.names)
     index_levels.remove("wake_onset_type")
 
@@ -77,6 +133,19 @@ def restructure_sample_times_dataframe(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def compute_time_diff_to_naive(data: pd.DataFrame) -> pd.DataFrame:
+    """Compute time difference to naive sampling times.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing time difference to naive sampling times.
+    """
     time_diff_min = data["time_diff_min"].copy()
 
     # unstack and compute time difference between naive and the other two reporting types
@@ -90,6 +159,20 @@ def compute_time_diff_to_naive(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
+    """Compute the "delay group" for each recording and add it as index to the dataframe.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing sampling times with "delay group" index.
+
+    """
     wake_onset_diff = data["time_diff_to_naive_min"].xs("S1", level="sample").round(0)
 
     bins = [wake_onset_diff.min(), 3, 6, 15, wake_onset_diff.max()]
@@ -107,12 +190,40 @@ def add_delay_group_index(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def compute_cumulative_sampling_delay(data: pd.DataFrame) -> pd.DataFrame:
+    """Compute cumulative sampling delay, i.e, delay between the first (S1) and last (S5) saliva sample.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing cumulative sampling delay.
+
+    """
     cum_sampling_delay = data["S5"] - data["S1"]
     cum_sampling_delay = pd.DataFrame(cum_sampling_delay, columns=["cum_sampling_delay"])
     return cum_sampling_delay.groupby("reporting_type").agg(["median", stats.iqr])
 
 
 def categorize_sampling_adherence(data: pd.DataFrame) -> pd.DataFrame:
+    """Classify sampling adherence for each recording.
+
+    Recordings are classified as adherent if the delay between awakening and S1 is less than 5 min.
+
+    Parameters
+    ----------
+    data : :class:`pandas.DataFrame`
+        Dataframe containing sampling times.
+
+    Returns
+    -------
+    :class:`pandas.DataFrame`
+        Dataframe containing sampling adherence.
+
+    """
     wo_s1_data = data.xs("S1", level="sample")["time_diff_to_naive_min"]
     wo_s1_group = pd.cut(
         wo_s1_data,

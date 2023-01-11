@@ -11,6 +11,7 @@ import seaborn as sns
 from biopsykit.protocols.plotting import feature_boxplot, saliva_multi_feature_boxplot
 from biopsykit.stats import StatsPipeline
 from fau_colors import colors_all
+from matplotlib.ticker import MultipleLocator
 
 from carwatch_analysis._types import path_t
 
@@ -181,10 +182,18 @@ def multi_boxplot_sampling_delay(
     data_group = data.groupby("reporting_type")
     data.index = data.index.rename({"sample": "Sample"})
 
+    title_mapping = {
+        "AW & ST: Selfreport (w/o App)": "AW & ST: Selfreport\n (w/o App)",
+        "AW & ST: App": "AW & ST: App\n",
+        "AW: Sensor, ST: Selfreport (w/o App)": "AW: Sensor, ST: Selfreport\n (w/o App)",
+        "AW: Sensor, ST: App": "AW: Sensor, ST: App\n",
+    }
+
     for i, (key, ax) in enumerate(zip(order, axs)):
         df = data_group.get_group(key)
         feature_boxplot(data=df.reset_index(), x="Sample", y="time_diff_to_naive_min", ax=ax, **kwargs)
-        ax.set_title(key)
+
+        ax.set_title(title_mapping[key])
 
         if i == 0:
             ax.set_ylabel(r"$\Delta t$ [min]")
@@ -205,8 +214,17 @@ def multi_paired_plot_sampling_delay(
     data.index = data.index.rename({"sample": "Sample"})
     data_group = data.groupby("reporting_type")
 
+    title_mapping = {
+        "AW & ST: Selfreport (w/o App)": "AW & ST: Selfreport\n (w/o App)",
+        "AW & ST: App": "AW & ST: App\n",
+        "AW: Sensor, ST: Selfreport (w/o App)": "AW: Sensor, ST: Selfreport\n (w/o App)",
+        "AW: Sensor, ST: App": "AW: Sensor, ST: App\n",
+    }
+
     for key, ax in zip(order, axs):
         df = data_group.get_group(key)
+
+        num_recordings = len(df.index.get_level_values("night_id").unique())
         _plot_paired(
             data=df.reset_index(),
             dv="time_diff_to_naive_min",
@@ -218,7 +236,7 @@ def multi_paired_plot_sampling_delay(
             **kwargs,
         )
         ax.yaxis.set_minor_locator(mticks.AutoMinorLocator())
-        ax.set_title(key, fontsize="smaller")
+        ax.set_title(f"{title_mapping[key]}\n(N = {num_recordings})", fontsize="smaller")
 
     axs[0].set_ylabel(r"$\Delta t$ [min]")
 
@@ -235,11 +253,20 @@ def multi_paired_plot_auc(
 
     title_dict = {"auc_g": "$AUC_G$", "auc_i": "$AUC_I$"}
 
+    xlabel_mapping = {
+        "Naive": "Naive\n",
+        "AW & ST: Selfreport (w/ App)": "AW & ST:\nSelfreport (w/ App)",
+        "AW & ST: App": "AW & ST:\nApp",
+    }
+
     for reporting_type, ax in zip(reporting_types[::-1], axs):
         order = reporting_types.copy()
         order.remove(reporting_type)
 
-        data_plot = data.reindex(order, level="reporting_type")
+        data_plot = data.reindex(order, level="reporting_type").rename(index=xlabel_mapping, level="reporting_type")
+        order = [xlabel_mapping[key] for key in order]
+
+        num_recordings = len(data_plot.unstack("reporting_type").dropna())
 
         _plot_paired(
             data=data_plot.reset_index(),
@@ -252,10 +279,12 @@ def multi_paired_plot_auc(
             ax=ax,
         )
         ax.yaxis.set_minor_locator(mticks.AutoMinorLocator())
-        ax.set_xlabel("Reporting Type")
-        ax.set_ylabel(r"Cortisol AUC $\left[\frac{nmol \cdot min}{l} \right]$")
+        ax.set_xlabel("Reporting Type", labelpad=8)
+        ax.set_ylabel(f"Cortisol {title_dict[saliva_feature]} " + r"$\left[\frac{nmol \cdot min}{l} \right]$")
+        ax.set_title(f"N = {num_recordings}")
+        ax.yaxis.set_major_locator(MultipleLocator(250))
 
-    fig.suptitle(title_dict[saliva_feature])
+    # fig.suptitle(title_dict[saliva_feature])
     fig.tight_layout()
     return fig, axs
 
@@ -265,22 +294,28 @@ def paired_plot_auc(
 ) -> Tuple[plt.Figure, plt.Axes]:
     fig, ax = _plot_get_fig_ax(**kwargs)
 
-    data = data.xs(saliva_feature, level="saliva_feature")
-    data = data.reindex(reporting_types, level="reporting_type")
-
     title_dict = {"auc_g": "$AUC_G$", "auc_i": "$AUC_I$"}
+    xlabel_mapping = {
+        "Naive": "Naive\n",
+        "AW & ST: Selfreport (w/ App)": "AW & ST:\nSelfreport (w/ App)",
+        "AW & ST: App": "AW & ST:\nApp",
+    }
+
+    data = data.xs(saliva_feature, level="saliva_feature")
+    data = data.reindex(reporting_types, level="reporting_type").rename(index=xlabel_mapping, level="reporting_type")
+    order = [xlabel_mapping[key] for key in reporting_types]
 
     pg.plot_paired(
         data=data.reset_index(),
         dv="cortisol",
         within="reporting_type",
-        order=reporting_types,
+        order=order,
         subject="night_id",
         boxplot_in_front=True,
         pointplot_kwargs={"alpha": 0.5},
         ax=ax,
     )
-    ax.set_xlabel("Reporting Type")
+    ax.set_xlabel("Reporting Type", labelpad=8)
     ax.set_ylabel(r"Cortisol AUC $\left[\frac{nmol \cdot min}{l} \right]$")
 
     fig.suptitle(title_dict[saliva_feature])
@@ -305,6 +340,8 @@ def time_unit_digits_histogram_grid(
         axs = subfig.subplots(nrows=1, ncols=len(grouper_reporting_type), gridspec_kw={"wspace": 0.1})
         for reporting_type, ax in zip(reporting_type_order, axs):
             df = grouper_reporting_type.get_group(reporting_type)
+
+            num_recordings = len(df.index.get_level_values("night_id").unique())
             sns.histplot(
                 data=df.reset_index(),
                 x=x,
@@ -317,7 +354,7 @@ def time_unit_digits_histogram_grid(
             ax.set_xticks(np.arange(0, 10))
             ax.yaxis.set_major_locator(mticks.MultipleLocator(20))
             ax.yaxis.set_minor_locator(mticks.MultipleLocator(10))
-            ax.set_title(reporting_type)
+            ax.set_title(f"{reporting_type} (N = {num_recordings})")
             ax.set_xlabel("Unit Digit [min]")
             ax.set_ylabel("Frequency [%]")
             ax.set_ylim(kwargs.get("ylim", None))
@@ -340,15 +377,42 @@ def time_unit_digits_histogram(
 
     for reporting_type, ax in zip(reporting_type_order, axs):
         df = grouper.get_group(reporting_type)
+        num_recordings = len(df.index.get_level_values("night_id").unique())
 
         sns.histplot(data=df.reset_index(), x=x, stat="percent", bins=10, binrange=[0, 9], discrete=True, ax=ax)
         ax.set_xticks(np.arange(0, 10))
         ax.yaxis.set_major_locator(mticks.MultipleLocator(20))
         ax.yaxis.set_minor_locator(mticks.MultipleLocator(10))
-        ax.set_title(reporting_type)
+        ax.set_title(f"{reporting_type} (N = {num_recordings})")
         ax.set_xlabel("Unit Digit [min]")
         ax.set_ylabel("Frequency [%]")
         ax.set_ylim(kwargs.get("ylim"))
+
+    return fig, axs
+
+
+def sampling_delay_histogram(
+    data: pd.DataFrame, reporting_type_order: Sequence[str], **kwargs
+) -> Tuple[plt.Figure, plt.Axes]:
+    data_hist = data.reindex(reporting_type_order, level="reporting_type")
+
+    col = "time_diff_to_naive_min"
+    data_hist[col] = np.around(data_hist[col])
+
+    default_kwargs = dict(figsize=(12, 5), nrows=2, ncols=3, sharey=True, sharex=True)
+    for key, value in default_kwargs.items():
+        kwargs.setdefault(key, value)
+
+    fig, axs = plt.subplots(**kwargs)
+    axs = axs.flatten()
+
+    grouper = data_hist.groupby("reporting_type")
+
+    for reporting_type, ax in zip(reporting_type_order, axs):
+        df = grouper.get_group(reporting_type)
+        sns.histplot(data=df.reset_index(), x=col, stat="percent", ax=ax, binwidth=1)
+        ax.minorticks_on()
+        ax.set_title(reporting_type, fontsize="small")
 
     return fig, axs
 

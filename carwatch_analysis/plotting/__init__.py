@@ -5,6 +5,7 @@ from carwatch_analysis.plotting._plotting import (
     multi_paired_plot_auc,
     multi_paired_plot_sampling_delay,
     paired_plot_auc,
+    sampling_delay_histogram,
     static_moment_plot,
     time_unit_digits_histogram,
     time_unit_digits_histogram_grid,
@@ -20,4 +21,5 @@ __all__ = [
     "static_moment_plot",
     "time_unit_digits_histogram_grid",
     "time_unit_digits_histogram",
+    "sampling_delay_histogram",
 ]

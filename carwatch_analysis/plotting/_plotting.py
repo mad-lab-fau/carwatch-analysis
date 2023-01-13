@@ -303,7 +303,7 @@ def paired_plot_auc(
 
     data = data.xs(saliva_feature, level="saliva_feature")
     data = data.reindex(reporting_types, level="reporting_type").rename(index=xlabel_mapping, level="reporting_type")
-    order = [xlabel_mapping[key] for key in reporting_types]
+    order = [xlabel_mapping[key] if key in xlabel_mapping else key for key in reporting_types]
 
     pg.plot_paired(
         data=data.reset_index(),
@@ -369,7 +369,8 @@ def time_unit_digits_histogram(
     fig.suptitle(kwargs.get("suptitle", None))
 
     subfig = fig.subfigures(nrows=1, ncols=1, hspace=0.05)
-    subfig.suptitle("All Conditions", fontsize="medium")
+    if kwargs.get("column_title", False):
+        subfig.suptitle("All Conditions", fontsize="medium")
 
     grouper = data.groupby("reporting_type")
 

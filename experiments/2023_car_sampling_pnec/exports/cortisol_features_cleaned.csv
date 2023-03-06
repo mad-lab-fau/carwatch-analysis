@@ -1,0 +1,1515 @@
+subject,night,condition,saliva_feature,cortisol
+AB19E,0,Known Alarm,auc_g,614.03
+AB19E,0,Known Alarm,auc_i,443.23
+AB19E,0,Known Alarm,ini_val,2.8
+AB19E,0,Known Alarm,max_inc,10.66
+AB19E,0,Known Alarm,max_val,13.46
+AB19E,0,Known Alarm,slopeS0S3,0.2368888888888889
+AB19E,0,Known Alarm,slopeS0S4,0.1614754098360656
+AB19E,1,Known Alarm,auc_g,1136.85
+AB19E,1,Known Alarm,auc_i,880.6499999999999
+AB19E,1,Known Alarm,ini_val,4.27
+AB19E,1,Known Alarm,max_inc,21.7
+AB19E,1,Known Alarm,max_val,25.97
+AB19E,1,Known Alarm,slopeS0S3,0.4442222222222222
+AB19E,1,Known Alarm,slopeS0S4,0.2143333333333333
+AB31R,0,Spontaneous,auc_g,656.325
+AB31R,0,Spontaneous,auc_i,18.96500000000004
+AB31R,0,Spontaneous,ini_val,10.28
+AB31R,0,Spontaneous,max_inc,2.09
+AB31R,0,Spontaneous,max_val,12.37
+AB31R,0,Spontaneous,slopeS0S3,-0.0012765957446808
+AB31R,0,Spontaneous,slopeS0S4,-0.0333870967741935
+AB31R,1,Known Alarm,auc_g,1427.28
+AB31R,1,Known Alarm,auc_i,415.8299999999999
+AB31R,1,Known Alarm,ini_val,18.39
+AB31R,1,Known Alarm,max_inc,10.37
+AB31R,1,Known Alarm,max_val,28.76
+AB31R,1,Known Alarm,slopeS0S3,0.25925
+AB31R,1,Known Alarm,slopeS0S4,0.0736363636363636
+AC12E,0,Known Alarm,auc_g,751.9499999999999
+AC12E,0,Known Alarm,auc_i,402.25
+AC12E,0,Known Alarm,ini_val,5.38
+AC12E,0,Known Alarm,max_inc,9.05
+AC12E,0,Known Alarm,max_val,14.43
+AC12E,0,Known Alarm,slopeS0S3,0.1886666666666666
+AC12E,0,Known Alarm,slopeS0S4,0.1044615384615384
+AC12E,1,Known Alarm,auc_g,940.895
+AC12E,1,Known Alarm,auc_i,443.745
+AC12E,1,Known Alarm,ini_val,8.15
+AC12E,1,Known Alarm,max_inc,11.67
+AC12E,1,Known Alarm,max_val,19.82
+AC12E,1,Known Alarm,slopeS0S3,0.253695652173913
+AC12E,1,Known Alarm,slopeS0S4,0.1268852459016393
+AH10Y,0,Known Alarm,auc_g,1537.315
+AH10Y,0,Known Alarm,auc_i,576.9350000000001
+AH10Y,0,Known Alarm,ini_val,15.49
+AH10Y,0,Known Alarm,max_inc,16.79
+AH10Y,0,Known Alarm,max_val,32.28
+AH10Y,0,Known Alarm,slopeS0S3,0.103695652173913
+AH10Y,0,Known Alarm,slopeS0S4,0.0167741935483871
+AK12I,0,Spontaneous,auc_g,872.025
+AK12I,0,Spontaneous,auc_i,410.025
+AK12I,0,Spontaneous,ini_val,7.7
+AK12I,0,Spontaneous,max_inc,9.39
+AK12I,0,Spontaneous,max_val,17.09
+AK12I,0,Spontaneous,slopeS0S3,0.2086666666666666
+AK12I,0,Spontaneous,slopeS0S4,0.1485
+AK12I,1,Spontaneous,auc_g,827.7
+AK12I,1,Spontaneous,auc_i,222.3
+AK12I,1,Spontaneous,ini_val,10.09
+AK12I,1,Spontaneous,max_inc,6.300000000000001
+AK12I,1,Spontaneous,max_val,16.39
+AK12I,1,Spontaneous,slopeS0S3,0.1124444444444444
+AK12I,1,Spontaneous,slopeS0S4,0.0003333333333333
+AM21H,0,Spontaneous,auc_g,406.65
+AM21H,0,Spontaneous,auc_i,-4.349999999999978
+AM21H,0,Spontaneous,ini_val,6.85
+AM21H,0,Spontaneous,max_inc,1.0200000000000005
+AM21H,0,Spontaneous,max_val,7.87
+AM21H,0,Spontaneous,slopeS0S3,-0.0304444444444444
+AM21H,0,Spontaneous,slopeS0S4,-0.0216666666666666
+AM21H,1,Known Alarm,auc_g,343.125
+AM21H,1,Known Alarm,auc_i,-85.27499999999998
+AM21H,1,Known Alarm,ini_val,7.14
+AM21H,1,Known Alarm,max_inc,-1.239999999999999
+AM21H,1,Known Alarm,max_val,7.14
+AM21H,1,Known Alarm,slopeS0S3,-0.0399999999999999
+AM21H,1,Known Alarm,slopeS0S4,-0.0221666666666666
+AU09R,0,Spontaneous,auc_g,351.9
+AU09R,0,Spontaneous,auc_i,-26.69999999999997
+AU09R,0,Spontaneous,ini_val,6.31
+AU09R,0,Spontaneous,max_inc,0.5100000000000007
+AU09R,0,Spontaneous,max_val,6.82
+AU09R,0,Spontaneous,slopeS0S3,-0.0066666666666666
+AU09R,0,Spontaneous,slopeS0S4,-0.0283333333333333
+AU09R,1,Spontaneous,auc_g,1062.0
+AU09R,1,Spontaneous,auc_i,798.0
+AU09R,1,Spontaneous,ini_val,4.4
+AU09R,1,Spontaneous,max_inc,22.48
+AU09R,1,Spontaneous,max_val,26.88
+AU09R,1,Spontaneous,slopeS0S3,0.4166666666666667
+AU09R,1,Spontaneous,slopeS0S4,0.3746666666666666
+BC05R,0,Spontaneous,auc_g,688.2
+BC05R,0,Spontaneous,auc_i,335.4
+BC05R,0,Spontaneous,ini_val,5.88
+BC05R,0,Spontaneous,max_inc,7.03
+BC05R,0,Spontaneous,max_val,12.91
+BC05R,0,Spontaneous,slopeS0S3,0.1426666666666667
+BC05R,0,Spontaneous,slopeS0S4,0.075
+BC05R,1,Spontaneous,auc_g,936.9
+BC05R,1,Spontaneous,auc_i,625.4999999999999
+BC05R,1,Spontaneous,ini_val,5.19
+BC05R,1,Spontaneous,max_inc,14.63
+BC05R,1,Spontaneous,max_val,19.82
+BC05R,1,Spontaneous,slopeS0S3,0.3251111111111111
+BC05R,1,Spontaneous,slopeS0S4,0.1526666666666666
+BR11A,0,Spontaneous,auc_g,839.925
+BR11A,0,Spontaneous,auc_i,551.3249999999999
+BR11A,0,Spontaneous,ini_val,4.81
+BR11A,0,Spontaneous,max_inc,12.43
+BR11A,0,Spontaneous,max_val,17.24
+BR11A,0,Spontaneous,slopeS0S3,0.2762222222222222
+BR11A,0,Spontaneous,slopeS0S4,0.1948333333333333
+BR11A,1,Spontaneous,auc_g,556.2
+BR11A,1,Spontaneous,auc_i,507.0
+BR11A,1,Spontaneous,ini_val,0.82
+BR11A,1,Spontaneous,max_inc,13.89
+BR11A,1,Spontaneous,max_val,14.71
+BR11A,1,Spontaneous,slopeS0S3,0.3086666666666667
+BR11A,1,Spontaneous,slopeS0S4,0.188
+BU07E,0,Known Alarm,auc_g,129.025
+BU07E,0,Known Alarm,auc_i,-125.345
+BU07E,0,Known Alarm,ini_val,4.17
+BU07E,0,Known Alarm,max_inc,-1.84
+BU07E,0,Known Alarm,max_val,4.17
+BU07E,0,Known Alarm,slopeS0S3,-0.0525531914893616
+BU07E,0,Known Alarm,slopeS0S4,-0.0437704918032786
+BU07E,1,Spontaneous,auc_g,427.725
+BU07E,1,Spontaneous,auc_i,147.52499999999998
+BU07E,1,Spontaneous,ini_val,4.67
+BU07E,1,Spontaneous,max_inc,4.369999999999999
+BU07E,1,Spontaneous,max_val,9.04
+BU07E,1,Spontaneous,slopeS0S3,0.0455555555555555
+BU07E,1,Spontaneous,slopeS0S4,0.0174999999999999
+CC09K,0,Unknown Alarm,auc_g,1044.075
+CC09K,0,Unknown Alarm,auc_i,804.075
+CC09K,0,Unknown Alarm,ini_val,4.0
+CC09K,0,Unknown Alarm,max_inc,24.74
+CC09K,0,Unknown Alarm,max_val,28.74
+CC09K,0,Unknown Alarm,slopeS0S3,0.5497777777777777
+CC09K,0,Unknown Alarm,slopeS0S4,0.2678333333333333
+CC10A,0,Spontaneous,auc_g,525.525
+CC10A,0,Spontaneous,auc_i,-71.47499999999998
+CC10A,0,Spontaneous,ini_val,9.95
+CC10A,0,Spontaneous,max_inc,-0.33
+CC10A,0,Spontaneous,max_val,9.95
+CC10A,0,Spontaneous,slopeS0S3,-0.0379999999999999
+CC10A,0,Spontaneous,slopeS0S4,-0.0208333333333333
+CC21W,0,Spontaneous,auc_g,1047.65
+CC21W,0,Spontaneous,auc_i,463.97
+CC21W,0,Spontaneous,ini_val,9.12
+CC21W,0,Spontaneous,max_inc,10.94
+CC21W,0,Spontaneous,max_val,20.06
+CC21W,0,Spontaneous,slopeS0S3,0.1822916666666667
+CC21W,0,Spontaneous,slopeS0S4,0.0346875
+CC21W,1,Spontaneous,auc_g,807.6750000000001
+CC21W,1,Spontaneous,auc_i,236.265
+CC21W,1,Spontaneous,ini_val,9.07
+CC21W,1,Spontaneous,max_inc,7.210000000000001
+CC21W,1,Spontaneous,max_val,16.28
+CC21W,1,Spontaneous,slopeS0S3,0.046875
+CC21W,1,Spontaneous,slopeS0S4,0.0112698412698412
+CE10B,0,Known Alarm,auc_g,756.370575
+CE10B,0,Known Alarm,auc_i,278.5272749999999
+CE10B,0,Known Alarm,ini_val,7.70715
+CE10B,0,Known Alarm,max_inc,7.819849999999999
+CE10B,0,Known Alarm,max_val,15.527
+CE10B,0,Known Alarm,slopeS0S3,0.0367565217391304
+CE10B,0,Known Alarm,slopeS0S4,0.0492879032258064
+CE10B,1,Spontaneous,auc_g,540.8193000000001
+CE10B,1,Spontaneous,auc_i,318.36145
+CE10B,1,Spontaneous,ini_val,3.64685
+CE10B,1,Spontaneous,max_inc,8.78215
+CE10B,1,Spontaneous,max_val,12.429
+CE10B,1,Spontaneous,slopeS0S3,0.0868673913043478
+CE10B,1,Spontaneous,slopeS0S4,0.0327090163934426
+CJ10Z,0,Unknown Alarm,auc_g,1341.755
+CJ10Z,0,Unknown Alarm,auc_i,1050.035
+CJ10Z,0,Unknown Alarm,ini_val,4.42
+CJ10Z,0,Unknown Alarm,max_inc,24.11
+CJ10Z,0,Unknown Alarm,max_val,28.53
+CJ10Z,0,Unknown Alarm,slopeS0S3,0.4532075471698114
+CJ10Z,0,Unknown Alarm,slopeS0S4,0.2121212121212121
+CJ10Z,1,Unknown Alarm,auc_g,1003.97
+CJ10Z,1,Unknown Alarm,auc_i,911.67
+CJ10Z,1,Unknown Alarm,ini_val,1.42
+CJ10Z,1,Unknown Alarm,max_inc,25.340000000000003
+CJ10Z,1,Unknown Alarm,max_val,26.76
+CJ10Z,1,Unknown Alarm,slopeS0S3,0.4687999999999999
+CJ10Z,1,Unknown Alarm,slopeS0S4,0.3898461538461539
+CK11R,0,Spontaneous,auc_g,790.045
+CK11R,0,Spontaneous,auc_i,-93.235
+CK11R,0,Spontaneous,ini_val,14.48
+CK11R,0,Spontaneous,max_inc,-0.9299999999999996
+CK11R,0,Spontaneous,max_val,14.48
+CK11R,0,Spontaneous,slopeS0S3,-0.0413043478260869
+CK11R,0,Spontaneous,slopeS0S4,-0.0645901639344262
+CK11R,1,Unknown Alarm,auc_g,658.605
+CK11R,1,Unknown Alarm,auc_i,442.665
+CK11R,1,Unknown Alarm,ini_val,3.54
+CK11R,1,Unknown Alarm,max_inc,11.39
+CK11R,1,Unknown Alarm,max_val,14.93
+CK11R,1,Unknown Alarm,slopeS0S3,0.2531111111111111
+CK11R,1,Unknown Alarm,slopeS0S4,0.1801639344262295
+CT29K,0,Known Alarm,auc_g,701.7200000000001
+CT29K,0,Known Alarm,auc_i,-280.43
+CT29K,0,Known Alarm,ini_val,15.11
+CT29K,0,Known Alarm,max_inc,-1.6899999999999995
+CT29K,0,Known Alarm,max_val,15.11
+CT29K,0,Known Alarm,slopeS0S3,-0.17
+CT29K,0,Known Alarm,slopeS0S4,-0.1255384615384615
+CT29K,1,Known Alarm,auc_g,1117.1950000000002
+CT29K,1,Known Alarm,auc_i,725.995
+CT29K,1,Known Alarm,ini_val,6.52
+CT29K,1,Known Alarm,max_inc,14.79
+CT29K,1,Known Alarm,max_val,21.31
+CT29K,1,Known Alarm,slopeS0S3,0.3206666666666666
+CT29K,1,Known Alarm,slopeS0S4,0.1591666666666666
+CU27R,0,Spontaneous,auc_g,586.2
+CU27R,0,Spontaneous,auc_i,-43.64999999999997
+CU27R,0,Spontaneous,ini_val,9.69
+CU27R,0,Spontaneous,max_inc,1.2300000000000004
+CU27R,0,Spontaneous,max_val,10.92
+CU27R,0,Spontaneous,slopeS0S3,-0.0137999999999999
+CU27R,0,Spontaneous,slopeS0S4,-0.0521538461538461
+CU27R,1,Known Alarm,auc_g,642.75
+CU27R,1,Known Alarm,auc_i,256.95000000000005
+CU27R,1,Known Alarm,ini_val,6.43
+CU27R,1,Known Alarm,max_inc,7.41
+CU27R,1,Known Alarm,max_val,13.84
+CU27R,1,Known Alarm,slopeS0S3,0.1646666666666666
+CU27R,1,Known Alarm,slopeS0S4,0.0843333333333333
+DC28D,1,Unknown Alarm,auc_g,520.7049999999999
+DC28D,1,Unknown Alarm,auc_i,204.505
+DC28D,1,Unknown Alarm,ini_val,5.1
+DC28D,1,Unknown Alarm,max_inc,6.390000000000001
+DC28D,1,Unknown Alarm,max_val,11.49
+DC28D,1,Unknown Alarm,slopeS0S3,0.046595744680851
+DC28D,1,Unknown Alarm,slopeS0S4,0.0766129032258064
+DI21I,0,Unknown Alarm,auc_g,625.05
+DI21I,0,Unknown Alarm,auc_i,193.17
+DI21I,0,Unknown Alarm,ini_val,7.08
+DI21I,0,Unknown Alarm,max_inc,4.859999999999999
+DI21I,0,Unknown Alarm,max_val,11.94
+DI21I,0,Unknown Alarm,slopeS0S3,0.0702222222222222
+DI21I,0,Unknown Alarm,slopeS0S4,0.040655737704918
+DI21I,1,Unknown Alarm,auc_g,510.745
+DI21I,1,Unknown Alarm,auc_i,63.00500000000001
+DI21I,1,Unknown Alarm,ini_val,7.34
+DI21I,1,Unknown Alarm,max_inc,2.630000000000001
+DI21I,1,Unknown Alarm,max_val,9.97
+DI21I,1,Unknown Alarm,slopeS0S3,0.0571739130434782
+DI21I,1,Unknown Alarm,slopeS0S4,0.0359016393442622
+DK11R,0,Spontaneous,auc_g,1319.7
+DK11R,0,Spontaneous,auc_i,929.1
+DK11R,0,Spontaneous,ini_val,6.51
+DK11R,0,Spontaneous,max_inc,23.83
+DK11R,0,Spontaneous,max_val,30.34
+DK11R,0,Spontaneous,slopeS0S3,0.3611111111111111
+DK11R,0,Spontaneous,slopeS0S4,0.1486666666666666
+DK11R,1,Known Alarm,auc_g,751.6500000000001
+DK11R,1,Known Alarm,auc_i,552.45
+DK11R,1,Known Alarm,ini_val,3.32
+DK11R,1,Known Alarm,max_inc,16.16
+DK11R,1,Known Alarm,max_val,19.48
+DK11R,1,Known Alarm,slopeS0S3,0.2793333333333333
+DK11R,1,Known Alarm,slopeS0S4,0.2693333333333333
+DL16R,0,Unknown Alarm,auc_g,531.5999999999999
+DL16R,0,Unknown Alarm,auc_i,315.6
+DL16R,0,Unknown Alarm,ini_val,3.6
+DL16R,0,Unknown Alarm,max_inc,6.99
+DL16R,0,Unknown Alarm,max_val,10.59
+DL16R,0,Unknown Alarm,slopeS0S3,0.1388888888888889
+DL16R,0,Unknown Alarm,slopeS0S4,0.0983333333333333
+DL16R,1,Spontaneous,auc_g,634.125
+DL16R,1,Spontaneous,auc_i,340.12499999999994
+DL16R,1,Spontaneous,ini_val,4.9
+DL16R,1,Spontaneous,max_inc,7.119999999999999
+DL16R,1,Spontaneous,max_val,12.02
+DL16R,1,Spontaneous,slopeS0S3,0.1346666666666666
+DL16R,1,Spontaneous,slopeS0S4,0.1034999999999999
+DN28H,0,Unknown Alarm,auc_g,664.2
+DN28H,0,Unknown Alarm,auc_i,514.2
+DN28H,0,Unknown Alarm,ini_val,2.5
+DN28H,0,Unknown Alarm,max_inc,13.52
+DN28H,0,Unknown Alarm,max_val,16.02
+DN28H,0,Unknown Alarm,slopeS0S3,0.3002222222222223
+DN28H,0,Unknown Alarm,slopeS0S4,0.2253333333333333
+DN28H,1,Unknown Alarm,auc_g,733.875
+DN28H,1,Unknown Alarm,auc_i,520.875
+DN28H,1,Unknown Alarm,ini_val,3.55
+DN28H,1,Unknown Alarm,max_inc,15.61
+DN28H,1,Unknown Alarm,max_val,19.16
+DN28H,1,Unknown Alarm,slopeS0S3,0.3313333333333333
+DN28H,1,Unknown Alarm,slopeS0S4,0.2601666666666666
+EA09H,0,Spontaneous,auc_g,396.095925
+EA09H,0,Spontaneous,auc_i,-2.399774999999977
+EA09H,0,Spontaneous,ini_val,6.42735
+EA09H,0,Spontaneous,max_inc,0.5201500000000001
+EA09H,0,Spontaneous,max_val,6.9475
+EA09H,0,Spontaneous,slopeS0S3,0.0043847826086956
+EA09H,0,Spontaneous,slopeS0S4,-0.0201395161290322
+EA09H,1,Spontaneous,auc_g,633.544675
+EA09H,1,Spontaneous,auc_i,389.383025
+EA09H,1,Spontaneous,ini_val,4.00265
+EA09H,1,Spontaneous,max_inc,11.17885
+EA09H,1,Spontaneous,max_val,15.1815
+EA09H,1,Spontaneous,slopeS0S3,0.2430184782608695
+EA09H,1,Spontaneous,slopeS0S4,0.1222024590163934
+EE08O,0,Spontaneous,auc_g,1038.095
+EE08O,0,Spontaneous,auc_i,328.80500000000006
+EE08O,0,Spontaneous,ini_val,9.99
+EE08O,0,Spontaneous,max_inc,8.72
+EE08O,0,Spontaneous,max_val,18.71
+EE08O,0,Spontaneous,slopeS0S3,0.0581481481481481
+EE08O,0,Spontaneous,slopeS0S4,-0.006056338028169
+EE08O,1,Spontaneous,auc_g,562.27
+EE08O,1,Spontaneous,auc_i,197.57
+EE08O,1,Spontaneous,ini_val,5.21
+EE08O,1,Spontaneous,max_inc,5.920000000000001
+EE08O,1,Spontaneous,max_val,11.13
+EE08O,1,Spontaneous,slopeS0S3,0.0523076923076923
+EE08O,1,Spontaneous,slopeS0S4,-0.0027142857142857
+EG25R,0,Known Alarm,auc_g,929.86
+EG25R,0,Known Alarm,auc_i,287.86
+EG25R,0,Known Alarm,ini_val,10.7
+EG25R,0,Known Alarm,max_inc,8.11
+EG25R,0,Known Alarm,max_val,18.81
+EG25R,0,Known Alarm,slopeS0S3,0.1763043478260869
+EG25R,0,Known Alarm,slopeS0S4,0.1014999999999999
+EG25R,1,Spontaneous,auc_g,844.5250000000001
+EG25R,1,Spontaneous,auc_i,518.765
+EG25R,1,Spontaneous,ini_val,5.09
+EG25R,1,Spontaneous,max_inc,12.09
+EG25R,1,Spontaneous,max_val,17.18
+EG25R,1,Spontaneous,slopeS0S3,0.1835416666666667
+EG25R,1,Spontaneous,slopeS0S4,0.1123437499999999
+EM07N,0,Spontaneous,auc_g,866.52
+EM07N,0,Spontaneous,auc_i,207.11
+EM07N,0,Spontaneous,ini_val,10.81
+EM07N,0,Spontaneous,max_inc,6.290000000000001
+EM07N,0,Spontaneous,max_val,17.1
+EM07N,0,Spontaneous,slopeS0S3,0.0832608695652173
+EM07N,0,Spontaneous,slopeS0S4,0.021967213114754
+EM16N,1,Spontaneous,auc_g,837.2891
+EM16N,1,Spontaneous,auc_i,462.5921
+EM16N,1,Spontaneous,ini_val,6.0435
+EM16N,1,Spontaneous,max_inc,10.2155
+EM16N,1,Spontaneous,max_val,16.259
+EM16N,1,Spontaneous,slopeS0S3,0.1789130434782608
+EM16N,1,Spontaneous,slopeS0S4,0.0823338709677419
+FA12L,0,Spontaneous,auc_g,603.775
+FA12L,0,Spontaneous,auc_i,309.175
+FA12L,0,Spontaneous,ini_val,4.91
+FA12L,0,Spontaneous,max_inc,9.26
+FA12L,0,Spontaneous,max_val,14.17
+FA12L,0,Spontaneous,slopeS0S3,0.2057777777777777
+FA12L,0,Spontaneous,slopeS0S4,0.1305
+FA12L,1,Known Alarm,auc_g,510.9
+FA12L,1,Known Alarm,auc_i,252.9
+FA12L,1,Known Alarm,ini_val,4.3
+FA12L,1,Known Alarm,max_inc,11.06
+FA12L,1,Known Alarm,max_val,15.36
+FA12L,1,Known Alarm,slopeS0S3,0.1197777777777777
+FA12L,1,Known Alarm,slopeS0S4,0.1843333333333333
+FA23L,0,Spontaneous,auc_g,469.2
+FA23L,0,Spontaneous,auc_i,37.2
+FA23L,0,Spontaneous,ini_val,7.2
+FA23L,0,Spontaneous,max_inc,3.55
+FA23L,0,Spontaneous,max_val,10.75
+FA23L,0,Spontaneous,slopeS0S3,-0.0191111111111111
+FA23L,0,Spontaneous,slopeS0S4,-0.038
+FA23L,1,Spontaneous,auc_g,403.9500000000001
+FA23L,1,Spontaneous,auc_i,175.95
+FA23L,1,Spontaneous,ini_val,3.8
+FA23L,1,Spontaneous,max_inc,5.89
+FA23L,1,Spontaneous,max_val,9.69
+FA23L,1,Spontaneous,slopeS0S3,0.0568888888888889
+FA23L,1,Spontaneous,slopeS0S4,0.0056666666666666
+FB04R,0,Spontaneous,auc_g,893.49
+FB04R,0,Spontaneous,auc_i,-327.91
+FB04R,0,Spontaneous,ini_val,19.7
+FB04R,0,Spontaneous,max_inc,-3.899999999999999
+FB04R,0,Spontaneous,max_val,19.7
+FB04R,0,Spontaneous,slopeS0S3,-0.1436170212765957
+FB04R,0,Spontaneous,slopeS0S4,-0.154516129032258
+FB04R,1,Unknown Alarm,auc_g,441.94
+FB04R,1,Unknown Alarm,auc_i,-3.9699999999999775
+FB04R,1,Unknown Alarm,ini_val,7.31
+FB04R,1,Unknown Alarm,max_inc,1.0200000000000005
+FB04R,1,Unknown Alarm,max_val,8.33
+FB04R,1,Unknown Alarm,slopeS0S3,0.0206521739130434
+FB04R,1,Unknown Alarm,slopeS0S4,0.0167213114754098
+FK22R,0,Known Alarm,auc_g,903.71
+FK22R,0,Known Alarm,auc_i,270.68999999999994
+FK22R,0,Known Alarm,ini_val,10.21
+FK22R,0,Known Alarm,max_inc,6.629999999999999
+FK22R,0,Known Alarm,max_val,16.84
+FK22R,0,Known Alarm,slopeS0S3,0.1410869565217391
+FK22R,0,Known Alarm,slopeS0S4,0.1069354838709677
+FK22R,1,Spontaneous,auc_g,797.25
+FK22R,1,Spontaneous,auc_i,93.89
+FK22R,1,Spontaneous,ini_val,10.99
+FK22R,1,Spontaneous,max_inc,3.92
+FK22R,1,Spontaneous,max_val,14.91
+FK22R,1,Spontaneous,slopeS0S3,-0.0002127659574468
+FK22R,1,Spontaneous,slopeS0S4,-0.0309375
+HE12B,0,Known Alarm,auc_g,610.825
+HE12B,0,Known Alarm,auc_i,119.16500000000002
+HE12B,0,Known Alarm,ini_val,7.93
+HE12B,0,Known Alarm,max_inc,4.540000000000001
+HE12B,0,Known Alarm,max_val,12.47
+HE12B,0,Known Alarm,slopeS0S3,0.0089130434782608
+HE12B,0,Known Alarm,slopeS0S4,-0.0293548387096774
+HE12B,1,Spontaneous,auc_g,660.555
+HE12B,1,Spontaneous,auc_i,188.355
+HE12B,1,Spontaneous,ini_val,7.87
+HE12B,1,Spontaneous,max_inc,4.56
+HE12B,1,Spontaneous,max_val,12.43
+HE12B,1,Spontaneous,slopeS0S3,0.07
+HE12B,1,Spontaneous,slopeS0S4,0.0215
+HT08S,0,Spontaneous,auc_g,221.45500000000004
+HT08S,0,Spontaneous,auc_i,-383.6950000000001
+HT08S,0,Spontaneous,ini_val,9.31
+HT08S,0,Spontaneous,max_inc,-6.08
+HT08S,0,Spontaneous,max_val,9.31
+HT08S,0,Spontaneous,slopeS0S3,-0.1454166666666666
+HT08S,0,Spontaneous,slopeS0S4,-0.0935384615384615
+HT08S,1,Spontaneous,auc_g,160.5
+HT08S,1,Spontaneous,auc_i,-12.900000000000004
+HT08S,1,Spontaneous,ini_val,2.89
+HT08S,1,Spontaneous,max_inc,1.44
+HT08S,1,Spontaneous,max_val,4.33
+HT08S,1,Spontaneous,slopeS0S3,0.0144444444444444
+HT08S,1,Spontaneous,slopeS0S4,0.024
+II08L,0,Known Alarm,auc_g,502.63000000000005
+II08L,0,Known Alarm,auc_i,333.04999999999995
+II08L,0,Known Alarm,ini_val,2.78
+II08L,0,Known Alarm,max_inc,9.91
+II08L,0,Known Alarm,max_val,12.69
+II08L,0,Known Alarm,slopeS0S3,0.2154347826086956
+II08L,0,Known Alarm,slopeS0S4,0.1380327868852459
+II08L,1,Known Alarm,auc_g,635.3249999999999
+II08L,1,Known Alarm,auc_i,571.125
+II08L,1,Known Alarm,ini_val,1.07
+II08L,1,Known Alarm,max_inc,15.25
+II08L,1,Known Alarm,max_val,16.32
+II08L,1,Known Alarm,slopeS0S3,0.3388888888888889
+II08L,1,Known Alarm,slopeS0S4,0.2388333333333333
+IM09E,0,Spontaneous,auc_g,718.65
+IM09E,0,Spontaneous,auc_i,105.44999999999996
+IM09E,0,Spontaneous,ini_val,10.22
+IM09E,0,Spontaneous,max_inc,9.409999999999998
+IM09E,0,Spontaneous,max_val,19.63
+IM09E,0,Spontaneous,slopeS0S3,-0.036
+IM09E,0,Spontaneous,slopeS0S4,-0.07
+IM09E,1,Spontaneous,auc_g,387.825
+IM09E,1,Spontaneous,auc_i,-45.37499999999997
+IM09E,1,Spontaneous,ini_val,7.22
+IM09E,1,Spontaneous,max_inc,1.010000000000001
+IM09E,1,Spontaneous,max_val,8.23
+IM09E,1,Spontaneous,slopeS0S3,-0.0439999999999999
+IM09E,1,Spontaneous,slopeS0S4,-0.0591666666666666
+JA24N,0,Spontaneous,auc_g,919.575
+JA24N,0,Spontaneous,auc_i,501.375
+JA24N,0,Spontaneous,ini_val,6.97
+JA24N,0,Spontaneous,max_inc,12.25
+JA24N,0,Spontaneous,max_val,19.22
+JA24N,0,Spontaneous,slopeS0S3,0.1917777777777777
+JA24N,0,Spontaneous,slopeS0S4,0.0781666666666666
+JA24N,1,Spontaneous,auc_g,794.1400000000001
+JA24N,1,Spontaneous,auc_i,373.24
+JA24N,1,Spontaneous,ini_val,6.9
+JA24N,1,Spontaneous,max_inc,10.339999999999998
+JA24N,1,Spontaneous,max_val,17.24
+JA24N,1,Spontaneous,slopeS0S3,0.1454347826086956
+JA24N,1,Spontaneous,slopeS0S4,0.0585245901639344
+JA26L,0,Spontaneous,auc_g,787.36
+JA26L,0,Spontaneous,auc_i,292.0
+JA26L,0,Spontaneous,ini_val,7.74
+JA26L,0,Spontaneous,max_inc,6.44
+JA26L,0,Spontaneous,max_val,14.18
+JA26L,0,Spontaneous,slopeS0S3,0.0733333333333333
+JA26L,0,Spontaneous,slopeS0S4,0.095
+JA26L,1,Spontaneous,auc_g,642.88
+JA26L,1,Spontaneous,auc_i,36.16
+JA26L,1,Spontaneous,ini_val,9.48
+JA26L,1,Spontaneous,max_inc,4.43
+JA26L,1,Spontaneous,max_val,13.91
+JA26L,1,Spontaneous,slopeS0S3,-0.0212499999999999
+JA26L,1,Spontaneous,slopeS0S4,-0.020625
+JC05N,0,Spontaneous,auc_g,429.575
+JC05N,0,Spontaneous,auc_i,-310.8750000000001
+JC05N,0,Spontaneous,ini_val,12.55
+JC05N,0,Spontaneous,max_inc,-2.950000000000001
+JC05N,0,Spontaneous,max_val,12.55
+JC05N,0,Spontaneous,slopeS0S3,-0.1741860465116279
+JC05N,0,Spontaneous,slopeS0S4,-0.1357627118644068
+JC05N,1,Known Alarm,auc_g,774.72
+JC05N,1,Known Alarm,auc_i,291.6
+JC05N,1,Known Alarm,ini_val,7.92
+JC05N,1,Known Alarm,max_inc,8.12
+JC05N,1,Known Alarm,max_val,16.04
+JC05N,1,Known Alarm,slopeS0S3,0.125
+JC05N,1,Known Alarm,slopeS0S4,0.0352459016393442
+JE03S,0,Known Alarm,auc_g,715.31
+JE03S,0,Known Alarm,auc_i,94.89
+JE03S,0,Known Alarm,ini_val,9.26
+JE03S,0,Known Alarm,max_inc,2.960000000000001
+JE03S,0,Known Alarm,max_val,12.22
+JE03S,0,Known Alarm,slopeS0S3,0.0435999999999999
+JE03S,0,Known Alarm,slopeS0S4,-0.0053731343283582
+JE03S,1,Known Alarm,auc_g,641.485
+JE03S,1,Known Alarm,auc_i,362.095
+JE03S,1,Known Alarm,ini_val,4.17
+JE03S,1,Known Alarm,max_inc,9.25
+JE03S,1,Known Alarm,max_val,13.42
+JE03S,1,Known Alarm,slopeS0S3,0.1708333333333333
+JE03S,1,Known Alarm,slopeS0S4,0.1380597014925373
+JE15A,0,Spontaneous,auc_g,990.535
+JE15A,0,Spontaneous,auc_i,452.375
+JE15A,0,Spontaneous,ini_val,8.68
+JE15A,0,Spontaneous,max_inc,9.45
+JE15A,0,Spontaneous,max_val,18.13
+JE15A,0,Spontaneous,slopeS0S3,0.196304347826087
+JE15A,0,Spontaneous,slopeS0S4,0.1506451612903225
+JE15A,1,Spontaneous,auc_g,828.9599999999999
+JE15A,1,Spontaneous,auc_i,324.49
+JE15A,1,Spontaneous,ini_val,8.27
+JE15A,1,Spontaneous,max_inc,8.32
+JE15A,1,Spontaneous,max_val,16.59
+JE15A,1,Spontaneous,slopeS0S3,0.1848888888888889
+JE15A,1,Spontaneous,slopeS0S4,0.0911475409836065
+JG04G,0,Unknown Alarm,auc_g,746.1249999999999
+JG04G,0,Unknown Alarm,auc_i,365.725
+JG04G,0,Unknown Alarm,ini_val,6.34
+JG04G,0,Unknown Alarm,max_inc,8.9
+JG04G,0,Unknown Alarm,max_val,15.24
+JG04G,0,Unknown Alarm,slopeS0S3,0.1284444444444444
+JG04G,0,Unknown Alarm,slopeS0S4,0.0434999999999999
+JG04G,1,Unknown Alarm,auc_g,723.3449999999999
+JG04G,1,Unknown Alarm,auc_i,241.315
+JG04G,1,Unknown Alarm,ini_val,8.17
+JG04G,1,Unknown Alarm,max_inc,5.290000000000001
+JG04G,1,Unknown Alarm,max_val,13.46
+JG04G,1,Unknown Alarm,slopeS0S3,0.1202272727272727
+JG04G,1,Unknown Alarm,slopeS0S4,0.0549152542372881
+JK12R,0,Known Alarm,auc_g,571.725
+JK12R,0,Known Alarm,auc_i,-3.0750000000000144
+JK12R,0,Known Alarm,ini_val,9.58
+JK12R,0,Known Alarm,max_inc,0.2699999999999996
+JK12R,0,Known Alarm,max_val,9.85
+JK12R,0,Known Alarm,slopeS0S3,0.0013333333333333
+JK12R,0,Known Alarm,slopeS0S4,-0.0108333333333333
+JK12R,1,Known Alarm,auc_g,290.325
+JK12R,1,Known Alarm,auc_i,166.125
+JK12R,1,Known Alarm,ini_val,2.07
+JK12R,1,Known Alarm,max_inc,7.59
+JK12R,1,Known Alarm,max_val,9.66
+JK12R,1,Known Alarm,slopeS0S3,0.112
+JK12R,1,Known Alarm,slopeS0S4,0.1265
+JK20G,0,Unknown Alarm,auc_g,1087.7
+JK20G,0,Unknown Alarm,auc_i,-76.17999999999991
+JK20G,0,Unknown Alarm,ini_val,19.08
+JK20G,0,Unknown Alarm,max_inc,4.32
+JK20G,0,Unknown Alarm,max_val,23.4
+JK20G,0,Unknown Alarm,slopeS0S3,-0.1634782608695651
+JK20G,0,Unknown Alarm,slopeS0S4,-0.1645901639344262
+JK20G,1,Unknown Alarm,auc_g,536.615
+JK20G,1,Unknown Alarm,auc_i,14.175000000000008
+JK20G,1,Unknown Alarm,ini_val,7.06
+JK20G,1,Unknown Alarm,max_inc,1.7199999999999998
+JK20G,1,Unknown Alarm,max_val,8.78
+JK20G,1,Unknown Alarm,slopeS0S3,-0.0078333333333333
+JK20G,1,Unknown Alarm,slopeS0S4,-0.0271621621621621
+JK25L,0,Known Alarm,auc_g,662.1
+JK25L,0,Known Alarm,auc_i,353.1
+JK25L,0,Known Alarm,ini_val,5.15
+JK25L,0,Known Alarm,max_inc,9.25
+JK25L,0,Known Alarm,max_val,14.4
+JK25L,0,Known Alarm,slopeS0S3,0.1057777777777777
+JK25L,0,Known Alarm,slopeS0S4,0.0426666666666666
+JK25L,1,Known Alarm,auc_g,880.5
+JK25L,1,Known Alarm,auc_i,410.7000000000001
+JK25L,1,Known Alarm,ini_val,7.83
+JK25L,1,Known Alarm,max_inc,10.03
+JK25L,1,Known Alarm,max_val,17.86
+JK25L,1,Known Alarm,slopeS0S3,0.2206666666666667
+JK25L,1,Known Alarm,slopeS0S4,0.122
+JM07ß,0,Spontaneous,auc_g,968.925
+JM07ß,0,Spontaneous,auc_i,681.525
+JM07ß,0,Spontaneous,ini_val,4.79
+JM07ß,0,Spontaneous,max_inc,17.990000000000002
+JM07ß,0,Spontaneous,max_val,22.78
+JM07ß,0,Spontaneous,slopeS0S3,0.3666666666666666
+JM07ß,0,Spontaneous,slopeS0S4,0.2998333333333333
+JM07ß,1,Unknown Alarm,auc_g,759.9749999999999
+JM07ß,1,Unknown Alarm,auc_i,428.775
+JM07ß,1,Unknown Alarm,ini_val,5.52
+JM07ß,1,Unknown Alarm,max_inc,10.79
+JM07ß,1,Unknown Alarm,max_val,16.31
+JM07ß,1,Unknown Alarm,slopeS0S3,0.2397777777777777
+JM07ß,1,Unknown Alarm,slopeS0S4,0.1651666666666666
+JM22C,0,Unknown Alarm,auc_g,918.9
+JM22C,0,Unknown Alarm,auc_i,749.1
+JM22C,0,Unknown Alarm,ini_val,2.83
+JM22C,0,Unknown Alarm,max_inc,25.46
+JM22C,0,Unknown Alarm,max_val,28.29
+JM22C,0,Unknown Alarm,slopeS0S3,0.4642222222222222
+JM22C,0,Unknown Alarm,slopeS0S4,0.4243333333333333
+JM22C,1,Unknown Alarm,auc_g,675.3
+JM22C,1,Unknown Alarm,auc_i,575.1
+JM22C,1,Unknown Alarm,ini_val,1.67
+JM22C,1,Unknown Alarm,max_inc,20.81
+JM22C,1,Unknown Alarm,max_val,22.48
+JM22C,1,Unknown Alarm,slopeS0S3,0.4624444444444445
+JM22C,1,Unknown Alarm,slopeS0S4,0.307
+JS26S,0,Spontaneous,auc_g,1197.9
+JS26S,0,Spontaneous,auc_i,463.5
+JS26S,0,Spontaneous,ini_val,12.24
+JS26S,0,Spontaneous,max_inc,12.97
+JS26S,0,Spontaneous,max_val,25.21
+JS26S,0,Spontaneous,slopeS0S3,0.2202222222222221
+JS26S,0,Spontaneous,slopeS0S4,0.0803333333333333
+JS26S,1,Spontaneous,auc_g,942.225
+JS26S,1,Spontaneous,auc_i,161.025
+JS26S,1,Spontaneous,ini_val,13.02
+JS26S,1,Spontaneous,max_inc,7.879999999999999
+JS26S,1,Spontaneous,max_val,20.9
+JS26S,1,Spontaneous,slopeS0S3,0.0539999999999999
+JS26S,1,Spontaneous,slopeS0S4,0.0268333333333333
+JU01F,0,Known Alarm,auc_g,865.76
+JU01F,0,Known Alarm,auc_i,337.12
+JU01F,0,Known Alarm,ini_val,8.26
+JU01F,0,Known Alarm,max_inc,7.540000000000001
+JU01F,0,Known Alarm,max_val,15.8
+JU01F,0,Known Alarm,slopeS0S3,0.1570833333333333
+JU01F,0,Known Alarm,slopeS0S4,0.104375
+JU01F,1,Spontaneous,auc_g,893.9799999999999
+JU01F,1,Spontaneous,auc_i,-59.21000000000004
+JU01F,1,Spontaneous,ini_val,15.13
+JU01F,1,Spontaneous,max_inc,3.119999999999999
+JU01F,1,Spontaneous,max_val,18.25
+JU01F,1,Spontaneous,slopeS0S3,-0.0270833333333333
+JU01F,1,Spontaneous,slopeS0S4,-0.1019047619047619
+KA17A,0,Unknown Alarm,auc_g,1361.4770999999998
+KA17A,0,Unknown Alarm,auc_i,841.3302000000001
+KA17A,0,Unknown Alarm,ini_val,8.96805
+KA17A,0,Unknown Alarm,max_inc,18.572450000000003
+KA17A,0,Unknown Alarm,max_val,27.5405
+KA17A,0,Unknown Alarm,slopeS0S3,0.4254755813953489
+KA17A,0,Unknown Alarm,slopeS0S4,0.3032060344827585
+KA17A,1,Unknown Alarm,auc_g,1304.1975000000002
+KA17A,1,Unknown Alarm,auc_i,925.9275
+KA17A,1,Unknown Alarm,ini_val,6.3045
+KA17A,1,Unknown Alarm,max_inc,26.4795
+KA17A,1,Unknown Alarm,max_val,32.784
+KA17A,1,Unknown Alarm,slopeS0S3,0.5884333333333333
+KA17A,1,Unknown Alarm,slopeS0S4,0.3747166666666667
+KA19E,0,Unknown Alarm,auc_g,960.04425
+KA19E,0,Unknown Alarm,auc_i,394.8802500000001
+KA19E,0,Unknown Alarm,ini_val,9.4194
+KA19E,0,Unknown Alarm,max_inc,9.741600000000002
+KA19E,0,Unknown Alarm,max_val,19.161
+KA19E,0,Unknown Alarm,slopeS0S3,0.21648
+KA19E,0,Unknown Alarm,slopeS0S4,0.0288683333333333
+KA19E,1,Unknown Alarm,auc_g,1031.30175
+KA19E,1,Unknown Alarm,auc_i,420.02775
+KA19E,1,Unknown Alarm,ini_val,10.1879
+KA19E,1,Unknown Alarm,max_inc,12.3421
+KA19E,1,Unknown Alarm,max_val,22.53
+KA19E,1,Unknown Alarm,slopeS0S3,0.2742688888888889
+KA19E,1,Unknown Alarm,slopeS0S4,0.0868183333333333
+KB16K,0,Known Alarm,auc_g,450.75
+KB16K,0,Known Alarm,auc_i,-344.85
+KB16K,0,Known Alarm,ini_val,13.26
+KB16K,0,Known Alarm,max_inc,-3.039999999999999
+KB16K,0,Known Alarm,max_val,13.26
+KB16K,0,Known Alarm,slopeS0S3,-0.1948888888888889
+KB16K,0,Known Alarm,slopeS0S4,-0.145
+KB16K,1,Spontaneous,auc_g,296.7
+KB16K,1,Spontaneous,auc_i,53.100000000000016
+KB16K,1,Spontaneous,ini_val,4.06
+KB16K,1,Spontaneous,max_inc,1.83
+KB16K,1,Spontaneous,max_val,5.89
+KB16K,1,Spontaneous,slopeS0S3,0.0117777777777777
+KB16K,1,Spontaneous,slopeS0S4,-0.0073333333333333
+KD16N,0,Known Alarm,auc_g,529.3
+KD16N,0,Known Alarm,auc_i,-94.12000000000003
+KD16N,0,Known Alarm,ini_val,10.22
+KD16N,0,Known Alarm,max_inc,-0.2900000000000009
+KD16N,0,Known Alarm,max_val,10.22
+KD16N,0,Known Alarm,slopeS0S3,-0.0691304347826087
+KD16N,0,Known Alarm,slopeS0S4,-0.0618032786885245
+KD16N,1,Known Alarm,auc_g,949.8
+KD16N,1,Known Alarm,auc_i,304.79999999999995
+KD16N,1,Known Alarm,ini_val,10.75
+KD16N,1,Known Alarm,max_inc,9.56
+KD16N,1,Known Alarm,max_val,20.31
+KD16N,1,Known Alarm,slopeS0S3,0.2124444444444444
+KD16N,1,Known Alarm,slopeS0S4,0.0836666666666666
+KE17E,0,Known Alarm,auc_g,524.85
+KE17E,0,Known Alarm,auc_i,34.65
+KE17E,0,Known Alarm,ini_val,8.17
+KE17E,0,Known Alarm,max_inc,2.1099999999999994
+KE17E,0,Known Alarm,max_val,10.28
+KE17E,0,Known Alarm,slopeS0S3,0.0002222222222222
+KE17E,0,Known Alarm,slopeS0S4,-0.0233333333333333
+KE17E,1,Spontaneous,auc_g,592.875
+KE17E,1,Spontaneous,auc_i,66.07500000000002
+KE17E,1,Spontaneous,ini_val,8.78
+KE17E,1,Spontaneous,max_inc,2.4000000000000004
+KE17E,1,Spontaneous,max_val,11.18
+KE17E,1,Spontaneous,slopeS0S3,0.0197777777777777
+KE17E,1,Spontaneous,slopeS0S4,-0.0314999999999999
+KS11H,0,Unknown Alarm,auc_g,694.225
+KS11H,0,Unknown Alarm,auc_i,282.845
+KS11H,0,Unknown Alarm,ini_val,6.14
+KS11H,0,Unknown Alarm,max_inc,5.500000000000001
+KS11H,0,Unknown Alarm,max_val,11.64
+KS11H,0,Unknown Alarm,slopeS0S3,0.1
+KS11H,0,Unknown Alarm,slopeS0S4,0.0535820895522388
+KS11H,1,Unknown Alarm,auc_g,676.2049999999999
+KS11H,1,Unknown Alarm,auc_i,321.18499999999995
+KS11H,1,Unknown Alarm,ini_val,5.82
+KS11H,1,Unknown Alarm,max_inc,7.689999999999999
+KS11H,1,Unknown Alarm,max_val,13.51
+KS11H,1,Unknown Alarm,slopeS0S3,0.1513043478260869
+KS11H,1,Unknown Alarm,slopeS0S4,0.0801639344262295
+KS28N,0,Unknown Alarm,auc_g,1058.25
+KS28N,0,Unknown Alarm,auc_i,623.25
+KS28N,0,Unknown Alarm,ini_val,7.25
+KS28N,0,Unknown Alarm,max_inc,15.15
+KS28N,0,Unknown Alarm,max_val,22.4
+KS28N,0,Unknown Alarm,slopeS0S3,0.2915555555555555
+KS28N,0,Unknown Alarm,slopeS0S4,0.1316666666666666
+KU08D,0,Known Alarm,auc_g,350.175
+KU08D,0,Known Alarm,auc_i,124.57500000000002
+KU08D,0,Known Alarm,ini_val,3.76
+KU08D,0,Known Alarm,max_inc,3.42
+KU08D,0,Known Alarm,max_val,7.18
+KU08D,0,Known Alarm,slopeS0S3,0.076
+KU08D,0,Known Alarm,slopeS0S4,0.0538333333333333
+KU08D,1,Spontaneous,auc_g,250.315
+KU08D,1,Spontaneous,auc_i,-3.884999999999992
+KU08D,1,Spontaneous,ini_val,4.1
+KU08D,1,Spontaneous,max_inc,0.4599999999999999
+KU08D,1,Spontaneous,max_val,4.56
+KU08D,1,Spontaneous,slopeS0S3,-0.0128260869565217
+KU08D,1,Spontaneous,slopeS0S4,-0.0046774193548387
+LA09L,0,Known Alarm,auc_g,739.425
+LA09L,0,Known Alarm,auc_i,110.02499999999998
+LA09L,0,Known Alarm,ini_val,10.49
+LA09L,0,Known Alarm,max_inc,4.629999999999999
+LA09L,0,Known Alarm,max_val,15.12
+LA09L,0,Known Alarm,slopeS0S3,0.0246666666666666
+LA09L,0,Known Alarm,slopeS0S4,-0.0275
+LA09L,1,Known Alarm,auc_g,331.8
+LA09L,1,Known Alarm,auc_i,-78.59999999999998
+LA09L,1,Known Alarm,ini_val,6.84
+LA09L,1,Known Alarm,max_inc,-0.6799999999999997
+LA09L,1,Known Alarm,max_val,6.84
+LA09L,1,Known Alarm,slopeS0S3,-0.0255555555555555
+LA09L,1,Known Alarm,slopeS0S4,-0.0453333333333333
+LA23T,0,Known Alarm,auc_g,593.575
+LA23T,0,Known Alarm,auc_i,213.055
+LA23T,0,Known Alarm,ini_val,6.04
+LA23T,0,Known Alarm,max_inc,5.56
+LA23T,0,Known Alarm,max_val,11.6
+LA23T,0,Known Alarm,slopeS0S3,0.0552083333333333
+LA23T,0,Known Alarm,slopeS0S4,0.0006349206349206
+LA23T,1,Spontaneous,auc_g,523.9350000000001
+LA23T,1,Spontaneous,auc_i,-4.724999999999973
+LA23T,1,Spontaneous,ini_val,8.01
+LA23T,1,Spontaneous,max_inc,2.460000000000001
+LA23T,1,Spontaneous,max_val,10.47
+LA23T,1,Spontaneous,slopeS0S3,-0.0276470588235294
+LA23T,1,Spontaneous,slopeS0S4,-0.0496969696969696
+LA26R,0,Unknown Alarm,auc_g,875.64
+LA26R,0,Unknown Alarm,auc_i,323.13
+LA26R,0,Unknown Alarm,ini_val,8.77
+LA26R,0,Unknown Alarm,max_inc,8.350000000000001
+LA26R,0,Unknown Alarm,max_val,17.12
+LA26R,0,Unknown Alarm,slopeS0S3,0.1739583333333333
+LA26R,0,Unknown Alarm,slopeS0S4,0.0985714285714285
+LA26R,1,Unknown Alarm,auc_g,502.65
+LA26R,1,Unknown Alarm,auc_i,321.45000000000005
+LA26R,1,Unknown Alarm,ini_val,3.02
+LA26R,1,Unknown Alarm,max_inc,11.05
+LA26R,1,Unknown Alarm,max_val,14.07
+LA26R,1,Unknown Alarm,slopeS0S3,0.1486666666666667
+LA26R,1,Unknown Alarm,slopeS0S4,0.1123333333333333
+LB21E,0,Known Alarm,auc_g,865.90845
+LB21E,0,Known Alarm,auc_i,423.1024500000001
+LB21E,0,Known Alarm,ini_val,7.3801
+LB21E,0,Known Alarm,max_inc,10.8354
+LB21E,0,Known Alarm,max_val,18.2155
+LB21E,0,Known Alarm,slopeS0S3,0.1183088888888889
+LB21E,0,Known Alarm,slopeS0S4,0.180115
+LB21E,1,Known Alarm,auc_g,874.7351250000002
+LB21E,1,Known Alarm,auc_i,461.404125
+LB21E,1,Known Alarm,ini_val,6.88885
+LB21E,1,Known Alarm,max_inc,12.96365
+LB21E,1,Known Alarm,max_val,19.8525
+LB21E,1,Known Alarm,slopeS0S3,0.2035144444444444
+LB21E,1,Known Alarm,slopeS0S4,0.0681941666666666
+LC05H,0,Known Alarm,auc_g,1437.375
+LC05H,0,Known Alarm,auc_i,835.575
+LC05H,0,Known Alarm,ini_val,10.03
+LC05H,0,Known Alarm,max_inc,20.01
+LC05H,0,Known Alarm,max_val,30.04
+LC05H,0,Known Alarm,slopeS0S3,0.4155555555555556
+LC05H,0,Known Alarm,slopeS0S4,0.2755
+LC05H,1,Spontaneous,auc_g,682.8000000000001
+LC05H,1,Spontaneous,auc_i,203.4
+LC05H,1,Spontaneous,ini_val,7.99
+LC05H,1,Spontaneous,max_inc,5.82
+LC05H,1,Spontaneous,max_val,13.81
+LC05H,1,Spontaneous,slopeS0S3,0.1293333333333333
+LC05H,1,Spontaneous,slopeS0S4,0.0446666666666666
+LE04A,0,Spontaneous,auc_g,875.25
+LE04A,0,Spontaneous,auc_i,-150.75000000000009
+LE04A,0,Spontaneous,ini_val,17.1
+LE04A,0,Spontaneous,max_inc,3.389999999999997
+LE04A,0,Spontaneous,max_val,20.49
+LE04A,0,Spontaneous,slopeS0S3,-0.13
+LE04A,0,Spontaneous,slopeS0S4,-0.16
+LE04A,1,Spontaneous,auc_g,279.3
+LE04A,1,Spontaneous,auc_i,180.90000000000003
+LE04A,1,Spontaneous,ini_val,1.64
+LE04A,1,Spontaneous,max_inc,4.33
+LE04A,1,Spontaneous,max_val,5.97
+LE04A,1,Spontaneous,slopeS0S3,0.0797777777777778
+LE04A,1,Spontaneous,slopeS0S4,0.046
+LG27Z,0,Spontaneous,auc_g,743.0250000000001
+LG27Z,0,Spontaneous,auc_i,149.02499999999998
+LG27Z,0,Spontaneous,ini_val,9.9
+LG27Z,0,Spontaneous,max_inc,4.41
+LG27Z,0,Spontaneous,max_val,14.31
+LG27Z,0,Spontaneous,slopeS0S3,0.0657777777777777
+LG27Z,0,Spontaneous,slopeS0S4,0.0021666666666666
+LG27Z,1,Spontaneous,auc_g,538.5
+LG27Z,1,Spontaneous,auc_i,-146.7
+LG27Z,1,Spontaneous,ini_val,11.42
+LG27Z,1,Spontaneous,max_inc,-1.5999999999999996
+LG27Z,1,Spontaneous,max_val,11.42
+LG27Z,1,Spontaneous,slopeS0S3,-0.0597777777777777
+LG27Z,1,Spontaneous,slopeS0S4,-0.0956666666666666
+LI20Z,0,Known Alarm,auc_g,758.55
+LI20Z,0,Known Alarm,auc_i,-178.04999999999995
+LI20Z,0,Known Alarm,ini_val,15.61
+LI20Z,0,Known Alarm,max_inc,-0.5299999999999994
+LI20Z,0,Known Alarm,max_val,15.61
+LI20Z,0,Known Alarm,slopeS0S3,-0.1335555555555555
+LI20Z,0,Known Alarm,slopeS0S4,-0.0966666666666666
+LI20Z,1,Spontaneous,auc_g,937.875
+LI20Z,1,Spontaneous,auc_i,37.27500000000003
+LI20Z,1,Spontaneous,ini_val,15.01
+LI20Z,1,Spontaneous,max_inc,5.910000000000002
+LI20Z,1,Spontaneous,max_val,20.92
+LI20Z,1,Spontaneous,slopeS0S3,-0.0415555555555555
+LI20Z,1,Spontaneous,slopeS0S4,-0.0665
+LK24L,0,Spontaneous,auc_g,856.4100000000001
+LK24L,0,Spontaneous,auc_i,418.41
+LK24L,0,Spontaneous,ini_val,7.3
+LK24L,0,Spontaneous,max_inc,11.73
+LK24L,0,Spontaneous,max_val,19.03
+LK24L,0,Spontaneous,slopeS0S3,0.2377777777777777
+LK24L,0,Spontaneous,slopeS0S4,0.1955
+LL31H,0,Spontaneous,auc_g,153.14
+LL31H,0,Spontaneous,auc_i,-14.000000000000009
+LL31H,0,Spontaneous,ini_val,2.74
+LL31H,0,Spontaneous,max_inc,-0.04
+LL31H,0,Spontaneous,max_val,2.74
+LL31H,0,Spontaneous,slopeS0S3,-0.0031111111111111
+LL31H,0,Spontaneous,slopeS0S4,-0.0067213114754098
+LL31H,1,Unknown Alarm,auc_g,156.13500000000002
+LL31H,1,Unknown Alarm,auc_i,-38.425
+LL31H,1,Unknown Alarm,ini_val,3.04
+LL31H,1,Unknown Alarm,max_inc,0.5
+LL31H,1,Unknown Alarm,max_val,3.54
+LL31H,1,Unknown Alarm,slopeS0S3,-0.0340425531914893
+LL31H,1,Unknown Alarm,slopeS0S4,0.0078125
+LM18T,0,Spontaneous,auc_g,682.895
+LM18T,0,Spontaneous,auc_i,296.70500000000004
+LM18T,0,Spontaneous,ini_val,6.13
+LM18T,0,Spontaneous,max_inc,8.61
+LM18T,0,Spontaneous,max_val,14.74
+LM18T,0,Spontaneous,slopeS0S3,0.1091489361702127
+LM18T,0,Spontaneous,slopeS0S4,0.0509523809523809
+LM18T,1,Spontaneous,auc_g,508.005
+LM18T,1,Spontaneous,auc_i,392.205
+LM18T,1,Spontaneous,ini_val,1.93
+LM18T,1,Spontaneous,max_inc,8.71
+LM18T,1,Spontaneous,max_val,10.64
+LM18T,1,Spontaneous,slopeS0S3,0.1697777777777777
+LM18T,1,Spontaneous,slopeS0S4,0.0661666666666666
+LP06T,0,Unknown Alarm,auc_g,1037.76
+LP06T,0,Unknown Alarm,auc_i,242.5600000000001
+LP06T,0,Unknown Alarm,ini_val,11.2
+LP06T,0,Unknown Alarm,max_inc,7.300000000000001
+LP06T,0,Unknown Alarm,max_val,18.5
+LP06T,0,Unknown Alarm,slopeS0S3,0.0263461538461538
+LP06T,0,Unknown Alarm,slopeS0S4,-0.0016901408450704
+LP06T,1,Unknown Alarm,auc_g,1155.86
+LP06T,1,Unknown Alarm,auc_i,564.7399999999999
+LP06T,1,Unknown Alarm,ini_val,8.21
+LP06T,1,Unknown Alarm,max_inc,9.869999999999996
+LP06T,1,Unknown Alarm,max_val,18.08
+LP06T,1,Unknown Alarm,slopeS0S3,0.1707142857142856
+LP06T,1,Unknown Alarm,slopeS0S4,0.1206944444444444
+LP25R,1,Known Alarm,auc_g,1027.22
+LP25R,1,Known Alarm,auc_i,92.66
+LP25R,1,Known Alarm,ini_val,14.16
+LP25R,1,Known Alarm,max_inc,5.739999999999998
+LP25R,1,Known Alarm,max_val,19.9
+LP25R,1,Known Alarm,slopeS0S3,-0.0161224489795918
+LP25R,1,Known Alarm,slopeS0S4,-0.0863636363636363
+LS13L,0,Spontaneous,auc_g,752.9250000000001
+LS13L,0,Spontaneous,auc_i,180.5250000000001
+LS13L,0,Spontaneous,ini_val,9.54
+LS13L,0,Spontaneous,max_inc,6.090000000000002
+LS13L,0,Spontaneous,max_val,15.63
+LS13L,0,Spontaneous,slopeS0S3,0.0182222222222222
+LS13L,0,Spontaneous,slopeS0S4,-0.0211666666666666
+LS13L,1,Known Alarm,auc_g,521.475
+LS13L,1,Known Alarm,auc_i,102.07500000000002
+LS13L,1,Known Alarm,ini_val,6.99
+LS13L,1,Known Alarm,max_inc,2.5600000000000005
+LS13L,1,Known Alarm,max_val,9.55
+LS13L,1,Known Alarm,slopeS0S3,0.0568888888888889
+LS13L,1,Known Alarm,slopeS0S4,0.0031666666666666
+LW28E,0,Unknown Alarm,auc_g,444.065
+LW28E,0,Unknown Alarm,auc_i,26.28499999999999
+LW28E,0,Unknown Alarm,ini_val,6.33
+LW28E,0,Unknown Alarm,max_inc,1.85
+LW28E,0,Unknown Alarm,max_val,8.18
+LW28E,0,Unknown Alarm,slopeS0S3,-0.0173469387755101
+LW28E,0,Unknown Alarm,slopeS0S4,-0.0262121212121212
+LW28E,1,Unknown Alarm,auc_g,638.475
+LW28E,1,Unknown Alarm,auc_i,138.075
+LW28E,1,Unknown Alarm,ini_val,8.34
+LW28E,1,Unknown Alarm,max_inc,4.529999999999999
+LW28E,1,Unknown Alarm,max_val,12.87
+LW28E,1,Unknown Alarm,slopeS0S3,0.0455555555555555
+LW28E,1,Unknown Alarm,slopeS0S4,-0.0244999999999999
+LW28R,0,Unknown Alarm,auc_g,582.675
+LW28R,0,Unknown Alarm,auc_i,326.475
+LW28R,0,Unknown Alarm,ini_val,4.27
+LW28R,0,Unknown Alarm,max_inc,9.81
+LW28R,0,Unknown Alarm,max_val,14.08
+LW28R,0,Unknown Alarm,slopeS0S3,0.0977777777777777
+LW28R,0,Unknown Alarm,slopeS0S4,0.0341666666666666
+LW28R,1,Spontaneous,auc_g,748.125
+LW28R,1,Spontaneous,auc_i,470.925
+LW28R,1,Spontaneous,ini_val,4.62
+LW28R,1,Spontaneous,max_inc,13.91
+LW28R,1,Spontaneous,max_val,18.53
+LW28R,1,Spontaneous,slopeS0S3,0.3091111111111111
+LW28R,1,Spontaneous,slopeS0S4,0.1541666666666666
+MC04A,0,Unknown Alarm,auc_g,289.815
+MC04A,0,Unknown Alarm,auc_i,-32.875
+MC04A,0,Unknown Alarm,ini_val,5.29
+MC04A,0,Unknown Alarm,max_inc,0.2000000000000001
+MC04A,0,Unknown Alarm,max_val,5.49
+MC04A,0,Unknown Alarm,slopeS0S3,-0.0255555555555555
+MC04A,0,Unknown Alarm,slopeS0S4,-0.0237704918032786
+MC04A,1,Spontaneous,auc_g,485.55
+MC04A,1,Spontaneous,auc_i,109.95000000000002
+MC04A,1,Spontaneous,ini_val,6.26
+MC04A,1,Spontaneous,max_inc,4.050000000000001
+MC04A,1,Spontaneous,max_val,10.31
+MC04A,1,Spontaneous,slopeS0S3,0.0071111111111111
+MC04A,1,Spontaneous,slopeS0S4,-0.0299999999999999
+MD22R,0,Known Alarm,auc_g,851.42025
+MD22R,0,Known Alarm,auc_i,347.85825
+MD22R,0,Known Alarm,ini_val,8.3927
+MD22R,0,Known Alarm,max_inc,11.1773
+MD22R,0,Known Alarm,max_val,19.57
+MD22R,0,Known Alarm,slopeS0S3,0.2483844444444444
+MD22R,0,Known Alarm,slopeS0S4,0.111955
+MD22R,1,Known Alarm,auc_g,969.75
+MD22R,1,Known Alarm,auc_i,466.94999999999993
+MD22R,1,Known Alarm,ini_val,8.38
+MD22R,1,Known Alarm,max_inc,14.14
+MD22R,1,Known Alarm,max_val,22.52
+MD22R,1,Known Alarm,slopeS0S3,0.2364444444444444
+MD22R,1,Known Alarm,slopeS0S4,0.2356666666666666
+MD26R,0,Unknown Alarm,auc_g,1125.975
+MD26R,0,Unknown Alarm,auc_i,546.475
+MD26R,0,Unknown Alarm,ini_val,9.5
+MD26R,0,Unknown Alarm,max_inc,15.87
+MD26R,0,Unknown Alarm,max_val,25.37
+MD26R,0,Unknown Alarm,slopeS0S3,0.2517777777777777
+MD26R,0,Unknown Alarm,slopeS0S4,0.2601639344262295
+MD26R,1,Spontaneous,auc_g,794.185
+MD26R,1,Spontaneous,auc_i,575.185
+MD26R,1,Spontaneous,ini_val,3.65
+MD26R,1,Spontaneous,max_inc,21.47
+MD26R,1,Spontaneous,max_val,25.12
+MD26R,1,Spontaneous,slopeS0S3,0.4072340425531915
+MD26R,1,Spontaneous,slopeS0S4,0.3578333333333334
+ME06K,0,Known Alarm,auc_g,631.095
+ME06K,0,Known Alarm,auc_i,421.095
+ME06K,0,Known Alarm,ini_val,3.5
+ME06K,0,Known Alarm,max_inc,9.97
+ME06K,0,Known Alarm,max_val,13.47
+ME06K,0,Known Alarm,slopeS0S3,0.1748888888888888
+ME06K,0,Known Alarm,slopeS0S4,0.1148333333333333
+ME06K,1,Known Alarm,auc_g,735.1499999999999
+ME06K,1,Known Alarm,auc_i,354.24999999999994
+ME06K,1,Known Alarm,ini_val,5.86
+ME06K,1,Known Alarm,max_inc,7.749999999999999
+ME06K,1,Known Alarm,max_val,13.61
+ME06K,1,Known Alarm,slopeS0S3,0.1648936170212765
+ME06K,1,Known Alarm,slopeS0S4,0.0326153846153846
+ME18L,0,Unknown Alarm,auc_g,437.47
+ME18L,0,Unknown Alarm,auc_i,-405.55
+ME18L,0,Unknown Alarm,ini_val,13.82
+ME18L,0,Unknown Alarm,max_inc,-6.65
+ME18L,0,Unknown Alarm,max_val,13.82
+ME18L,0,Unknown Alarm,slopeS0S3,-0.1445652173913043
+ME18L,0,Unknown Alarm,slopeS0S4,-0.1268852459016393
+ME18L,1,Spontaneous,auc_g,376.565
+ME18L,1,Spontaneous,auc_i,8.734999999999978
+ME18L,1,Spontaneous,ini_val,6.03
+ME18L,1,Spontaneous,max_inc,3.69
+ME18L,1,Spontaneous,max_val,9.72
+ME18L,1,Spontaneous,slopeS0S3,0.0232608695652173
+ME18L,1,Spontaneous,slopeS0S4,0.0604918032786885
+MG08K,0,Known Alarm,auc_g,334.23
+MG08K,0,Known Alarm,auc_i,-97.13
+MG08K,0,Known Alarm,ini_val,6.74
+MG08K,0,Known Alarm,max_inc,-0.9400000000000004
+MG08K,0,Known Alarm,max_val,6.74
+MG08K,0,Known Alarm,slopeS0S3,-0.0482978723404255
+MG08K,0,Known Alarm,slopeS0S4,-0.04359375
+MG08K,1,Known Alarm,auc_g,454.905
+MG08K,1,Known Alarm,auc_i,93.94500000000002
+MG08K,1,Known Alarm,ini_val,5.64
+MG08K,1,Known Alarm,max_inc,2.9400000000000004
+MG08K,1,Known Alarm,max_val,8.58
+MG08K,1,Known Alarm,slopeS0S3,0.02625
+MG08K,1,Known Alarm,slopeS0S4,0.00515625
+MH14A,0,Spontaneous,auc_g,380.1
+MH14A,0,Spontaneous,auc_i,70.49999999999999
+MH14A,0,Spontaneous,ini_val,5.16
+MH14A,0,Spontaneous,max_inc,2.83
+MH14A,0,Spontaneous,max_val,7.99
+MH14A,0,Spontaneous,slopeS0S3,-0.0024444444444444
+MH14A,0,Spontaneous,slopeS0S4,-0.0026666666666666
+MH25K,0,Spontaneous,auc_g,784.4900000000001
+MH25K,0,Spontaneous,auc_i,-214.14999999999992
+MH25K,0,Spontaneous,ini_val,13.68
+MH25K,0,Spontaneous,max_inc,-1.2199999999999989
+MH25K,0,Spontaneous,max_val,13.68
+MH25K,0,Spontaneous,slopeS0S3,-0.0814754098360655
+MH25K,0,Spontaneous,slopeS0S4,-0.0953424657534246
+MH25K,1,Spontaneous,auc_g,723.385
+MH25K,1,Spontaneous,auc_i,163.08500000000004
+MH25K,1,Spontaneous,ini_val,8.62
+MH25K,1,Spontaneous,max_inc,4.620000000000001
+MH25K,1,Spontaneous,max_val,13.24
+MH25K,1,Spontaneous,slopeS0S3,0.09625
+MH25K,1,Spontaneous,slopeS0S4,0.0589230769230769
+MI15D,0,Spontaneous,auc_g,632.415
+MI15D,0,Spontaneous,auc_i,148.195
+MI15D,0,Spontaneous,ini_val,7.81
+MI15D,0,Spontaneous,max_inc,4.72
+MI15D,0,Spontaneous,max_val,12.53
+MI15D,0,Spontaneous,slopeS0S3,0.025531914893617
+MI15D,0,Spontaneous,slopeS0S4,-0.0149999999999999
+MI15D,1,Spontaneous,auc_g,776.0400000000001
+MI15D,1,Spontaneous,auc_i,395.4
+MI15D,1,Spontaneous,ini_val,6.24
+MI15D,1,Spontaneous,max_inc,10.2
+MI15D,1,Spontaneous,max_val,16.44
+MI15D,1,Spontaneous,slopeS0S3,0.1915217391304348
+MI15D,1,Spontaneous,slopeS0S4,0.0824590163934426
+MS09E,0,Spontaneous,auc_g,858.6499999999999
+MS09E,0,Spontaneous,auc_i,396.88
+MS09E,0,Spontaneous,ini_val,7.57
+MS09E,0,Spontaneous,max_inc,9.989999999999998
+MS09E,0,Spontaneous,max_val,17.56
+MS09E,0,Spontaneous,slopeS0S3,0.2171739130434782
+MS09E,0,Spontaneous,slopeS0S4,0.1347540983606557
+MS09E,1,Spontaneous,auc_g,848.305
+MS09E,1,Spontaneous,auc_i,-120.75500000000004
+MS09E,1,Spontaneous,ini_val,15.63
+MS09E,1,Spontaneous,max_inc,-0.2200000000000006
+MS09E,1,Spontaneous,max_val,15.63
+MS09E,1,Spontaneous,slopeS0S3,-0.1017021276595745
+MS09E,1,Spontaneous,slopeS0S4,-0.0853225806451613
+MS23B,0,Spontaneous,auc_g,636.1229999999999
+MS23B,0,Spontaneous,auc_i,400.81500000000005
+MS23B,0,Spontaneous,ini_val,3.9218
+MS23B,0,Spontaneous,max_inc,21.8322
+MS23B,0,Spontaneous,max_val,25.754
+MS23B,0,Spontaneous,slopeS0S3,0.48516
+MS23B,0,Spontaneous,slopeS0S4,0.25937
+MS23B,1,Spontaneous,auc_g,584.2575
+MS23B,1,Spontaneous,auc_i,227.2935
+MS23B,1,Spontaneous,ini_val,5.9494
+MS23B,1,Spontaneous,max_inc,7.5276
+MS23B,1,Spontaneous,max_val,13.477
+MS23B,1,Spontaneous,slopeS0S3,0.0204866666666666
+MS23B,1,Spontaneous,slopeS0S4,0.0697266666666666
+MS28B,0,Spontaneous,auc_g,994.0500000000002
+MS28B,0,Spontaneous,auc_i,334.65000000000003
+MS28B,0,Spontaneous,ini_val,10.99
+MS28B,0,Spontaneous,max_inc,10.76
+MS28B,0,Spontaneous,max_val,21.75
+MS28B,0,Spontaneous,slopeS0S3,0.1984444444444444
+MS28B,0,Spontaneous,slopeS0S4,0.0726666666666666
+MS28B,1,Unknown Alarm,auc_g,522.955
+MS28B,1,Unknown Alarm,auc_i,272.555
+MS28B,1,Unknown Alarm,ini_val,6.26
+MS28B,1,Unknown Alarm,max_inc,13.18
+MS28B,1,Unknown Alarm,max_val,19.44
+MS28B,1,Unknown Alarm,slopeS0S3,0.3575
+MS28B,1,Unknown Alarm,slopeS0S4,0.3295
+NM11M,0,Known Alarm,auc_g,706.035
+NM11M,0,Known Alarm,auc_i,116.43499999999996
+NM11M,0,Known Alarm,ini_val,8.8
+NM11M,0,Known Alarm,max_inc,6.969999999999999
+NM11M,0,Known Alarm,max_val,15.77
+NM11M,0,Known Alarm,slopeS0S3,-0.0180392156862745
+NM11M,0,Known Alarm,slopeS0S4,-0.0201492537313432
+NM11M,1,Known Alarm,auc_g,272.315
+NM11M,1,Known Alarm,auc_i,163.765
+NM11M,1,Known Alarm,ini_val,1.67
+NM11M,1,Known Alarm,max_inc,6.17
+NM11M,1,Known Alarm,max_val,7.84
+NM11M,1,Known Alarm,slopeS0S3,0.0724489795918367
+NM11M,1,Known Alarm,slopeS0S4,0.0949230769230769
+OB20R,0,Unknown Alarm,auc_g,708.565
+OB20R,0,Unknown Alarm,auc_i,87.32500000000002
+OB20R,0,Unknown Alarm,ini_val,10.02
+OB20R,0,Unknown Alarm,max_inc,2.9700000000000006
+OB20R,0,Unknown Alarm,max_val,12.99
+OB20R,0,Unknown Alarm,slopeS0S3,0.0239130434782608
+OB20R,0,Unknown Alarm,slopeS0S4,-0.0258064516129032
+OB20R,1,Known Alarm,auc_g,928.5
+OB20R,1,Known Alarm,auc_i,435.3
+OB20R,1,Known Alarm,ini_val,8.22
+OB20R,1,Known Alarm,max_inc,11.56
+OB20R,1,Known Alarm,max_val,19.78
+OB20R,1,Known Alarm,slopeS0S3,0.2568888888888889
+OB20R,1,Known Alarm,slopeS0S4,0.0849999999999999
+PA13R,0,Known Alarm,auc_g,824.5500000000001
+PA13R,0,Known Alarm,auc_i,304.35
+PA13R,0,Known Alarm,ini_val,8.67
+PA13R,0,Known Alarm,max_inc,9.46
+PA13R,0,Known Alarm,max_val,18.13
+PA13R,0,Known Alarm,slopeS0S3,0.2102222222222222
+PA13R,0,Known Alarm,slopeS0S4,0.072
+PA13R,1,Known Alarm,auc_g,602.175
+PA13R,1,Known Alarm,auc_i,245.775
+PA13R,1,Known Alarm,ini_val,5.94
+PA13R,1,Known Alarm,max_inc,7.89
+PA13R,1,Known Alarm,max_val,13.83
+PA13R,1,Known Alarm,slopeS0S3,0.1753333333333333
+PA13R,1,Known Alarm,slopeS0S4,0.0984999999999999
+PG11T,0,Spontaneous,auc_g,700.11
+PG11T,0,Spontaneous,auc_i,506.19000000000005
+PG11T,0,Spontaneous,ini_val,3.03
+PG11T,0,Spontaneous,max_inc,11.4
+PG11T,0,Spontaneous,max_val,14.43
+PG11T,0,Spontaneous,slopeS0S3,0.2375
+PG11T,0,Spontaneous,slopeS0S4,0.113125
+PG11T,1,Spontaneous,auc_g,503.97
+PG11T,1,Spontaneous,auc_i,132.69
+PG11T,1,Spontaneous,ini_val,5.46
+PG11T,1,Spontaneous,max_inc,4.819999999999999
+PG11T,1,Spontaneous,max_val,10.28
+PG11T,1,Spontaneous,slopeS0S3,0.0558
+PG11T,1,Spontaneous,slopeS0S4,0.0019117647058823
+PS06G,1,Spontaneous,auc_g,917.625
+PS06G,1,Spontaneous,auc_i,284.025
+PS06G,1,Spontaneous,ini_val,10.56
+PS06G,1,Spontaneous,max_inc,7.15
+PS06G,1,Spontaneous,max_val,17.71
+PS06G,1,Spontaneous,slopeS0S3,0.1588888888888888
+PS06G,1,Spontaneous,slopeS0S4,0.0718333333333333
+RA03A,0,Spontaneous,auc_g,544.8
+RA03A,0,Spontaneous,auc_i,322.79999999999995
+RA03A,0,Spontaneous,ini_val,3.7
+RA03A,0,Spontaneous,max_inc,9.68
+RA03A,0,Spontaneous,max_val,13.38
+RA03A,0,Spontaneous,slopeS0S3,0.1444444444444444
+RA03A,0,Spontaneous,slopeS0S4,0.0643333333333333
+RA03A,1,Unknown Alarm,auc_g,665.115
+RA03A,1,Unknown Alarm,auc_i,485.935
+RA03A,1,Unknown Alarm,ini_val,2.89
+RA03A,1,Unknown Alarm,max_inc,14.48
+RA03A,1,Unknown Alarm,max_val,17.37
+RA03A,1,Unknown Alarm,slopeS0S3,0.1902173913043478
+RA03A,1,Unknown Alarm,slopeS0S4,0.0956451612903225
+RF17R,0,Spontaneous,auc_g,901.05
+RF17R,0,Spontaneous,auc_i,586.0500000000001
+RF17R,0,Spontaneous,ini_val,5.25
+RF17R,0,Spontaneous,max_inc,13.260000000000002
+RF17R,0,Spontaneous,max_val,18.51
+RF17R,0,Spontaneous,slopeS0S3,0.2757777777777778
+RF17R,0,Spontaneous,slopeS0S4,0.112
+RF17R,1,Unknown Alarm,auc_g,905.7
+RF17R,1,Unknown Alarm,auc_i,792.9000000000001
+RF17R,1,Unknown Alarm,ini_val,1.88
+RF17R,1,Unknown Alarm,max_inc,22.82
+RF17R,1,Unknown Alarm,max_val,24.7
+RF17R,1,Unknown Alarm,slopeS0S3,0.4695555555555556
+RF17R,1,Unknown Alarm,slopeS0S4,0.3803333333333333
+RM13N,0,Spontaneous,auc_g,683.97
+RM13N,0,Spontaneous,auc_i,392.13
+RM13N,0,Spontaneous,ini_val,5.12
+RM13N,0,Spontaneous,max_inc,10.7
+RM13N,0,Spontaneous,max_val,15.82
+RM13N,0,Spontaneous,slopeS0S3,0.1869047619047619
+RM13N,0,Spontaneous,slopeS0S4,0.0980701754385965
+RM13N,1,Spontaneous,auc_g,889.35
+RM13N,1,Spontaneous,auc_i,426.15
+RM13N,1,Spontaneous,ini_val,7.72
+RM13N,1,Spontaneous,max_inc,11.59
+RM13N,1,Spontaneous,max_val,19.31
+RM13N,1,Spontaneous,slopeS0S3,0.1484444444444444
+RM13N,1,Spontaneous,slopeS0S4,0.0563333333333333
+SB11Z,0,Known Alarm,ini_val,16.76
+SB11Z,0,Known Alarm,max_inc,-3.5000000000000018
+SB11Z,0,Known Alarm,max_val,16.76
+SB11Z,1,Known Alarm,ini_val,4.19
+SB11Z,1,Known Alarm,max_inc,1.6999999999999993
+SB11Z,1,Known Alarm,max_val,5.89
+SC10R,0,Spontaneous,auc_g,156.87500000000003
+SC10R,0,Spontaneous,auc_i,38.07499999999999
+SC10R,0,Spontaneous,ini_val,2.16
+SC10R,0,Spontaneous,max_inc,0.9499999999999996
+SC10R,0,Spontaneous,max_val,3.11
+SC10R,0,Spontaneous,slopeS0S3,0.0166666666666666
+SC10R,0,Spontaneous,slopeS0S4,0.0089090909090909
+SC10R,1,Unknown Alarm,auc_g,232.35
+SC10R,1,Unknown Alarm,auc_i,82.94999999999999
+SC10R,1,Unknown Alarm,ini_val,2.49
+SC10R,1,Unknown Alarm,max_inc,2.0699999999999994
+SC10R,1,Unknown Alarm,max_val,4.56
+SC10R,1,Unknown Alarm,slopeS0S3,0.0459999999999999
+SC10R,1,Unknown Alarm,slopeS0S4,0.0163333333333333
+SD30K,0,Spontaneous,auc_g,461.2099999999999
+SD30K,0,Spontaneous,auc_i,162.30999999999997
+SD30K,0,Spontaneous,ini_val,4.9
+SD30K,0,Spontaneous,max_inc,4.69
+SD30K,0,Spontaneous,max_val,9.59
+SD30K,0,Spontaneous,slopeS0S3,0.0491304347826086
+SD30K,0,Spontaneous,slopeS0S4,-0.0062295081967213
+SD30K,1,Spontaneous,auc_g,379.79
+SD30K,1,Spontaneous,auc_i,54.65999999999998
+SD30K,1,Spontaneous,ini_val,5.33
+SD30K,1,Spontaneous,max_inc,1.9399999999999995
+SD30K,1,Spontaneous,max_val,7.27
+SD30K,1,Spontaneous,slopeS0S3,0.0028260869565217
+SD30K,1,Spontaneous,slopeS0S4,-0.0083606557377049
+SE06H,0,Unknown Alarm,auc_g,1401.15
+SE06H,0,Unknown Alarm,auc_i,822.75
+SE06H,0,Unknown Alarm,ini_val,9.64
+SE06H,0,Unknown Alarm,max_inc,22.25
+SE06H,0,Unknown Alarm,max_val,31.89
+SE06H,0,Unknown Alarm,slopeS0S3,0.4944444444444444
+SE06H,0,Unknown Alarm,slopeS0S4,0.2
+SE06H,1,Unknown Alarm,auc_g,560.625
+SE06H,1,Unknown Alarm,auc_i,550.545
+SE06H,1,Unknown Alarm,ini_val,0.16
+SE06H,1,Unknown Alarm,max_inc,18.63
+SE06H,1,Unknown Alarm,max_val,18.79
+SE06H,1,Unknown Alarm,slopeS0S3,0.3091666666666666
+SE06H,1,Unknown Alarm,slopeS0S4,0.2957142857142857
+SG29P,0,Spontaneous,auc_g,673.0517249999999
+SG29P,0,Spontaneous,auc_i,-5.255774999999964
+SG29P,0,Spontaneous,ini_val,10.4355
+SG29P,0,Spontaneous,max_inc,3.703000000000001
+SG29P,0,Spontaneous,max_val,14.1385
+SG29P,0,Spontaneous,slopeS0S3,-0.0372269999999999
+SG29P,0,Spontaneous,slopeS0S4,-0.0657261538461538
+SG29P,1,Spontaneous,auc_g,848.874
+SG29P,1,Spontaneous,auc_i,173.004
+SG29P,1,Spontaneous,ini_val,11.2645
+SG29P,1,Spontaneous,max_inc,5.228
+SG29P,1,Spontaneous,max_val,16.4925
+SG29P,1,Spontaneous,slopeS0S3,0.0461739130434782
+SG29P,1,Spontaneous,slopeS0S4,-0.0085249999999999
+SK12K,0,Spontaneous,auc_g,376.43
+SK12K,0,Spontaneous,auc_i,27.63
+SK12K,0,Spontaneous,ini_val,5.45
+SK12K,0,Spontaneous,max_inc,2.6100000000000003
+SK12K,0,Spontaneous,max_val,8.06
+SK12K,0,Spontaneous,slopeS0S3,-0.0220408163265306
+SK12K,0,Spontaneous,slopeS0S4,-0.02203125
+SK12K,1,Spontaneous,auc_g,1366.91
+SK12K,1,Spontaneous,auc_i,65.32999999999996
+SK12K,1,Spontaneous,ini_val,20.66
+SK12K,1,Spontaneous,max_inc,4.469999999999999
+SK12K,1,Spontaneous,max_val,25.13
+SK12K,1,Spontaneous,slopeS0S3,0.0931249999999999
+SK12K,1,Spontaneous,slopeS0S4,-0.0649206349206349
+SL10R,0,Known Alarm,auc_g,978.84
+SL10R,0,Known Alarm,auc_i,635.8399999999999
+SL10R,0,Known Alarm,ini_val,4.9
+SL10R,0,Known Alarm,max_inc,12.159999999999998
+SL10R,0,Known Alarm,max_val,17.06
+SL10R,0,Known Alarm,slopeS0S3,0.178
+SL10R,0,Known Alarm,slopeS0S4,0.1092857142857142
+SL10R,1,Known Alarm,auc_g,719.655
+SL10R,1,Known Alarm,auc_i,409.155
+SL10R,1,Known Alarm,ini_val,4.5
+SL10R,1,Known Alarm,max_inc,8.84
+SL10R,1,Known Alarm,max_val,13.34
+SL10R,1,Known Alarm,slopeS0S3,0.1285185185185185
+SL10R,1,Known Alarm,slopeS0S4,0.0572463768115941
+SR08R,0,Spontaneous,auc_g,812.4300000000001
+SR08R,0,Spontaneous,auc_i,163.38999999999996
+SR08R,0,Spontaneous,ini_val,10.64
+SR08R,0,Spontaneous,max_inc,4.33
+SR08R,0,Spontaneous,max_val,14.97
+SR08R,0,Spontaneous,slopeS0S3,0.0734782608695652
+SR08R,0,Spontaneous,slopeS0S4,0.0193442622950819
+SR08R,1,Spontaneous,auc_g,954.11
+SR08R,1,Spontaneous,auc_i,194.33
+SR08R,1,Spontaneous,ini_val,11.34
+SR08R,1,Spontaneous,max_inc,10.38
+SR08R,1,Spontaneous,max_val,21.72
+SR08R,1,Spontaneous,slopeS0S3,-0.026078431372549
+SR08R,1,Spontaneous,slopeS0S4,-0.0641791044776119
+SR19R,0,Unknown Alarm,auc_g,950.025
+SR19R,0,Unknown Alarm,auc_i,623.0250000000001
+SR19R,0,Unknown Alarm,ini_val,5.45
+SR19R,0,Unknown Alarm,max_inc,18.81
+SR19R,0,Unknown Alarm,max_val,24.26
+SR19R,0,Unknown Alarm,slopeS0S3,0.2862222222222222
+SR19R,0,Unknown Alarm,slopeS0S4,0.1085
+SR19R,1,Unknown Alarm,auc_g,952.48
+SR19R,1,Unknown Alarm,auc_i,480.0399999999999
+SR19R,1,Unknown Alarm,ini_val,7.62
+SR19R,1,Unknown Alarm,max_inc,14.04
+SR19R,1,Unknown Alarm,max_val,21.66
+SR19R,1,Unknown Alarm,slopeS0S3,0.2432608695652173
+SR19R,1,Unknown Alarm,slopeS0S4,0.0719354838709677
+SS11H,0,Known Alarm,auc_g,387.9
+SS11H,0,Known Alarm,auc_i,154.5
+SS11H,0,Known Alarm,ini_val,3.89
+SS11H,0,Known Alarm,max_inc,3.29
+SS11H,0,Known Alarm,max_val,7.18
+SS11H,0,Known Alarm,slopeS0S3,0.0688888888888888
+SS11H,0,Known Alarm,slopeS0S4,0.03
+SS11H,1,Known Alarm,auc_g,256.8
+SS11H,1,Known Alarm,auc_i,-16.799999999999983
+SS11H,1,Known Alarm,ini_val,4.56
+SS11H,1,Known Alarm,max_inc,2.2200000000000006
+SS11H,1,Known Alarm,max_val,6.78
+SS11H,1,Known Alarm,slopeS0S3,-0.0166666666666666
+SS11H,1,Known Alarm,slopeS0S4,0.037
+SS21A,0,Known Alarm,auc_g,393.075
+SS21A,0,Known Alarm,auc_i,-17.92499999999997
+SS21A,0,Known Alarm,ini_val,6.85
+SS21A,0,Known Alarm,max_inc,1.5600000000000005
+SS21A,0,Known Alarm,max_val,8.41
+SS21A,0,Known Alarm,slopeS0S3,0.0346666666666666
+SS21A,0,Known Alarm,slopeS0S4,-0.0358333333333333
+SS21A,1,Known Alarm,ini_val,8.39
+SS21A,1,Known Alarm,max_inc,6.889999999999999
+SS21A,1,Known Alarm,max_val,15.28
+SS22K,0,Spontaneous,auc_g,876.825
+SS22K,0,Spontaneous,auc_i,640.4250000000001
+SS22K,0,Spontaneous,ini_val,3.94
+SS22K,0,Spontaneous,max_inc,16.77
+SS22K,0,Spontaneous,max_val,20.71
+SS22K,0,Spontaneous,slopeS0S3,0.2528888888888889
+SS22K,0,Spontaneous,slopeS0S4,0.1071666666666666
+SS22K,1,Spontaneous,auc_g,772.125
+SS22K,1,Spontaneous,auc_i,-228.07500000000007
+SS22K,1,Spontaneous,ini_val,16.67
+SS22K,1,Spontaneous,max_inc,-2.2700000000000014
+SS22K,1,Spontaneous,max_val,16.67
+SS22K,1,Spontaneous,slopeS0S3,-0.1226666666666667
+SS22K,1,Spontaneous,slopeS0S4,-0.1365
+SU29N,0,Known Alarm,auc_g,943.61
+SU29N,0,Known Alarm,auc_i,293.61
+SU29N,0,Known Alarm,ini_val,10.0
+SU29N,0,Known Alarm,max_inc,8.510000000000002
+SU29N,0,Known Alarm,max_val,18.51
+SU29N,0,Known Alarm,slopeS0S3,0.1189795918367346
+SU29N,0,Known Alarm,slopeS0S4,0.1309230769230769
+SU29N,1,Known Alarm,auc_g,932.765
+SU29N,1,Known Alarm,auc_i,362.415
+SU29N,1,Known Alarm,ini_val,9.35
+SU29N,1,Known Alarm,max_inc,11.63
+SU29N,1,Known Alarm,max_val,20.98
+SU29N,1,Known Alarm,slopeS0S3,0.2474468085106383
+SU29N,1,Known Alarm,slopeS0S4,0.1562295081967213
+SV03R,0,Spontaneous,auc_g,449.16325
+SV03R,0,Spontaneous,auc_i,106.64125
+SV03R,0,Spontaneous,ini_val,5.7087
+SV03R,0,Spontaneous,max_inc,3.2983499999999992
+SV03R,0,Spontaneous,max_val,9.00705
+SV03R,0,Spontaneous,slopeS0S3,0.0508977272727272
+SV03R,0,Spontaneous,slopeS0S4,0.0392424999999999
+SV03R,1,Spontaneous,auc_g,1119.475
+SV03R,1,Spontaneous,auc_i,447.8040000000001
+SV03R,1,Spontaneous,ini_val,11.011
+SV03R,1,Spontaneous,max_inc,10.41
+SV03R,1,Spontaneous,max_val,21.421
+SV03R,1,Spontaneous,slopeS0S3,0.2052666666666667
+SV03R,1,Spontaneous,slopeS0S4,0.1595655737704918
+TB29R,1,Spontaneous,auc_g,925.5
+TB29R,1,Spontaneous,auc_i,337.5
+TB29R,1,Spontaneous,ini_val,9.8
+TB29R,1,Spontaneous,max_inc,7.859999999999999
+TB29R,1,Spontaneous,max_val,17.66
+TB29R,1,Spontaneous,slopeS0S3,0.1484444444444444
+TB29R,1,Spontaneous,slopeS0S4,0.0719999999999999
+TM01F,0,Spontaneous,auc_g,347.3
+TM01F,0,Spontaneous,auc_i,-75.19999999999999
+TM01F,0,Spontaneous,ini_val,6.5
+TM01F,0,Spontaneous,max_inc,-0.3499999999999996
+TM01F,0,Spontaneous,max_val,6.5
+TM01F,0,Spontaneous,slopeS0S3,-0.0403999999999999
+TM01F,0,Spontaneous,slopeS0S4,-0.0383076923076923
+TM01F,1,Spontaneous,auc_g,306.975
+TM01F,1,Spontaneous,auc_i,-174.22499999999997
+TM01F,1,Spontaneous,ini_val,8.02
+TM01F,1,Spontaneous,max_inc,-2.289999999999999
+TM01F,1,Spontaneous,max_val,8.02
+TM01F,1,Spontaneous,slopeS0S3,-0.0813333333333333
+TM01F,1,Spontaneous,slopeS0S4,-0.0701666666666666
+TM30L,0,Unknown Alarm,auc_g,1162.26
+TM30L,0,Unknown Alarm,auc_i,285.08000000000004
+TM30L,0,Unknown Alarm,ini_val,14.38
+TM30L,0,Unknown Alarm,max_inc,10.06
+TM30L,0,Unknown Alarm,max_val,24.44
+TM30L,0,Unknown Alarm,slopeS0S3,0.1060869565217391
+TM30L,0,Unknown Alarm,slopeS0S4,-0.0352459016393442
+TM30L,1,Unknown Alarm,auc_g,862.03
+TM30L,1,Unknown Alarm,auc_i,234.5900000000001
+TM30L,1,Unknown Alarm,ini_val,10.12
+TM30L,1,Unknown Alarm,max_inc,11.02
+TM30L,1,Unknown Alarm,max_val,21.14
+TM30L,1,Unknown Alarm,slopeS0S3,0.191304347826087
+TM30L,1,Unknown Alarm,slopeS0S4,0.177741935483871
+UH09L,0,Known Alarm,auc_g,687.2
+UH09L,0,Known Alarm,auc_i,-189.99999999999997
+UH09L,0,Known Alarm,ini_val,14.62
+UH09L,0,Known Alarm,max_inc,-2.879999999999999
+UH09L,0,Known Alarm,max_val,14.62
+UH09L,0,Known Alarm,slopeS0S3,-0.0864444444444444
+UH09L,0,Known Alarm,slopeS0S4,-0.1001666666666666
+UH09L,1,Known Alarm,auc_g,285.70000000000005
+UH09L,1,Known Alarm,auc_i,40.48000000000003
+UH09L,1,Known Alarm,ini_val,4.02
+UH09L,1,Known Alarm,max_inc,1.7200000000000006
+UH09L,1,Known Alarm,max_val,5.74
+UH09L,1,Known Alarm,slopeS0S3,0.0127083333333333
+UH09L,1,Known Alarm,slopeS0S4,-0.0052459016393442
+VA30T,0,Known Alarm,auc_g,873.725
+VA30T,0,Known Alarm,auc_i,308.525
+VA30T,0,Known Alarm,ini_val,9.42
+VA30T,0,Known Alarm,max_inc,10.87
+VA30T,0,Known Alarm,max_val,20.29
+VA30T,0,Known Alarm,slopeS0S3,0.097111111111111
+VA30T,0,Known Alarm,slopeS0S4,-0.0255
+VA30T,1,Spontaneous,auc_g,931.875
+VA30T,1,Spontaneous,auc_i,472.2749999999999
+VA30T,1,Spontaneous,ini_val,7.66
+VA30T,1,Spontaneous,max_inc,10.68
+VA30T,1,Spontaneous,max_val,18.34
+VA30T,1,Spontaneous,slopeS0S3,0.1917777777777777
+VA30T,1,Spontaneous,slopeS0S4,0.0621666666666666
+VE19A,0,Spontaneous,auc_g,727.045
+VE19A,0,Spontaneous,auc_i,494.025
+VE19A,0,Spontaneous,ini_val,3.82
+VE19A,0,Spontaneous,max_inc,10.9
+VE19A,0,Spontaneous,max_val,14.72
+VE19A,0,Spontaneous,slopeS0S3,0.2369565217391304
+VE19A,0,Spontaneous,slopeS0S4,0.1080327868852459
+VE19A,1,Spontaneous,auc_g,508.835
+VE19A,1,Spontaneous,auc_i,-24.364999999999977
+VE19A,1,Spontaneous,ini_val,8.6
+VE19A,1,Spontaneous,max_inc,0.8600000000000012
+VE19A,1,Spontaneous,max_val,9.46
+VE19A,1,Spontaneous,slopeS0S3,-0.0299999999999999
+VE19A,1,Spontaneous,slopeS0S4,-0.0430645161290322
+VS09S,0,Unknown Alarm,auc_g,718.8
+VS09S,0,Unknown Alarm,auc_i,235.2
+VS09S,0,Unknown Alarm,ini_val,8.06
+VS09S,0,Unknown Alarm,max_inc,5.08
+VS09S,0,Unknown Alarm,max_val,13.14
+VS09S,0,Unknown Alarm,slopeS0S3,0.1097777777777777
+VS09S,0,Unknown Alarm,slopeS0S4,0.0496666666666666
+VS09S,1,Unknown Alarm,auc_g,413.3250000000001
+VS09S,1,Unknown Alarm,auc_i,44.92500000000003
+VS09S,1,Unknown Alarm,ini_val,6.14
+VS09S,1,Unknown Alarm,max_inc,2.410000000000001
+VS09S,1,Unknown Alarm,max_val,8.55
+VS09S,1,Unknown Alarm,slopeS0S3,0.0535555555555555
+VS09S,1,Unknown Alarm,slopeS0S4,0.0048333333333333
+WM13K,0,Unknown Alarm,auc_g,957.355
+WM13K,0,Unknown Alarm,auc_i,530.7950000000001
+WM13K,0,Unknown Alarm,ini_val,6.88
+WM13K,0,Unknown Alarm,max_inc,18.51
+WM13K,0,Unknown Alarm,max_val,25.39
+WM13K,0,Unknown Alarm,slopeS0S3,0.2836170212765957
+WM13K,0,Unknown Alarm,slopeS0S4,0.2985483870967742
+WM13K,1,Unknown Alarm,auc_g,949.2
+WM13K,1,Unknown Alarm,auc_i,112.8
+WM13K,1,Unknown Alarm,ini_val,13.94
+WM13K,1,Unknown Alarm,max_inc,4.01
+WM13K,1,Unknown Alarm,max_val,17.95
+WM13K,1,Unknown Alarm,slopeS0S3,0.0637777777777777
+WM13K,1,Unknown Alarm,slopeS0S4,-0.0379999999999999

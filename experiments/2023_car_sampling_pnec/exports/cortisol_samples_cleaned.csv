@@ -1,0 +1,1081 @@
+subject,night,condition,sample,time_abs,date,wake_onset_time,time,cortisol
+AB19E,0,Known Alarm,S0,0 days 06:00:00,2019-11-18,0 days 05:45:00,0.0,2.8
+AB19E,0,Known Alarm,S1,0 days 06:15:00,2019-11-18,0 days 05:45:00,15.0,5.59
+AB19E,0,Known Alarm,S2,0 days 06:30:00,2019-11-18,0 days 05:45:00,30.0,13.29
+AB19E,0,Known Alarm,S3,0 days 06:45:00,2019-11-18,0 days 05:45:00,45.0,13.46
+AB19E,0,Known Alarm,S4,0 days 07:01:00,2019-11-18,0 days 05:45:00,61.0,12.65
+AB19E,1,Known Alarm,S0,0 days 09:00:00,2019-11-19,0 days 08:57:44,0.0,4.27
+AB19E,1,Known Alarm,S1,0 days 09:15:00,2019-11-19,0 days 08:57:44,15.0,14.86
+AB19E,1,Known Alarm,S2,0 days 09:30:00,2019-11-19,0 days 08:57:44,30.0,25.97
+AB19E,1,Known Alarm,S3,0 days 09:45:00,2019-11-19,0 days 08:57:44,45.0,24.26
+AB19E,1,Known Alarm,S4,0 days 10:00:00,2019-11-19,0 days 08:57:44,60.0,17.13
+AB31R,0,Spontaneous,S0,0 days 05:43:00,2019-12-16,0 days 05:40:00,0.0,10.28
+AB31R,0,Spontaneous,S1,0 days 06:00:00,2019-12-16,0 days 05:40:00,17.0,12.37
+AB31R,0,Spontaneous,S2,0 days 06:15:00,2019-12-16,0 days 05:40:00,32.0,10.41
+AB31R,0,Spontaneous,S3,0 days 06:30:00,2019-12-16,0 days 05:40:00,47.0,10.22
+AB31R,0,Spontaneous,S4,0 days 06:45:00,2019-12-16,0 days 05:40:00,62.0,8.21
+AB31R,1,Known Alarm,S0,0 days 05:50:00,2019-12-17,0 days 05:50:00,0.0,18.39
+AB31R,1,Known Alarm,S1,0 days 06:03:00,2019-12-17,0 days 05:50:00,13.0,26.55
+AB31R,1,Known Alarm,S2,0 days 06:18:00,2019-12-17,0 days 05:50:00,28.0,28.11
+AB31R,1,Known Alarm,S3,0 days 06:30:00,2019-12-17,0 days 05:50:00,40.0,28.76
+AB31R,1,Known Alarm,S4,0 days 06:45:00,2019-12-17,0 days 05:50:00,55.0,22.44
+AC12E,0,Known Alarm,S0,0 days 07:00:00,2019-11-18,0 days 07:00:00,0.0,5.38
+AC12E,0,Known Alarm,S1,0 days 07:18:00,2019-11-18,0 days 07:00:00,18.0,9.62
+AC12E,0,Known Alarm,S2,0 days 07:30:00,2019-11-18,0 days 07:00:00,30.0,14.43
+AC12E,0,Known Alarm,S3,0 days 07:45:00,2019-11-18,0 days 07:00:00,45.0,13.87
+AC12E,0,Known Alarm,S4,0 days 08:05:00,2019-11-18,0 days 07:00:00,65.0,12.17
+AC12E,1,Known Alarm,S0,0 days 07:33:00,2019-11-19,0 days 07:30:00,0.0,8.15
+AC12E,1,Known Alarm,S1,0 days 07:48:00,2019-11-19,0 days 07:30:00,15.0,11.24
+AC12E,1,Known Alarm,S2,0 days 08:04:00,2019-11-19,0 days 07:30:00,31.0,18.65
+AC12E,1,Known Alarm,S3,0 days 08:19:00,2019-11-19,0 days 07:30:00,46.0,19.82
+AC12E,1,Known Alarm,S4,0 days 08:34:00,2019-11-19,0 days 07:30:00,61.0,15.89
+AK12I,0,Spontaneous,S0,0 days 09:24:00,2019-11-30,0 days 09:24:00,0.0,7.7
+AK12I,0,Spontaneous,S1,0 days 09:39:00,2019-11-30,0 days 09:24:00,15.0,14.0
+AK12I,0,Spontaneous,S2,0 days 09:54:00,2019-11-30,0 days 09:24:00,30.0,14.89
+AK12I,0,Spontaneous,S3,0 days 10:09:00,2019-11-30,0 days 09:24:00,45.0,17.09
+AK12I,0,Spontaneous,S4,0 days 10:24:00,2019-11-30,0 days 09:24:00,60.0,16.61
+AK12I,1,Spontaneous,S0,0 days 08:51:00,2019-12-01,0 days 08:51:00,0.0,10.09
+AK12I,1,Spontaneous,S1,0 days 09:06:00,2019-12-01,0 days 08:51:00,15.0,13.54
+AK12I,1,Spontaneous,S2,0 days 09:21:00,2019-12-01,0 days 08:51:00,30.0,16.39
+AK12I,1,Spontaneous,S3,0 days 09:36:00,2019-12-01,0 days 08:51:00,45.0,15.15
+AK12I,1,Spontaneous,S4,0 days 09:51:00,2019-12-01,0 days 08:51:00,60.0,10.11
+AM21H,0,Spontaneous,S0,0 days 08:30:00,2019-11-22,0 days 07:25:00,0.0,6.85
+AM21H,0,Spontaneous,S1,0 days 08:45:00,2019-11-22,0 days 07:25:00,15.0,7.87
+AM21H,0,Spontaneous,S2,0 days 09:00:00,2019-11-22,0 days 07:25:00,30.0,7.56
+AM21H,0,Spontaneous,S3,0 days 09:15:00,2019-11-22,0 days 07:25:00,45.0,5.48
+AM21H,0,Spontaneous,S4,0 days 09:30:00,2019-11-22,0 days 07:25:00,60.0,5.55
+AM21H,1,Known Alarm,S0,0 days 12:14:00,2019-11-23,0 days 12:13:00,0.0,7.14
+AM21H,1,Known Alarm,S1,0 days 12:29:00,2019-11-23,0 days 12:13:00,15.0,5.9
+AM21H,1,Known Alarm,S2,0 days 12:44:00,2019-11-23,0 days 12:13:00,30.0,5.16
+AM21H,1,Known Alarm,S3,0 days 12:59:00,2019-11-23,0 days 12:13:00,45.0,5.34
+AM21H,1,Known Alarm,S4,0 days 13:14:00,2019-11-23,0 days 12:13:00,60.0,5.81
+AU09R,0,Spontaneous,S0,0 days 05:45:00,2019-12-19,0 days 05:45:00,0.0,6.31
+AU09R,0,Spontaneous,S1,0 days 06:00:00,2019-12-19,0 days 05:45:00,15.0,5.17
+AU09R,0,Spontaneous,S2,0 days 06:15:00,2019-12-19,0 days 05:45:00,30.0,6.82
+AU09R,0,Spontaneous,S3,0 days 06:30:00,2019-12-19,0 days 05:45:00,45.0,6.01
+AU09R,0,Spontaneous,S4,0 days 06:45:00,2019-12-19,0 days 05:45:00,60.0,4.61
+AU09R,1,Spontaneous,S0,0 days 06:20:00,2019-12-20,0 days 06:20:00,0.0,4.4
+AU09R,1,Spontaneous,S1,0 days 06:35:00,2019-12-20,0 days 06:20:00,15.0,11.94
+AU09R,1,Spontaneous,S2,0 days 06:50:00,2019-12-20,0 days 06:20:00,30.0,20.07
+AU09R,1,Spontaneous,S3,0 days 07:05:00,2019-12-20,0 days 06:20:00,45.0,23.15
+AU09R,1,Spontaneous,S4,0 days 07:20:00,2019-12-20,0 days 06:20:00,60.0,26.88
+BC05R,0,Spontaneous,S0,0 days 07:32:00,2019-12-06,0 days 07:31:00,0.0,5.88
+BC05R,0,Spontaneous,S1,0 days 07:47:00,2019-12-06,0 days 07:31:00,15.0,12.54
+BC05R,0,Spontaneous,S2,0 days 08:02:00,2019-12-06,0 days 07:31:00,30.0,12.91
+BC05R,0,Spontaneous,S3,0 days 08:17:00,2019-12-06,0 days 07:31:00,45.0,12.3
+BC05R,0,Spontaneous,S4,0 days 08:32:00,2019-12-06,0 days 07:31:00,60.0,10.38
+BC05R,1,Spontaneous,S0,0 days 08:47:00,2019-12-07,0 days 08:46:00,0.0,5.19
+BC05R,1,Spontaneous,S1,0 days 09:02:00,2019-12-07,0 days 08:46:00,15.0,13.67
+BC05R,1,Spontaneous,S2,0 days 09:17:00,2019-12-07,0 days 08:46:00,30.0,19.2
+BC05R,1,Spontaneous,S3,0 days 09:32:00,2019-12-07,0 days 08:46:00,45.0,19.82
+BC05R,1,Spontaneous,S4,0 days 09:47:00,2019-12-07,0 days 08:46:00,60.0,14.35
+BR11A,0,Spontaneous,S0,0 days 09:30:00,2019-11-28,0 days 09:30:00,0.0,4.81
+BR11A,0,Spontaneous,S1,0 days 09:45:00,2019-11-28,0 days 09:30:00,15.0,15.25
+BR11A,0,Spontaneous,S2,0 days 10:00:00,2019-11-28,0 days 09:30:00,30.0,12.85
+BR11A,0,Spontaneous,S3,0 days 10:15:00,2019-11-28,0 days 09:30:00,45.0,17.24
+BR11A,0,Spontaneous,S4,0 days 10:30:00,2019-11-28,0 days 09:30:00,60.0,16.5
+BR11A,1,Spontaneous,S0,0 days 07:30:00,2019-11-29,0 days 07:30:00,0.0,0.82
+BR11A,1,Spontaneous,S1,0 days 07:45:00,2019-11-29,0 days 07:30:00,15.0,4.06
+BR11A,1,Spontaneous,S2,0 days 08:00:00,2019-11-29,0 days 07:30:00,30.0,11.85
+BR11A,1,Spontaneous,S3,0 days 08:15:00,2019-11-29,0 days 07:30:00,45.0,14.71
+BR11A,1,Spontaneous,S4,0 days 08:30:00,2019-11-29,0 days 07:30:00,60.0,12.1
+BU07E,0,Known Alarm,S0,0 days 06:02:00,2019-12-05,0 days 06:00:00,0.0,4.17
+BU07E,0,Known Alarm,S1,0 days 06:16:00,2019-12-05,0 days 06:00:00,14.0,2.33
+BU07E,0,Known Alarm,S2,0 days 06:33:00,2019-12-05,0 days 06:00:00,31.0,1.68
+BU07E,0,Known Alarm,S3,0 days 06:49:00,2019-12-05,0 days 06:00:00,47.0,1.7
+BU07E,0,Known Alarm,S4,0 days 07:03:00,2019-12-05,0 days 06:00:00,61.0,1.5
+BU07E,1,Spontaneous,S0,0 days 09:13:00,2019-12-06,0 days 09:09:00,0.0,4.67
+BU07E,1,Spontaneous,S1,0 days 09:28:00,2019-12-06,0 days 09:09:00,15.0,7.56
+BU07E,1,Spontaneous,S2,0 days 09:43:00,2019-12-06,0 days 09:09:00,30.0,9.04
+BU07E,1,Spontaneous,S3,0 days 09:58:00,2019-12-06,0 days 09:09:00,45.0,6.72
+BU07E,1,Spontaneous,S4,0 days 10:13:00,2019-12-06,0 days 09:09:00,60.0,5.72
+CC09K,0,Unknown Alarm,S0,0 days 06:11:00,2019-12-02,0 days 06:10:00,0.0,4.0
+CC09K,0,Unknown Alarm,S1,0 days 06:26:00,2019-12-02,0 days 06:10:00,15.0,10.42
+CC09K,0,Unknown Alarm,S2,0 days 06:41:00,2019-12-02,0 days 06:10:00,30.0,18.41
+CC09K,0,Unknown Alarm,S3,0 days 06:56:00,2019-12-02,0 days 06:10:00,45.0,28.74
+CC09K,0,Unknown Alarm,S4,0 days 07:11:00,2019-12-02,0 days 06:10:00,60.0,20.07
+CC10A,0,Spontaneous,S0,0 days 08:30:00,2019-12-07,0 days 08:30:00,0.0,9.95
+CC10A,0,Spontaneous,S1,0 days 08:45:00,2019-12-07,0 days 08:30:00,15.0,7.85
+CC10A,0,Spontaneous,S2,0 days 09:00:00,2019-12-07,0 days 08:30:00,30.0,9.62
+CC10A,0,Spontaneous,S3,0 days 09:15:00,2019-12-07,0 days 08:30:00,45.0,8.24
+CC10A,0,Spontaneous,S4,0 days 09:30:00,2019-12-07,0 days 08:30:00,60.0,8.7
+CC21W,0,Spontaneous,S0,0 days 07:00:00,2019-11-25,0 days 06:57:55,0.0,9.12
+CC21W,0,Spontaneous,S1,0 days 07:17:00,2019-11-25,0 days 06:57:55,17.0,17.66
+CC21W,0,Spontaneous,S2,0 days 07:32:00,2019-11-25,0 days 06:57:55,32.0,20.06
+CC21W,0,Spontaneous,S3,0 days 07:48:00,2019-11-25,0 days 06:57:55,48.0,17.87
+CC21W,0,Spontaneous,S4,0 days 08:04:00,2019-11-25,0 days 06:57:55,64.0,11.34
+CC21W,1,Spontaneous,S0,0 days 07:02:00,2019-11-26,0 days 07:00:45,0.0,9.07
+CC21W,1,Spontaneous,S1,0 days 07:17:00,2019-11-26,0 days 07:00:45,15.0,14.06
+CC21W,1,Spontaneous,S2,0 days 07:32:00,2019-11-26,0 days 07:00:45,30.0,16.28
+CC21W,1,Spontaneous,S3,0 days 07:50:00,2019-11-26,0 days 07:00:45,48.0,11.32
+CC21W,1,Spontaneous,S4,0 days 08:05:00,2019-11-26,0 days 07:00:45,63.0,9.78
+CE10B,0,Known Alarm,S0,0 days 04:51:00,2019-11-11,0 days 04:50:00,0.0,7.70715
+CE10B,0,Known Alarm,S1,0 days 05:06:00,2019-11-11,0 days 04:50:00,15.0,15.527
+CE10B,0,Known Alarm,S2,0 days 05:21:00,2019-11-11,0 days 04:50:00,30.0,14.7865
+CE10B,0,Known Alarm,S3,0 days 05:37:00,2019-11-11,0 days 04:50:00,46.0,9.39795
+CE10B,0,Known Alarm,S4,0 days 05:53:00,2019-11-11,0 days 04:50:00,62.0,10.763
+CE10B,1,Spontaneous,S0,0 days 05:42:00,2019-11-12,0 days 05:40:00,0.0,3.64685
+CE10B,1,Spontaneous,S1,0 days 05:58:00,2019-11-12,0 days 05:40:00,16.0,10.855
+CE10B,1,Spontaneous,S2,0 days 06:13:00,2019-11-12,0 days 05:40:00,31.0,12.429
+CE10B,1,Spontaneous,S3,0 days 06:28:00,2019-11-12,0 days 05:40:00,46.0,7.64275
+CE10B,1,Spontaneous,S4,0 days 06:43:00,2019-11-12,0 days 05:40:00,61.0,5.6421
+CJ10Z,0,Unknown Alarm,S0,0 days 08:10:00,2019-12-16,0 days 08:10:00,0.0,4.42
+CJ10Z,0,Unknown Alarm,S1,0 days 08:28:00,2019-12-16,0 days 08:10:00,18.0,14.99
+CJ10Z,0,Unknown Alarm,S2,0 days 08:48:00,2019-12-16,0 days 08:10:00,38.0,28.53
+CJ10Z,0,Unknown Alarm,S3,0 days 09:03:00,2019-12-16,0 days 08:10:00,53.0,28.44
+CJ10Z,0,Unknown Alarm,S4,0 days 09:16:00,2019-12-16,0 days 08:10:00,66.0,18.42
+CJ10Z,1,Unknown Alarm,S0,0 days 05:51:00,2019-12-17,0 days 05:48:43,0.0,1.42
+CJ10Z,1,Unknown Alarm,S1,0 days 06:08:00,2019-12-17,0 days 05:48:43,17.0,5.88
+CJ10Z,1,Unknown Alarm,S2,0 days 06:25:00,2019-12-17,0 days 05:48:43,34.0,18.54
+CJ10Z,1,Unknown Alarm,S3,0 days 06:41:00,2019-12-17,0 days 05:48:43,50.0,24.86
+CJ10Z,1,Unknown Alarm,S4,0 days 06:56:00,2019-12-17,0 days 05:48:43,65.0,26.76
+CK11R,0,Spontaneous,S0,0 days 11:07:00,2019-11-21,0 days 11:00:00,0.0,14.48
+CK11R,0,Spontaneous,S1,0 days 11:22:00,2019-11-21,0 days 11:00:00,15.0,13.55
+CK11R,0,Spontaneous,S2,0 days 11:38:00,2019-11-21,0 days 11:00:00,31.0,13.14
+CK11R,0,Spontaneous,S3,0 days 11:53:00,2019-11-21,0 days 11:00:00,46.0,12.58
+CK11R,0,Spontaneous,S4,0 days 12:08:00,2019-11-21,0 days 11:00:00,61.0,10.54
+CK11R,1,Unknown Alarm,S0,0 days 07:52:00,2019-11-22,0 days 07:52:00,0.0,3.54
+CK11R,1,Unknown Alarm,S1,0 days 08:07:00,2019-11-22,0 days 07:52:00,15.0,7.36
+CK11R,1,Unknown Alarm,S2,0 days 08:22:00,2019-11-22,0 days 07:52:00,30.0,11.6
+CK11R,1,Unknown Alarm,S3,0 days 08:37:00,2019-11-22,0 days 07:52:00,45.0,14.93
+CK11R,1,Unknown Alarm,S4,0 days 08:53:00,2019-11-22,0 days 07:52:00,61.0,14.53
+CT29K,0,Known Alarm,S0,0 days 09:00:00,2019-11-14,0 days 09:00:00,0.0,15.11
+CT29K,0,Known Alarm,S1,0 days 09:19:00,2019-11-14,0 days 09:00:00,19.0,13.42
+CT29K,0,Known Alarm,S2,0 days 09:35:00,2019-11-14,0 days 09:00:00,35.0,11.1
+CT29K,0,Known Alarm,S3,0 days 09:50:00,2019-11-14,0 days 09:00:00,50.0,6.61
+CT29K,0,Known Alarm,S4,0 days 10:05:00,2019-11-14,0 days 09:00:00,65.0,6.95
+CT29K,1,Known Alarm,S0,0 days 08:02:00,2019-11-15,0 days 08:00:00,0.0,6.52
+CT29K,1,Known Alarm,S1,0 days 08:16:00,2019-11-15,0 days 08:00:00,14.0,21.31
+CT29K,1,Known Alarm,S2,0 days 08:32:00,2019-11-15,0 days 08:00:00,30.0,20.46
+CT29K,1,Known Alarm,S3,0 days 08:47:00,2019-11-15,0 days 08:00:00,45.0,20.95
+CT29K,1,Known Alarm,S4,0 days 09:02:00,2019-11-15,0 days 08:00:00,60.0,16.07
+CU27R,0,Spontaneous,S0,0 days 08:30:00,2019-11-18,0 days 08:30:00,0.0,9.69
+CU27R,0,Spontaneous,S1,0 days 08:50:00,2019-11-18,0 days 08:30:00,20.0,10.92
+CU27R,0,Spontaneous,S2,0 days 09:05:00,2019-11-18,0 days 08:30:00,35.0,7.73
+CU27R,0,Spontaneous,S3,0 days 09:20:00,2019-11-18,0 days 08:30:00,50.0,9.0
+CU27R,0,Spontaneous,S4,0 days 09:35:00,2019-11-18,0 days 08:30:00,65.0,6.3
+CU27R,1,Known Alarm,S0,0 days 06:45:00,2019-11-19,0 days 06:45:00,0.0,6.43
+CU27R,1,Known Alarm,S1,0 days 07:00:00,2019-11-19,0 days 06:45:00,15.0,9.46
+CU27R,1,Known Alarm,S2,0 days 07:15:00,2019-11-19,0 days 06:45:00,30.0,10.59
+CU27R,1,Known Alarm,S3,0 days 07:30:00,2019-11-19,0 days 06:45:00,45.0,13.84
+CU27R,1,Known Alarm,S4,0 days 07:45:00,2019-11-19,0 days 06:45:00,60.0,11.49
+DC28D,1,Unknown Alarm,S0,0 days 06:28:00,2019-12-20,0 days 06:28:00,0.0,5.1
+DC28D,1,Unknown Alarm,S1,0 days 06:44:00,2019-12-20,0 days 06:28:00,16.0,11.49
+DC28D,1,Unknown Alarm,S2,0 days 07:00:00,2019-12-20,0 days 06:28:00,32.0,7.28
+DC28D,1,Unknown Alarm,S3,0 days 07:15:00,2019-12-20,0 days 06:28:00,47.0,7.29
+DC28D,1,Unknown Alarm,S4,0 days 07:30:00,2019-12-20,0 days 06:28:00,62.0,9.85
+DI21I,0,Unknown Alarm,S0,0 days 08:46:00,2019-11-21,0 days 08:44:00,0.0,7.08
+DI21I,0,Unknown Alarm,S1,0 days 09:01:00,2019-11-21,0 days 08:44:00,15.0,10.51
+DI21I,0,Unknown Alarm,S2,0 days 09:16:00,2019-11-21,0 days 08:44:00,30.0,11.94
+DI21I,0,Unknown Alarm,S3,0 days 09:31:00,2019-11-21,0 days 08:44:00,45.0,10.24
+DI21I,0,Unknown Alarm,S4,0 days 09:47:00,2019-11-21,0 days 08:44:00,61.0,9.56
+DI21I,1,Unknown Alarm,S0,0 days 10:06:00,2019-11-22,0 days 10:05:00,0.0,7.34
+DI21I,1,Unknown Alarm,S1,0 days 10:21:00,2019-11-22,0 days 10:05:00,15.0,7.04
+DI21I,1,Unknown Alarm,S2,0 days 10:37:00,2019-11-22,0 days 10:05:00,31.0,8.1
+DI21I,1,Unknown Alarm,S3,0 days 10:52:00,2019-11-22,0 days 10:05:00,46.0,9.97
+DI21I,1,Unknown Alarm,S4,0 days 11:07:00,2019-11-22,0 days 10:05:00,61.0,9.53
+DK11R,0,Spontaneous,S0,0 days 09:40:00,2019-12-16,0 days 09:40:00,0.0,6.51
+DK11R,0,Spontaneous,S1,0 days 09:55:00,2019-12-16,0 days 09:40:00,15.0,23.91
+DK11R,0,Spontaneous,S2,0 days 10:10:00,2019-12-16,0 days 09:40:00,30.0,30.34
+DK11R,0,Spontaneous,S3,0 days 10:25:00,2019-12-16,0 days 09:40:00,45.0,22.76
+DK11R,0,Spontaneous,S4,0 days 10:40:00,2019-12-16,0 days 09:40:00,60.0,15.43
+DK11R,1,Known Alarm,S0,0 days 06:20:00,2019-12-17,0 days 06:20:00,0.0,3.32
+DK11R,1,Known Alarm,S1,0 days 06:35:00,2019-12-17,0 days 06:20:00,15.0,9.12
+DK11R,1,Known Alarm,S2,0 days 06:50:00,2019-12-17,0 days 06:20:00,30.0,13.7
+DK11R,1,Known Alarm,S3,0 days 07:05:00,2019-12-17,0 days 06:20:00,45.0,15.89
+DK11R,1,Known Alarm,S4,0 days 07:20:00,2019-12-17,0 days 06:20:00,60.0,19.48
+DL16R,0,Unknown Alarm,S0,0 days 06:45:00,2019-12-09,0 days 06:45:00,0.0,3.6
+DL16R,0,Unknown Alarm,S1,0 days 07:00:00,2019-12-09,0 days 06:45:00,15.0,8.45
+DL16R,0,Unknown Alarm,S2,0 days 07:15:00,2019-12-09,0 days 06:45:00,30.0,10.59
+DL16R,0,Unknown Alarm,S3,0 days 07:30:00,2019-12-09,0 days 06:45:00,45.0,9.85
+DL16R,0,Unknown Alarm,S4,0 days 07:45:00,2019-12-09,0 days 06:45:00,60.0,9.5
+DL16R,1,Spontaneous,S0,0 days 07:00:00,2019-12-10,0 days 07:00:00,0.0,4.9
+DL16R,1,Spontaneous,S1,0 days 07:15:00,2019-12-10,0 days 07:00:00,15.0,12.02
+DL16R,1,Spontaneous,S2,0 days 07:30:00,2019-12-10,0 days 07:00:00,30.0,11.29
+DL16R,1,Spontaneous,S3,0 days 07:45:00,2019-12-10,0 days 07:00:00,45.0,10.96
+DL16R,1,Spontaneous,S4,0 days 08:00:00,2019-12-10,0 days 07:00:00,60.0,11.11
+DN28H,0,Unknown Alarm,S0,0 days 04:10:00,2019-11-18,0 days 04:10:00,0.0,2.5
+DN28H,0,Unknown Alarm,S1,0 days 04:25:00,2019-11-18,0 days 04:10:00,15.0,6.46
+DN28H,0,Unknown Alarm,S2,0 days 04:40:00,2019-11-18,0 days 04:10:00,30.0,12.55
+DN28H,0,Unknown Alarm,S3,0 days 04:55:00,2019-11-18,0 days 04:10:00,45.0,16.01
+DN28H,0,Unknown Alarm,S4,0 days 05:10:00,2019-11-18,0 days 04:10:00,60.0,16.02
+DN28H,1,Unknown Alarm,S0,0 days 05:40:00,2019-11-19,0 days 05:40:00,0.0,3.55
+DN28H,1,Unknown Alarm,S1,0 days 05:55:00,2019-11-19,0 days 05:40:00,15.0,6.89
+DN28H,1,Unknown Alarm,S2,0 days 06:10:00,2019-11-19,0 days 05:40:00,30.0,12.22
+DN28H,1,Unknown Alarm,S3,0 days 06:25:00,2019-11-19,0 days 05:40:00,45.0,18.46
+DN28H,1,Unknown Alarm,S4,0 days 06:40:00,2019-11-19,0 days 05:40:00,60.0,19.16
+EA09H,0,Spontaneous,S0,0 days 09:18:00,2019-11-11,0 days 09:15:00,0.0,6.42735
+EA09H,0,Spontaneous,S1,0 days 09:34:00,2019-11-11,0 days 09:15:00,16.0,6.9475
+EA09H,0,Spontaneous,S2,0 days 09:49:00,2019-11-11,0 days 09:15:00,31.0,6.1874
+EA09H,0,Spontaneous,S3,0 days 10:04:00,2019-11-11,0 days 09:15:00,46.0,6.62905
+EA09H,0,Spontaneous,S4,0 days 10:20:00,2019-11-11,0 days 09:15:00,62.0,5.1787
+EA09H,1,Spontaneous,S0,0 days 08:12:00,2019-11-12,0 days 08:05:00,0.0,4.00265
+EA09H,1,Spontaneous,S1,0 days 08:27:00,2019-11-12,0 days 08:05:00,15.0,7.2016
+EA09H,1,Spontaneous,S2,0 days 08:43:00,2019-11-12,0 days 08:05:00,31.0,11.5
+EA09H,1,Spontaneous,S3,0 days 08:58:00,2019-11-12,0 days 08:05:00,46.0,15.1815
+EA09H,1,Spontaneous,S4,0 days 09:13:00,2019-11-12,0 days 08:05:00,61.0,11.457
+EE08O,0,Spontaneous,S0,0 days 07:36:00,2019-12-13,0 days 07:35:00,0.0,9.99
+EE08O,0,Spontaneous,S1,0 days 07:53:00,2019-12-13,0 days 07:35:00,17.0,16.64
+EE08O,0,Spontaneous,S2,0 days 08:10:00,2019-12-13,0 days 07:35:00,34.0,18.71
+EE08O,0,Spontaneous,S3,0 days 08:30:00,2019-12-13,0 days 07:35:00,54.0,13.13
+EE08O,0,Spontaneous,S4,0 days 08:47:00,2019-12-13,0 days 07:35:00,71.0,9.56
+EE08O,1,Spontaneous,S0,0 days 10:20:00,2019-12-14,0 days 10:17:00,0.0,5.21
+EE08O,1,Spontaneous,S1,0 days 10:40:00,2019-12-14,0 days 10:17:00,20.0,8.45
+EE08O,1,Spontaneous,S2,0 days 10:56:00,2019-12-14,0 days 10:17:00,36.0,11.13
+EE08O,1,Spontaneous,S3,0 days 11:12:00,2019-12-14,0 days 10:17:00,52.0,7.93
+EE08O,1,Spontaneous,S4,0 days 11:30:00,2019-12-14,0 days 10:17:00,70.0,5.02
+EG25R,0,Known Alarm,S0,0 days 05:20:00,2019-12-13,0 days 05:18:00,0.0,10.7
+EG25R,0,Known Alarm,S1,0 days 05:36:00,2019-12-13,0 days 05:18:00,16.0,11.89
+EG25R,0,Known Alarm,S2,0 days 05:52:00,2019-12-13,0 days 05:18:00,32.0,18.21
+EG25R,0,Known Alarm,S3,0 days 06:06:00,2019-12-13,0 days 05:18:00,46.0,18.81
+EG25R,0,Known Alarm,S4,0 days 06:20:00,2019-12-13,0 days 05:18:00,60.0,16.79
+EG25R,1,Spontaneous,S0,0 days 07:30:00,2019-12-14,0 days 07:25:00,0.0,5.09
+EG25R,1,Spontaneous,S1,0 days 07:45:00,2019-12-14,0 days 07:25:00,15.0,12.64
+EG25R,1,Spontaneous,S2,0 days 08:02:00,2019-12-14,0 days 07:25:00,32.0,17.18
+EG25R,1,Spontaneous,S3,0 days 08:18:00,2019-12-14,0 days 07:25:00,48.0,13.9
+EG25R,1,Spontaneous,S4,0 days 08:34:00,2019-12-14,0 days 07:25:00,64.0,12.28
+EM07N,0,Spontaneous,S0,0 days 08:04:00,2019-12-11,0 days 08:04:00,0.0,10.81
+EM07N,0,Spontaneous,S1,0 days 08:20:00,2019-12-11,0 days 08:04:00,16.0,13.73
+EM07N,0,Spontaneous,S2,0 days 08:35:00,2019-12-11,0 days 08:04:00,31.0,17.1
+EM07N,0,Spontaneous,S3,0 days 08:50:00,2019-12-11,0 days 08:04:00,46.0,14.64
+EM07N,0,Spontaneous,S4,0 days 09:05:00,2019-12-11,0 days 08:04:00,61.0,12.15
+EM16N,1,Spontaneous,S0,0 days 10:05:00,2019-11-12,0 days 10:00:00,0.0,6.0435
+EM16N,1,Spontaneous,S1,0 days 10:21:00,2019-11-12,0 days 10:00:00,16.0,15.1375
+EM16N,1,Spontaneous,S2,0 days 10:36:00,2019-11-12,0 days 10:00:00,31.0,16.259
+EM16N,1,Spontaneous,S3,0 days 10:51:00,2019-11-12,0 days 10:00:00,46.0,14.2735
+EM16N,1,Spontaneous,S4,0 days 11:07:00,2019-11-12,0 days 10:00:00,62.0,11.1482
+FA12L,0,Spontaneous,S0,0 days 06:50:00,2020-01-06,0 days 06:50:00,0.0,4.91
+FA12L,0,Spontaneous,S1,0 days 07:05:00,2020-01-06,0 days 06:50:00,15.0,6.96
+FA12L,0,Spontaneous,S2,0 days 07:30:00,2020-01-06,0 days 06:50:00,40.0,12.7
+FA12L,0,Spontaneous,S3,0 days 07:35:00,2020-01-06,0 days 06:50:00,45.0,14.17
+FA12L,0,Spontaneous,S4,0 days 07:50:00,2020-01-06,0 days 06:50:00,60.0,12.74
+FA12L,1,Known Alarm,S0,0 days 06:30:00,2020-01-07,0 days 06:30:00,0.0,4.3
+FA12L,1,Known Alarm,S1,0 days 06:45:00,2020-01-07,0 days 06:30:00,15.0,4.03
+FA12L,1,Known Alarm,S2,0 days 07:00:00,2020-01-07,0 days 06:30:00,30.0,10.51
+FA12L,1,Known Alarm,S3,0 days 07:15:00,2020-01-07,0 days 06:30:00,45.0,9.69
+FA12L,1,Known Alarm,S4,0 days 07:30:00,2020-01-07,0 days 06:30:00,60.0,15.36
+FA23L,0,Spontaneous,S0,0 days 08:35:00,2019-11-21,0 days 08:35:00,0.0,7.2
+FA23L,0,Spontaneous,S1,0 days 08:50:00,2019-11-21,0 days 08:35:00,15.0,10.75
+FA23L,0,Spontaneous,S2,0 days 09:05:00,2019-11-21,0 days 08:35:00,30.0,8.13
+FA23L,0,Spontaneous,S3,0 days 09:20:00,2019-11-21,0 days 08:35:00,45.0,6.34
+FA23L,0,Spontaneous,S4,0 days 09:35:00,2019-11-21,0 days 08:35:00,60.0,4.92
+FA23L,1,Spontaneous,S0,0 days 07:55:00,2019-11-22,0 days 07:55:00,0.0,3.8
+FA23L,1,Spontaneous,S1,0 days 08:10:00,2019-11-22,0 days 07:55:00,15.0,6.91
+FA23L,1,Spontaneous,S2,0 days 08:25:00,2019-11-22,0 days 07:55:00,30.0,9.69
+FA23L,1,Spontaneous,S3,0 days 08:40:00,2019-11-22,0 days 07:55:00,45.0,6.36
+FA23L,1,Spontaneous,S4,0 days 08:55:00,2019-11-22,0 days 07:55:00,60.0,4.14
+FB04R,0,Spontaneous,S0,0 days 08:37:00,2019-12-02,0 days 08:37:00,0.0,19.7
+FB04R,0,Spontaneous,S1,0 days 08:53:00,2019-12-02,0 days 08:37:00,16.0,15.8
+FB04R,0,Spontaneous,S2,0 days 09:08:00,2019-12-02,0 days 08:37:00,31.0,13.83
+FB04R,0,Spontaneous,S3,0 days 09:24:00,2019-12-02,0 days 08:37:00,47.0,12.95
+FB04R,0,Spontaneous,S4,0 days 09:39:00,2019-12-02,0 days 08:37:00,62.0,10.12
+FB04R,1,Unknown Alarm,S0,0 days 05:47:00,2019-12-03,0 days 05:47:00,0.0,7.31
+FB04R,1,Unknown Alarm,S1,0 days 06:02:00,2019-12-03,0 days 05:47:00,15.0,5.44
+FB04R,1,Unknown Alarm,S2,0 days 06:17:00,2019-12-03,0 days 05:47:00,30.0,7.42
+FB04R,1,Unknown Alarm,S3,0 days 06:33:00,2019-12-03,0 days 05:47:00,46.0,8.26
+FB04R,1,Unknown Alarm,S4,0 days 06:48:00,2019-12-03,0 days 05:47:00,61.0,8.33
+FK22R,0,Known Alarm,S0,0 days 07:30:00,2019-11-25,0 days 07:30:00,0.0,10.21
+FK22R,0,Known Alarm,S1,0 days 07:46:00,2019-11-25,0 days 07:30:00,16.0,13.32
+FK22R,0,Known Alarm,S2,0 days 08:01:00,2019-11-25,0 days 07:30:00,31.0,14.8
+FK22R,0,Known Alarm,S3,0 days 08:16:00,2019-11-25,0 days 07:30:00,46.0,16.7
+FK22R,0,Known Alarm,S4,0 days 08:32:00,2019-11-25,0 days 07:30:00,62.0,16.84
+FK22R,1,Spontaneous,S0,0 days 08:50:00,2019-11-26,0 days 08:50:00,0.0,10.99
+FK22R,1,Spontaneous,S1,0 days 09:05:00,2019-11-26,0 days 08:50:00,15.0,14.91
+FK22R,1,Spontaneous,S2,0 days 09:22:00,2019-11-26,0 days 08:50:00,32.0,14.0
+FK22R,1,Spontaneous,S3,0 days 09:37:00,2019-11-26,0 days 08:50:00,47.0,10.98
+FK22R,1,Spontaneous,S4,0 days 09:54:00,2019-11-26,0 days 08:50:00,64.0,9.01
+HE12B,0,Known Alarm,S0,0 days 07:44:00,2019-12-09,0 days 07:42:00,0.0,7.93
+HE12B,0,Known Alarm,S1,0 days 08:00:00,2019-12-09,0 days 07:42:00,16.0,12.47
+HE12B,0,Known Alarm,S2,0 days 08:15:00,2019-12-09,0 days 07:42:00,31.0,11.73
+HE12B,0,Known Alarm,S3,0 days 08:30:00,2019-12-09,0 days 07:42:00,46.0,8.34
+HE12B,0,Known Alarm,S4,0 days 08:46:00,2019-12-09,0 days 07:42:00,62.0,6.11
+HE12B,1,Spontaneous,S0,0 days 08:00:00,2019-12-10,0 days 07:57:00,0.0,7.87
+HE12B,1,Spontaneous,S1,0 days 08:13:00,2019-12-10,0 days 07:57:00,13.0,11.41
+HE12B,1,Spontaneous,S2,0 days 08:30:00,2019-12-10,0 days 07:57:00,30.0,12.43
+HE12B,1,Spontaneous,S3,0 days 08:47:00,2019-12-10,0 days 07:57:00,47.0,11.16
+HE12B,1,Spontaneous,S4,0 days 09:00:00,2019-12-10,0 days 07:57:00,60.0,9.16
+HT08S,0,Spontaneous,S0,0 days 08:15:00,2020-01-06,0 days 08:10:00,0.0,9.31
+HT08S,0,Spontaneous,S1,0 days 08:30:00,2020-01-06,0 days 08:10:00,15.0,2.7
+HT08S,0,Spontaneous,S2,0 days 08:45:00,2020-01-06,0 days 08:10:00,30.0,2.6
+HT08S,0,Spontaneous,S3,0 days 09:03:00,2020-01-06,0 days 08:10:00,48.0,2.33
+HT08S,0,Spontaneous,S4,0 days 09:20:00,2020-01-06,0 days 08:10:00,65.0,3.23
+HT08S,1,Spontaneous,S0,0 days 07:05:00,2020-01-07,0 days 06:55:00,0.0,2.89
+HT08S,1,Spontaneous,S1,0 days 07:20:00,2020-01-07,0 days 06:55:00,15.0,2.11
+HT08S,1,Spontaneous,S2,0 days 07:35:00,2020-01-07,0 days 06:55:00,30.0,1.44
+HT08S,1,Spontaneous,S3,0 days 07:50:00,2020-01-07,0 days 06:55:00,45.0,3.54
+HT08S,1,Spontaneous,S4,0 days 08:05:00,2020-01-07,0 days 06:55:00,60.0,4.33
+II08L,0,Known Alarm,S0,0 days 05:45:00,2019-12-03,0 days 05:43:00,0.0,2.78
+II08L,0,Known Alarm,S1,0 days 06:01:00,2019-12-03,0 days 05:43:00,16.0,3.18
+II08L,0,Known Alarm,S2,0 days 06:16:00,2019-12-03,0 days 05:43:00,31.0,10.45
+II08L,0,Known Alarm,S3,0 days 06:31:00,2019-12-03,0 days 05:43:00,46.0,12.69
+II08L,0,Known Alarm,S4,0 days 06:46:00,2019-12-03,0 days 05:43:00,61.0,11.2
+II08L,1,Known Alarm,S0,0 days 05:02:00,2019-12-04,0 days 05:00:00,0.0,1.07
+II08L,1,Known Alarm,S1,0 days 05:17:00,2019-12-04,0 days 05:00:00,15.0,5.35
+II08L,1,Known Alarm,S2,0 days 05:32:00,2019-12-04,0 days 05:00:00,30.0,12.45
+II08L,1,Known Alarm,S3,0 days 05:47:00,2019-12-04,0 days 05:00:00,45.0,16.32
+II08L,1,Known Alarm,S4,0 days 06:02:00,2019-12-04,0 days 05:00:00,60.0,15.4
+IM09E,0,Spontaneous,S0,0 days 05:51:00,2019-11-21,0 days 05:50:00,0.0,10.22
+IM09E,0,Spontaneous,S1,0 days 06:06:00,2019-11-21,0 days 05:50:00,15.0,19.63
+IM09E,0,Spontaneous,S2,0 days 06:21:00,2019-11-21,0 days 05:50:00,30.0,11.56
+IM09E,0,Spontaneous,S3,0 days 06:36:00,2019-11-21,0 days 05:50:00,45.0,8.6
+IM09E,0,Spontaneous,S4,0 days 06:51:00,2019-11-21,0 days 05:50:00,60.0,6.02
+IM09E,1,Spontaneous,S0,0 days 06:50:00,2019-11-22,0 days 06:48:00,0.0,7.22
+IM09E,1,Spontaneous,S1,0 days 07:05:00,2019-11-22,0 days 06:48:00,15.0,8.23
+IM09E,1,Spontaneous,S2,0 days 07:20:00,2019-11-22,0 days 06:48:00,30.0,6.94
+IM09E,1,Spontaneous,S3,0 days 07:35:00,2019-11-22,0 days 06:48:00,45.0,5.24
+IM09E,1,Spontaneous,S4,0 days 07:50:00,2019-11-22,0 days 06:48:00,60.0,3.67
+JA24N,0,Spontaneous,S0,0 days 08:53:00,2019-12-05,0 days 08:50:00,0.0,6.97
+JA24N,0,Spontaneous,S1,0 days 09:08:00,2019-12-05,0 days 08:50:00,15.0,17.17
+JA24N,0,Spontaneous,S2,0 days 09:23:00,2019-12-05,0 days 08:50:00,30.0,19.22
+JA24N,0,Spontaneous,S3,0 days 09:38:00,2019-12-05,0 days 08:50:00,45.0,15.6
+JA24N,0,Spontaneous,S4,0 days 09:53:00,2019-12-05,0 days 08:50:00,60.0,11.66
+JA24N,1,Spontaneous,S0,0 days 08:56:00,2019-12-06,0 days 08:55:00,0.0,6.9
+JA24N,1,Spontaneous,S1,0 days 09:11:00,2019-12-06,0 days 08:55:00,15.0,12.4
+JA24N,1,Spontaneous,S2,0 days 09:26:00,2019-12-06,0 days 08:55:00,30.0,17.24
+JA24N,1,Spontaneous,S3,0 days 09:42:00,2019-12-06,0 days 08:55:00,46.0,13.59
+JA24N,1,Spontaneous,S4,0 days 09:57:00,2019-12-06,0 days 08:55:00,61.0,10.47
+JA26L,0,Spontaneous,S0,0 days 07:58:00,2019-12-10,0 days 07:55:00,0.0,7.74
+JA26L,0,Spontaneous,S1,0 days 08:14:00,2019-12-10,0 days 07:55:00,16.0,14.18
+JA26L,0,Spontaneous,S2,0 days 08:30:00,2019-12-10,0 days 07:55:00,32.0,12.99
+JA26L,0,Spontaneous,S3,0 days 08:46:00,2019-12-10,0 days 07:55:00,48.0,11.26
+JA26L,0,Spontaneous,S4,0 days 09:02:00,2019-12-10,0 days 07:55:00,64.0,13.82
+JA26L,1,Spontaneous,S0,0 days 08:14:00,2019-12-11,0 days 08:13:00,0.0,9.48
+JA26L,1,Spontaneous,S1,0 days 08:30:00,2019-12-11,0 days 08:13:00,16.0,8.99
+JA26L,1,Spontaneous,S2,0 days 08:46:00,2019-12-11,0 days 08:13:00,32.0,13.91
+JA26L,1,Spontaneous,S3,0 days 09:02:00,2019-12-11,0 days 08:13:00,48.0,8.46
+JA26L,1,Spontaneous,S4,0 days 09:18:00,2019-12-11,0 days 08:13:00,64.0,8.16
+JC05N,0,Spontaneous,S0,0 days 08:13:00,2019-12-16,0 days 08:00:00,0.0,12.55
+JC05N,0,Spontaneous,S1,0 days 08:26:00,2019-12-16,0 days 08:00:00,13.0,9.6
+JC05N,0,Spontaneous,S2,0 days 08:41:00,2019-12-16,0 days 08:00:00,28.0,6.59
+JC05N,0,Spontaneous,S3,0 days 08:56:00,2019-12-16,0 days 08:00:00,43.0,5.06
+JC05N,0,Spontaneous,S4,0 days 09:12:00,2019-12-16,0 days 08:00:00,59.0,4.54
+JC05N,1,Known Alarm,S0,0 days 06:06:00,2019-12-17,0 days 06:05:00,0.0,7.92
+JC05N,1,Known Alarm,S1,0 days 06:22:00,2019-12-17,0 days 06:05:00,16.0,12.27
+JC05N,1,Known Alarm,S2,0 days 06:37:00,2019-12-17,0 days 06:05:00,31.0,16.04
+JC05N,1,Known Alarm,S3,0 days 06:52:00,2019-12-17,0 days 06:05:00,46.0,13.67
+JC05N,1,Known Alarm,S4,0 days 07:07:00,2019-12-17,0 days 06:05:00,61.0,10.07
+JE03S,0,Known Alarm,S0,0 days 08:31:00,2019-11-18,0 days 08:30:00,0.0,9.26
+JE03S,0,Known Alarm,S1,0 days 08:49:00,2019-11-18,0 days 08:30:00,18.0,10.12
+JE03S,0,Known Alarm,S2,0 days 09:05:00,2019-11-18,0 days 08:30:00,34.0,12.22
+JE03S,0,Known Alarm,S3,0 days 09:21:00,2019-11-18,0 days 08:30:00,50.0,11.44
+JE03S,0,Known Alarm,S4,0 days 09:38:00,2019-11-18,0 days 08:30:00,67.0,8.9
+JE03S,1,Known Alarm,S0,0 days 06:31:00,2019-11-19,0 days 06:30:00,0.0,4.17
+JE03S,1,Known Alarm,S1,0 days 06:47:00,2019-11-19,0 days 06:30:00,16.0,5.46
+JE03S,1,Known Alarm,S2,0 days 07:03:00,2019-11-19,0 days 06:30:00,32.0,11.05
+JE03S,1,Known Alarm,S3,0 days 07:19:00,2019-11-19,0 days 06:30:00,48.0,12.37
+JE03S,1,Known Alarm,S4,0 days 07:38:00,2019-11-19,0 days 06:30:00,67.0,13.42
+JE15A,0,Spontaneous,S0,0 days 07:57:00,2019-11-28,0 days 07:55:00,0.0,8.68
+JE15A,0,Spontaneous,S1,0 days 08:12:00,2019-11-28,0 days 07:55:00,15.0,14.46
+JE15A,0,Spontaneous,S2,0 days 08:27:00,2019-11-28,0 days 07:55:00,30.0,18.13
+JE15A,0,Spontaneous,S3,0 days 08:43:00,2019-11-28,0 days 07:55:00,46.0,17.71
+JE15A,0,Spontaneous,S4,0 days 08:59:00,2019-11-28,0 days 07:55:00,62.0,18.02
+JE15A,1,Spontaneous,S0,0 days 08:58:00,2019-11-29,0 days 07:20:00,0.0,8.27
+JE15A,1,Spontaneous,S1,0 days 09:13:00,2019-11-29,0 days 07:20:00,15.0,11.79
+JE15A,1,Spontaneous,S2,0 days 09:28:00,2019-11-29,0 days 07:20:00,30.0,14.82
+JE15A,1,Spontaneous,S3,0 days 09:43:00,2019-11-29,0 days 07:20:00,45.0,16.59
+JE15A,1,Spontaneous,S4,0 days 09:59:00,2019-11-29,0 days 07:20:00,61.0,13.83
+JG04G,0,Unknown Alarm,S0,0 days 08:11:00,2019-11-28,0 days 08:10:00,0.0,6.34
+JG04G,0,Unknown Alarm,S1,0 days 08:25:00,2019-11-28,0 days 08:10:00,14.0,14.52
+JG04G,0,Unknown Alarm,S2,0 days 08:40:00,2019-11-28,0 days 08:10:00,29.0,15.24
+JG04G,0,Unknown Alarm,S3,0 days 08:56:00,2019-11-28,0 days 08:10:00,45.0,12.12
+JG04G,0,Unknown Alarm,S4,0 days 09:11:00,2019-11-28,0 days 08:10:00,60.0,8.95
+JG04G,1,Unknown Alarm,S0,0 days 08:11:00,2019-11-29,0 days 08:10:00,0.0,8.17
+JG04G,1,Unknown Alarm,S1,0 days 08:25:00,2019-11-29,0 days 08:10:00,14.0,12.74
+JG04G,1,Unknown Alarm,S2,0 days 08:40:00,2019-11-29,0 days 08:10:00,29.0,12.93
+JG04G,1,Unknown Alarm,S3,0 days 08:55:00,2019-11-29,0 days 08:10:00,44.0,13.46
+JG04G,1,Unknown Alarm,S4,0 days 09:10:00,2019-11-29,0 days 08:10:00,59.0,11.41
+JK12R,0,Known Alarm,S0,0 days 08:33:00,2019-12-16,0 days 08:20:00,0.0,9.58
+JK12R,0,Known Alarm,S1,0 days 08:48:00,2019-12-16,0 days 08:20:00,15.0,9.37
+JK12R,0,Known Alarm,S2,0 days 09:03:00,2019-12-16,0 days 08:20:00,30.0,9.85
+JK12R,0,Known Alarm,S3,0 days 09:18:00,2019-12-16,0 days 08:20:00,45.0,9.64
+JK12R,0,Known Alarm,S4,0 days 09:33:00,2019-12-16,0 days 08:20:00,60.0,8.93
+JK12R,1,Known Alarm,S0,0 days 06:20:00,2019-12-17,0 days 06:15:00,0.0,2.07
+JK12R,1,Known Alarm,S1,0 days 06:35:00,2019-12-17,0 days 06:15:00,15.0,2.2
+JK12R,1,Known Alarm,S2,0 days 06:50:00,2019-12-17,0 days 06:15:00,30.0,4.18
+JK12R,1,Known Alarm,S3,0 days 07:05:00,2019-12-17,0 days 06:15:00,45.0,7.11
+JK12R,1,Known Alarm,S4,0 days 07:20:00,2019-12-17,0 days 06:15:00,60.0,9.66
+JK20G,0,Unknown Alarm,S0,0 days 06:55:00,2019-11-14,0 days 06:20:00,0.0,19.08
+JK20G,0,Unknown Alarm,S1,0 days 07:11:00,2019-11-14,0 days 06:20:00,16.0,22.12
+JK20G,0,Unknown Alarm,S2,0 days 07:26:00,2019-11-14,0 days 06:20:00,31.0,23.4
+JK20G,0,Unknown Alarm,S3,0 days 07:41:00,2019-11-14,0 days 06:20:00,46.0,11.56
+JK20G,0,Unknown Alarm,S4,0 days 07:56:00,2019-11-14,0 days 06:20:00,61.0,9.04
+JK20G,1,Unknown Alarm,S0,0 days 07:46:00,2019-11-15,0 days 07:40:00,0.0,7.06
+JK20G,1,Unknown Alarm,S1,0 days 08:18:00,2019-11-15,0 days 07:40:00,32.0,8.78
+JK20G,1,Unknown Alarm,S2,0 days 08:31:00,2019-11-15,0 days 07:40:00,45.0,6.8
+JK20G,1,Unknown Alarm,S3,0 days 08:46:00,2019-11-15,0 days 07:40:00,60.0,6.59
+JK20G,1,Unknown Alarm,S4,0 days 09:00:00,2019-11-15,0 days 07:40:00,74.0,5.05
+JK25L,0,Known Alarm,S0,0 days 08:30:00,2019-11-25,0 days 08:15:00,0.0,5.15
+JK25L,0,Known Alarm,S1,0 days 08:45:00,2019-11-25,0 days 08:15:00,15.0,13.4
+JK25L,0,Known Alarm,S2,0 days 09:00:00,2019-11-25,0 days 08:15:00,30.0,14.4
+JK25L,0,Known Alarm,S3,0 days 09:15:00,2019-11-25,0 days 08:15:00,45.0,9.91
+JK25L,0,Known Alarm,S4,0 days 09:30:00,2019-11-25,0 days 08:15:00,60.0,7.71
+JK25L,1,Known Alarm,S0,0 days 09:00:00,2019-11-26,0 days 08:50:00,0.0,7.83
+JK25L,1,Known Alarm,S1,0 days 09:15:00,2019-11-26,0 days 08:50:00,15.0,11.59
+JK25L,1,Known Alarm,S2,0 days 09:30:00,2019-11-26,0 days 08:50:00,30.0,17.86
+JK25L,1,Known Alarm,S3,0 days 09:45:00,2019-11-26,0 days 08:50:00,45.0,17.76
+JK25L,1,Known Alarm,S4,0 days 10:00:00,2019-11-26,0 days 08:50:00,60.0,15.15
+JM07ß,0,Spontaneous,S0,0 days 08:35:00,2019-12-12,0 days 08:35:00,0.0,4.79
+JM07ß,0,Spontaneous,S1,0 days 08:50:00,2019-12-12,0 days 08:35:00,15.0,11.94
+JM07ß,0,Spontaneous,S2,0 days 09:05:00,2019-12-12,0 days 08:35:00,30.0,17.58
+JM07ß,0,Spontaneous,S3,0 days 09:20:00,2019-12-12,0 days 08:35:00,45.0,21.29
+JM07ß,0,Spontaneous,S4,0 days 09:35:00,2019-12-12,0 days 08:35:00,60.0,22.78
+JM07ß,1,Unknown Alarm,S0,0 days 09:50:00,2019-12-13,0 days 09:50:00,0.0,5.52
+JM07ß,1,Unknown Alarm,S1,0 days 10:05:00,2019-12-13,0 days 09:50:00,15.0,9.63
+JM07ß,1,Unknown Alarm,S2,0 days 10:20:00,2019-12-13,0 days 09:50:00,30.0,14.25
+JM07ß,1,Unknown Alarm,S3,0 days 10:35:00,2019-12-13,0 days 09:50:00,45.0,16.31
+JM07ß,1,Unknown Alarm,S4,0 days 10:50:00,2019-12-13,0 days 09:50:00,60.0,15.43
+JM22C,0,Unknown Alarm,S0,0 days 08:00:00,2019-12-16,0 days 08:00:00,0.0,2.83
+JM22C,0,Unknown Alarm,S1,0 days 08:15:00,2019-12-16,0 days 08:00:00,15.0,6.13
+JM22C,0,Unknown Alarm,S2,0 days 08:30:00,2019-12-16,0 days 08:00:00,30.0,15.85
+JM22C,0,Unknown Alarm,S3,0 days 08:45:00,2019-12-16,0 days 08:00:00,45.0,23.72
+JM22C,0,Unknown Alarm,S4,0 days 09:00:00,2019-12-16,0 days 08:00:00,60.0,28.29
+JM22C,1,Unknown Alarm,S0,0 days 09:45:00,2019-12-17,0 days 09:45:00,0.0,1.67
+JM22C,1,Unknown Alarm,S1,0 days 10:00:00,2019-12-17,0 days 09:45:00,15.0,2.76
+JM22C,1,Unknown Alarm,S2,0 days 10:15:00,2019-12-17,0 days 09:45:00,30.0,8.9
+JM22C,1,Unknown Alarm,S3,0 days 10:30:00,2019-12-17,0 days 09:45:00,45.0,22.48
+JM22C,1,Unknown Alarm,S4,0 days 10:45:00,2019-12-17,0 days 09:45:00,60.0,20.09
+JS26S,0,Spontaneous,S0,0 days 06:44:00,2019-12-12,0 days 06:42:00,0.0,12.24
+JS26S,0,Spontaneous,S1,0 days 06:59:00,2019-12-12,0 days 06:42:00,15.0,17.85
+JS26S,0,Spontaneous,S2,0 days 07:14:00,2019-12-12,0 days 06:42:00,30.0,25.21
+JS26S,0,Spontaneous,S3,0 days 07:29:00,2019-12-12,0 days 06:42:00,45.0,22.15
+JS26S,0,Spontaneous,S4,0 days 07:44:00,2019-12-12,0 days 06:42:00,60.0,17.06
+JS26S,1,Spontaneous,S0,0 days 07:18:00,2019-12-13,0 days 07:17:01,0.0,13.02
+JS26S,1,Spontaneous,S1,0 days 07:33:00,2019-12-13,0 days 07:17:01,15.0,12.64
+JS26S,1,Spontaneous,S2,0 days 07:48:00,2019-12-13,0 days 07:17:01,30.0,20.9
+JS26S,1,Spontaneous,S3,0 days 08:03:00,2019-12-13,0 days 07:17:01,45.0,15.45
+JS26S,1,Spontaneous,S4,0 days 08:18:00,2019-12-13,0 days 07:17:01,60.0,14.63
+JU01F,0,Known Alarm,S0,0 days 07:51:00,2019-12-12,0 days 07:50:00,0.0,8.26
+JU01F,0,Known Alarm,S1,0 days 08:07:00,2019-12-12,0 days 07:50:00,16.0,11.82
+JU01F,0,Known Alarm,S2,0 days 08:23:00,2019-12-12,0 days 07:50:00,32.0,14.89
+JU01F,0,Known Alarm,S3,0 days 08:39:00,2019-12-12,0 days 07:50:00,48.0,15.8
+JU01F,0,Known Alarm,S4,0 days 08:55:00,2019-12-12,0 days 07:50:00,64.0,14.94
+JU01F,1,Spontaneous,S0,0 days 08:36:00,2019-12-13,0 days 08:35:00,0.0,15.13
+JU01F,1,Spontaneous,S1,0 days 08:52:00,2019-12-13,0 days 08:35:00,16.0,18.25
+JU01F,1,Spontaneous,S2,0 days 09:09:00,2019-12-13,0 days 08:35:00,33.0,12.44
+JU01F,1,Spontaneous,S3,0 days 09:24:00,2019-12-13,0 days 08:35:00,48.0,13.83
+JU01F,1,Spontaneous,S4,0 days 09:39:00,2019-12-13,0 days 08:35:00,63.0,8.71
+KA17A,0,Unknown Alarm,S0,0 days 06:43:00,2019-11-11,0 days 06:40:00,0.0,8.96805
+KA17A,0,Unknown Alarm,S1,0 days 06:57:00,2019-11-11,0 days 06:40:00,14.0,20.804
+KA17A,0,Unknown Alarm,S2,0 days 07:11:00,2019-11-11,0 days 06:40:00,28.0,27.5405
+KA17A,0,Unknown Alarm,S3,0 days 07:26:00,2019-11-11,0 days 06:40:00,43.0,27.2635
+KA17A,0,Unknown Alarm,S4,0 days 07:41:00,2019-11-11,0 days 06:40:00,58.0,26.554
+KA17A,1,Unknown Alarm,S0,0 days 05:41:00,2019-11-12,0 days 05:41:00,0.0,6.3045
+KA17A,1,Unknown Alarm,S1,0 days 05:56:00,2019-11-12,0 days 05:41:00,15.0,13.4805
+KA17A,1,Unknown Alarm,S2,0 days 06:11:00,2019-11-12,0 days 05:41:00,30.0,23.136
+KA17A,1,Unknown Alarm,S3,0 days 06:26:00,2019-11-12,0 days 05:41:00,45.0,32.784
+KA17A,1,Unknown Alarm,S4,0 days 06:41:00,2019-11-12,0 days 05:41:00,60.0,28.7875
+KA19E,0,Unknown Alarm,S0,0 days 08:10:00,2019-11-11,0 days 08:10:00,0.0,9.4194
+KA19E,0,Unknown Alarm,S1,0 days 08:25:00,2019-11-11,0 days 08:10:00,15.0,15.4545
+KA19E,0,Unknown Alarm,S2,0 days 08:40:00,2019-11-11,0 days 08:10:00,30.0,19.102
+KA19E,0,Unknown Alarm,S3,0 days 08:55:00,2019-11-11,0 days 08:10:00,45.0,19.161
+KA19E,0,Unknown Alarm,S4,0 days 09:10:00,2019-11-11,0 days 08:10:00,60.0,11.1515
+KA19E,1,Unknown Alarm,S0,0 days 08:55:00,2019-11-12,0 days 08:53:54,0.0,10.1879
+KA19E,1,Unknown Alarm,S1,0 days 09:10:00,2019-11-12,0 days 08:53:54,15.0,13.02
+KA19E,1,Unknown Alarm,S2,0 days 09:25:00,2019-11-12,0 days 08:53:54,30.0,20.411
+KA19E,1,Unknown Alarm,S3,0 days 09:40:00,2019-11-12,0 days 08:53:54,45.0,22.53
+KA19E,1,Unknown Alarm,S4,0 days 09:55:00,2019-11-12,0 days 08:53:54,60.0,15.397
+KB16K,0,Known Alarm,S0,0 days 08:15:00,2020-01-06,0 days 08:15:00,0.0,13.26
+KB16K,0,Known Alarm,S1,0 days 08:30:00,2020-01-06,0 days 08:15:00,15.0,10.22
+KB16K,0,Known Alarm,S2,0 days 08:45:00,2020-01-06,0 days 08:15:00,30.0,6.43
+KB16K,0,Known Alarm,S3,0 days 09:00:00,2020-01-06,0 days 08:15:00,45.0,4.49
+KB16K,0,Known Alarm,S4,0 days 09:15:00,2020-01-06,0 days 08:15:00,60.0,4.56
+KB16K,1,Spontaneous,S0,0 days 07:55:00,2020-01-07,0 days 07:55:00,0.0,4.06
+KB16K,1,Spontaneous,S1,0 days 08:10:00,2020-01-07,0 days 07:55:00,15.0,5.89
+KB16K,1,Spontaneous,S2,0 days 08:25:00,2020-01-07,0 days 07:55:00,30.0,5.46
+KB16K,1,Spontaneous,S3,0 days 08:40:00,2020-01-07,0 days 07:55:00,45.0,4.59
+KB16K,1,Spontaneous,S4,0 days 08:55:00,2020-01-07,0 days 07:55:00,60.0,3.62
+KD16N,0,Known Alarm,S0,0 days 08:19:00,2019-12-05,0 days 08:15:00,0.0,10.22
+KD16N,0,Known Alarm,S1,0 days 08:35:00,2019-12-05,0 days 08:15:00,16.0,9.93
+KD16N,0,Known Alarm,S2,0 days 08:50:00,2019-12-05,0 days 08:15:00,31.0,9.31
+KD16N,0,Known Alarm,S3,0 days 09:05:00,2019-12-05,0 days 08:15:00,46.0,7.04
+KD16N,0,Known Alarm,S4,0 days 09:20:00,2019-12-05,0 days 08:15:00,61.0,6.45
+KD16N,1,Known Alarm,S0,0 days 05:30:00,2019-12-06,0 days 06:57:17,0.0,10.75
+KD16N,1,Known Alarm,S1,0 days 05:45:00,2019-12-06,0 days 06:57:17,15.0,12.36
+KD16N,1,Known Alarm,S2,0 days 06:00:00,2019-12-06,0 days 06:57:17,30.0,17.39
+KD16N,1,Known Alarm,S3,0 days 06:15:00,2019-12-06,0 days 06:57:17,45.0,20.31
+KD16N,1,Known Alarm,S4,0 days 06:30:00,2019-12-06,0 days 06:57:17,60.0,15.77
+KE17E,0,Known Alarm,S0,0 days 08:25:00,2019-11-21,0 days 08:25:00,0.0,8.17
+KE17E,0,Known Alarm,S1,0 days 08:40:00,2019-11-21,0 days 08:25:00,15.0,9.06
+KE17E,0,Known Alarm,S2,0 days 08:55:00,2019-11-21,0 days 08:25:00,30.0,10.28
+KE17E,0,Known Alarm,S3,0 days 09:10:00,2019-11-21,0 days 08:25:00,45.0,8.18
+KE17E,0,Known Alarm,S4,0 days 09:25:00,2019-11-21,0 days 08:25:00,60.0,6.77
+KE17E,1,Spontaneous,S0,0 days 09:17:00,2019-11-22,0 days 09:17:00,0.0,8.78
+KE17E,1,Spontaneous,S1,0 days 09:32:00,2019-11-22,0 days 09:17:00,15.0,10.84
+KE17E,1,Spontaneous,S2,0 days 09:47:00,2019-11-22,0 days 09:17:00,30.0,11.18
+KE17E,1,Spontaneous,S3,0 days 10:02:00,2019-11-22,0 days 09:17:00,45.0,9.67
+KE17E,1,Spontaneous,S4,0 days 10:17:00,2019-11-22,0 days 09:17:00,60.0,6.89
+KS11H,0,Unknown Alarm,S0,0 days 06:40:00,2019-12-09,0 days 06:40:00,0.0,6.14
+KS11H,0,Unknown Alarm,S1,0 days 07:00:00,2019-12-09,0 days 06:40:00,20.0,11.64
+KS11H,0,Unknown Alarm,S2,0 days 07:16:00,2019-12-09,0 days 06:40:00,36.0,10.91
+KS11H,0,Unknown Alarm,S3,0 days 07:32:00,2019-12-09,0 days 06:40:00,52.0,11.34
+KS11H,0,Unknown Alarm,S4,0 days 07:47:00,2019-12-09,0 days 06:40:00,67.0,9.73
+KS11H,1,Unknown Alarm,S0,0 days 06:40:00,2019-12-10,0 days 06:36:00,0.0,5.82
+KS11H,1,Unknown Alarm,S1,0 days 06:55:00,2019-12-10,0 days 06:36:00,15.0,9.75
+KS11H,1,Unknown Alarm,S2,0 days 07:11:00,2019-12-10,0 days 06:36:00,31.0,13.51
+KS11H,1,Unknown Alarm,S3,0 days 07:26:00,2019-12-10,0 days 06:36:00,46.0,12.78
+KS11H,1,Unknown Alarm,S4,0 days 07:41:00,2019-12-10,0 days 06:36:00,61.0,10.71
+KS28N,0,Unknown Alarm,S0,0 days 08:00:00,2019-12-02,0 days 08:00:00,0.0,7.25
+KS28N,0,Unknown Alarm,S1,0 days 08:15:00,2019-12-02,0 days 08:00:00,15.0,16.58
+KS28N,0,Unknown Alarm,S2,0 days 08:30:00,2019-12-02,0 days 08:00:00,30.0,22.4
+KS28N,0,Unknown Alarm,S3,0 days 08:45:00,2019-12-02,0 days 08:00:00,45.0,20.37
+KS28N,0,Unknown Alarm,S4,0 days 09:00:00,2019-12-02,0 days 08:00:00,60.0,15.15
+KU08D,0,Known Alarm,S0,0 days 07:55:00,2020-01-08,0 days 07:50:00,0.0,3.76
+KU08D,0,Known Alarm,S1,0 days 08:10:00,2020-01-08,0 days 07:50:00,15.0,3.89
+KU08D,0,Known Alarm,S2,0 days 08:25:00,2020-01-08,0 days 07:50:00,30.0,6.9
+KU08D,0,Known Alarm,S3,0 days 08:40:00,2020-01-08,0 days 07:50:00,45.0,7.18
+KU08D,0,Known Alarm,S4,0 days 08:55:00,2020-01-08,0 days 07:50:00,60.0,6.99
+KU08D,1,Spontaneous,S0,0 days 08:32:00,2020-01-09,0 days 08:30:00,0.0,4.1
+KU08D,1,Spontaneous,S1,0 days 08:48:00,2020-01-09,0 days 08:30:00,16.0,4.56
+KU08D,1,Spontaneous,S2,0 days 09:03:00,2020-01-09,0 days 08:30:00,31.0,4.13
+KU08D,1,Spontaneous,S3,0 days 09:18:00,2020-01-09,0 days 08:30:00,46.0,3.51
+KU08D,1,Spontaneous,S4,0 days 09:34:00,2020-01-09,0 days 08:30:00,62.0,3.81
+LA09L,0,Known Alarm,S0,0 days 08:00:00,2019-12-06,,0.0,10.49
+LA09L,0,Known Alarm,S1,0 days 08:15:00,2019-12-06,,15.0,12.91
+LA09L,0,Known Alarm,S2,0 days 08:30:00,2019-12-06,,30.0,15.12
+LA09L,0,Known Alarm,S3,0 days 08:45:00,2019-12-06,,45.0,11.6
+LA09L,0,Known Alarm,S4,0 days 09:00:00,2019-12-06,,60.0,8.84
+LA09L,1,Known Alarm,S0,0 days 11:00:00,2019-12-07,,0.0,6.84
+LA09L,1,Known Alarm,S1,0 days 11:15:00,2019-12-07,,15.0,4.79
+LA09L,1,Known Alarm,S2,0 days 11:30:00,2019-12-07,,30.0,6.16
+LA09L,1,Known Alarm,S3,0 days 11:45:00,2019-12-07,,45.0,5.69
+LA09L,1,Known Alarm,S4,0 days 12:00:00,2019-12-07,,60.0,4.12
+LA23T,0,Known Alarm,S0,0 days 07:52:00,2019-12-05,0 days 07:50:00,0.0,6.04
+LA23T,0,Known Alarm,S1,0 days 08:08:00,2019-12-05,0 days 07:50:00,16.0,11.6
+LA23T,0,Known Alarm,S2,0 days 08:24:00,2019-12-05,0 days 07:50:00,32.0,11.21
+LA23T,0,Known Alarm,S3,0 days 08:40:00,2019-12-05,0 days 07:50:00,48.0,8.69
+LA23T,0,Known Alarm,S4,0 days 08:55:00,2019-12-05,0 days 07:50:00,63.0,6.08
+LA23T,1,Spontaneous,S0,0 days 08:28:00,2019-12-06,0 days 08:20:00,0.0,8.01
+LA23T,1,Spontaneous,S1,0 days 08:45:00,2019-12-06,0 days 08:20:00,17.0,10.47
+LA23T,1,Spontaneous,S2,0 days 09:01:00,2019-12-06,0 days 08:20:00,33.0,8.16
+LA23T,1,Spontaneous,S3,0 days 09:19:00,2019-12-06,0 days 08:20:00,51.0,6.6
+LA23T,1,Spontaneous,S4,0 days 09:34:00,2019-12-06,0 days 08:20:00,66.0,4.73
+LA26R,0,Unknown Alarm,S0,0 days 09:05:00,2019-11-18,0 days 09:00:00,0.0,8.77
+LA26R,0,Unknown Alarm,S1,0 days 09:20:00,2019-11-18,0 days 09:00:00,15.0,11.02
+LA26R,0,Unknown Alarm,S2,0 days 09:38:00,2019-11-18,0 days 09:00:00,33.0,15.69
+LA26R,0,Unknown Alarm,S3,0 days 09:53:00,2019-11-18,0 days 09:00:00,48.0,17.12
+LA26R,0,Unknown Alarm,S4,0 days 10:08:00,2019-11-18,0 days 09:00:00,63.0,14.98
+LA26R,1,Unknown Alarm,S0,0 days 06:22:00,2019-11-19,0 days 06:20:00,0.0,3.02
+LA26R,1,Unknown Alarm,S1,0 days 06:37:00,2019-11-19,0 days 06:20:00,15.0,3.34
+LA26R,1,Unknown Alarm,S2,0 days 06:52:00,2019-11-19,0 days 06:20:00,30.0,14.07
+LA26R,1,Unknown Alarm,S3,0 days 07:07:00,2019-11-19,0 days 06:20:00,45.0,9.71
+LA26R,1,Unknown Alarm,S4,0 days 07:22:00,2019-11-19,0 days 06:20:00,60.0,9.76
+LB21E,0,Known Alarm,S0,0 days 09:01:00,2019-11-11,0 days 09:00:00,0.0,7.3801
+LB21E,0,Known Alarm,S1,0 days 09:15:00,2019-11-11,0 days 09:00:00,14.0,13.663
+LB21E,0,Known Alarm,S2,0 days 09:31:00,2019-11-11,0 days 09:00:00,30.0,18.2155
+LB21E,0,Known Alarm,S3,0 days 09:46:00,2019-11-11,0 days 09:00:00,45.0,12.704
+LB21E,0,Known Alarm,S4,0 days 10:01:00,2019-11-11,0 days 09:00:00,60.0,18.187
+LB21E,1,Known Alarm,S0,0 days 09:00:00,2019-11-12,0 days 08:23:00,0.0,6.88885
+LB21E,1,Known Alarm,S1,0 days 09:15:00,2019-11-12,0 days 08:23:00,15.0,13.4815
+LB21E,1,Known Alarm,S2,0 days 09:30:00,2019-11-12,0 days 08:23:00,30.0,19.8525
+LB21E,1,Known Alarm,S3,0 days 09:45:00,2019-11-12,0 days 08:23:00,45.0,16.047
+LB21E,1,Known Alarm,S4,0 days 10:00:00,2019-11-12,0 days 08:23:00,60.0,10.9805
+LC05H,0,Known Alarm,S0,0 days 07:00:00,2019-12-12,0 days 07:00:00,0.0,10.03
+LC05H,0,Known Alarm,S1,0 days 07:15:00,2019-12-12,0 days 07:00:00,15.0,18.76
+LC05H,0,Known Alarm,S2,0 days 07:30:00,2019-12-12,0 days 07:00:00,30.0,30.04
+LC05H,0,Known Alarm,S3,0 days 07:45:00,2019-12-12,0 days 07:00:00,45.0,28.73
+LC05H,0,Known Alarm,S4,0 days 08:00:00,2019-12-12,0 days 07:00:00,60.0,26.56
+LC05H,1,Spontaneous,S0,0 days 08:23:00,2019-12-13,0 days 08:20:00,0.0,7.99
+LC05H,1,Spontaneous,S1,0 days 08:38:00,2019-12-13,0 days 08:20:00,15.0,10.64
+LC05H,1,Spontaneous,S2,0 days 08:53:00,2019-12-13,0 days 08:20:00,30.0,11.74
+LC05H,1,Spontaneous,S3,0 days 09:08:00,2019-12-13,0 days 08:20:00,45.0,13.81
+LC05H,1,Spontaneous,S4,0 days 09:23:00,2019-12-13,0 days 08:20:00,60.0,10.67
+LE04A,0,Spontaneous,S0,0 days 08:00:00,2019-12-09,0 days 08:00:00,0.0,17.1
+LE04A,0,Spontaneous,S1,0 days 08:15:00,2019-12-09,0 days 08:00:00,15.0,20.49
+LE04A,0,Spontaneous,S2,0 days 08:30:00,2019-12-09,0 days 08:00:00,30.0,14.31
+LE04A,0,Spontaneous,S3,0 days 08:45:00,2019-12-09,0 days 08:00:00,45.0,11.25
+LE04A,0,Spontaneous,S4,0 days 09:00:00,2019-12-09,0 days 08:00:00,60.0,7.5
+LE04A,1,Spontaneous,S0,0 days 05:20:00,2019-12-10,0 days 05:20:00,0.0,1.64
+LE04A,1,Spontaneous,S1,0 days 05:35:00,2019-12-10,0 days 05:20:00,15.0,4.4
+LE04A,1,Spontaneous,S2,0 days 05:50:00,2019-12-10,0 days 05:20:00,30.0,5.97
+LE04A,1,Spontaneous,S3,0 days 06:05:00,2019-12-10,0 days 05:20:00,45.0,5.23
+LE04A,1,Spontaneous,S4,0 days 06:20:00,2019-12-10,0 days 05:20:00,60.0,4.4
+LG27Z,0,Spontaneous,S0,0 days 08:32:00,2019-12-09,0 days 08:30:00,0.0,9.9
+LG27Z,0,Spontaneous,S1,0 days 08:47:00,2019-12-09,0 days 08:30:00,15.0,12.4
+LG27Z,0,Spontaneous,S2,0 days 09:02:00,2019-12-09,0 days 08:30:00,30.0,14.31
+LG27Z,0,Spontaneous,S3,0 days 09:17:00,2019-12-09,0 days 08:30:00,45.0,12.86
+LG27Z,0,Spontaneous,S4,0 days 09:32:00,2019-12-09,0 days 08:30:00,60.0,10.03
+LG27Z,1,Spontaneous,S0,0 days 08:36:00,2019-12-10,0 days 08:35:00,0.0,11.42
+LG27Z,1,Spontaneous,S1,0 days 08:51:00,2019-12-10,0 days 08:35:00,15.0,8.8
+LG27Z,1,Spontaneous,S2,0 days 09:06:00,2019-12-10,0 days 08:35:00,30.0,9.82
+LG27Z,1,Spontaneous,S3,0 days 09:21:00,2019-12-10,0 days 08:35:00,45.0,8.73
+LG27Z,1,Spontaneous,S4,0 days 09:36:00,2019-12-10,0 days 08:35:00,60.0,5.68
+LI20Z,0,Known Alarm,S0,0 days 08:00:00,2019-11-14,0 days 08:00:00,0.0,15.61
+LI20Z,0,Known Alarm,S1,0 days 08:15:00,2019-11-14,0 days 08:00:00,15.0,15.08
+LI20Z,0,Known Alarm,S2,0 days 08:30:00,2019-11-14,0 days 08:00:00,30.0,13.18
+LI20Z,0,Known Alarm,S3,0 days 08:45:00,2019-11-14,0 days 08:00:00,45.0,9.6
+LI20Z,0,Known Alarm,S4,0 days 09:00:00,2019-11-14,0 days 08:00:00,60.0,9.81
+LI20Z,1,Spontaneous,S0,0 days 08:15:00,2019-11-15,0 days 08:15:00,0.0,15.01
+LI20Z,1,Spontaneous,S1,0 days 08:30:00,2019-11-15,0 days 08:15:00,15.0,15.45
+LI20Z,1,Spontaneous,S2,0 days 08:45:00,2019-11-15,0 days 08:15:00,30.0,20.92
+LI20Z,1,Spontaneous,S3,0 days 09:00:00,2019-11-15,0 days 08:15:00,45.0,13.14
+LI20Z,1,Spontaneous,S4,0 days 09:15:00,2019-11-15,0 days 08:15:00,60.0,11.02
+LK24L,0,Spontaneous,S0,0 days 07:00:00,2019-12-17,0 days 06:57:00,0.0,7.3
+LK24L,0,Spontaneous,S1,0 days 07:15:00,2019-12-17,0 days 06:57:00,15.0,9.93
+LK24L,0,Spontaneous,S2,0 days 07:29:00,2019-12-17,0 days 06:57:00,29.0,15.73
+LK24L,0,Spontaneous,S3,0 days 07:45:00,2019-12-17,0 days 06:57:00,45.0,18.0
+LK24L,0,Spontaneous,S4,0 days 08:00:00,2019-12-17,0 days 06:57:00,60.0,19.03
+LL31H,0,Spontaneous,S0,0 days 03:07:00,2019-12-18,0 days 04:05:00,0.0,2.74
+LL31H,0,Spontaneous,S1,0 days 03:22:00,2019-12-18,0 days 04:05:00,15.0,2.21
+LL31H,0,Spontaneous,S2,0 days 03:37:00,2019-12-18,0 days 04:05:00,30.0,2.7
+LL31H,0,Spontaneous,S3,0 days 03:52:00,2019-12-18,0 days 04:05:00,45.0,2.6
+LL31H,0,Spontaneous,S4,0 days 04:08:00,2019-12-18,0 days 04:05:00,61.0,2.33
+LL31H,1,Unknown Alarm,S0,0 days 02:46:00,2019-12-19,0 days 03:45:00,0.0,3.04
+LL31H,1,Unknown Alarm,S1,0 days 03:03:00,2019-12-19,0 days 03:45:00,17.0,2.89
+LL31H,1,Unknown Alarm,S2,0 days 03:17:00,2019-12-19,0 days 03:45:00,31.0,2.11
+LL31H,1,Unknown Alarm,S3,0 days 03:33:00,2019-12-19,0 days 03:45:00,47.0,1.44
+LL31H,1,Unknown Alarm,S4,0 days 03:50:00,2019-12-19,0 days 03:45:00,64.0,3.54
+LM18T,0,Spontaneous,S0,0 days 07:51:00,2019-12-12,0 days 07:45:00,0.0,6.13
+LM18T,0,Spontaneous,S1,0 days 08:07:00,2019-12-12,0 days 07:45:00,16.0,9.71
+LM18T,0,Spontaneous,S2,0 days 08:22:00,2019-12-12,0 days 07:45:00,31.0,14.74
+LM18T,0,Spontaneous,S3,0 days 08:38:00,2019-12-12,0 days 07:45:00,47.0,11.26
+LM18T,0,Spontaneous,S4,0 days 08:54:00,2019-12-12,0 days 07:45:00,63.0,9.34
+LM18T,1,Spontaneous,S0,0 days 08:59:00,2019-12-13,0 days 08:45:00,0.0,1.93
+LM18T,1,Spontaneous,S1,0 days 09:13:00,2019-12-13,0 days 08:45:00,14.0,10.64
+LM18T,1,Spontaneous,S2,0 days 09:29:00,2019-12-13,0 days 08:45:00,30.0,9.49
+LM18T,1,Spontaneous,S3,0 days 09:44:00,2019-12-13,0 days 08:45:00,45.0,9.57
+LM18T,1,Spontaneous,S4,0 days 09:59:00,2019-12-13,0 days 08:45:00,60.0,5.9
+LP06T,0,Unknown Alarm,S0,0 days 07:53:00,2019-12-17,0 days 07:50:00,0.0,11.2
+LP06T,0,Unknown Alarm,S1,0 days 08:11:00,2019-12-17,0 days 07:50:00,18.0,18.5
+LP06T,0,Unknown Alarm,S2,0 days 08:28:00,2019-12-17,0 days 07:50:00,35.0,16.57
+LP06T,0,Unknown Alarm,S3,0 days 08:45:00,2019-12-17,0 days 07:50:00,52.0,12.57
+LP06T,0,Unknown Alarm,S4,0 days 09:04:00,2019-12-17,0 days 07:50:00,71.0,11.08
+LP06T,1,Unknown Alarm,S0,0 days 08:07:00,2019-12-18,0 days 08:00:00,0.0,8.21
+LP06T,1,Unknown Alarm,S1,0 days 08:27:00,2019-12-18,0 days 08:00:00,20.0,16.37
+LP06T,1,Unknown Alarm,S2,0 days 08:45:00,2019-12-18,0 days 08:00:00,38.0,18.08
+LP06T,1,Unknown Alarm,S3,0 days 09:03:00,2019-12-18,0 days 08:00:00,56.0,17.77
+LP06T,1,Unknown Alarm,S4,0 days 09:19:00,2019-12-18,0 days 08:00:00,72.0,16.9
+LP25R,1,Known Alarm,S0,0 days 07:38:00,2019-12-10,0 days 07:35:00,0.0,14.16
+LP25R,1,Known Alarm,S1,0 days 07:54:00,2019-12-10,0 days 07:35:00,16.0,19.9
+LP25R,1,Known Alarm,S2,0 days 08:10:00,2019-12-10,0 days 07:35:00,32.0,17.96
+LP25R,1,Known Alarm,S3,0 days 08:27:00,2019-12-10,0 days 07:35:00,49.0,13.37
+LP25R,1,Known Alarm,S4,0 days 08:44:00,2019-12-10,0 days 07:35:00,66.0,8.46
+LS13L,0,Spontaneous,S0,0 days 09:08:00,2019-11-28,0 days 09:00:00,0.0,9.54
+LS13L,0,Spontaneous,S1,0 days 09:23:00,2019-11-28,0 days 09:00:00,15.0,15.3
+LS13L,0,Spontaneous,S2,0 days 09:38:00,2019-11-28,0 days 09:00:00,30.0,15.63
+LS13L,0,Spontaneous,S3,0 days 09:53:00,2019-11-28,0 days 09:00:00,45.0,10.36
+LS13L,0,Spontaneous,S4,0 days 10:08:00,2019-11-28,0 days 09:00:00,60.0,8.27
+LS13L,1,Known Alarm,S0,0 days 10:01:00,2019-11-29,0 days 10:00:00,0.0,6.99
+LS13L,1,Known Alarm,S1,0 days 10:16:00,2019-11-29,0 days 10:00:00,15.0,8.83
+LS13L,1,Known Alarm,S2,0 days 10:31:00,2019-11-29,0 days 10:00:00,30.0,9.3
+LS13L,1,Known Alarm,S3,0 days 10:46:00,2019-11-29,0 days 10:00:00,45.0,9.55
+LS13L,1,Known Alarm,S4,0 days 11:01:00,2019-11-29,0 days 10:00:00,60.0,7.18
+LW28E,0,Unknown Alarm,S0,0 days 07:43:00,2019-11-21,0 days 07:40:00,0.0,6.33
+LW28E,0,Unknown Alarm,S1,0 days 07:58:00,2019-11-21,0 days 07:40:00,15.0,8.18
+LW28E,0,Unknown Alarm,S2,0 days 08:15:00,2019-11-21,0 days 07:40:00,32.0,7.85
+LW28E,0,Unknown Alarm,S3,0 days 08:32:00,2019-11-21,0 days 07:40:00,49.0,5.48
+LW28E,0,Unknown Alarm,S4,0 days 08:49:00,2019-11-21,0 days 07:40:00,66.0,4.6
+LW28E,1,Unknown Alarm,S0,0 days 07:40:00,2019-11-22,0 days 07:40:00,0.0,8.34
+LW28E,1,Unknown Alarm,S1,0 days 07:55:00,2019-11-22,0 days 07:40:00,15.0,11.7
+LW28E,1,Unknown Alarm,S2,0 days 08:10:00,2019-11-22,0 days 07:40:00,30.0,12.87
+LW28E,1,Unknown Alarm,S3,0 days 08:25:00,2019-11-22,0 days 07:40:00,45.0,10.39
+LW28E,1,Unknown Alarm,S4,0 days 08:40:00,2019-11-22,0 days 07:40:00,60.0,6.87
+LW28R,0,Unknown Alarm,S0,0 days 07:10:00,2019-12-02,0 days 07:10:00,0.0,4.27
+LW28R,0,Unknown Alarm,S1,0 days 07:25:00,2019-12-02,0 days 07:10:00,15.0,10.8
+LW28R,0,Unknown Alarm,S2,0 days 07:40:00,2019-12-02,0 days 07:10:00,30.0,14.08
+LW28R,0,Unknown Alarm,S3,0 days 07:55:00,2019-12-02,0 days 07:10:00,45.0,8.67
+LW28R,0,Unknown Alarm,S4,0 days 08:10:00,2019-12-02,0 days 07:10:00,60.0,6.32
+LW28R,1,Spontaneous,S0,0 days 05:25:00,2019-12-03,0 days 05:15:00,0.0,4.62
+LW28R,1,Spontaneous,S1,0 days 05:40:00,2019-12-03,0 days 05:15:00,15.0,7.97
+LW28R,1,Spontaneous,S2,0 days 05:55:00,2019-12-03,0 days 05:15:00,30.0,14.13
+LW28R,1,Spontaneous,S3,0 days 06:10:00,2019-12-03,0 days 05:15:00,45.0,18.53
+LW28R,1,Spontaneous,S4,0 days 06:25:00,2019-12-03,0 days 05:15:00,60.0,13.87
+MC04A,0,Unknown Alarm,S0,0 days 07:40:00,2019-12-02,0 days 07:39:00,0.0,5.29
+MC04A,0,Unknown Alarm,S1,0 days 07:55:00,2019-12-02,0 days 07:39:00,15.0,5.49
+MC04A,0,Unknown Alarm,S2,0 days 08:10:00,2019-12-02,0 days 07:39:00,30.0,4.86
+MC04A,0,Unknown Alarm,S3,0 days 08:25:00,2019-12-02,0 days 07:39:00,45.0,4.14
+MC04A,0,Unknown Alarm,S4,0 days 08:41:00,2019-12-02,0 days 07:39:00,61.0,3.84
+MC04A,1,Spontaneous,S0,0 days 09:06:00,2019-12-03,0 days 08:00:00,0.0,6.26
+MC04A,1,Spontaneous,S1,0 days 09:21:00,2019-12-03,0 days 08:00:00,15.0,10.12
+MC04A,1,Spontaneous,S2,0 days 09:36:00,2019-12-03,0 days 08:00:00,30.0,10.31
+MC04A,1,Spontaneous,S3,0 days 09:51:00,2019-12-03,0 days 08:00:00,45.0,6.58
+MC04A,1,Spontaneous,S4,0 days 10:06:00,2019-12-03,0 days 08:00:00,60.0,4.46
+MD22R,0,Known Alarm,S0,0 days 06:25:00,2019-11-11,0 days 06:10:00,0.0,8.3927
+MD22R,0,Known Alarm,S1,0 days 06:40:00,2019-11-11,0 days 06:10:00,15.0,10.03
+MD22R,0,Known Alarm,S2,0 days 06:55:00,2019-11-11,0 days 06:10:00,30.0,15.41
+MD22R,0,Known Alarm,S3,0 days 07:10:00,2019-11-11,0 days 06:10:00,45.0,19.57
+MD22R,0,Known Alarm,S4,0 days 07:25:00,2019-11-11,0 days 06:10:00,60.0,15.11
+MD22R,1,Known Alarm,S0,0 days 06:30:00,2019-11-12,0 days 06:15:00,0.0,8.38
+MD22R,1,Known Alarm,S1,0 days 06:45:00,2019-11-12,0 days 06:15:00,15.0,13.29
+MD22R,1,Known Alarm,S2,0 days 07:00:00,2019-11-12,0 days 06:15:00,30.0,16.89
+MD22R,1,Known Alarm,S3,0 days 07:15:00,2019-11-12,0 days 06:15:00,45.0,19.02
+MD22R,1,Known Alarm,S4,0 days 07:30:00,2019-11-12,0 days 06:15:00,60.0,22.52
+MD26R,0,Unknown Alarm,S0,0 days 08:22:00,2019-12-02,0 days 08:20:00,0.0,9.5
+MD26R,0,Unknown Alarm,S1,0 days 08:37:00,2019-12-02,0 days 08:20:00,15.0,12.55
+MD26R,0,Unknown Alarm,S2,0 days 08:52:00,2019-12-02,0 days 08:20:00,30.0,22.71
+MD26R,0,Unknown Alarm,S3,0 days 09:07:00,2019-12-02,0 days 08:20:00,45.0,20.83
+MD26R,0,Unknown Alarm,S4,0 days 09:23:00,2019-12-02,0 days 08:20:00,61.0,25.37
+MD26R,1,Spontaneous,S0,0 days 06:41:00,2019-12-03,0 days 06:40:00,0.0,3.65
+MD26R,1,Spontaneous,S1,0 days 06:57:00,2019-12-03,0 days 06:40:00,16.0,7.36
+MD26R,1,Spontaneous,S2,0 days 07:12:00,2019-12-03,0 days 06:40:00,31.0,10.14
+MD26R,1,Spontaneous,S3,0 days 07:28:00,2019-12-03,0 days 06:40:00,47.0,22.79
+MD26R,1,Spontaneous,S4,0 days 07:41:00,2019-12-03,0 days 06:40:00,60.0,25.12
+ME06K,0,Known Alarm,S0,0 days 07:00:00,2019-11-29,0 days 07:00:00,0.0,3.5
+ME06K,0,Known Alarm,S1,0 days 07:20:00,2019-11-29,0 days 07:00:00,20.0,11.84
+ME06K,0,Known Alarm,S2,0 days 07:37:00,2019-11-29,0 days 07:00:00,37.0,13.47
+ME06K,0,Known Alarm,S3,0 days 07:45:00,2019-11-29,0 days 07:00:00,45.0,11.37
+ME06K,0,Known Alarm,S4,0 days 08:00:00,2019-11-29,0 days 07:00:00,60.0,10.39
+ME06K,1,Known Alarm,S0,0 days 09:30:00,2019-11-30,0 days 09:30:00,0.0,5.86
+ME06K,1,Known Alarm,S1,0 days 09:47:00,2019-11-30,0 days 09:30:00,17.0,11.64
+ME06K,1,Known Alarm,S2,0 days 10:03:00,2019-11-30,0 days 09:30:00,33.0,13.58
+ME06K,1,Known Alarm,S3,0 days 10:17:00,2019-11-30,0 days 09:30:00,47.0,13.61
+ME06K,1,Known Alarm,S4,0 days 10:35:00,2019-11-30,0 days 09:30:00,65.0,7.98
+ME18L,0,Unknown Alarm,S0,0 days 06:00:00,2019-12-02,0 days 06:00:00,0.0,13.82
+ME18L,0,Unknown Alarm,S1,0 days 06:15:00,2019-12-02,0 days 06:00:00,15.0,5.12
+ME18L,0,Unknown Alarm,S2,0 days 06:30:00,2019-12-02,0 days 06:00:00,30.0,6.47
+ME18L,0,Unknown Alarm,S3,0 days 06:46:00,2019-12-02,0 days 06:00:00,46.0,7.17
+ME18L,0,Unknown Alarm,S4,0 days 07:01:00,2019-12-02,0 days 06:00:00,61.0,6.08
+ME18L,1,Spontaneous,S0,0 days 06:26:00,2019-12-03,0 days 06:25:00,0.0,6.03
+ME18L,1,Spontaneous,S1,0 days 06:42:00,2019-12-03,0 days 06:25:00,16.0,4.75
+ME18L,1,Spontaneous,S2,0 days 06:57:00,2019-12-03,0 days 06:25:00,31.0,5.02
+ME18L,1,Spontaneous,S3,0 days 07:12:00,2019-12-03,0 days 06:25:00,46.0,7.1
+ME18L,1,Spontaneous,S4,0 days 07:27:00,2019-12-03,0 days 06:25:00,61.0,9.72
+MG08K,0,Known Alarm,S0,0 days 08:02:00,2019-11-14,0 days 08:00:00,0.0,6.74
+MG08K,0,Known Alarm,S1,0 days 08:18:00,2019-11-14,0 days 08:00:00,16.0,5.8
+MG08K,0,Known Alarm,S2,0 days 08:33:00,2019-11-14,0 days 08:00:00,31.0,5.36
+MG08K,0,Known Alarm,S3,0 days 08:49:00,2019-11-14,0 days 08:00:00,47.0,4.47
+MG08K,0,Known Alarm,S4,0 days 09:06:00,2019-11-14,0 days 08:00:00,64.0,3.95
+MG08K,1,Known Alarm,S0,0 days 08:01:00,2019-11-15,0 days 08:00:00,0.0,5.64
+MG08K,1,Known Alarm,S1,0 days 08:16:00,2019-11-15,0 days 08:00:00,15.0,7.05
+MG08K,1,Known Alarm,S2,0 days 08:34:00,2019-11-15,0 days 08:00:00,33.0,8.58
+MG08K,1,Known Alarm,S3,0 days 08:49:00,2019-11-15,0 days 08:00:00,48.0,6.9
+MG08K,1,Known Alarm,S4,0 days 09:05:00,2019-11-15,0 days 08:00:00,64.0,5.97
+MH14A,0,Spontaneous,S0,0 days 11:00:00,2019-12-14,0 days 11:00:00,0.0,5.16
+MH14A,0,Spontaneous,S1,0 days 11:15:00,2019-12-14,0 days 11:00:00,15.0,7.99
+MH14A,0,Spontaneous,S2,0 days 11:30:00,2019-12-14,0 days 11:00:00,30.0,7.22
+MH14A,0,Spontaneous,S3,0 days 11:45:00,2019-12-14,0 days 11:00:00,45.0,5.05
+MH14A,0,Spontaneous,S4,0 days 12:00:00,2019-12-14,0 days 11:00:00,60.0,5.0
+MH25K,0,Spontaneous,S0,0 days 09:24:00,2019-11-14,0 days 09:15:00,0.0,13.68
+MH25K,0,Spontaneous,S1,0 days 09:49:00,2019-11-14,0 days 09:15:00,25.0,12.46
+MH25K,0,Spontaneous,S2,0 days 10:05:00,2019-11-14,0 days 09:15:00,41.0,9.91
+MH25K,0,Spontaneous,S3,0 days 10:25:00,2019-11-14,0 days 09:15:00,61.0,8.71
+MH25K,0,Spontaneous,S4,0 days 10:37:00,2019-11-14,0 days 09:15:00,73.0,6.72
+MH25K,1,Spontaneous,S0,0 days 09:10:00,2019-11-15,0 days 09:10:00,0.0,8.62
+MH25K,1,Spontaneous,S1,0 days 09:28:00,2019-11-15,0 days 09:10:00,18.0,8.66
+MH25K,1,Spontaneous,S2,0 days 09:43:00,2019-11-15,0 days 09:10:00,33.0,12.35
+MH25K,1,Spontaneous,S3,0 days 09:58:00,2019-11-15,0 days 09:10:00,48.0,13.24
+MH25K,1,Spontaneous,S4,0 days 10:15:00,2019-11-15,0 days 09:10:00,65.0,12.45
+MI15D,0,Spontaneous,S0,0 days 09:08:00,2019-11-14,0 days 09:05:00,0.0,7.81
+MI15D,0,Spontaneous,S1,0 days 09:23:00,2019-11-14,0 days 09:05:00,15.0,11.84
+MI15D,0,Spontaneous,S2,0 days 09:38:00,2019-11-14,0 days 09:05:00,30.0,12.53
+MI15D,0,Spontaneous,S3,0 days 09:55:00,2019-11-14,0 days 09:05:00,47.0,9.01
+MI15D,0,Spontaneous,S4,0 days 10:10:00,2019-11-14,0 days 09:05:00,62.0,6.88
+MI15D,1,Spontaneous,S0,0 days 09:40:00,2019-11-15,0 days 09:38:00,0.0,6.24
+MI15D,1,Spontaneous,S1,0 days 09:55:00,2019-11-15,0 days 09:38:00,15.0,10.59
+MI15D,1,Spontaneous,S2,0 days 10:11:00,2019-11-15,0 days 09:38:00,31.0,16.44
+MI15D,1,Spontaneous,S3,0 days 10:26:00,2019-11-15,0 days 09:38:00,46.0,15.05
+MI15D,1,Spontaneous,S4,0 days 10:41:00,2019-11-15,0 days 09:38:00,61.0,11.27
+MS09E,0,Spontaneous,S0,0 days 08:17:00,2019-11-29,0 days 08:16:00,0.0,7.57
+MS09E,0,Spontaneous,S1,0 days 08:34:00,2019-11-29,0 days 08:16:00,17.0,11.12
+MS09E,0,Spontaneous,S2,0 days 08:48:00,2019-11-29,0 days 08:16:00,31.0,16.56
+MS09E,0,Spontaneous,S3,0 days 09:03:00,2019-11-29,0 days 08:16:00,46.0,17.56
+MS09E,0,Spontaneous,S4,0 days 09:18:00,2019-11-29,0 days 08:16:00,61.0,15.79
+MS09E,1,Spontaneous,S0,0 days 09:59:00,2019-11-30,0 days 09:50:00,0.0,15.63
+MS09E,1,Spontaneous,S1,0 days 10:16:00,2019-11-30,0 days 09:50:00,17.0,15.25
+MS09E,1,Spontaneous,S2,0 days 10:31:00,2019-11-30,0 days 09:50:00,32.0,15.41
+MS09E,1,Spontaneous,S3,0 days 10:46:00,2019-11-30,0 days 09:50:00,47.0,10.85
+MS09E,1,Spontaneous,S4,0 days 11:01:00,2019-11-30,0 days 09:50:00,62.0,10.34
+MS23B,0,Spontaneous,S0,0 days 07:05:00,2020-01-09,0 days 07:00:00,0.0,3.9218
+MS23B,0,Spontaneous,S1,0 days 07:20:00,2020-01-09,0 days 07:00:00,15.0,2.73815
+MS23B,0,Spontaneous,S2,0 days 07:35:00,2020-01-09,0 days 07:00:00,30.0,2.21315
+MS23B,0,Spontaneous,S3,0 days 07:50:00,2020-01-09,0 days 07:00:00,45.0,25.754
+MS23B,0,Spontaneous,S4,0 days 08:05:00,2020-01-09,0 days 07:00:00,60.0,19.484
+MS23B,1,Spontaneous,S0,0 days 09:05:00,2020-01-10,0 days 09:00:00,0.0,5.9494
+MS23B,1,Spontaneous,S1,0 days 09:20:00,2020-01-10,0 days 09:00:00,15.0,10.561
+MS23B,1,Spontaneous,S2,0 days 09:35:00,2020-01-10,0 days 09:00:00,30.0,13.477
+MS23B,1,Spontaneous,S3,0 days 09:50:00,2020-01-10,0 days 09:00:00,45.0,6.8713
+MS23B,1,Spontaneous,S4,0 days 10:05:00,2020-01-10,0 days 09:00:00,60.0,10.133
+MS28B,0,Spontaneous,S0,0 days 08:30:00,2019-11-28,0 days 08:30:00,0.0,10.99
+MS28B,0,Spontaneous,S1,0 days 08:45:00,2019-11-28,0 days 08:30:00,15.0,11.43
+MS28B,0,Spontaneous,S2,0 days 09:00:00,2019-11-28,0 days 08:30:00,30.0,21.75
+MS28B,0,Spontaneous,S3,0 days 09:15:00,2019-11-28,0 days 08:30:00,45.0,19.92
+MS28B,0,Spontaneous,S4,0 days 09:30:00,2019-11-28,0 days 08:30:00,60.0,15.35
+MS28B,1,Unknown Alarm,S0,0 days 07:43:00,2019-11-29,0 days 07:43:00,0.0,6.26
+MS28B,1,Unknown Alarm,S1,0 days 07:59:00,2019-11-29,0 days 07:43:00,16.0,11.05
+MS28B,1,Unknown Alarm,S2,0 days 08:08:00,2019-11-29,0 days 07:43:00,25.0,15.53
+MS28B,1,Unknown Alarm,S3,0 days 08:15:00,2019-11-29,0 days 07:43:00,32.0,17.7
+MS28B,1,Unknown Alarm,S4,0 days 08:23:00,2019-11-29,0 days 07:43:00,40.0,19.44
+NM11M,0,Known Alarm,S0,0 days 09:38:00,2019-11-19,0 days 09:34:00,0.0,8.8
+NM11M,0,Known Alarm,S1,0 days 09:56:00,2019-11-19,0 days 09:34:00,18.0,15.77
+NM11M,0,Known Alarm,S2,0 days 10:12:00,2019-11-19,0 days 09:34:00,34.0,10.25
+NM11M,0,Known Alarm,S3,0 days 10:29:00,2019-11-19,0 days 09:34:00,51.0,7.88
+NM11M,0,Known Alarm,S4,0 days 10:45:00,2019-11-19,0 days 09:34:00,67.0,7.45
+NM11M,1,Known Alarm,S0,0 days 06:36:00,2019-11-20,0 days 06:34:00,0.0,1.67
+NM11M,1,Known Alarm,S1,0 days 06:52:00,2019-11-20,0 days 06:34:00,16.0,2.21
+NM11M,1,Known Alarm,S2,0 days 07:08:00,2019-11-20,0 days 06:34:00,32.0,4.53
+NM11M,1,Known Alarm,S3,0 days 07:25:00,2019-11-20,0 days 06:34:00,49.0,5.22
+NM11M,1,Known Alarm,S4,0 days 07:41:00,2019-11-20,0 days 06:34:00,65.0,7.84
+OB20R,0,Unknown Alarm,S0,0 days 05:56:00,2019-11-26,0 days 05:56:00,0.0,10.02
+OB20R,0,Unknown Alarm,S1,0 days 06:11:00,2019-11-26,0 days 05:56:00,15.0,12.99
+OB20R,0,Unknown Alarm,S2,0 days 06:26:00,2019-11-26,0 days 05:56:00,30.0,12.47
+OB20R,0,Unknown Alarm,S3,0 days 06:42:00,2019-11-26,0 days 05:56:00,46.0,11.12
+OB20R,0,Unknown Alarm,S4,0 days 06:58:00,2019-11-26,0 days 05:56:00,62.0,8.42
+OB20R,1,Known Alarm,S0,0 days 06:11:00,2019-11-27,0 days 06:11:00,0.0,8.22
+OB20R,1,Known Alarm,S1,0 days 06:26:00,2019-11-27,0 days 06:11:00,15.0,12.58
+OB20R,1,Known Alarm,S2,0 days 06:41:00,2019-11-27,0 days 06:11:00,30.0,18.77
+OB20R,1,Known Alarm,S3,0 days 06:56:00,2019-11-27,0 days 06:11:00,45.0,19.78
+OB20R,1,Known Alarm,S4,0 days 07:11:00,2019-11-27,0 days 06:11:00,60.0,13.32
+PA13R,0,Known Alarm,S0,0 days 07:00:00,2019-11-11,0 days 07:00:00,0.0,8.67
+PA13R,0,Known Alarm,S1,0 days 07:15:00,2019-11-11,0 days 07:00:00,15.0,16.3
+PA13R,0,Known Alarm,S2,0 days 07:30:00,2019-11-11,0 days 07:00:00,30.0,9.71
+PA13R,0,Known Alarm,S3,0 days 07:45:00,2019-11-11,0 days 07:00:00,45.0,18.13
+PA13R,0,Known Alarm,S4,0 days 08:00:00,2019-11-11,0 days 07:00:00,60.0,12.99
+PA13R,1,Known Alarm,S0,0 days 08:40:00,2019-11-12,0 days 06:00:00,0.0,5.94
+PA13R,1,Known Alarm,S1,0 days 08:55:00,2019-11-12,0 days 06:00:00,15.0,7.71
+PA13R,1,Known Alarm,S2,0 days 09:10:00,2019-11-12,0 days 06:00:00,30.0,9.71
+PA13R,1,Known Alarm,S3,0 days 09:25:00,2019-11-12,0 days 06:00:00,45.0,13.83
+PA13R,1,Known Alarm,S4,0 days 09:40:00,2019-11-12,0 days 06:00:00,60.0,11.85
+PG11T,0,Spontaneous,S0,0 days 04:15:00,2019-11-25,0 days 04:15:00,0.0,3.03
+PG11T,0,Spontaneous,S1,0 days 04:30:00,2019-11-25,0 days 04:15:00,15.0,9.5
+PG11T,0,Spontaneous,S2,0 days 04:46:00,2019-11-25,0 days 04:15:00,31.0,12.72
+PG11T,0,Spontaneous,S3,0 days 05:03:00,2019-11-25,0 days 04:15:00,48.0,14.43
+PG11T,0,Spontaneous,S4,0 days 05:19:00,2019-11-25,0 days 04:15:00,64.0,10.27
+PG11T,1,Spontaneous,S0,0 days 04:20:00,2019-11-26,0 days 04:15:00,0.0,5.46
+PG11T,1,Spontaneous,S1,0 days 04:34:00,2019-11-26,0 days 04:15:00,14.0,4.91
+PG11T,1,Spontaneous,S2,0 days 04:50:00,2019-11-26,0 days 04:15:00,30.0,10.28
+PG11T,1,Spontaneous,S3,0 days 05:10:00,2019-11-26,0 days 04:15:00,50.0,8.25
+PG11T,1,Spontaneous,S4,0 days 05:28:00,2019-11-26,0 days 04:15:00,68.0,5.59
+PS06G,1,Spontaneous,S0,0 days 08:06:00,2019-11-22,0 days 08:04:00,0.0,10.56
+PS06G,1,Spontaneous,S1,0 days 08:21:00,2019-11-22,0 days 08:04:00,15.0,14.14
+PS06G,1,Spontaneous,S2,0 days 08:36:00,2019-11-22,0 days 08:04:00,30.0,16.61
+PS06G,1,Spontaneous,S3,0 days 08:51:00,2019-11-22,0 days 08:04:00,45.0,17.71
+PS06G,1,Spontaneous,S4,0 days 09:06:00,2019-11-22,0 days 08:04:00,60.0,14.87
+RA03A,0,Spontaneous,S0,0 days 07:47:00,2019-12-28,0 days 07:45:00,0.0,3.7
+RA03A,0,Spontaneous,S1,0 days 08:02:00,2019-12-28,0 days 07:45:00,15.0,7.11
+RA03A,0,Spontaneous,S2,0 days 08:17:00,2019-12-28,0 days 07:45:00,30.0,13.38
+RA03A,0,Spontaneous,S3,0 days 08:32:00,2019-12-28,0 days 07:45:00,45.0,10.2
+RA03A,0,Spontaneous,S4,0 days 08:47:00,2019-12-28,0 days 07:45:00,60.0,7.56
+RA03A,1,Unknown Alarm,S0,0 days 07:55:00,2019-12-29,0 days 07:55:00,0.0,2.89
+RA03A,1,Unknown Alarm,S1,0 days 08:10:00,2019-12-29,0 days 07:55:00,15.0,7.95
+RA03A,1,Unknown Alarm,S2,0 days 08:26:00,2019-12-29,0 days 07:55:00,31.0,17.37
+RA03A,1,Unknown Alarm,S3,0 days 08:41:00,2019-12-29,0 days 07:55:00,46.0,11.64
+RA03A,1,Unknown Alarm,S4,0 days 08:57:00,2019-12-29,0 days 07:55:00,62.0,8.82
+RF17R,0,Spontaneous,S0,0 days 08:30:00,2019-11-11,0 days 08:30:00,0.0,5.25
+RF17R,0,Spontaneous,S1,0 days 08:45:00,2019-11-11,0 days 08:30:00,15.0,15.29
+RF17R,0,Spontaneous,S2,0 days 09:00:00,2019-11-11,0 days 08:30:00,30.0,18.51
+RF17R,0,Spontaneous,S3,0 days 09:15:00,2019-11-11,0 days 08:30:00,45.0,17.66
+RF17R,0,Spontaneous,S4,0 days 09:30:00,2019-11-11,0 days 08:30:00,60.0,11.97
+RF17R,1,Unknown Alarm,S0,0 days 05:45:00,2019-11-12,0 days 05:45:00,0.0,1.88
+RF17R,1,Unknown Alarm,S1,0 days 06:00:00,2019-11-12,0 days 05:45:00,15.0,8.51
+RF17R,1,Unknown Alarm,S2,0 days 06:15:00,2019-11-12,0 days 05:45:00,30.0,15.57
+RF17R,1,Unknown Alarm,S3,0 days 06:30:00,2019-11-12,0 days 05:45:00,45.0,23.01
+RF17R,1,Unknown Alarm,S4,0 days 06:45:00,2019-11-12,0 days 05:45:00,60.0,24.7
+RM13N,0,Spontaneous,S0,0 days 08:15:00,2019-11-21,0 days 08:10:00,0.0,5.12
+RM13N,0,Spontaneous,S1,0 days 08:27:00,2019-11-21,0 days 08:10:00,12.0,10.45
+RM13N,0,Spontaneous,S2,0 days 08:42:00,2019-11-21,0 days 08:10:00,27.0,15.82
+RM13N,0,Spontaneous,S3,0 days 08:57:00,2019-11-21,0 days 08:10:00,42.0,12.97
+RM13N,0,Spontaneous,S4,0 days 09:12:00,2019-11-21,0 days 08:10:00,57.0,10.71
+RM13N,1,Spontaneous,S0,0 days 07:27:00,2019-11-22,0 days 07:25:00,0.0,7.72
+RM13N,1,Spontaneous,S1,0 days 07:42:00,2019-11-22,0 days 07:25:00,15.0,16.17
+RM13N,1,Spontaneous,S2,0 days 07:57:00,2019-11-22,0 days 07:25:00,30.0,19.31
+RM13N,1,Spontaneous,S3,0 days 08:12:00,2019-11-22,0 days 07:25:00,45.0,14.4
+RM13N,1,Spontaneous,S4,0 days 08:27:00,2019-11-22,0 days 07:25:00,60.0,11.1
+SB11Z,0,Known Alarm,S0,,2019-11-22,0 days 07:14:37,0.0,16.76
+SB11Z,0,Known Alarm,S1,,2019-11-22,0 days 07:14:37,,13.26
+SB11Z,0,Known Alarm,S2,,2019-11-22,0 days 07:14:37,,10.22
+SB11Z,0,Known Alarm,S3,,2019-11-22,0 days 07:14:37,,6.43
+SB11Z,0,Known Alarm,S4,,2019-11-22,0 days 07:14:37,,4.49
+SB11Z,1,Known Alarm,S0,,2019-11-23,0 days 07:48:38,0.0,4.19
+SB11Z,1,Known Alarm,S1,,2019-11-23,0 days 07:48:38,,4.06
+SB11Z,1,Known Alarm,S2,,2019-11-23,0 days 07:48:38,,5.89
+SB11Z,1,Known Alarm,S3,,2019-11-23,0 days 07:48:38,,5.46
+SB11Z,1,Known Alarm,S4,,2019-11-23,0 days 07:48:38,,4.59
+SC10R,0,Spontaneous,S0,0 days 05:10:00,2019-12-02,0 days 05:05:00,0.0,2.16
+SC10R,0,Spontaneous,S1,0 days 05:25:00,2019-12-02,0 days 05:05:00,15.0,3.11
+SC10R,0,Spontaneous,S2,0 days 05:40:00,2019-12-02,0 days 05:05:00,30.0,2.96
+SC10R,0,Spontaneous,S3,0 days 05:55:00,2019-12-02,0 days 05:05:00,45.0,2.91
+SC10R,0,Spontaneous,S4,0 days 06:05:00,2019-12-02,0 days 05:05:00,55.0,2.65
+SC10R,1,Unknown Alarm,S0,0 days 04:55:00,2019-12-03,0 days 04:55:00,0.0,2.49
+SC10R,1,Unknown Alarm,S1,0 days 05:10:00,2019-12-03,0 days 04:55:00,15.0,3.8
+SC10R,1,Unknown Alarm,S2,0 days 05:25:00,2019-12-03,0 days 04:55:00,30.0,4.15
+SC10R,1,Unknown Alarm,S3,0 days 05:40:00,2019-12-03,0 days 04:55:00,45.0,4.56
+SC10R,1,Unknown Alarm,S4,0 days 05:55:00,2019-12-03,0 days 04:55:00,60.0,3.47
+SD30K,0,Spontaneous,S0,0 days 07:30:00,2019-11-18,0 days 07:28:00,0.0,4.9
+SD30K,0,Spontaneous,S1,0 days 07:45:00,2019-11-18,0 days 07:28:00,15.0,9.59
+SD30K,0,Spontaneous,S2,0 days 08:02:00,2019-11-18,0 days 07:28:00,32.0,8.6
+SD30K,0,Spontaneous,S3,0 days 08:16:00,2019-11-18,0 days 07:28:00,46.0,7.16
+SD30K,0,Spontaneous,S4,0 days 08:31:00,2019-11-18,0 days 07:28:00,61.0,4.52
+SD30K,1,Spontaneous,S0,0 days 07:23:00,2019-11-19,0 days 07:22:00,0.0,5.33
+SD30K,1,Spontaneous,S1,0 days 07:38:00,2019-11-19,0 days 07:22:00,15.0,7.09
+SD30K,1,Spontaneous,S2,0 days 07:53:00,2019-11-19,0 days 07:22:00,30.0,7.27
+SD30K,1,Spontaneous,S3,0 days 08:09:00,2019-11-19,0 days 07:22:00,46.0,5.46
+SD30K,1,Spontaneous,S4,0 days 08:24:00,2019-11-19,0 days 07:22:00,61.0,4.82
+SE06H,0,Unknown Alarm,S0,0 days 07:42:00,2019-12-16,0 days 07:40:00,0.0,9.64
+SE06H,0,Unknown Alarm,S1,0 days 07:57:00,2019-12-16,0 days 07:40:00,15.0,20.91
+SE06H,0,Unknown Alarm,S2,0 days 08:12:00,2019-12-16,0 days 07:40:00,30.0,24.97
+SE06H,0,Unknown Alarm,S3,0 days 08:27:00,2019-12-16,0 days 07:40:00,45.0,31.89
+SE06H,0,Unknown Alarm,S4,0 days 08:42:00,2019-12-16,0 days 07:40:00,60.0,21.64
+SG29P,0,Spontaneous,S0,0 days 09:15:00,2019-12-23,0 days 09:05:00,0.0,10.4355
+SG29P,0,Spontaneous,S1,0 days 09:30:00,2019-12-23,0 days 09:05:00,15.0,14.1385
+SG29P,0,Spontaneous,S2,0 days 09:47:00,2019-12-23,0 days 09:05:00,32.0,10.3355
+SG29P,0,Spontaneous,S3,0 days 10:05:00,2019-12-23,0 days 09:05:00,50.0,8.57415
+SG29P,0,Spontaneous,S4,0 days 10:20:00,2019-12-23,0 days 09:05:00,65.0,6.1633
+SG29P,1,Spontaneous,S0,0 days 09:00:00,2019-12-24,0 days 08:50:00,0.0,11.2645
+SG29P,1,Spontaneous,S1,0 days 09:18:00,2019-12-24,0 days 08:50:00,18.0,15.6555
+SG29P,1,Spontaneous,S2,0 days 09:35:00,2019-12-24,0 days 08:50:00,35.0,16.4925
+SG29P,1,Spontaneous,S3,0 days 09:46:00,2019-12-24,0 days 08:50:00,46.0,13.3885
+SG29P,1,Spontaneous,S4,0 days 10:00:00,2019-12-24,0 days 08:50:00,60.0,10.753
+SK12K,0,Spontaneous,S0,0 days 10:38:00,2019-11-18,0 days 10:36:00,0.0,5.45
+SK12K,0,Spontaneous,S1,0 days 10:54:00,2019-11-18,0 days 10:36:00,16.0,8.06
+SK12K,0,Spontaneous,S2,0 days 11:11:00,2019-11-18,0 days 10:36:00,33.0,6.17
+SK12K,0,Spontaneous,S3,0 days 11:27:00,2019-11-18,0 days 10:36:00,49.0,4.37
+SK12K,0,Spontaneous,S4,0 days 11:42:00,2019-11-18,0 days 10:36:00,64.0,4.04
+SK12K,1,Spontaneous,S0,0 days 08:31:00,2019-11-19,0 days 08:18:00,0.0,20.66
+SK12K,1,Spontaneous,S1,0 days 08:47:00,2019-11-19,0 days 08:18:00,16.0,22.49
+SK12K,1,Spontaneous,S2,0 days 09:03:00,2019-11-19,0 days 08:18:00,32.0,20.5
+SK12K,1,Spontaneous,S3,0 days 09:19:00,2019-11-19,0 days 08:18:00,48.0,25.13
+SK12K,1,Spontaneous,S4,0 days 09:34:00,2019-11-19,0 days 08:18:00,63.0,16.57
+SL10R,0,Known Alarm,S0,0 days 07:41:00,2019-12-16,0 days 07:40:00,0.0,4.9
+SL10R,0,Known Alarm,S1,0 days 08:04:00,2019-12-16,0 days 07:40:00,23.0,17.06
+SL10R,0,Known Alarm,S2,0 days 08:20:00,2019-12-16,0 days 07:40:00,39.0,16.75
+SL10R,0,Known Alarm,S3,0 days 08:36:00,2019-12-16,0 days 07:40:00,55.0,14.69
+SL10R,0,Known Alarm,S4,0 days 08:51:00,2019-12-16,0 days 07:40:00,70.0,12.55
+SL10R,1,Known Alarm,S0,0 days 07:41:00,2019-12-17,0 days 07:40:00,0.0,4.5
+SL10R,1,Known Alarm,S1,0 days 08:05:00,2019-12-17,0 days 07:40:00,24.0,13.34
+SL10R,1,Known Alarm,S2,0 days 08:20:00,2019-12-17,0 days 07:40:00,39.0,11.37
+SL10R,1,Known Alarm,S3,0 days 08:35:00,2019-12-17,0 days 07:40:00,54.0,11.44
+SL10R,1,Known Alarm,S4,0 days 08:50:00,2019-12-17,0 days 07:40:00,69.0,8.45
+SR08R,0,Spontaneous,S0,0 days 07:54:00,2019-11-26,0 days 07:52:00,0.0,10.64
+SR08R,0,Spontaneous,S1,0 days 08:09:00,2019-11-26,0 days 07:52:00,15.0,14.97
+SR08R,0,Spontaneous,S2,0 days 08:24:00,2019-11-26,0 days 07:52:00,30.0,13.04
+SR08R,0,Spontaneous,S3,0 days 08:40:00,2019-11-26,0 days 07:52:00,46.0,14.02
+SR08R,0,Spontaneous,S4,0 days 08:55:00,2019-11-26,0 days 07:52:00,61.0,11.82
+SR08R,1,Spontaneous,S0,0 days 07:54:00,2019-11-27,0 days 07:52:00,0.0,11.34
+SR08R,1,Spontaneous,S1,0 days 08:11:00,2019-11-27,0 days 07:52:00,17.0,21.72
+SR08R,1,Spontaneous,S2,0 days 08:27:00,2019-11-27,0 days 07:52:00,33.0,16.05
+SR08R,1,Spontaneous,S3,0 days 08:45:00,2019-11-27,0 days 07:52:00,51.0,10.01
+SR08R,1,Spontaneous,S4,0 days 09:01:00,2019-11-27,0 days 07:52:00,67.0,7.04
+SR19R,0,Unknown Alarm,S0,0 days 09:27:00,2019-11-14,0 days 09:10:00,0.0,5.45
+SR19R,0,Unknown Alarm,S1,0 days 09:42:00,2019-11-14,0 days 09:10:00,15.0,12.04
+SR19R,0,Unknown Alarm,S2,0 days 09:57:00,2019-11-14,0 days 09:10:00,30.0,24.26
+SR19R,0,Unknown Alarm,S3,0 days 10:12:00,2019-11-14,0 days 09:10:00,45.0,18.33
+SR19R,0,Unknown Alarm,S4,0 days 10:27:00,2019-11-14,0 days 09:10:00,60.0,11.96
+SR19R,1,Unknown Alarm,S0,0 days 08:32:00,2019-11-15,,0.0,7.62
+SR19R,1,Unknown Alarm,S1,0 days 08:47:00,2019-11-15,,15.0,10.8
+SR19R,1,Unknown Alarm,S2,0 days 09:02:00,2019-11-15,,30.0,21.66
+SR19R,1,Unknown Alarm,S3,0 days 09:18:00,2019-11-15,,46.0,18.81
+SR19R,1,Unknown Alarm,S4,0 days 09:34:00,2019-11-15,,62.0,12.08
+SS11H,0,Known Alarm,S0,0 days 08:00:00,2020-01-07,0 days 08:00:00,0.0,3.89
+SS11H,0,Known Alarm,S1,0 days 08:15:00,2020-01-07,0 days 08:00:00,15.0,6.9
+SS11H,0,Known Alarm,S2,0 days 08:30:00,2020-01-07,0 days 08:00:00,30.0,7.18
+SS11H,0,Known Alarm,S3,0 days 08:45:00,2020-01-07,0 days 08:00:00,45.0,6.99
+SS11H,0,Known Alarm,S4,0 days 09:00:00,2020-01-07,0 days 08:00:00,60.0,5.69
+SS11H,1,Known Alarm,S0,0 days 05:50:00,2020-01-08,0 days 05:50:00,0.0,4.56
+SS11H,1,Known Alarm,S1,0 days 06:05:00,2020-01-08,0 days 05:50:00,15.0,4.13
+SS11H,1,Known Alarm,S2,0 days 06:20:00,2020-01-08,0 days 05:50:00,30.0,3.51
+SS11H,1,Known Alarm,S3,0 days 06:35:00,2020-01-08,0 days 05:50:00,45.0,3.81
+SS11H,1,Known Alarm,S4,0 days 06:50:00,2020-01-08,0 days 05:50:00,60.0,6.78
+SS21A,0,Known Alarm,S0,0 days 08:15:00,2019-11-18,0 days 07:45:00,0.0,6.85
+SS21A,0,Known Alarm,S1,0 days 08:30:00,2019-11-18,0 days 07:45:00,15.0,5.99
+SS21A,0,Known Alarm,S2,0 days 08:45:00,2019-11-18,0 days 07:45:00,30.0,6.03
+SS21A,0,Known Alarm,S3,0 days 09:00:00,2019-11-18,0 days 07:45:00,45.0,8.41
+SS21A,0,Known Alarm,S4,0 days 09:15:00,2019-11-18,0 days 07:45:00,60.0,4.7
+SS21A,1,Known Alarm,S0,,2019-11-19,0 days 06:44:20,0.0,8.39
+SS21A,1,Known Alarm,S1,,2019-11-19,0 days 06:44:20,,9.41
+SS21A,1,Known Alarm,S2,,2019-11-19,0 days 06:44:20,,15.28
+SS21A,1,Known Alarm,S3,,2019-11-19,0 days 06:44:20,,13.82
+SS21A,1,Known Alarm,S4,,2019-11-19,0 days 06:44:20,,12.04
+SS22K,0,Spontaneous,S0,0 days 10:15:00,2019-11-25,0 days 10:15:00,0.0,3.94
+SS22K,0,Spontaneous,S1,0 days 10:30:00,2019-11-25,0 days 10:15:00,15.0,15.27
+SS22K,0,Spontaneous,S2,0 days 10:45:00,2019-11-25,0 days 10:15:00,30.0,20.71
+SS22K,0,Spontaneous,S3,0 days 11:00:00,2019-11-25,0 days 10:15:00,45.0,15.32
+SS22K,0,Spontaneous,S4,0 days 11:15:00,2019-11-25,0 days 10:15:00,60.0,10.37
+SS22K,1,Spontaneous,S0,0 days 12:00:00,2019-11-26,0 days 12:00:00,0.0,16.67
+SS22K,1,Spontaneous,S1,0 days 12:15:00,2019-11-26,0 days 12:00:00,15.0,14.4
+SS22K,1,Spontaneous,S2,0 days 12:30:00,2019-11-26,0 days 12:00:00,30.0,13.35
+SS22K,1,Spontaneous,S3,0 days 12:45:00,2019-11-26,0 days 12:00:00,45.0,11.15
+SS22K,1,Spontaneous,S4,0 days 13:00:00,2019-11-26,0 days 12:00:00,60.0,8.48
+SU29N,0,Known Alarm,S0,0 days 06:30:00,,0 days 06:30:00,0.0,10.0
+SU29N,0,Known Alarm,S1,0 days 06:47:00,,0 days 06:30:00,17.0,10.18
+SU29N,0,Known Alarm,S2,0 days 07:03:00,,0 days 06:30:00,33.0,18.08
+SU29N,0,Known Alarm,S3,0 days 07:19:00,,0 days 06:30:00,49.0,15.83
+SU29N,0,Known Alarm,S4,0 days 07:35:00,,0 days 06:30:00,65.0,18.51
+SU29N,1,Known Alarm,S0,0 days 06:05:00,,0 days 06:05:00,0.0,9.35
+SU29N,1,Known Alarm,S1,0 days 06:22:00,,0 days 06:05:00,17.0,12.44
+SU29N,1,Known Alarm,S2,0 days 06:38:00,,0 days 06:05:00,33.0,14.81
+SU29N,1,Known Alarm,S3,0 days 06:52:00,,0 days 06:05:00,47.0,20.98
+SU29N,1,Known Alarm,S4,0 days 07:06:00,,0 days 06:05:00,61.0,18.88
+SV03R,0,Spontaneous,S0,0 days 10:49:00,2019-12-20,0 days 10:45:00,0.0,5.7087
+SV03R,0,Spontaneous,S1,0 days 11:03:00,2019-12-20,0 days 10:45:00,14.0,5.8871
+SV03R,0,Spontaneous,S2,0 days 11:17:00,2019-12-20,0 days 10:45:00,28.0,9.00705
+SV03R,0,Spontaneous,S3,0 days 11:33:00,2019-12-20,0 days 10:45:00,44.0,7.9482
+SV03R,0,Spontaneous,S4,0 days 11:49:00,2019-12-20,0 days 10:45:00,60.0,8.06325
+SV03R,1,Spontaneous,S0,0 days 09:26:00,2019-12-21,0 days 09:26:00,0.0,11.011
+SV03R,1,Spontaneous,S1,0 days 09:41:00,2019-12-21,0 days 09:26:00,15.0,15.7185
+SV03R,1,Spontaneous,S2,0 days 09:56:00,2019-12-21,0 days 09:26:00,30.0,21.421
+SV03R,1,Spontaneous,S3,0 days 10:11:00,2019-12-21,0 days 09:26:00,45.0,20.248
+SV03R,1,Spontaneous,S4,0 days 10:27:00,2019-12-21,0 days 09:26:00,61.0,20.7445
+TB29R,1,Spontaneous,S0,0 days 05:30:00,2019-12-06,0 days 05:30:00,0.0,9.8
+TB29R,1,Spontaneous,S1,0 days 05:45:00,2019-12-06,0 days 05:30:00,15.0,15.6
+TB29R,1,Spontaneous,S2,0 days 06:00:00,2019-12-06,0 days 05:30:00,30.0,17.66
+TB29R,1,Spontaneous,S3,0 days 06:15:00,2019-12-06,0 days 05:30:00,45.0,16.48
+TB29R,1,Spontaneous,S4,0 days 06:30:00,2019-12-06,0 days 05:30:00,60.0,14.12
+TM01F,0,Spontaneous,S0,0 days 06:30:00,2020-01-10,0 days 05:30:00,0.0,6.5
+TM01F,0,Spontaneous,S1,0 days 06:50:00,2020-01-10,0 days 05:30:00,20.0,6.15
+TM01F,0,Spontaneous,S2,0 days 07:05:00,2020-01-10,0 days 05:30:00,35.0,5.16
+TM01F,0,Spontaneous,S3,0 days 07:20:00,2020-01-10,0 days 05:30:00,50.0,4.48
+TM01F,0,Spontaneous,S4,0 days 07:35:00,2020-01-10,0 days 05:30:00,65.0,4.01
+TM01F,1,Spontaneous,S0,0 days 07:35:00,2020-01-11,0 days 07:00:00,0.0,8.02
+TM01F,1,Spontaneous,S1,0 days 07:50:00,2020-01-11,0 days 07:00:00,15.0,5.73
+TM01F,1,Spontaneous,S2,0 days 08:05:00,2020-01-11,0 days 07:00:00,30.0,4.46
+TM01F,1,Spontaneous,S3,0 days 08:20:00,2020-01-11,0 days 07:00:00,45.0,4.36
+TM01F,1,Spontaneous,S4,0 days 08:35:00,2020-01-11,0 days 07:00:00,60.0,3.81
+TM30L,0,Unknown Alarm,S0,0 days 06:10:00,2019-12-19,0 days 06:09:00,0.0,14.38
+TM30L,0,Unknown Alarm,S1,0 days 06:25:00,2019-12-19,0 days 06:09:00,15.0,19.03
+TM30L,0,Unknown Alarm,S2,0 days 06:41:00,2019-12-19,0 days 06:09:00,31.0,24.44
+TM30L,0,Unknown Alarm,S3,0 days 06:56:00,2019-12-19,0 days 06:09:00,46.0,19.26
+TM30L,0,Unknown Alarm,S4,0 days 07:11:00,2019-12-19,0 days 06:09:00,61.0,12.23
+TM30L,1,Unknown Alarm,S0,0 days 07:21:00,2019-12-20,0 days 07:21:00,0.0,10.12
+TM30L,1,Unknown Alarm,S1,0 days 07:37:00,2019-12-20,0 days 07:21:00,16.0,5.28
+TM30L,1,Unknown Alarm,S2,0 days 07:52:00,2019-12-20,0 days 07:21:00,31.0,15.79
+TM30L,1,Unknown Alarm,S3,0 days 08:07:00,2019-12-20,0 days 07:21:00,46.0,18.92
+TM30L,1,Unknown Alarm,S4,0 days 08:23:00,2019-12-20,0 days 07:21:00,62.0,21.14
+UH09L,0,Known Alarm,S0,0 days 06:48:00,2019-11-28,0 days 06:45:00,0.0,14.62
+UH09L,0,Known Alarm,S1,0 days 07:08:00,2019-11-28,0 days 06:45:00,20.0,11.74
+UH09L,0,Known Alarm,S2,0 days 07:18:00,2019-11-28,0 days 06:45:00,30.0,11.15
+UH09L,0,Known Alarm,S3,0 days 07:33:00,2019-11-28,0 days 06:45:00,45.0,10.73
+UH09L,0,Known Alarm,S4,0 days 07:48:00,2019-11-28,0 days 06:45:00,60.0,8.61
+UH09L,1,Known Alarm,S0,0 days 09:27:00,2019-11-29,0 days 09:25:00,0.0,4.02
+UH09L,1,Known Alarm,S1,0 days 09:43:00,2019-11-29,0 days 09:25:00,16.0,4.4
+UH09L,1,Known Alarm,S2,0 days 09:58:00,2019-11-29,0 days 09:25:00,31.0,5.74
+UH09L,1,Known Alarm,S3,0 days 10:15:00,2019-11-29,0 days 09:25:00,48.0,4.63
+UH09L,1,Known Alarm,S4,0 days 10:28:00,2019-11-29,0 days 09:25:00,61.0,3.7
+VA30T,0,Known Alarm,S0,0 days 09:53:00,2019-11-28,0 days 09:45:00,0.0,9.42
+VA30T,0,Known Alarm,S1,0 days 10:08:00,2019-11-28,0 days 09:45:00,15.0,20.29
+VA30T,0,Known Alarm,S2,0 days 10:25:00,2019-11-28,0 days 09:45:00,32.0,15.08
+VA30T,0,Known Alarm,S3,0 days 10:38:00,2019-11-28,0 days 09:45:00,45.0,13.79
+VA30T,0,Known Alarm,S4,0 days 10:53:00,2019-11-28,0 days 09:45:00,60.0,7.89
+VA30T,1,Spontaneous,S0,0 days 08:42:00,2019-11-29,0 days 08:40:00,0.0,7.66
+VA30T,1,Spontaneous,S1,0 days 08:57:00,2019-11-29,0 days 08:40:00,15.0,17.97
+VA30T,1,Spontaneous,S2,0 days 09:12:00,2019-11-29,0 days 08:40:00,30.0,18.34
+VA30T,1,Spontaneous,S3,0 days 09:27:00,2019-11-29,0 days 08:40:00,45.0,16.29
+VA30T,1,Spontaneous,S4,0 days 09:42:00,2019-11-29,0 days 08:40:00,60.0,11.39
+VE19A,0,Spontaneous,S0,0 days 07:13:00,2019-11-25,0 days 07:11:00,0.0,3.82
+VE19A,0,Spontaneous,S1,0 days 07:28:00,2019-11-25,0 days 07:11:00,15.0,11.14
+VE19A,0,Spontaneous,S2,0 days 07:43:00,2019-11-25,0 days 07:11:00,30.0,14.52
+VE19A,0,Spontaneous,S3,0 days 07:59:00,2019-11-25,0 days 07:11:00,46.0,14.72
+VE19A,0,Spontaneous,S4,0 days 08:14:00,2019-11-25,0 days 07:11:00,61.0,10.41
+VE19A,1,Spontaneous,S0,0 days 06:55:00,2019-11-26,0 days 06:53:00,0.0,8.6
+VE19A,1,Spontaneous,S1,0 days 07:11:00,2019-11-26,0 days 06:53:00,16.0,9.46
+VE19A,1,Spontaneous,S2,0 days 07:26:00,2019-11-26,0 days 06:53:00,31.0,8.87
+VE19A,1,Spontaneous,S3,0 days 07:42:00,2019-11-26,0 days 06:53:00,47.0,7.19
+VE19A,1,Spontaneous,S4,0 days 07:57:00,2019-11-26,0 days 06:53:00,62.0,5.93
+VS09S,0,Unknown Alarm,S0,0 days 08:15:00,2019-11-18,0 days 08:15:00,0.0,8.06
+VS09S,0,Unknown Alarm,S1,0 days 08:30:00,2019-11-18,0 days 08:15:00,15.0,12.23
+VS09S,0,Unknown Alarm,S2,0 days 08:45:00,2019-11-18,0 days 08:15:00,30.0,13.14
+VS09S,0,Unknown Alarm,S3,0 days 09:00:00,2019-11-18,0 days 08:15:00,45.0,13.0
+VS09S,0,Unknown Alarm,S4,0 days 09:15:00,2019-11-18,0 days 08:15:00,60.0,11.04
+VS09S,1,Unknown Alarm,S0,0 days 09:00:00,2019-11-19,0 days 08:00:00,0.0,6.14
+VS09S,1,Unknown Alarm,S1,0 days 09:15:00,2019-11-19,0 days 08:00:00,15.0,5.36
+VS09S,1,Unknown Alarm,S2,0 days 09:30:00,2019-11-19,0 days 08:00:00,30.0,7.36
+VS09S,1,Unknown Alarm,S3,0 days 09:45:00,2019-11-19,0 days 08:00:00,45.0,8.55
+VS09S,1,Unknown Alarm,S4,0 days 10:00:00,2019-11-19,0 days 08:00:00,60.0,6.43
+WM13K,0,Unknown Alarm,S0,0 days 06:40:00,2019-12-02,0 days 06:37:43,0.0,6.88
+WM13K,0,Unknown Alarm,S1,0 days 06:55:00,2019-12-02,0 days 06:37:43,15.0,8.83
+WM13K,0,Unknown Alarm,S2,0 days 07:10:00,2019-12-02,0 days 06:37:43,30.0,16.22
+WM13K,0,Unknown Alarm,S3,0 days 07:27:00,2019-12-02,0 days 06:37:43,47.0,20.21
+WM13K,0,Unknown Alarm,S4,0 days 07:42:00,2019-12-02,0 days 06:37:43,62.0,25.39
+WM13K,1,Unknown Alarm,S0,0 days 06:30:00,2019-12-03,0 days 04:02:35,0.0,13.94
+WM13K,1,Unknown Alarm,S1,0 days 06:45:00,2019-12-03,0 days 04:02:35,15.0,15.72
+WM13K,1,Unknown Alarm,S2,0 days 07:00:00,2019-12-03,0 days 04:02:35,30.0,17.95
+WM13K,1,Unknown Alarm,S3,0 days 07:15:00,2019-12-03,0 days 04:02:35,45.0,16.81
+WM13K,1,Unknown Alarm,S4,0 days 07:30:00,2019-12-03,0 days 04:02:35,60.0,11.66

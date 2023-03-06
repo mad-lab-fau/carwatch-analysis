@@ -35,7 +35,7 @@ The repository is structured as follows:
     │   └── results/
     │   │   ├── plots/
     │   │   └── statistics/
-    └── 2022_car_sampling_pnec/                             # Analysis for the 2022 PNEC Paper (see below)
+    └── 2023_car_sampling_pnec/                             # Analysis for the 2023 PNEC Paper (see below)
         ├── exports/
         ├── notebooks/
         │   ├── analysis/

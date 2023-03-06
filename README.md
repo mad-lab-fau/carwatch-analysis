@@ -162,9 +162,11 @@ To run the data processing and analysis pipeline, we recommend the following ord
 
 
 
-### 2022 PNEC Paper (`2022_car_sampling_pnec`)
+### 2023 PNEC Paper (`2023_car_sampling_pnec`)
 
-This analysis was performed for the paper: Richer, R., Abel, L., Küderle, A., Eskofier, B. M., Rohleder, N. CARWatch – A Smartphone Application for Improving the Accuracy of Cortisol Awakening Response Sampling. Submitted to *Psychoneuroendocrinology*.
+This analysis was performed for the [paper](https://doi.org/10.1016/j.psyneuen.2023.106073): Richer, R., Abel, L., Küderle, A., Eskofier, B. M., Rohleder, N. (2023). CARWatch – A smartphone application for improving the accuracy of cortisol awakening response sampling. *Psychoneuroendocrinology*, 151, 106073.
+
+
 
 #### Folder Structure
 

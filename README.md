@@ -10,12 +10,9 @@ A python project for the analysis of data from the *CARWatch* study, aimed to as
 
 This package contains various helper functions to work with the dataset (including [`tpcp`](https://github.com/mad-lab-fau/tpcp) `Dataset` representations) and to process data. Additionally, it contains different analysis experiments performed with the dataset.
 
-The repository is structured as follows:
-
-
 ## Repository Structure
 
-The repository is structured as follows:
+**The repository is structured as follows:**
 
 ```bash
 ├── carwatch_analysis/                                      # `carwatch-analysis` Python package with helper functions

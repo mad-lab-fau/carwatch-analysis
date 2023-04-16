@@ -128,8 +128,8 @@ It consists of the following subfolders:
 To run the data processing and analysis pipeline, we recommend the following order:
 1. `data_processing`: `IMU_Feature_Extraction_Pipeline.ipynb` | `Questionnaire_Processing.ipynb` | `Saliva_Processing.ipynb` (*no specific order*)
 2. `data_merge`: `Sleep_IMU_Questionnaire_Merge.ipynb` (`Sleep_IMU_Questionnaire_Merge.ipynb` requires exports from the notebooks in the `data_processing` step, so it needs to be run afterwards)
-3. `data_cleaning`: `IMU_Cleaning.ipynb` | `Saliva_Cleaning.ipynb` (*no specific order*)
-4. `analysis`: `General_Information.ipynb` | `IMU_Analysis.ipynb` | `Saliva_Analysis.ipynb` (*no specific order*)
+3. `data_cleaning`: `IMU_Cleaning.ipynb` | `Saliva_Cleaning.ipynb` (*no specific order*)
+4. `analysis`: `General_Information.ipynb` | `IMU_Analysis.ipynb` | `Saliva_Analysis.ipynb` (*no specific order*)
 
 
 ### 2021 BHI Paper (`2021_car_inner_clock_bhi`)
@@ -154,8 +154,8 @@ This experiment contains the following subfolders:
 To run the data processing and analysis pipeline, we recommend the following order:
 
 0. general `data_processing`: First, run the data processing (`data_processing`) and data merge (`data_merge`) notebook of the general data processing and analysis pipeline (folder `00_general`) to create the export files that are used for further cleaning and processing
-1. `data_cleaning`: `IMU_Cleaning.ipynb` | `Saliva_Cleaning.ipynb` (*no specific order*)
-2. `analysis`: `BHI2021_IMU.ipynb` | `BHI2021_Saliva.ipynb` (*no specific order*)
+1. `data_cleaning`: `IMU_Cleaning.ipynb` | `Saliva_Cleaning.ipynb` (*no specific order*)
+2. `analysis`: `BHI2021_IMU.ipynb` | `BHI2021_Saliva.ipynb` (*no specific order*)
 
 
 
@@ -192,4 +192,4 @@ To run the data processing and analysis pipeline, we recommend the following ord
 0. general `data_processing`: First, run the data processing (`data_processing`) and data merge (`data_merge`) notebook of the general data processing and analysis pipeline (folder `00_general`) to create the export files that are used for further cleaning and processing
 1. `data_processing`: `Saliva_Processing_All_Reporting_Types.ipynb`
 2. `data_cleaning`: `Cortisol_Cleaning.ipynb`
-3. `analysis`: `General_Information.ipynb` | `Sample_Time_Analysis.ipynb` | `Time_Unit_Digits_Analysis.ipynb` | `Cortisol_Analysis.ipynb` (*no specific order*)
+3. `analysis`: `General_Information.ipynb` | `Sample_Time_Analysis.ipynb` | `Time_Unit_Digits_Analysis.ipynb` | `Cortisol_Analysis.ipynb` (*no specific order*)
